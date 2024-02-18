@@ -1,0 +1,189 @@
+section;unit;kanji;hiragana;romanji;english;french
+1;5;一;いち;ichi;one;un
+1;5;二;に;ni;two;deux
+1;5;三;さん;san;three;trois
+1;5;山;やま;yama;mountain;montagne
+1;5;口;くち;guchi;mouth;bouche
+1;5;田;た;ta;rice field;champ de riz
+1;5;中;なか;naka;inside,middle;Interieur,milieu
+1;6;私;わたし;watashi;i,me;je,moi
+1;6;東京;とうきょう;toukyou;tokyo;tokyo
+1;6;京都;きょうと;kyouto;kyoto;kyoto
+1;6;日;ひ;hi;day;jour
+1;6;日本;にほん;nihon;japan;japon
+1;6;父;ちち;chichi;father;pere
+1;6;母;はは;haha;mother;mere
+1;6;四;し;shi;four;quatre
+1;6;五;ご;go;five;cinq
+1;6;六;ろく;roku;six;six
+1;6;七;しち;shichi;seven;sept
+1;7;見ます;みます;mimasu;watch,look;regarder
+1;7;読みます;よみます;yomimasu;read;lire
+1;7;時;じ;ji;time;temps
+1;7;十;じゅう;juu;ten;dix
+1;7;八;はち;hachi;eight;huit
+1;7;九;きゅう;kyuu;nine;neuf
+1;7;半;はん;han;half;demi
+1;7;本;ほん;hon;book;livre
+1;7;七時;しちじ;shichiji;seven o'clock;sept heures
+1;8;古い;ふるい;furui;old;vieux
+1;8;新しい;あたらしい;atarashii;new;nouveau
+1;8;百;ひゃく;hyaku;hundred;cent
+1;8;千;せん;sen;thousand;mille
+1;8;水;みず;mizu;water;eau
+1;8;大きい;おおきい;ookii;big;grand
+1;8;小さい;ちいさい;chiisai;small;petit
+2;1;買います;かいます;kaimasu;buy;acheter
+2;1;土曜日;どようび;doyoubi;saturday;samedi
+2;1;話します;はなします;hanashimasu;speak,talk;parler
+2;1;日;ひ;hi;day;jour
+2;2;新聞;しんぶん;shinbun;newspaper;journal
+2;2;食べます;たべます;tabemasu;eat;manger
+2;2;飲みます;のみます;nomimasu;drink;boire
+2;2;と言います;といいます;toimasu;say;dire
+2;2;四時;よじ;yoji;four o'clock;quatre heures
+2;3;行きます;いきます;ikimasu;go;aller
+2;3;来ます;きます;kimasu;come;venir
+2;3;分;ふん;fun;minute;minute
+2;3;時間;じかん;jikan;time;temps
+2;3;十分;じゅっぷん;juppun;ten minutes;dix minutes
+2;3;七分;しちふん;shichifun;seven minutes;sept minutes
+2;3;二分;にふん;nifun;two minutes;deux minutes
+2;3;五分;ごふん;gofun;five minutes;cinq minutes
+2;4;何;なに;nani;what;quoi
+2;4;高い;たかい;takai;expensive,high;cher,eleve
+2;4;休みます;やすみます;yasumimasu;rest,take a break;se reposer,prendre une pause
+2;4;九分;きゅうふん;kyuufun;nine minutes;neuf minutes
+2;5;七月;しちがつ;shichigatsu;july;juillet
+2;5;九月;くがつ;kugatsu;september;septembre
+2;5;休み;やすみ;yasumi;holiday,day off;vacances
+2;6;買い物;かいもの;kaimono;shopping;faire des achats
+2;6;来月;らいげつ;raigetsu;next month;mois prochain
+2;6;来週;らいしゅう;raishuu;next week;semaine prochaine
+2;7;会います;あいます;aimasu;meet;rencontrer
+2;7;金曜日;きんようび;kinyoubi;friday;vendredi
+2;7;お父さん;おとうさん;otousan;your father;ton père
+2;7;お母さん;おかあさん;okaasan;your mother;ta mère
+2;7;月曜日;げつようび;getsuyoubi;monday;lundi
+2;8;木曜日;もくようび;mokuyoubi;thursday;jeudi
+2;8;卵;たまご;tamago;egg;oeuf
+2;8;魚;さかな;sakana;fish;poisson
+2;8;火曜日;かようび;kayoubi;tuesday;mardi
+2;8;山田;やまだ;yamada;yamada;yamada
+2;8;水曜日;すいようび;suiyoubi;wednesday;mercredi
+2;9;三千;さんぜん;sanzen;three thousand;trois mille
+2;11;一階;いっかい;ikkai;first floor;premier etage
+2;11;二階;にかい;nikai;second floor;deuxieme etage
+2;11;書きます;かきます;kakimasu;write;ecrire
+2;11;作ります;つくります;tsukurimasu;make,create;creer,fabriquer
+2;12;先生;せんせい;sensei;teacher;professeur
+2;12;英語;えいご;eigo;english;anglais
+2;12;日本語;にほんご;nihongo;japanese;japonais
+2;12;学生;がくせい;gakusei;student;etudiant
+2;12;名前;なまえ;namae;name;nom
+2;12;お茶;おちゃ;ocha;tea;the
+2;12;僕;ぼく;boku;i,me;moi
+2;12;ご飯;ごはん;gohan;rice,meal;riz, repas
+2;12;野菜;やさい;yasai;vegetable;legume
+2;12;肉;にく;niku;meat;viande
+2;12;牛乳;ぎゅうにゅう;gyuunyuu;milk;lait
+2;12;今;いま;ima;now;maintenant
+2;13;学校;がっこう;gakkou;school;ecole
+2;13;午後;ごご;gogo;pm;apres-midi
+2;13;午前;ごぜん;gozen;am;matin
+2;13;零;れい;rei;zero;zero
+2;13;会社;かいしゃ;kaisha;company;entreprise
+2;13;毎日;まいにち;mainichi;every day;tous les jours
+2;13;毎朝;まいあさ;maiasa;every morning;tous les matins
+2;13;毎晩;まいばん;maiban;every night;toutes les nuits
+2;13;風呂;ふろ;furo;bath;bain
+2;13;寝室;しんしつ;shinshitsu;bedroom;chambre
+2;13;部屋;へや;heya;room;piece
+2;13;台所;だいどころ;daidokoro;kitchen;cuisine
+2;13;家;いえ;ie;house,home;maison
+2;13;庭;にわ;niwa;garden;jardin
+2;13;窓;まど;mado;window;fenetre
+2;13;子;こ;ko;child;enfant
+2;13;椅子;いす;isu;chair;chaise
+2;13;猫;ねこ;neko;cat;chat
+2;13;犬;いぬ;inu;dog;chien
+2;13;鳥;とり;tori;bird;oiseau
+2;13;机;つくえ;tsukue;desk;bureau
+2;14;歳;さい;sai;years old;ans
+2;14;大阪;おおさか;oosaka;osaka;osaka
+2;14;外;そと;soto;outside;exterieur
+2;14;外国人;がいこくじん;gaikokujin;foreigner;etranger
+2;14;留学;りゅうがく;ryuugaku;study abroad;etudier a l'etranger
+2;14;留学生;りゅうがくせい;ryuugakusei;international student;etudiant international
+2;14;健太;けんた;kenta;kenta;kenta
+2;14;直美;なおみ;naomi;naomi;naomi
+2;14;個;こ;ko;counter for small objects;compteur pour petits objets
+2;14;中学;ちゅうがく;chuugaku;junior high school;college
+2;14;小学;しょうがく;shougaku;elementary school;ecole primaire
+2;14;高校;こうこう;koukou;high school;lycee
+2;14;大学;だいがく;daigaku;university;universite
+2;15;彼;かれ;kare;he,boyfriend;lui,petit ami
+2;15;彼女;かのじょ;kanojo;she,girlfriend;elle,petite amie
+2;15;誰;だれ;dare;who;qui
+2;15;姉;あね;ane;older sister;grand soeur
+2;15;妹;いもうと;imouto;younger sister;petite soeur
+2;15;弟;おとうと;otouto;younger brother;petit frere
+2;15;兄;あに;ani;older brother;frere
+2;15;お姉さん;おねえさん;oneesan;your sister;soeur
+2;15;お兄さん;おにいさん;oniisan;your brother;frere
+2;15;子供;こども;kodomo;child;enfant
+2;15;両親;りょうしん;ryoushin;parents;parents
+2;15;家族;かぞく;kazoku;family;famille
+2;15;昼ご飯;ひるごはん;hirugohan;lunch;dejeuner
+2;15;晩ご飯;ばんごはん;bangohan;dinner;diner
+2;15;食堂;しょくどう;shokudou;cafeteria;cafeteria
+2;15;熱い;あつい;atsui;hot;chaud
+2;15;冷たい;つめたい;tsumetai;cold;froid
+2;15;好き;すき;suki;like,love;aimer
+2;15;安い;やすい;yasui;cheap;bon marche
+2;15;甘い;あまい;amai;sweet;doux
+2;15;朝ご飯;あさごはん;asagohan;breakfast;petit dejeuner
+2;16;今日;きょう;kyou;today;aujourd'hui
+2;16;仕事;しごと;shigoto;work;travail
+2;16;友達;ともだち;tomodachi;friend;ami
+2;16;昨日;きのう;kinou;yesterday;hier
+2;16;明日;あした;ashita;tomorrow;demain
+2;16;明後日;あさって;asatte;day after tomorrow;apres-demain
+2;16;忙しい;いそがしい;isogashii;busy;occupe
+2;16;上;うえ;ue;up,above;haut,dessus
+2;16;下;した;shita;down,below;bas,dessous
+2;16;左;ひだらい;hidari;left;gauche
+2;16;右;みぎ;migi;right;droit
+2;16;横;よこ;yoko;side,beside;a cote
+2;16;隣;となり;tonari;next to;a cote de
+2;16;前;まえ;mae;front;devant
+2;16;後ろ;うしろ;ushiro;behind;derriere
+2;16;冊;さつ;satsu;counter for books;compteur pour livres
+2;16;本棚;ほんだな;hondana;bookshelf;etagere a livres
+2;16;棚;たな;tana;shelf;etagere
+2;16;旅行;りょこう;ryokou;travel;voyage
+2;16;お土産;おみやげ;omiyage;souvenir;souvenir
+2;16;韓国;かんこく;kankoku;korea;coree
+2;16;韓国人;かんこくじん;kankokujin;korean;coreen
+2;16;間;あいだ;aida;between;entre
+2;16;時々;ときどき;tokidoki;sometimes;parfois
+2;17;座ります;すわります;suarimasu;sit;s’assoir
+2;17;布団;ふとん;futon;futon;futon
+2;17;隅;すみ;sumi;corner;coin
+2;17;片隅;かたすみ;katasumi;small corner;petit coin
+2;17;長い;ながい;nagai;long;long
+2;17;低い;ひくい;hikui;low;bas
+2;17;汚い;きたない;kitanai;dirty;sale
+2;17;冷蔵庫;れいぞうこ;reizouko;refrigerator;refrigerateur
+2;17;平日;へいじつ;heijitsu;weekday;jour de semaine
+2;17;週末;しゅうまつ;shuumatsu;weekend;week-end
+2;17;一昨日;おととい;ototoi;day before yesterday;avant-hier
+2;17;来週;らいしゅう;raishuu;next week;semaine prochaine
+2;17;先週;せんしゅう;senshuu;last week;semaine derniere
+2;17;洗濯;せんたく;sentaku;laundry;lessive
+2;17;掃除;そうじ;souji;cleaning;nettoyage
+2;17;;すぐ;sugu;right away;de suite
+2;17;浴びます;あびます;abimasu;bathe,shower;prendre une douche,se baigner
+2;17;開けます;あけます;akemasu;open;ouvrir
+2;17;;おわります;owarimasu;to end;finir
+2;17;;はじまります;hajimarimasu;to start;commencer
