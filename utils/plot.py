@@ -14,7 +14,7 @@ def display_kanji_and_wait(kanji:str=None, hiragana:str=None,romanji:str=None,wo
     window = tk.Tk()
     window.title("Kanji Display")
 
-    window.geometry("800x600+300+100")
+    window.geometry("1000x800+300+100")
 
     # Bind the Enter key to the on_key_press function
     window.bind('<Return>', on_key_press)
