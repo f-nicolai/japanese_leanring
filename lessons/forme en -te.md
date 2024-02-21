@@ -44,4 +44,10 @@ Pour créer un impératif poli, ajoutez "ください" (kudasai) après la forme
 - "静かにしてください" (shizuka ni shite kudasai) : "Please be quiet."
 - "それを持ってきてください" (sore o motte kite kudasai) : "Please bring that here."
 
-En utilisant cette structure, vous pouvez faire des demandes polies dans des espaces publics, en classe, ou dans des situations où le respect est de mise.
+### Utilisation de la Forme en "-te" pour Donner une Suite d'Actions
+
+La forme en "-te" peut également être utilisée pour indiquer une séquence d'actions dans l'ordre, ce qui rend les instructions ou les narrations plus fluides et logiques. Par exemple, "朝起きて、顔を洗って、朝ごはんを食べます" (Asa okite, kao o aratte, asagohan o tabemasu) signifie "Je me lève le matin, je lave mon visage, puis je prends mon petit-déjeuner."
+
+### Demander la Permission ou la Possibilité avec "いいですか" (iidesuka)
+
+L'ajout de "いいですか" (iidesuka) à la fin d'une phrase exprimant une action en forme "-te" sert à demander la permission ou à interroger sur la possibilité de réaliser cette action. Cela transforme une déclaration en une question polie, indiquant que vous cherchez l'approbation de votre interlocuteur avant de procéder. Par exemple, "窓を開けていいですか" (Mado o akete iidesuka?) signifie "Puis-je ouvrir la fenêtre ?" ou "Est-il possible d'ouvrir la fenêtre ?"
