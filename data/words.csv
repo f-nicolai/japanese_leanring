@@ -1,4 +1,4 @@
-section;unit;kanji;hiragana;romanji;english;french
+﻿section;unit;kanji;hiragana;romanji;english;french
 1;5;一;いち;ichi;one;un
 1;5;二;に;ni;two;deux
 1;5;三;さん;san;three;trois
@@ -145,6 +145,7 @@ section;unit;kanji;hiragana;romanji;english;french
 2;15;朝ご飯;あさごはん;asagohan;breakfast;petit dejeuner
 2;16;今日;きょう;kyou;today;aujourd'hui
 2;16;仕事;しごと;shigoto;work;travail
+2;16;働きます;はたらきます;hatarakimasu;to work;travailler
 2;16;友達;ともだち;tomodachi;friend;ami
 2;16;昨日;きのう;kinou;yesterday;hier
 2;16;明日;あした;ashita;tomorrow;demain
@@ -185,6 +186,13 @@ section;unit;kanji;hiragana;romanji;english;french
 2;17;;すぐ;sugu;right away;de suite
 2;17;浴びます;あびます;abimasu;bathe,shower;prendre une douche,se baigner
 2;17;開けます;あけます;akemasu;open;ouvrir
-2;17;;おわります;owarimasu;to end;finir
-2;17;;はじまります;hajimarimasu;to start;commencer
+2;17;終わります;おわります;owarimasu;to end;finir
+2;17;始まります;はじまります;hajimarimasu;to start;commencer
 2;17;鏡;かがみ;kagami;mirror;miroir
+2;17;閉めます;しめます;shimemasu;close;fermer
+2;17;電気;でんき;denki;electricity;electrecite
+2;17;立ちます;たちます;tachimasu;stand up;se mettre debout
+2;17;点けます;つけます;tsukeimasu;turn on (lights);allumer (lumière)
+2;17;電車;でんしゃ;densha;train;train
+2;17;人気;にんき;ninki;personality (popularity);personnalité (populaire)
+2;17;帰ります;かえります;kaerimasu;return;rentrer,retourner
