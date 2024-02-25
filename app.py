@@ -1,29 +1,24 @@
 import streamlit as st
+from pages import config_tab,lessons, guess_kanji, translate_kanji, resources, review_verbs, main_page
 
-# Assuming other page modules are defined similarly to previous examples
-from pages import config_tab, english_to_kanji, kanji_to_english
-
-def render_main_page():
-    st.title("Quiz App")
-    col1, col2 = st.columns(2)
-    with col1:
-        if st.button("Start English to Kanji Quiz"):
-            st.session_state['page'] = 'english_to_kanji'
-            st.rerun()
-    with col2:
-        if st.button("Start Kanji to English Quiz"):
-            st.session_state['page'] = 'kanji_to_english'
-            st.rerun()
+st.set_page_config(layout="wide")
 
 if 'page' not in st.session_state:
     st.session_state['page'] = 'main'
+    config_tab.initialize_internal_config()
 
-config_tab.render_config_tab()  # Assuming this function renders the config sidebar
+config_tab.render_config_tab()
 
 # Page routing
 if st.session_state['page'] == 'main':
-    render_main_page()
-elif st.session_state['page'] == 'english_to_kanji':
-    english_to_kanji.render_page()
-elif st.session_state['page'] == 'kanji_to_english':
-    kanji_to_english.render_page()
+    main_page.render_main_page()
+elif st.session_state['page'] == 'translate_kanji':
+    translate_kanji.render_page()
+elif st.session_state['page'] == 'guess_kanji':
+    guess_kanji.render_page()
+elif st.session_state['page'] == 'review_verbs':
+    review_verbs.render_page()
+elif st.session_state['page'] in ('show_words', 'show_verbs', 'show_counters'):
+    resources.render_page(resource=st.session_state['page'])
+elif st.session_state['page'] in ('te_form', 'past_polite'):
+    lessons.render_page(resource=st.session_state['page'])

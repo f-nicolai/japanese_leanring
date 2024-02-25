@@ -6,7 +6,8 @@ def render_page():
     # Display random string logic here
     if 'random_string' not in st.session_state:
         st.session_state['random_string'] = 'Initial String'
-    st.write(st.session_state['random_string'])
+    # st.write(st.session_state['random_string'])
+    st.write(f"len = {len(st.session_state['verbs'])}")
 
     if st.button("Next"):
         # Update the random string
