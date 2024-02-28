@@ -28,6 +28,17 @@ def render_config_tab():
 
         st.radio("Language", ["English", "French"], key="config.language")
         st.checkbox('Shuffle without replacement ?', key='config.random', value=True)
+        st.checkbox('Shuffle without replacement ?', key='config.random', value=True)
+        st.checkbox('Shuffle without replacement ?', key='config.random', value=True)
+        st.checkbox('Shuffle without replacement ?', key='config.random', value=True)
+        st.checkbox('Shuffle without replacement ?', key='config.random', value=True)
+        st.checkbox('Shuffle without replacement ?', key='config.random', value=True)
+        st.checkbox('Shuffle without replacement ?', key='config.random', value=True)
+        st.checkbox('Shuffle without replacement ?', key='config.random', value=True)
+        st.checkbox('Shuffle without replacement ?', key='config.random', value=True)
+        st.checkbox('Shuffle without replacement ?', key='config.random', value=True)
+        st.checkbox('Shuffle without replacement ?', key='config.random', value=True)
+        st.checkbox('Shuffle without replacement ?', key='config.random', value=True)
         # st.number_input('# of samples', value=10000, format="%d", key='config.n_samples')
 
 
