@@ -6,27 +6,27 @@ from typing import Union
 
 def render_config_tab():
     with st.sidebar:
-        # st.header("Configuration")
-        # st.write("Select units you want ot include")
-        # for section_number, unit_numbers in st.session_state.config.items():
-        #     with st.expander(f'Section {section_number}:'):
-        #         st.checkbox(
-        #             'All',
-        #             key=f'config.{section_number}_all',
-        #             value=st.session_state.checkbox_all[section_number],
-        #             on_change=select_all_units_from_section,
-        #             kwargs={'section': section_number}
-        #         )
-        #         for unit_number in unit_numbers:
-        #             st.checkbox(
-        #                 f"Unit {unit_number}",
-        #                 key=f"config.{section_number}_{unit_number}",
-        #                 value=st.session_state.checkbox_values[section_number][unit_number],
-        #                 on_change=update_config_filters,
-        #                 kwargs={'checkbox_id': f"config.{section_number}_{unit_number}"}
-        #             )
-        #
-        # st.radio("Language", ["English", "French"], key="config.language")
+        st.header("Configuration")
+        st.write("Select units you want ot include")
+        for section_number, unit_numbers in st.session_state.config.items():
+            with st.expander(f'Section {section_number}:'):
+                st.checkbox(
+                    'All',
+                    key=f'config.{section_number}_all',
+                    value=st.session_state.checkbox_all[section_number],
+                    on_change=select_all_units_from_section,
+                    kwargs={'section': section_number}
+                )
+                for unit_number in unit_numbers:
+                    st.checkbox(
+                        f"Unit {unit_number}",
+                        key=f"config.{section_number}_{unit_number}",
+                        value=st.session_state.checkbox_values[section_number][unit_number],
+                        on_change=update_config_filters,
+                        kwargs={'checkbox_id': f"config.{section_number}_{unit_number}"}
+                    )
+
+        st.radio("Language", ["English", "French"], key="config.language")
         st.checkbox('Shuffle without replacement ?', key='config.random', value=True)
         # st.number_input('# of samples', value=10000, format="%d", key='config.n_samples')
 
