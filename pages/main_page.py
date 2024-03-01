@@ -1,4 +1,6 @@
 import streamlit as st
+from .config_tab import initialize_without_replacement_dataframe
+
 def render_main_page():
     st.title('Japanese Learning Quizz')
 
@@ -9,14 +11,17 @@ def render_main_page():
     with col1:
         if st.button('Guess the Kanji',use_container_width=True):
             st.session_state['page'] = 'guess_kanji'
+            st.session_state.kanji_sample_without_replacement = initialize_without_replacement_dataframe(resource='words')
             st.rerun()
     with col2:
         if st.button('Translate to Kanji',use_container_width=True):
             st.session_state['page'] = 'translate_kanji'
+            st.session_state.kanji_sample_without_replacement = initialize_without_replacement_dataframe(resource='words')
             st.rerun()
     with col3:
         if st.button('Review your verbs',use_container_width=True):
             st.session_state['page'] = 'review_verbs'
+            st.session_state.verbs_sample_without_replacement = initialize_without_replacement_dataframe(resource='verbs')
             st.rerun()
 
     st.write('\n')
