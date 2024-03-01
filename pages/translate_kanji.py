@@ -17,7 +17,7 @@ def render_page():
         st_write_centered(display, font_size=100)
 
     elif st.session_state['kanji_quizz.current_state'] == 'translation':
-        st_write_centered(sample['kanji'].squeeze(), font_size=200)
+        st_write_centered(sample['kanji'].squeeze(), font_size=100)
         st_write_centered(sample['hiragana'].squeeze(), font_size=50,style_name='medium-font')
 
 

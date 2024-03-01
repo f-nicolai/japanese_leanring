@@ -1,4 +1,4 @@
-﻿section;unit;dictionary;polite;-te;hiragana;romanji;english;french
+﻿section;unit;dictionary;polite;-te_form;hiragana;romanji;english;french
 1;7;見るる;見ます; 見て;みます;mimasu;watch,look;regarder
 1;7;読む;読みます; 読んで;よみます;yomimasu;read;lire
 2;1;買う;買います; 買って;かいます;kaimasu;buy;acheter
@@ -23,3 +23,13 @@
 2;17;立つ;立ちます; 立って;たちます;tachimasu;stand up;se mettre debout
 2;17;点ける;点けます; 点けて;つけます;tsukeimasu;turn on (lights);allumer (lumière)
 2;17;帰る;帰ります; 帰って;かえります;kaerimasu;return;rentrer,retourner
+2;17;;帰ります;;かえります;kaerimasu;to return;rentrer,retourner
+2;18;;泳ぎます;;およぎます;oyogimasu;to swim;nager
+2;18;;習います;;ならいます;naraimasu;to learn;apprendre
+2;18;;走ります;;はしります;hashirimasu;to run;courir
+2;18;;聞きます;;ききます;kikimasu;to listen;écouter
+2;18;;遊びます;;あそびます;asobimasu;to play;jouer
+2;18;;歌います;;うたいます;utaimasu;to sing;chanter
+2;18;;撮ります;;とります;torimasu;to take photos;prendre des photos
+2;18;;描きます;;かきます;kakimasu;to draw;dessiner
+2;18;;似ています;;にています;niteimasu;to resemble;ressembler

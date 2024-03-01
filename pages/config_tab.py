@@ -66,10 +66,8 @@ def load_data() -> (DataFrame, DataFrame, DataFrame):
 def initialize_internal_config():
     st.session_state.verbs, st.session_state.kanjis, st.session_state.counters = load_data()
 
-    config: dict[str, list[Union[int, list[int]]]] = read_csv(
-        Path(__file__).parent.parent / 'data/words.csv',
-        sep=';'
-    )[['section', 'unit']] \
+    config: dict[str, list[Union[int, list[int]]]] = st.session_state.kanjis[['section', 'unit']]\
+        .sort_values(['section', 'unit'],ascending=[0,0]) \
         .drop_duplicates() \
         .groupby('section', as_index=False) \
         .agg(units=('unit', list)) \
