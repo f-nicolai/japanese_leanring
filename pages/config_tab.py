@@ -81,7 +81,7 @@ def initialize_internal_config():
     st.session_state['kanji_quizz.current_state'] = 'original'
     st.session_state.kanji_sample_without_replacement = DataFrame()
     st.session_state.verbs_sample_without_replacement = DataFrame()
-
+    st.session_state.sample = DataFrame()
 
 def get_dataframe_filter(resource: str):
     if resource == 'words':

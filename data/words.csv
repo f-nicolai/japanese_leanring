@@ -215,14 +215,25 @@
 2;18;息子;むすこ;musuko;son;fils
 2;18;娘;むすめ;musume;daughter;fille
 2;18;叔母;おば;oba;aunt;tante
-2;18;妻;つま;tsuma;wife;épouse
-2;18;夫;おっと;otto;husband;époux
+2;18;妻;つま;tsuma;wife (formal);épouse (formel)
+2;18;夫;おっと;otto;husband (formal);époux (formel)
 2;18;;いとこ;itoko;cousin;cousin
 2;18;;おじ;oji;uncle;oncle
-2;18;ご在宅;ございたく;gozaitaku;at home;être à la maison
+2;18;(ご)在宅;(ご)ざいたく;(go)zaitaku;at home;être à la maison
 2;18;;ただいま;tadaima;I'm back,I'm home;je suis de retour,je suis à la maison
 2;18;;おじさん;ojiisan;grandfather;grand père
 2;18;;いってきます;ittekimasu;I'm off,I'm leaving;je pars
-2;18;お帰り(なさい);おかえり(なさい);okaeri(nasai);welcome back;rebienvenu
+2;18;お帰りなさい;おかえりなさい;okaerinasai;welcome back;rebienvenu
 2;18;;いってらっしゃい;itterasshai;take care,have a nice day;passe une bonne journée
 2;18;似ています;にています;niteimasu;to resemble;ressembler
+2;18;親戚;しんせき;shinseki;relatives;proches
+2;18;祖母;そぼ;sobo;my grandmother;ma grand mère
+2;18;孫;まご;mago;my grandchildren;mes petit enfants
+2;18;父親;ちちおや;chichioya; father (relationship or role);père (relation ou rôle)
+2;18;主人;しゅじん;shujin;owner;propriétaire
+2;18;ご主人;ごしゅじん;goshujin;husband (polite & affectionate);mari (polit & affectif)
+2;18;奥さん;おくさん;okusan;wife (polite & affectionate);femme (polit & affectif)
+2;18;祖父;そふ;sofu;my grandfather;mon grand père
+2;18;孫息子;まごむすこ;magomusuko;grandson;petit fils
+2;18;お孫さん;おまごさん;omagosan;your grandchild;tes petis enfants
+2;18;孫娘;まごむすめ;magomusume;granddaughter;petite fille
