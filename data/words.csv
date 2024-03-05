@@ -132,7 +132,7 @@
 2;15;お姉さん;おねえさん;oneesan;your sister;soeur
 2;15;お兄さん;おにいさん;oniisan;your brother;frere
 2;15;子供;こども;kodomo;child;enfant
-2;15;両親;りょうしん;ryoushin;parents;parents
+2;15;両親;りょうしん;ryoushin;my parents;mes parents
 2;15;家族;かぞく;kazoku;family;famille
 2;15;昼ご飯;ひるごはん;hirugohan;lunch;dejeuner
 2;15;晩ご飯;ばんごはん;bangohan;dinner;diner
@@ -228,12 +228,14 @@
 2;18;似ています;にています;niteimasu;to resemble;ressembler
 2;18;親戚;しんせき;shinseki;relatives;proches
 2;18;祖母;そぼ;sobo;my grandmother;ma grand mère
+2;18;祖父;そふ;sofu;my grandfather;mon grand père
 2;18;孫;まご;mago;my grandchildren;mes petit enfants
 2;18;父親;ちちおや;chichioya; father (relationship or role);père (relation ou rôle)
+2;18;母親;ははおや;hahaoya;mother (relationship or role);mère (relation ou rôle)
+2;18;親;おや;oya;parents,ancestor (general without sepcifying the degree offormality);parents,ancêtres (en général sans spécifier le degré de formalité)
 2;18;主人;しゅじん;shujin;owner;propriétaire
 2;18;ご主人;ごしゅじん;goshujin;husband (polite & affectionate);mari (polit & affectif)
 2;18;奥さん;おくさん;okusan;wife (polite & affectionate);femme (polit & affectif)
-2;18;祖父;そふ;sofu;my grandfather;mon grand père
 2;18;孫息子;まごむすこ;magomusuko;grandson;petit fils
 2;18;お孫さん;おまごさん;omagosan;your grandchild;tes petis enfants
 2;18;孫娘;まごむすめ;magomusume;granddaughter;petite fille
