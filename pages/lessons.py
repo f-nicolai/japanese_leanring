@@ -13,6 +13,8 @@ def render_page(resource:str):
         st.markdown(read_markdown_file(Path(__file__).parent.parent/'lessons/forme en -te.md'),unsafe_allow_html=True)
     elif resource == 'past_polite':
         st.markdown(read_markdown_file(Path(__file__).parent.parent/'lessons/forme polie au passé.md'),unsafe_allow_html=True)
+    elif resource == 'adj_negation':
+        st.markdown(read_markdown_file(Path(__file__).parent.parent/'lessons/negations_adjectifs.md'),unsafe_allow_html=True)
 
     st.write('\n')
     if st.button("Back to Main Menu",key='lessons_back_2'):

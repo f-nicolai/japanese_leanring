@@ -36,6 +36,10 @@ def render_main_page():
         if st.button('Forme polie au passé', use_container_width=True):
             st.session_state['page'] = 'past_polite'
             st.rerun()
+    with col6:
+        if st.button('Négation des adjectifs', use_container_width=True):
+            st.session_state['page'] = 'adj_negation'
+            st.rerun()
 
 
     st.write('\n')
