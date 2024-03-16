@@ -23,13 +23,17 @@
 2;17;立つ;立ちます; 立って;たちます;tachimasu;stand up;se mettre debout
 2;17;点ける;点けます; 点けて;つけます;tsukeimasu;turn on (lights);allumer (lumière)
 2;17;帰る;帰ります; 帰って;かえります;kaerimasu;return;rentrer,retourner
-2;17;;帰ります;;かえります;kaerimasu;to return;rentrer,retourner
-2;18;;泳ぎます;;およぎます;oyogimasu;to swim;nager
-2;18;;習います;;ならいます;naraimasu;to learn;apprendre
-2;18;;走ります;;はしります;hashirimasu;to run;courir
-2;18;;聞きます;;ききます;kikimasu;to listen;écouter
-2;18;;遊びます;;あそびます;asobimasu;to play;jouer
-2;18;;歌います;;うたいます;utaimasu;to sing;chanter
-2;18;;撮ります;;とります;torimasu;to take photos;prendre des photos
-2;18;;描きます;;かきます;kakimasu;to draw;dessiner
-2;18;;似ています;;にています;niteimasu;to resemble;ressembler
+2;17;帰る;帰ります;帰って;かえります;kaerimasu;to return;rentrer,retourner
+2;18;泳ぐ;泳ぎます;泳いで;およぎます;oyogimasu;to swim;nager
+2;18;習う;習います;習って;ならいます;naraimasu;to learn;apprendre
+2;18;走る;走ります;走って;はしります;hashirimasu;to run;courir
+2;18;聞く;聞きます;聞いて;ききます;kikimasu;to listen;écouter
+2;18;遊ぶ;遊びます;遊んで;あそびます;asobimasu;to play;jouer
+2;18;歌う;歌います;歌って;うたいます;utaimasu;to sing;chanter
+2;18;撮る;撮ります;撮って;とります;torimasu;to take photos;prendre des photos
+2;18;描く;描きます;描いて;かきます;kakimasu;to draw;dessiner
+2;18;似ている;似ています;似ていて;にています;niteimasu;to resemble;ressembler
+2;19;乗る;乗ります;乗って;のります;norimasu;to ride;prendre (un transport)
+2;19;使う;使います;使って;つかいます;tsukaimasu;to use;utiliser
+2;19;歩く;歩きます;歩いて;あるきます;arukimasu;to walk;marcher
+2;19;着る;着ます;着て;きます;kimasu;to wear;porter
