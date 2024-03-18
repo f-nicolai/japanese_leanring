@@ -1,24 +1,55 @@
 import streamlit as st
-import random
+from .config_tab import get_dataframe_filter, initialize_without_replacement_dataframe
+from pandas import DataFrame
+from utils.styling import st_write_centered
+from utils.wrapers import create_back_and_next_buttons
+
 
 def render_page():
-    st.title("English to Kanji Quiz")
-    # Display random string logic here
-    if 'random_string' not in st.session_state:
-        st.session_state['random_string'] = 'Initial String'
-    # st.write(st.session_state['random_string'])
-    st.write(f"len = {len(st.session_state['verbs'])}")
+    st.title("Verbs quizz")
 
-    if st.button("Next"):
-        # Update the random string
-        st.session_state['random_string'] = get_random_string()
-        st.rerun()  # Force rerun to refresh the page and show the new string
+    create_back_and_next_buttons()
+    create_verbs_quizz_direction_radio_buttons()
 
-    if st.button("Back to Main Menu"):
-        st.session_state.page = 'main'
-        st.rerun()
+    sample = get_sample(current_state=st.session_state['kanji_quizz.current_state'])
 
-def get_random_string():
-    # Return a new random string
-    example_strings = ["String 1", "String 2", "String 3", "String 4"]
-    return random.choice(example_strings)
+    if st.session_state['kanji_quizz.current_state'] == 'original':
+        st_write_centered(
+            sample[st.session_state.verbs_direction[st.session_state['verbs.from']]].squeeze(),
+            font_size=200
+        )
+
+    elif st.session_state['kanji_quizz.current_state'] == 'translation':
+        st_write_centered(
+            f"{sample[st.session_state.verbs_direction[st.session_state['verbs.to']]].squeeze()}",
+            font_size=100,
+        )
+
+
+def get_sample(current_state: str) -> DataFrame:
+    if current_state == 'original':
+        if st.session_state['config.random']:
+            sample = st.session_state.verbs_sample_without_replacement.sample(1)
+            st.session_state.verbs_sample_without_replacement = st.session_state.verbs_sample_without_replacement.drop(
+                sample.index)
+            if st.session_state.verbs_sample_without_replacement.shape[0] == 0:
+                st.session_state.verbs_sample_without_replacement = initialize_without_replacement_dataframe(
+                    resource='verbs')
+
+        else:
+            filter = get_dataframe_filter(resource='verbs')
+            sample = st.session_state.verbs \
+                .loc[filter] \
+                .sample(1)
+
+        st.session_state.sample = sample
+
+    return st.session_state.sample
+
+
+def create_verbs_quizz_direction_radio_buttons():
+    col1, col2, col3, col4 = st.columns(4)
+    with col1:
+        st.selectbox("Guess from :", st.session_state.verbs_direction.keys(), key='verbs.from')
+    with col4:
+        st.selectbox("To :", st.session_state.verbs_direction.keys(), key='verbs.to')

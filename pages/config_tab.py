@@ -3,6 +3,7 @@ from pandas import read_csv, DataFrame, concat
 from pathlib import Path
 from typing import Union
 
+LANGUAGES = ["English", "French"]
 
 def render_config_tab():
     with st.sidebar:
@@ -26,10 +27,16 @@ def render_config_tab():
                         kwargs={'checkbox_id': f"config.{section_number}_{unit_number}"}
                     )
 
-        st.radio("Language", ["English", "French"], key="config.language")
+        st.radio("Language", LANGUAGES, key="config.language", on_change=update_verbs_direction)
         st.checkbox('Shuffle without replacement ?', key='config.random', value=True)
         # st.number_input('# of samples', value=10000, format="%d", key='config.n_samples')
 
+def update_verbs_direction():
+    selected_language = st.session_state['config.language']
+    st.session_state.verbs_direction[selected_language] = selected_language.lower()
+    for l in LANGUAGES:
+        if l != selected_language:
+            st.session_state.verbs_direction.pop(l)
 
 def select_all_units_from_section(section: str):
     st.session_state.filters[section] = st.session_state.config[section].copy()
@@ -82,18 +89,28 @@ def initialize_internal_config():
     st.session_state.kanji_sample_without_replacement = DataFrame()
     st.session_state.verbs_sample_without_replacement = DataFrame()
     st.session_state.sample = DataFrame()
+    st.session_state.verbs_direction = {
+        'Dictionary':'dictionary',
+        'Polite':'polite',
+        '-te-form':'-te-form',
+        'Hiragana':'hiragana',
+        'Romanji':'romanji',
+        'English':'english'
+    }
 
 def get_dataframe_filter(resource: str):
     if resource == 'words':
-        filter = st.session_state.kanjis
+        source = st.session_state.kanjis
     elif resource == 'verbs':
-        filter = st.session_state.verbs
+        source = st.session_state.verbs
+    else:
+        raise NotImplementedError
 
-    filter = (st.session_state.kanjis['section'].isnull())
+    filter = (source['section'].isnull())
     for section, units in st.session_state.filters.items():
         filter = filter | (
-                (st.session_state.kanjis['section'] == section)
-                & st.session_state.kanjis['unit'].isin(units)
+                (source['section'] == section)
+                & source['unit'].isin(units)
         )
     return filter
 

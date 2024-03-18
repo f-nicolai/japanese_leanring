@@ -6,7 +6,7 @@ from utils.wrapers import create_back_and_next_buttons
 
 
 def render_page():
-    st.title("Guess the Kanji !")
+    st.title("Translate using Kanji !")
 
     create_back_and_next_buttons()
 
@@ -17,7 +17,7 @@ def render_page():
 
 
     elif st.session_state['kanji_quizz.current_state'] == 'translation':
-        st_write_centered(f":red[{sample['romanji'].squeeze()}]", font_size=100,style_name='red-label')
+        st_write_centered(f"{sample['romanji'].squeeze()}", font_size=100,style_name='label')
         display = sample[st.session_state['config.language'].lower()].squeeze().replace(',', ' / ')
         st_write_centered(display,font_size=100)
 
