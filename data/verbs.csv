@@ -1,4 +1,4 @@
-﻿section;unit;dictionary;polite;-te_form;hiragana;romanji;english;french
+﻿section;unit;dictionary;polite;#NAME?;hiragana;romanji;english;french
 1;7;見るる;見ます; 見て;みます;mimasu;watch,look;regarder
 1;7;読む;読みます; 読んで;よみます;yomimasu;read;lire
 2;1;買う;買います; 買って;かいます;kaimasu;buy;acheter
@@ -36,4 +36,8 @@
 2;19;乗る;乗ります;乗って;のります;norimasu;to ride;prendre (un transport)
 2;19;使う;使います;使って;つかいます;tsukaimasu;to use;utiliser
 2;19;歩く;歩きます;歩いて;あるきます;arukimasu;to walk;marcher
-2;19;着る;着ます;着て;きます;kimasu;to wear;porter
+2;19;着る;着ます;着て;きます;kimasu;to wear (full/upper body);porter (corps complet/supérieur)
+2;19;履く;履きます;履いて;はきます;hakimasu;to wear (foot / leg);porter (jambes / pieds)
+2;19;被る;被ります;被って ;かぶります;kaburimasu;to wear (on head);porter (sur la tête)
+2;19;洗う;洗います;洗って;あらいます;araimasu;to wash;laver
+2;19;脱ぐ;脱ぎます;脱いで;ぬぎます;nugimasu;to take off,remove;enlever
