@@ -5,6 +5,7 @@ from typing import Union
 
 LANGUAGES = ["English", "French"]
 
+
 def render_config_tab():
     with st.sidebar:
         st.header("Configuration")
@@ -31,12 +32,14 @@ def render_config_tab():
         st.checkbox('Shuffle without replacement ?', key='config.random', value=True)
         # st.number_input('# of samples', value=10000, format="%d", key='config.n_samples')
 
+
 def update_verbs_direction():
     selected_language = st.session_state['config.language']
     st.session_state.verbs_direction[selected_language] = selected_language.lower()
     for l in LANGUAGES:
         if l != selected_language:
             st.session_state.verbs_direction.pop(l)
+
 
 def select_all_units_from_section(section: str):
     st.session_state.filters[section] = st.session_state.config[section].copy()
@@ -73,8 +76,8 @@ def load_data() -> (DataFrame, DataFrame, DataFrame):
 def initialize_internal_config():
     st.session_state.verbs, st.session_state.kanjis, st.session_state.counters = load_data()
 
-    config: dict[str, list[Union[int, list[int]]]] = st.session_state.kanjis[['section', 'unit']]\
-        .sort_values(['section', 'unit'],ascending=[0,0]) \
+    config: dict[str, list[Union[int, list[int]]]] = st.session_state.kanjis[['section', 'unit']] \
+        .sort_values(['section', 'unit'], ascending=[0, 0]) \
         .drop_duplicates() \
         .groupby('section', as_index=False) \
         .agg(units=('unit', list)) \
@@ -90,13 +93,14 @@ def initialize_internal_config():
     st.session_state.verbs_sample_without_replacement = DataFrame()
     st.session_state.sample = DataFrame()
     st.session_state.verbs_direction = {
-        'Dictionary':'dictionary',
-        'Polite':'polite',
-        '-te-form':'-te-form',
-        'Hiragana':'hiragana',
-        'Romanji':'romanji',
-        'English':'english'
+        'English': 'english',
+        'Polite': 'polite',
+        'Dictionary': 'dictionary',
+        '-te-form': '-te-form',
+        'Hiragana': 'hiragana',
+        'Romanji': 'romanji',
     }
+
 
 def get_dataframe_filter(resource: str):
     if resource == 'words':
@@ -129,14 +133,14 @@ def add_unit_from_without_replacement_dataframe(section: int, unit: int):
         st.session_state.kanjis.loc[
             (st.session_state.kanjis['section'] == section)
             & (st.session_state.kanjis['unit'] == unit)]
-    ]).sample(frac = 1)
+    ]).sample(frac=1)
 
     st.session_state.verbs_sample_without_replacement = concat([
         st.session_state.verbs_sample_without_replacement,
         st.session_state.verbs.loc[
             (st.session_state.kanjis['section'] == section)
             & (st.session_state.kanjis['unit'] == unit)]
-    ]).sample(frac = 1)
+    ]).sample(frac=1)
 
 
 def remove_unit_from_without_replacement_dataframe(section: int, unit: int):
@@ -145,11 +149,11 @@ def remove_unit_from_without_replacement_dataframe(section: int, unit: int):
             st.session_state.kanjis.loc[
                 (st.session_state.kanjis['section'] == section)
                 & (st.session_state.kanjis['unit'] == unit)].index
-        ).sample(frac = 1)
+        ).sample(frac=1)
 
     st.session_state.verbs_sample_without_replacement = \
         st.session_state.verbs_sample_without_replacement.drop(
             st.session_state.verbs.loc[
                 (st.session_state.kanjis['section'] == section)
                 & (st.session_state.kanjis['unit'] == unit)].index
-        ).sample(frac = 1)
+        ).sample(frac=1)
