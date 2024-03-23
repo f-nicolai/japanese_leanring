@@ -22,9 +22,14 @@ def render_page():
     elif st.session_state['kanji_quizz.current_state'] == 'translation':
         st_write_centered(
             f"{sample[st.session_state.verbs_direction[st.session_state['verbs.to']]].squeeze()}",
-            font_size=100,
+            font_size=200,
         )
-
+        if st.session_state['verbs.to'] == 'Polite':
+            st_write_centered(
+                f"{sample['hiragana'].squeeze()}",
+                font_size=100,
+                style_name='medium-font'
+            )
 
 def get_sample(current_state: str) -> DataFrame:
     if current_state == 'original':
