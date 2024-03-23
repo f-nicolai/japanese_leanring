@@ -20,5 +20,5 @@ elif st.session_state['page'] == 'review_verbs':
     review_verbs.render_page()
 elif st.session_state['page'] in ('show_words', 'show_verbs', 'show_counters'):
     resources.render_page(resource=st.session_state['page'])
-elif st.session_state['page'] in ('te_form', 'past_polite','adj_negation'):
+elif st.session_state['page'] in ('te_form', 'past_polite','adj_negation','invitation'):
     lessons.render_page(resource=st.session_state['page'])

@@ -41,20 +41,25 @@ def render_main_page():
             st.session_state['page'] = 'adj_negation'
             st.rerun()
 
+    col7, col8, col9 = st.columns(3)
+    with col7:
+        if st.button("Exprimer désir & invitation", use_container_width=True):
+            st.session_state['page'] = 'invitation'
+            st.rerun()
 
     st.write('\n')
     st.header('Resources:')
-    col7, col8, col9 = st.columns(3)
+    col10, col11, col12 = st.columns(3)
 
-    with col7:
+    with col10:
         if st.button('Words list',use_container_width=True):
             st.session_state['page'] = 'show_words'
             st.rerun()
-    with col8:
+    with col11:
         if st.button('Verbs',use_container_width=True):
             st.session_state['page'] = 'show_verbs'
             st.rerun()
-    with col9:
+    with col12:
         if st.button('All counters',use_container_width=True):
             st.session_state['page'] = 'show_counters'
             st.rerun()
