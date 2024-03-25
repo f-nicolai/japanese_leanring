@@ -33,242 +33,356 @@
 1;8;水;みず;mizu;water;eau
 1;8;大きい;おおきい;ookii;big;grand
 1;8;小さい;ちいさい;chiisai;small;petit
-2;1;買います;かいます;kaimasu;buy;acheter
-2;1;土曜日;どようび;doyoubi;saturday;samedi
-2;1;話します;はなします;hanashimasu;speak,talk;parler
-2;1;日;ひ;hi;day;jour
-2;2;新聞;しんぶん;shinbun;newspaper;journal
-2;2;食べます;たべます;tabemasu;eat;manger
-2;2;飲みます;のみます;nomimasu;drink;boire
-2;2;と言います;といいます;toimasu;say;dire
-2;2;四時;よじ;yoji;four o'clock;(il est) 4 heures
-2;3;行きます;いきます;ikimasu;go;aller
-2;3;来ます;きます;kimasu;come;venir
-2;3;分;ふん;fun;minute;minute
-2;3;時間;じかん;jikan;hour;heure
-2;3;十分;じゅっぷん;juppun;ten minutes;dix minutes
-2;3;七分;しちふん;shichifun;seven minutes;sept minutes
-2;3;二分;にふん;nifun;two minutes;deux minutes
-2;3;五分;ごふん;gofun;five minutes;cinq minutes
-2;4;何;なに;nani;what;quoi
-2;4;高い;たかい;takai;expensive,high;cher,eleve
-2;4;休みます;やすみます;yasumimasu;rest,take a break;se reposer,prendre une pause
-2;4;九分;きゅうふん;kyuufun;nine minutes;neuf minutes
-2;5;七月;しちがつ;shichigatsu;july;juillet
-2;5;九月;くがつ;kugatsu;september;septembre
-2;5;休み;やすみ;yasumi;holiday,day off;vacances
-2;6;買い物;かいもの;kaimono;shopping;faire des achats
-2;6;来月;らいげつ;raigetsu;next month;mois prochain
-2;6;来週;らいしゅう;raishuu;next week;semaine prochaine
-2;7;会います;あいます;aimasu;meet;rencontrer
-2;7;金曜日;きんようび;kinyoubi;friday;vendredi
-2;7;お父さん;おとうさん;otousan;your father;ton père
-2;7;お母さん;おかあさん;okaasan;your mother;ta mère
-2;7;月曜日;げつようび;getsuyoubi;monday;lundi
-2;8;木曜日;もくようび;mokuyoubi;thursday;jeudi
-2;8;卵;たまご;tamago;egg;oeuf
-2;8;魚;さかな;sakana;fish;poisson
-2;8;火曜日;かようび;kayoubi;tuesday;mardi
-2;8;山田;やまだ;yamada;yamada;yamada
-2;8;水曜日;すいようび;suiyoubi;wednesday;mercredi
-2;9;三千;さんぜん;sanzen;three thousand;trois mille
-2;11;一階;いっかい;ikkai;first floor;premier etage
-2;11;二階;にかい;nikai;second floor;deuxieme etage
-2;11;書きます;かきます;kakimasu;write;ecrire
-2;11;作ります;つくります;tsukurimasu;make,create;creer,fabriquer
-2;12;先生;せんせい;sensei;teacher;professeur
-2;12;英語;えいご;eigo;english;anglais
-2;12;日本語;にほんご;nihongo;japanese;japonais
-2;12;学生;がくせい;gakusei;student;etudiant
-2;12;名前;なまえ;namae;name;nom
-2;12;お茶;おちゃ;ocha;tea;the
-2;12;僕;ぼく;boku;i,me;moi
-2;12;ご飯;ごはん;gohan;rice,meal;riz, repas
-2;12;野菜;やさい;yasai;vegetable;legume
-2;12;肉;にく;niku;meat;viande
-2;12;牛乳;ぎゅうにゅう;gyuunyuu;milk;lait
-2;12;今;いま;ima;now;maintenant
-2;13;学校;がっこう;gakkou;school;ecole
-2;13;午後;ごご;gogo;pm;apres-midi
-2;13;午前;ごぜん;gozen;am;matin
-2;13;零;れい;rei;zero;zero
-2;13;会社;かいしゃ;kaisha;company;entreprise
-2;13;毎日;まいにち;mainichi;every day;tous les jours
-2;13;毎朝;まいあさ;maiasa;every morning;tous les matins
-2;13;毎晩;まいばん;maiban;every night;toutes les nuits
-2;13;風呂;ふろ;furo;bath;bain
-2;13;寝室;しんしつ;shinshitsu;bedroom;chambre
-2;13;部屋;へや;heya;room;piece
-2;13;台所;だいどころ;daidokoro;kitchen;cuisine
-2;13;家;いえ;ie;house,home;maison
-2;13;庭;にわ;niwa;garden;jardin
-2;13;窓;まど;mado;window;fenetre
-2;13;子;こ;ko;child;enfant
-2;13;椅子;いす;isu;chair;chaise
-2;13;猫;ねこ;neko;cat;chat
-2;13;犬;いぬ;inu;dog;chien
-2;13;鳥;とり;tori;bird;oiseau
-2;13;机;つくえ;tsukue;desk;bureau
-2;14;歳;さい;sai;years old;ans
-2;14;大阪;おおさか;oosaka;osaka;osaka
-2;14;外;そと;soto;outside;exterieur
-2;14;外国人;がいこくじん;gaikokujin;foreigner;etranger
-2;14;留学;りゅうがく;ryuugaku;study abroad;etudier a l'etranger
-2;14;留学生;りゅうがくせい;ryuugakusei;international student;etudiant international
-2;14;健太;けんた;kenta;kenta;kenta
-2;14;直美;なおみ;naomi;naomi;naomi
-2;14;個;こ;ko;counter for small objects;compteur pour petits objets
-2;14;中学;ちゅうがく;chuugaku;junior high school;college
-2;14;小学;しょうがく;shougaku;elementary school;ecole primaire
-2;14;高校;こうこう;koukou;high school;lycee
-2;14;大学;だいがく;daigaku;university;universite
-2;15;彼;かれ;kare;he,boyfriend;lui,petit ami
-2;15;彼女;かのじょ;kanojo;she,girlfriend;elle,petite amie
-2;15;誰;だれ;dare;who;qui
-2;15;姉;あね;ane;older sister;grand soeur
-2;15;妹;いもうと;imouto;younger sister;petite soeur
-2;15;弟;おとうと;otouto;younger brother;petit frere
-2;15;兄;あに;ani;older brother;frere
-2;15;お姉さん;おねえさん;oneesan;your sister;soeur
-2;15;お兄さん;おにいさん;oniisan;your brother;frere
-2;15;子供;こども;kodomo;child;enfant
-2;15;両親;りょうしん;ryoushin;my parents;mes parents
-2;15;家族;かぞく;kazoku;family;famille
-2;15;昼ご飯;ひるごはん;hirugohan;lunch;dejeuner
-2;15;晩ご飯;ばんごはん;bangohan;dinner;diner
-2;15;食堂;しょくどう;shokudou;cafeteria;cafeteria
-2;15;熱い;あつい;atsui;hot;chaud
-2;15;冷たい;つめたい;tsumetai;cold;froid
-2;15;好き;すき;suki;like,love;aimer
-2;15;安い;やすい;yasui;cheap;bon marche
-2;15;甘い;あまい;amai;sweet;doux
-2;15;朝ご飯;あさごはん;asagohan;breakfast;petit dejeuner
-2;16;今日;きょう;kyou;today;aujourd'hui
-2;16;仕事;しごと;shigoto;work;travail
-2;16;働きます;はたらきます;hatarakimasu;to work;travailler
-2;16;友達;ともだち;tomodachi;friend;ami
-2;16;昨日;きのう;kinou;yesterday;hier
-2;16;明日;あした;ashita;tomorrow;demain
-2;16;明後日;あさって;asatte;day after tomorrow;apres-demain
-2;16;忙しい;いそがしい;isogashii;busy;occupe
-2;16;上;うえ;ue;up,above;haut,dessus
-2;16;下;した;shita;down,below;bas,dessous
-2;16;左;ひだらい;hidari;left;gauche
-2;16;右;みぎ;migi;right;droit
-2;16;横;よこ;yoko;side,beside;a cote
-2;16;隣;となり;tonari;next to;a cote de
-2;16;前;まえ;mae;front;devant
-2;16;後ろ;うしろ;ushiro;behind;derriere
-2;16;冊;さつ;satsu;counter for books;compteur pour livres
-2;16;本棚;ほんだな;hondana;bookshelf;etagere a livres
-2;16;棚;たな;tana;shelf;etagere
-2;16;旅行;りょこう;ryokou;travel;voyage
-2;16;お土産;おみやげ;omiyage;souvenir;souvenir
-2;16;韓国;かんこく;kankoku;korea;coree
-2;16;韓国人;かんこくじん;kankokujin;korean;coreen
-2;16;間;あいだ;aida;between;entre
-2;16;時々;ときどき;tokidoki;sometimes;parfois
-2;17;座ります;すわります;suarimasu;sit;s’assoir
-2;17;布団;ふとん;futon;futon;futon
-2;17;隅;すみ;sumi;corner;coin
-2;17;片隅;かたすみ;katasumi;small corner;petit coin
-2;17;長い;ながい;nagai;long;long
-2;17;低い;ひくい;hikui;low;bas
-2;17;汚い;きたない;kitanai;dirty;sale
-2;17;冷蔵庫;れいぞうこ;reizouko;refrigerator;refrigerateur
-2;17;平日;へいじつ;heijitsu;weekday;jour de semaine
-2;17;週末;しゅうまつ;shuumatsu;weekend;week-end
-2;17;一昨日;おととい;ototoi;day before yesterday;avant-hier
-2;17;来週;らいしゅう;raishuu;next week;semaine prochaine
-2;17;先週;せんしゅう;senshuu;last week;semaine derniere
-2;17;洗濯;せんたく;sentaku;laundry;lessive
-2;17;掃除;そうじ;souji;cleaning;nettoyage
-2;17;;すぐ;sugu;right away;de suite
-2;17;浴びます;あびます;abimasu;bathe,shower;prendre une douche,se baigner
-2;17;開けます;あけます;akemasu;open;ouvrir
-2;17;終わります;おわります;owarimasu;to end;finir
-2;17;始まります;はじまります;hajimarimasu;to start;commencer
-2;17;鏡;かがみ;kagami;mirror;miroir
-2;17;閉めます;しめます;shimemasu;close;fermer
-2;17;電気;でんき;denki;electricity;electrecite
-2;17;立ちます;たちます;tachimasu;stand up;se mettre debout
-2;17;点けます;つけます;tsukeimasu;turn on (lights);allumer (lumière)
-2;17;電車;でんしゃ;densha;train;train
-2;17;人気;にんき;ninki;personality (popularity);personnalité (populaire)
-2;17;帰ります;かえります;kaerimasu;return;rentrer,retourner
-2;18;泳ぎます;およぎます;oyogimasu;to swim;nager
-2;18;習います;ならいます;naraimasu;to learn;apprendre
-2;18;走ります;はしります;hashirimasu;to run;courir
-2;18;聞きます;ききます;kikimasu;to listen;écouter
-2;18;音楽;おんがく;ongaku;music;musique
-2;18;遊びます;あそびます;asobimasu;to play;jouer
-2;18;歌います;うたいます;utaimasu;to sing;chanter
-2;18;歌;うた;uta;song;chanson
-2;18;枚;まい;mai;counter for flat objects;compteur pour objets plats
-2;18;写真;しゃしん;shashin;photo;photo
-2;18;撮ります;とります;torimasu;to take photos;prendre des photos
-2;18;映画;えいが;eiga;film,movie;film
-2;18;描きます;かきます;kakimasu;to draw;dessiner
-2;18;手紙;てがみ;tegami;letter;lettre
-2;18;絵;え;e;picture;dessin
-2;18;楽しい;たのしい;tanoshii;fun;fun
-2;18;息子;むすこ;musuko;son;fils
-2;18;娘;むすめ;musume;daughter;fille
-2;18;叔母;おば;oba;aunt;tante
-2;18;妻;つま;tsuma;wife (formal);épouse (formel)
-2;18;夫;おっと;otto;husband (formal);époux (formel)
-2;18;;いとこ;itoko;cousin;cousin
-2;18;;おじ;oji;uncle;oncle
-2;18;(ご)在宅;(ご)ざいたく;(go)zaitaku;at home;être à la maison
-2;18;;ただいま;tadaima;I'm back,I'm home;je suis de retour,je suis à la maison
-2;18;;おじさん;ojiisan;grandfather;grand père
-2;18;;いってきます;ittekimasu;I'm off,I'm leaving;je pars
-2;18;お帰りなさい;おかえりなさい;okaerinasai;welcome back;rebienvenu
-2;18;;いってらっしゃい;itterasshai;take care,have a nice day;passe une bonne journée
-2;18;似ています;にています;niteimasu;to resemble;ressembler
-2;18;親戚;しんせき;shinseki;relatives;proches
-2;18;祖母;そぼ;sobo;my grandmother;ma grand mère
-2;18;祖父;そふ;sofu;my grandfather;mon grand père
-2;18;孫;まご;mago;my grandchildren;mes petit enfants
-2;18;父親;ちちおや;chichioya; father (relationship or role);père (relation ou rôle)
-2;18;母親;ははおや;hahaoya;mother (relationship or role);mère (relation ou rôle)
-2;18;親;おや;oya;parents,ancestor (general without sepcifying the degree offormality);parents,ancêtres (en général sans spécifier le degré de formalité)
-2;18;主人;しゅじん;shujin;owner;propriétaire
-2;18;ご主人;ごしゅじん;goshujin;husband (polite & affectionate);mari (polit & affectif)
-2;18;奥さん;おくさん;okusan;wife (polite & affectionate);femme (polit & affectif)
-2;18;孫息子;まごむすこ;magomusuko;grandson;petit fils
-2;18;お孫さん;おまごさん;omagosan;your grandchild;tes petis enfants
-2;18;孫娘;まごむすめ;magomusume;granddaughter;petite fille
-2;19;車;くるま;kuruma;car;voiture
-2;19;駅;えき;eki;station;gare
-2;19;自転車;じてんしゃ;jitenshi;bicycle;vélo
-2;19;地下鉄;ちかてつ;chikaku;subway;métro
-2;19;空港;くうこう;kuukou;airport;aéroport
-2;19;飛行機;ひこうき;hikouki;airplane;avion
-2;19;地図;ちず;chizu;map;carte
-2;19;速い;はやい;hayai;fast,early;rapide,tôt
-2;19;遅い;おそい;osoi;slow,late;lent,en retard
-2;19;遠い;とおい;tooi;far;loin
-2;19;近い;ちかい;chikai;near;proche (lieu)
-2;19;白い;しろい;shiroi;white;blanc
-2;19;赤い;あかい;akai;red;rouge
-2;19;乗ります;のります;norimasu;to ride;prendre (un transport)
-2;19;使います;つかいます;tsukaimasu;to use;utiliser
-2;19;歩きます;あるきます;arukimasu;to walk;marcher
-2;19;着ます;きます;kimasu;to wear (full/upper body);porter (corps complet/supérieur)
-2;19;履きます;はきます;hakimasu;to wear (foot / leg);porter (jambes / pieds)
-2;19;被ります;かぶります;kaburimasu;to wear (on head);porter (sur la tête)
-2;19;黄色い;きいろい;kiiroi;yellow;jaune
-2;19;靴;くつ;kutsu;shoes;chaussure
-2;19;青い;あおい;aoi;blue;bleu
-2;19;オランジ色;オランジいろ;oranjiiro;orange;orange
-2;19;ピンク色;ピンクいろ;pinkuiro;pink;rose
-2;19;;パンツ;pantsu;underwear;sous-vêtement
-2;19;;ズポン;zupon;pants;pantalon
-2;19;洗います;あらいます;araimasu;to wash;laver
-2;19;服;ふく;fuku;clothes;habits
-2;19;黒い;くろい;kuroi;black;noir
-2;19;茶色;ちゃいろ;chairo;brown;marron
-2;19;脱ぎます;ぬぎます;nugimasu;to take off,remove;enlever
-2;19;帽子;ぼおし;booshi;hat;chapeau
-2;19;欲しい;ほしい;hoshii;want;vouloir
+2 old;1;買います;かいます;kaimasu;buy;acheter
+2 old;1;土曜日;どようび;doyoubi;saturday;samedi
+2 old;1;話します;はなします;hanashimasu;speak,talk;parler
+2 old;1;日;ひ;hi;day;jour
+2 old;2;新聞;しんぶん;shinbun;newspaper;journal
+2 old;2;食べます;たべます;tabemasu;eat;manger
+2 old;2;飲みます;のみます;nomimasu;drink;boire
+2 old;2;と言います;といいます;toimasu;say;dire
+2 old;2;四時;よじ;yoji;four o'clock;(il est) 4 heures
+2 old;3;行きます;いきます;ikimasu;go;aller
+2 old;3;来ます;きます;kimasu;come;venir
+2 old;3;分;ふん;fun;minute;minute
+2 old;3;時間;じかん;jikan;hour;heure
+2 old;3;十分;じゅっぷん;juppun;ten minutes;dix minutes
+2 old;3;七分;しちふん;shichifun;seven minutes;sept minutes
+2 old;3;二分;にふん;nifun;two minutes;deux minutes
+2 old;3;五分;ごふん;gofun;five minutes;cinq minutes
+2 old;4;何;なに;nani;what;quoi
+2 old;4;高い;たかい;takai;expensive,high;cher,eleve
+2 old;4;休みます;やすみます;yasumimasu;rest,take a break;se reposer,prendre une pause
+2 old;4;九分;きゅうふん;kyuufun;nine minutes;neuf minutes
+2 old;5;七月;しちがつ;shichigatsu;july;juillet
+2 old;5;九月;くがつ;kugatsu;september;septembre
+2 old;5;休み;やすみ;yasumi;holiday,day off;vacances
+2 old;6;買い物;かいもの;kaimono;shopping;faire des achats
+2 old;6;来月;らいげつ;raigetsu;next month;mois prochain
+2 old;6;来週;らいしゅう;raishuu;next week;semaine prochaine
+2 old;7;会います;あいます;aimasu;meet;rencontrer
+2 old;7;金曜日;きんようび;kinyoubi;friday;vendredi
+2 old;7;お父さん;おとうさん;otousan;your father;ton père
+2 old;7;お母さん;おかあさん;okaasan;your mother;ta mère
+2 old;7;月曜日;げつようび;getsuyoubi;monday;lundi
+2 old;8;木曜日;もくようび;mokuyoubi;thursday;jeudi
+2 old;8;卵;たまご;tamago;egg;oeuf
+2 old;8;魚;さかな;sakana;fish;poisson
+2 old;8;火曜日;かようび;kayoubi;tuesday;mardi
+2 old;8;山田;やまだ;yamada;yamada;yamada
+2 old;8;水曜日;すいようび;suiyoubi;wednesday;mercredi
+2 old;9;三千;さんぜん;sanzen;three thousand;trois mille
+2 old;11;一階;いっかい;ikkai;first floor;premier etage
+2 old;11;二階;にかい;nikai;second floor;deuxieme etage
+2 old;11;書きます;かきます;kakimasu;write;ecrire
+2 old;11;作ります;つくります;tsukurimasu;make,create;creer,fabriquer
+2 old;12;先生;せんせい;sensei;teacher;professeur
+2 old;12;英語;えいご;eigo;english;anglais
+2 old;12;日本語;にほんご;nihongo;japanese;japonais
+2 old;12;学生;がくせい;gakusei;student;etudiant
+2 old;12;名前;なまえ;namae;name;nom
+2 old;12;お茶;おちゃ;ocha;tea;the
+2 old;12;僕;ぼく;boku;i,me;moi
+2 old;12;ご飯;ごはん;gohan;rice,meal;riz, repas
+2 old;12;野菜;やさい;yasai;vegetable;legume
+2 old;12;肉;にく;niku;meat;viande
+2 old;12;牛乳;ぎゅうにゅう;gyuunyuu;milk;lait
+2 old;12;今;いま;ima;now;maintenant
+2 old;13;学校;がっこう;gakkou;school;ecole
+2 old;13;午後;ごご;gogo;pm;apres-midi
+2 old;13;午前;ごぜん;gozen;am;matin
+2 old;13;零;れい;rei;zero;zero
+2 old;13;会社;かいしゃ;kaisha;company;entreprise
+2 old;13;毎日;まいにち;mainichi;every day;tous les jours
+2 old;13;毎朝;まいあさ;maiasa;every morning;tous les matins
+2 old;13;毎晩;まいばん;maiban;every night;toutes les nuits
+2 old;13;風呂;ふろ;furo;bath;bain
+2 old;13;寝室;しんしつ;shinshitsu;bedroom;chambre
+2 old;13;部屋;へや;heya;room;piece
+2 old;13;台所;だいどころ;daidokoro;kitchen;cuisine
+2 old;13;家;いえ;ie;house,home;maison
+2 old;13;庭;にわ;niwa;garden;jardin
+2 old;13;窓;まど;mado;window;fenetre
+2 old;13;子;こ;ko;child;enfant
+2 old;13;椅子;いす;isu;chair;chaise
+2 old;13;猫;ねこ;neko;cat;chat
+2 old;13;犬;いぬ;inu;dog;chien
+2 old;13;鳥;とり;tori;bird;oiseau
+2 old;13;机;つくえ;tsukue;desk;bureau
+2 old;14;歳;さい;sai;years old;ans
+2 old;14;大阪;おおさか;oosaka;osaka;osaka
+2 old;14;外;そと;soto;outside;exterieur
+2 old;14;外国人;がいこくじん;gaikokujin;foreigner;etranger
+2 old;14;留学;りゅうがく;ryuugaku;study abroad;etudier a l'etranger
+2 old;14;留学生;りゅうがくせい;ryuugakusei;international student;etudiant international
+2 old;14;健太;けんた;kenta;kenta;kenta
+2 old;14;直美;なおみ;naomi;naomi;naomi
+2 old;14;個;こ;ko;counter for small objects;compteur pour petits objets
+2 old;14;中学;ちゅうがく;chuugaku;junior high school;college
+2 old;14;小学;しょうがく;shougaku;elementary school;ecole primaire
+2 old;14;高校;こうこう;koukou;high school;lycee
+2 old;14;大学;だいがく;daigaku;university;universite
+2 old;15;彼;かれ;kare;he,boyfriend;lui,petit ami
+2 old;15;彼女;かのじょ;kanojo;she,girlfriend;elle,petite amie
+2 old;15;誰;だれ;dare;who;qui
+2 old;15;姉;あね;ane;older sister;grand soeur
+2 old;15;妹;いもうと;imouto;younger sister;petite soeur
+2 old;15;弟;おとうと;otouto;younger brother;petit frere
+2 old;15;兄;あに;ani;older brother;frere
+2 old;15;お姉さん;おねえさん;oneesan;your sister;soeur
+2 old;15;お兄さん;おにいさん;oniisan;your brother;frere
+2 old;15;子供;こども;kodomo;child;enfant
+2 old;15;両親;りょうしん;ryoushin;my parents;mes parents
+2 old;15;家族;かぞく;kazoku;family;famille
+2 old;15;昼ご飯;ひるごはん;hirugohan;lunch;dejeuner
+2 old;15;晩ご飯;ばんごはん;bangohan;dinner;diner
+2 old;15;食堂;しょくどう;shokudou;cafeteria;cafeteria
+2 old;15;熱い;あつい;atsui;hot;chaud
+2 old;15;冷たい;つめたい;tsumetai;cold;froid
+2 old;15;好き;すき;suki;like,love;aimer
+2 old;15;安い;やすい;yasui;cheap;bon marche
+2 old;15;甘い;あまい;amai;sweet;doux
+2 old;15;朝ご飯;あさごはん;asagohan;breakfast;petit dejeuner
+2 old;16;今日;きょう;kyou;today;aujourd'hui
+2 old;16;仕事;しごと;shigoto;work;travail
+2 old;16;働きます;はたらきます;hatarakimasu;to work;travailler
+2 old;16;友達;ともだち;tomodachi;friend;ami
+2 old;16;昨日;きのう;kinou;yesterday;hier
+2 old;16;明日;あした;ashita;tomorrow;demain
+2 old;16;明後日;あさって;asatte;day after tomorrow;apres-demain
+2 old;16;忙しい;いそがしい;isogashii;busy;occupe
+2 old;16;上;うえ;ue;up,above;haut,dessus
+2 old;16;下;した;shita;down,below;bas,dessous
+2 old;16;左;ひだらい;hidari;left;gauche
+2 old;16;右;みぎ;migi;right;droit
+2 old;16;横;よこ;yoko;side,beside;a cote
+2 old;16;隣;となり;tonari;next to;a cote de
+2 old;16;前;まえ;mae;front;devant
+2 old;16;後ろ;うしろ;ushiro;behind;derriere
+2 old;16;冊;さつ;satsu;counter for books;compteur pour livres
+2 old;16;本棚;ほんだな;hondana;bookshelf;etagere a livres
+2 old;16;棚;たな;tana;shelf;etagere
+2 old;16;旅行;りょこう;ryokou;travel;voyage
+2 old;16;お土産;おみやげ;omiyage;souvenir;souvenir
+2 old;16;韓国;かんこく;kankoku;korea;coree
+2 old;16;韓国人;かんこくじん;kankokujin;korean;coreen
+2 old;16;間;あいだ;aida;between;entre
+2 old;16;時々;ときどき;tokidoki;sometimes;parfois
+2 old;17;座ります;すわります;suarimasu;sit;s’assoir
+2 old;17;布団;ふとん;futon;futon;futon
+2 old;17;隅;すみ;sumi;corner;coin
+2 old;17;片隅;かたすみ;katasumi;small corner;petit coin
+2 old;17;長い;ながい;nagai;long;long
+2 old;17;低い;ひくい;hikui;low;bas
+2 old;17;汚い;きたない;kitanai;dirty;sale
+2 old;17;冷蔵庫;れいぞうこ;reizouko;refrigerator;refrigerateur
+2 old;17;平日;へいじつ;heijitsu;weekday;jour de semaine
+2 old;17;週末;しゅうまつ;shuumatsu;weekend;week-end
+2 old;17;一昨日;おととい;ototoi;day before yesterday;avant-hier
+2 old;17;来週;らいしゅう;raishuu;next week;semaine prochaine
+2 old;17;先週;せんしゅう;senshuu;last week;semaine derniere
+2 old;17;洗濯;せんたく;sentaku;laundry;lessive
+2 old;17;掃除;そうじ;souji;cleaning;nettoyage
+2 old;17;;すぐ;sugu;right away;de suite
+2 old;17;浴びます;あびます;abimasu;bathe,shower;prendre une douche,se baigner
+2 old;17;開けます;あけます;akemasu;open;ouvrir
+2 old;17;終わります;おわります;owarimasu;to end;finir
+2 old;17;始まります;はじまります;hajimarimasu;to start;commencer
+2 old;17;鏡;かがみ;kagami;mirror;miroir
+2 old;17;閉めます;しめます;shimemasu;close;fermer
+2 old;17;電気;でんき;denki;electricity;electrecite
+2 old;17;立ちます;たちます;tachimasu;stand up;se mettre debout
+2 old;17;点けます;つけます;tsukeimasu;turn on (lights);allumer (lumière)
+2 old;17;電車;でんしゃ;densha;train;train
+2 old;17;人気;にんき;ninki;personality (popularity);personnalité (populaire)
+2 old;17;帰ります;かえります;kaerimasu;return;rentrer,retourner
+2 old;18;泳ぎます;およぎます;oyogimasu;to swim;nager
+2 old;18;習います;ならいます;naraimasu;to learn;apprendre
+2 old;18;走ります;はしります;hashirimasu;to run;courir
+2 old;18;聞きます;ききます;kikimasu;to listen;écouter
+2 old;18;音楽;おんがく;ongaku;music;musique
+2 old;18;遊びます;あそびます;asobimasu;to play;jouer
+2 old;18;歌います;うたいます;utaimasu;to sing;chanter
+2 old;18;歌;うた;uta;song;chanson
+2 old;18;枚;まい;mai;counter for flat objects;compteur pour objets plats
+2 old;18;写真;しゃしん;shashin;photo;photo
+2 old;18;撮ります;とります;torimasu;to take photos;prendre des photos
+2 old;18;映画;えいが;eiga;film,movie;film
+2 old;18;描きます;かきます;kakimasu;to draw;dessiner
+2 old;18;手紙;てがみ;tegami;letter;lettre
+2 old;18;絵;え;e;picture;dessin
+2 old;18;楽しい;たのしい;tanoshii;fun;fun
+2 old;18;息子;むすこ;musuko;son;fils
+2 old;18;娘;むすめ;musume;daughter;fille
+2 old;18;叔母;おば;oba;aunt;tante
+2 old;18;妻;つま;tsuma;wife (formal);épouse (formel)
+2 old;18;夫;おっと;otto;husband (formal);époux (formel)
+2 old;18;;いとこ;itoko;cousin;cousin
+2 old;18;;おじ;oji;uncle;oncle
+2 old;18;(ご)在宅;(ご)ざいたく;(go)zaitaku;at home;être à la maison
+2 old;18;;ただいま;tadaima;I'm back,I'm home;je suis de retour,je suis à la maison
+2 old;18;;おじさん;ojiisan;grandfather;grand père
+2 old;18;;いってきます;ittekimasu;I'm off,I'm leaving;je pars
+2 old;18;お帰りなさい;おかえりなさい;okaerinasai;welcome back;rebienvenu
+2 old;18;;いってらっしゃい;itterasshai;take care,have a nice day;passe une bonne journée
+2 old;18;似ています;にています;niteimasu;to resemble;ressembler
+2 old;18;親戚;しんせき;shinseki;relatives;proches
+2 old;18;祖母;そぼ;sobo;my grandmother;ma grand mère
+2 old;18;祖父;そふ;sofu;my grandfather;mon grand père
+2 old;18;孫;まご;mago;my grandchildren;mes petit enfants
+2 old;18;父親;ちちおや;chichioya; father (relationship or role);père (relation ou rôle)
+2 old;18;母親;ははおや;hahaoya;mother (relationship or role);mère (relation ou rôle)
+2 old;18;親;おや;oya;parents,ancestor (general without sepcifying the degree offormality);parents,ancêtres (en général sans spécifier le degré de formalité)
+2 old;18;主人;しゅじん;shujin;owner;propriétaire
+2 old;18;ご主人;ごしゅじん;goshujin;husband (polite & affectionate);mari (polit & affectif)
+2 old;18;奥さん;おくさん;okusan;wife (polite & affectionate);femme (polit & affectif)
+2 old;18;孫息子;まごむすこ;magomusuko;grandson;petit fils
+2 old;18;お孫さん;おまごさん;omagosan;your grandchild;tes petis enfants
+2 old;18;孫娘;まごむすめ;magomusume;granddaughter;petite fille
+2 old;19;車;くるま;kuruma;car;voiture
+2 old;19;駅;えき;eki;station;gare
+2 old;19;自転車;じてんしゃ;jitenshi;bicycle;vélo
+2 old;19;地下鉄;ちかてつ;chikaku;subway;métro
+2 old;19;空港;くうこう;kuukou;airport;aéroport
+2 old;19;飛行機;ひこうき;hikouki;airplane;avion
+2 old;19;地図;ちず;chizu;map;carte
+2 old;19;速い;はやい;hayai;fast,early;rapide,tôt
+2 old;19;遅い;おそい;osoi;slow,late;lent,en retard
+2 old;19;遠い;とおい;tooi;far;loin
+2 old;19;近い;ちかい;chikai;near;proche (lieu)
+2 old;19;白い;しろい;shiroi;white;blanc
+2 old;19;赤い;あかい;akai;red;rouge
+2 old;19;乗ります;のります;norimasu;to ride;prendre (un transport)
+2 old;19;使います;つかいます;tsukaimasu;to use;utiliser
+2 old;19;歩きます;あるきます;arukimasu;to walk;marcher
+2 old;19;着ます;きます;kimasu;to wear (full/upper body);porter (corps complet/supérieur)
+2 old;19;履きます;はきます;hakimasu;to wear (foot / leg);porter (jambes / pieds)
+2 old;19;被ります;かぶります;kaburimasu;to wear (on head);porter (sur la tête)
+2 old;19;黄色い;きいろい;kiiroi;yellow;jaune
+2 old;19;靴;くつ;kutsu;shoes;chaussure
+2 old;19;青い;あおい;aoi;blue;bleu
+2 old;19;オランジ色;オランジいろ;oranjiiro;orange;orange
+2 old;19;ピンク色;ピンクいろ;pinkuiro;pink;rose
+2 old;19;;パンツ;pantsu;underwear;sous-vêtement
+2 old;19;;ズポン;zupon;pants;pantalon
+2 old;19;洗います;あらいます;araimasu;to wash;laver
+2 old;19;服;ふく;fuku;clothes;habits
+2 old;19;黒い;くろい;kuroi;black;noir
+2 old;19;茶色;ちゃいろ;chairo;brown;marron
+2 old;19;脱ぎます;ぬぎます;nugimasu;to take off,remove;enlever
+2 old;19;帽子;ぼおし;booshi;hat;chapeau
+2 old;19;欲しい;ほしい;hoshii;want;vouloir
+2;14;食べ物;たべもの;;;
+2;14;;おまつり;;;
+2;14;;たいこ;;;
+2;14;;おおみそか;;;
+2;14;;イルミネーション;;;
+2;14;;たんじょうび;;;
+2;15;;デート;;;
+2;15;映画館;えいがかん;;;
+2;15;;ばんご;;;
+2;15;;ツァ-;;;
+2;15;;きた;;;
+2;15;;よびます;;;
+2;15;飲み物;のみもの;;;
+2;15;;ゆっくり;;;
+2;15;乗り換えます;のりかえます;;;
+2;15;;はらいます;;;
+2;15;;インフォマション;;;
+2;15;;ポップコーン;;;
+2;15;;ワイン;;;
+2;15;;うごどけい;;;
+2;15;;ネクレス;;;
+2;15;;うでどけい;;;
+2;15;;かいそく;;;
+2;15;;ブラウス;;;
+2;16;口;くち;;;
+2;16;;め;;;
+2;16;;カラフル;;;
+2;16;;トマト;;;
+2;16;;はな;;;
+2;16;耳;みみ;;;
+2;16;;すうがく;;;
+2;16;;キャンパス;;;
+2;16;;せんこう;;;
+2;16;;ビジネス;;;
+2;16;;ボランティア;;;
+2;16;;クリスマス;;;
+2;16;;ダンス;;;
+2;16;;ルームメイト;;;
+2;16;;りょう;;;
+2;16;;チェス;;;
+2;16;;かんとく;;;
+2;16;;どうぶつ;;;
+2;16;;なんびき;;;
+2;17;雨;あめ;;;
+2;17;;こしょう;;;
+2;17;;バックパック;;;
+2;17;一日;ついたち;;;
+2;17;ぎゅ肉;ぎゅにく;;;
+2;17;川;かわ;;;
+2;17;;けしき;;;
+2;17;;くらい;;;
+2;17;;ハイキング;;;
+2;17;;ピクニック;;;
+2;17;楽しい見ます;たのしいみます;;;
+2;17;;モノレール;;;
+2;17;;バーバキュー;;;
+2;17;;すずしい;;cool (temperature);
+2;17;;てんいん;;shop assistant;
+2;17;;ぜんぶで;;;
+2;17;;かいけい;;;
+2;17;;ちゅうかがい;;;
+2;17;;はし;;;
+2;18;;かぎ;;;
+2;18;三日;みっか;;;
+2;18;二日;ふつか;;;
+2;18;;クレジットカード;;;
+2;18;三階;さんがい;;;
+2;18;;タオル;;;
+2;18;;チェックイン;;;
+2;18;;チェックアウト;;;
+2;18;;パスワード;;;
+2;18;;こうり;;;
+2;18;;さがします;;;
+2;18;;とまります;;;
+2;18;;ネット;;;
+2;18;;よやくします;;;
+2;18;;むりょう;;;
+3;1;;ぞう;;;
+3;1;;ピーナッツ;;;
+3;1;;はじめて;;;
+3;1;;すいぞくかん;;;
+3;1;;クレープ;;;
+3;1;;きょねん;;;
+3;1;見つけます;みつけます;;;
+3;1;;プレゼント;;;
+3;1;;カップ;;;
+3;1;;おもちゃ;;;
+3;1;;ナイフ;;;
+3;1;;どうやって;;in what way,how;
+3;1;;おさら;;;
+3;1;;ヘッドフォン;;;
+3;1;;フォーク;;;
+3;1;;わたります;;;
+3;1;;とちゅうど;;;
+3;2;;グレー;;;
+3;2;;でんち;;;
+3;2;;レシート;;;
+3;2;;けーブル;;;
+3;2;;キーボード;;;
+3;2;;モニター;;;
+3;2;;ワイヤレス;;;
+3;2;;がるい;;;
+3;2;;スピーカー;;;
+3;2;電気屋;でんきや;;;
+3;2;;ペン;;;
+3;2;今夜;こんや;;;
+3;2;;ステーじ;;;
+3;2;;まんなが;;;
+3;2;;アーティスト;;artist;
+3;2;;まちます;;;
+3;2;;ひがし;;;
+3;2;;まだ;;;
+3;2;;もどります;;;
+3;2;;もう;;;
