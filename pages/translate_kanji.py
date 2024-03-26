@@ -6,7 +6,7 @@ from utils.wrapers import create_back_and_next_buttons
 
 
 def render_page():
-    st.title("Translate the Kanji !")
+    st.title("Translate to Japanese !")
 
     create_back_and_next_buttons()
 
