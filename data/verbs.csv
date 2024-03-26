@@ -1,43 +1,57 @@
-﻿section;unit;dictionary;polite;-te-form;hiragana;romanji;english;french
+﻿section;unit;dictionary;polite;#NAME?;hiragana;romanji;english;french
 1;7;見るる;見ます;見て;みます;mimasu;watch,look;regarder
 1;7;読む;読みます;読んで;よみます;yomimasu;read;lire
-2;1;買う;買います;買って;かいます;kaimasu;buy;acheter
-2;1;する;します;して;します;hanashimasu;do;faire
-2;1;話す;話します;話して;はなします;hanashimasu;speak,talk;parler
-2;2;食べる;食べます;食べて;たべます;tabemasu;eat;manger
-2;2;飲む;飲みます;飲んで;のみます;nomimasu;drink;boire
-2;2;言う;と言います;言って;といいます;toimasu;say;dire
-2;3;行く;行きます;行って;いきます;ikimasu;go;aller
-2;3;来る;来ます;来て;きます;kimasu;come;venir
-2;4;休む;休みます;休んで;やすみます;yasumimasu;rest,take a break;se reposer,prendre une pause
-2;7;会う;会います;会って;あいます;aimasu;meet;rencontrer
-2;11;書く;書きます;書いて;かきます;kakimasu;write;ecrire
-2;11;作る;作ります;作って;つくります;tsukurimasu;make,create;creer,fabriquer
-2;16;働く;働きます;働いて;はたらきます;hatarakimasu;to work;travailler
-2;17;座る;座ります;座って;すわります;suarimasu;sit;s’assoir
-2;17;浴びる;浴びます;浴びて;あびます;abimasu;bathe,shower;prendre une douche,se baigner
-2;17;開ける;開けます;開けて;あけます;akemasu;open;ouvrir
-2;17;終わる;終わります;終わって;おわります;owarimasu;to end;finir
-2;17;始まる;始まります;始まって;はじまります;hajimarimasu;to start;commencer
-2;17;閉める;閉めます;閉めて;しめます;shimemasu;close;fermer
-2;17;立つ;立ちます;立って;たちます;tachimasu;stand up;se mettre debout
-2;17;点ける;点けます;点けて;つけます;tsukeimasu;turn on (lights);allumer (lumière)
-2;17;帰る;帰ります;帰って;かえります;kaerimasu;return;rentrer,retourner
-2;17;帰る;帰ります;帰って;かえります;kaerimasu;to return;rentrer,retourner
-2;18;泳ぐ;泳ぎます;泳いで;およぎます;oyogimasu;to swim;nager
-2;18;習う;習います;習って;ならいます;naraimasu;to learn;apprendre
-2;18;走る;走ります;走って;はしります;hashirimasu;to run;courir
-2;18;聞く;聞きます;聞いて;ききます;kikimasu;to listen;écouter
-2;18;遊ぶ;遊びます;遊んで;あそびます;asobimasu;to play;jouer
-2;18;歌う;歌います;歌って;うたいます;utaimasu;to sing;chanter
-2;18;撮る;撮ります;撮って;とります;torimasu;to take photos;prendre des photos
-2;18;描く;描きます;描いて;かきます;kakimasu;to draw;dessiner
-2;18;似ている;似ています;似ていて;にています;niteimasu;to resemble;ressembler
-2;19;乗る;乗ります;乗って;のります;norimasu;to ride;prendre (un transport)
-2;19;使う;使います;使って;つかいます;tsukaimasu;to use;utiliser
-2;19;歩く;歩きます;歩いて;あるきます;arukimasu;to walk;marcher
-2;19;着る;着ます;着て;きます;kimasu;to wear (full/upper body);porter (corps complet/supérieur)
-2;19;履く;履きます;履いて;はきます;hakimasu;to wear (foot / leg);porter (jambes / pieds)
-2;19;被る;被ります;被って ;かぶります;kaburimasu;to wear (on head);porter (sur la tête)
-2;19;洗う;洗います;洗って;あらいます;araimasu;to wash;laver
-2;19;脱ぐ;脱ぎます;脱いで;ぬぎます;nugimasu;to take off,remove;enlever
+2 old;1;買う;買います;買って;かいます;kaimasu;buy;acheter
+2 old;1;する;します;して;します;hanashimasu;do;faire
+2 old;1;話す;話します;話して;はなします;hanashimasu;speak,talk;parler
+2 old;2;食べる;食べます;食べて;たべます;tabemasu;eat;manger
+2 old;2;飲む;飲みます;飲んで;のみます;nomimasu;drink;boire
+2 old;2;言う;と言います;言って;といいます;toimasu;say;dire
+2 old;3;行く;行きます;行って;いきます;ikimasu;go;aller
+2 old;3;来る;来ます;来て;きます;kimasu;come;venir
+2 old;4;休む;休みます;休んで;やすみます;yasumimasu;rest,take a break;se reposer,prendre une pause
+2 old;7;会う;会います;会って;あいます;aimasu;meet;rencontrer
+2 old;11;書く;書きます;書いて;かきます;kakimasu;write;ecrire
+2 old;11;作る;作ります;作って;つくります;tsukurimasu;make,create;creer,fabriquer
+2 old;16;働く;働きます;働いて;はたらきます;hatarakimasu;to work;travailler
+2 old;17;座る;座ります;座って;すわります;suarimasu;sit;s’assoir
+2 old;17;浴びる;浴びます;浴びて;あびます;abimasu;bathe,shower;prendre une douche,se baigner
+2 old;17;開ける;開けます;開けて;あけます;akemasu;open;ouvrir
+2 old;17;終わる;終わります;終わって;おわります;owarimasu;to end;finir
+2 old;17;始まる;始まります;始まって;はじまります;hajimarimasu;to start;commencer
+2 old;17;閉める;閉めます;閉めて;しめます;shimemasu;close;fermer
+2 old;17;立つ;立ちます;立って;たちます;tachimasu;stand up;se mettre debout
+2 old;17;点ける;点けます;点けて;つけます;tsukeimasu;turn on (lights);allumer (lumière)
+2 old;17;帰る;帰ります;帰って;かえります;kaerimasu;return;rentrer,retourner
+2 old;17;帰る;帰ります;帰って;かえります;kaerimasu;to return;rentrer,retourner
+2 old;18;泳ぐ;泳ぎます;泳いで;およぎます;oyogimasu;to swim;nager
+2 old;18;習う;習います;習って;ならいます;naraimasu;to learn;apprendre
+2 old;18;走る;走ります;走って;はしります;hashirimasu;to run;courir
+2 old;18;聞く;聞きます;聞いて;ききます;kikimasu;to listen;écouter
+2 old;18;遊ぶ;遊びます;遊んで;あそびます;asobimasu;to play;jouer
+2 old;18;歌う;歌います;歌って;うたいます;utaimasu;to sing;chanter
+2 old;18;撮る;撮ります;撮って;とります;torimasu;to take photos;prendre des photos
+2 old;18;描く;描きます;描いて;かきます;kakimasu;to draw;dessiner
+2 old;18;似ている;似ています;似ていて;にています;niteimasu;to resemble;ressembler
+2 old;19;乗る;乗ります;乗って;のります;norimasu;to ride;prendre (un transport)
+2 old;19;使う;使います;使って;つかいます;tsukaimasu;to use;utiliser
+2 old;19;歩く;歩きます;歩いて;あるきます;arukimasu;to walk;marcher
+2 old;19;着る;着ます;着て;きます;kimasu;to wear (full/upper body);porter (corps complet/supérieur)
+2 old;19;履く;履きます;履いて;はきます;hakimasu;to wear (foot / leg);porter (jambes / pieds)
+2 old;19;被る;被ります;被って ;かぶります;kaburimasu;to wear (on head);porter (sur la tête)
+2 old;19;洗う;洗います;洗って;あらいます;araimasu;to wash;laver
+2 old;19;脱ぐ;脱ぎます;脱いで;ぬぎます;nugimasu;to take off,remove;enlever
+2;15;乗り換える;乗り換えます;乗り換えて;のりかえます;norikaemasu;to transfer (trains, etc.);transférer (trains, etc.)
+2;15;;よびます;yobimasu;to call;appeler
+2;15;;はらいます;haraimasu;to pay;payer
+2;17;楽しむ;楽しみます;楽しんで;たのしいみます;tanoshiimimasu;to have fun;s'amuser
+2;18;探す;探します;探して;さがします;sagashimasu;to look for;chercher
+2;18;泊まる;泊まります;泊まって;とまります;tomarimasu;to stay (at a hotel etc.);séjourner (dans un hôtel etc.)
+2;18;予約する;予約します;予約して;よやくします;yoyakushimasu;to reserve;réserver
+3;1;見つける;見つけます;見つけて;みつけます;mitsukemasu;to find;trouver
+3;1;切る;切ります;切って;きります;kirimasu;to cut;couper
+3;1;練習する;練習します;練習して;れんしゅうします;renshuushimasu;to practice;s'entrainer
+3;2;待つ;待ちます;待って;まちます;machimasu;to wait;attendre
+3;2;戻る;戻ります;戻って;もどります;modorimasu;to return;retourner
+3;2;光る;光ります;光って;ひかります;hikarimasu;to shine;briller
+3;2;疲れる;疲れます;疲れて;つかれます;tsukaremasu;to get tired;se fatiguer

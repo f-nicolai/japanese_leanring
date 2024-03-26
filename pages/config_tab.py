@@ -46,24 +46,24 @@ def select_all_units_from_section(section: str):
     if st.session_state[f'config.{section}_all']:
         for unit in st.session_state.checkbox_values[section].keys():
             st.session_state.checkbox_values[section][unit] = True
-            add_unit_from_without_replacement_dataframe(section=int(section), unit=int(unit))
+            add_unit_from_without_replacement_dataframe(section=section, unit=int(unit))
 
     else:
         for x in range(len(st.session_state.checkbox_values[section])):
             for unit in st.session_state.checkbox_values[section].keys():
                 st.session_state.checkbox_values[section][unit] = False
-                remove_unit_from_without_replacement_dataframe(section=int(section), unit=int(unit))
+                remove_unit_from_without_replacement_dataframe(section=section, unit=int(unit))
 
 
 def update_config_filters(checkbox_id: str):
     section, unit = checkbox_id.replace('config.', '').split('_')
     if st.session_state[checkbox_id]:
-        st.session_state.filters[int(section)].append(int(unit))
-        add_unit_from_without_replacement_dataframe(section=int(section), unit=int(unit))
+        st.session_state.filters[section].append(int(unit))
+        add_unit_from_without_replacement_dataframe(section=section, unit=int(unit))
     else:
-        st.session_state.filters[int(section)].remove(int(unit))
-        st.session_state.checkbox_all[int(section)] = False
-        remove_unit_from_without_replacement_dataframe(section=int(section), unit=int(unit))
+        st.session_state.filters[section].remove(int(unit))
+        st.session_state.checkbox_all[section] = False
+        remove_unit_from_without_replacement_dataframe(section=section, unit=int(unit))
 
 
 @st.cache_data
@@ -83,9 +83,9 @@ def initialize_internal_config():
         .agg(units=('unit', list)) \
         .to_dict('list')
 
-    st.session_state.config: dict[int, list[int]] = dict(zip(config['section'], config['units']))
-    st.session_state.filters: dict[int, list[int]] = {x: [] for x in config['section']}
-    st.session_state.checkbox_values: dict[int, dict[int, bool]] = {x: {y: False for y in st.session_state.config[x]}
+    st.session_state.config: dict[str, list[int]] = dict(zip(config['section'], config['units']))
+    st.session_state.filters: dict[str, list[int]] = {x: [] for x in config['section']}
+    st.session_state.checkbox_values: dict[str, dict[int, bool]] = {x: {y: False for y in st.session_state.config[x]}
                                                                     for x in config['section']}
     st.session_state.checkbox_all: dict[int, bool] = {x: False for x in config['section']}
     st.session_state['kanji_quizz.current_state'] = 'original'
@@ -127,7 +127,7 @@ def initialize_without_replacement_dataframe(resource: str) -> DataFrame:
         return st.session_state.verbs.loc[get_dataframe_filter(resource=resource)]
 
 
-def add_unit_from_without_replacement_dataframe(section: int, unit: int):
+def add_unit_from_without_replacement_dataframe(section: str, unit: int):
     st.session_state.kanji_sample_without_replacement = concat([
         st.session_state.kanji_sample_without_replacement,
         st.session_state.kanjis.loc[
@@ -143,7 +143,7 @@ def add_unit_from_without_replacement_dataframe(section: int, unit: int):
     ]).sample(frac=1)
 
 
-def remove_unit_from_without_replacement_dataframe(section: int, unit: int):
+def remove_unit_from_without_replacement_dataframe(section: str, unit: int):
     st.session_state.kanji_sample_without_replacement = \
         st.session_state.kanji_sample_without_replacement.drop(
             st.session_state.kanjis.loc[

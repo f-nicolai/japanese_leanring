@@ -272,117 +272,133 @@
 2 old;19;脱ぎます;ぬぎます;nugimasu;to take off,remove;enlever
 2 old;19;帽子;ぼおし;booshi;hat;chapeau
 2 old;19;欲しい;ほしい;hoshii;want;vouloir
-2;14;食べ物;たべもの;;;
-2;14;;おまつり;;;
-2;14;;たいこ;;;
-2;14;;おおみそか;;;
-2;14;;イルミネーション;;;
-2;14;;たんじょうび;;;
-2;15;;デート;;;
-2;15;映画館;えいがかん;;;
-2;15;;ばんご;;;
-2;15;;ツァ-;;;
-2;15;;きた;;;
-2;15;;よびます;;;
-2;15;飲み物;のみもの;;;
-2;15;;ゆっくり;;;
-2;15;乗り換えます;のりかえます;;;
-2;15;;はらいます;;;
-2;15;;インフォマション;;;
-2;15;;ポップコーン;;;
-2;15;;ワイン;;;
-2;15;;うごどけい;;;
-2;15;;ネクレス;;;
-2;15;;うでどけい;;;
-2;15;;かいそく;;;
-2;15;;ブラウス;;;
-2;16;口;くち;;;
-2;16;;め;;;
-2;16;;カラフル;;;
-2;16;;トマト;;;
-2;16;;はな;;;
-2;16;耳;みみ;;;
-2;16;;すうがく;;;
-2;16;;キャンパス;;;
-2;16;;せんこう;;;
-2;16;;ビジネス;;;
-2;16;;ボランティア;;;
-2;16;;クリスマス;;;
-2;16;;ダンス;;;
-2;16;;ルームメイト;;;
-2;16;;りょう;;;
-2;16;;チェス;;;
-2;16;;かんとく;;;
-2;16;;どうぶつ;;;
-2;16;;なんびき;;;
-2;17;雨;あめ;;;
-2;17;;こしょう;;;
-2;17;;バックパック;;;
-2;17;一日;ついたち;;;
-2;17;ぎゅ肉;ぎゅにく;;;
-2;17;川;かわ;;;
-2;17;;けしき;;;
-2;17;;くらい;;;
-2;17;;ハイキング;;;
-2;17;;ピクニック;;;
-2;17;楽しい見ます;たのしいみます;;;
-2;17;;モノレール;;;
-2;17;;バーバキュー;;;
-2;17;;すずしい;;cool (temperature);
-2;17;;てんいん;;shop assistant;
-2;17;;ぜんぶで;;;
-2;17;;かいけい;;;
-2;17;;ちゅうかがい;;;
-2;17;;はし;;;
-2;18;;かぎ;;;
-2;18;三日;みっか;;;
-2;18;二日;ふつか;;;
-2;18;;クレジットカード;;;
-2;18;三階;さんがい;;;
-2;18;;タオル;;;
-2;18;;チェックイン;;;
-2;18;;チェックアウト;;;
-2;18;;パスワード;;;
-2;18;;こうり;;;
-2;18;;さがします;;;
-2;18;;とまります;;;
-2;18;;ネット;;;
-2;18;;よやくします;;;
-2;18;;むりょう;;;
-3;1;;ぞう;;;
-3;1;;ピーナッツ;;;
-3;1;;はじめて;;;
-3;1;;すいぞくかん;;;
-3;1;;クレープ;;;
-3;1;;きょねん;;;
-3;1;見つけます;みつけます;;;
-3;1;;プレゼント;;;
-3;1;;カップ;;;
-3;1;;おもちゃ;;;
-3;1;;ナイフ;;;
-3;1;;どうやって;;in what way,how;
-3;1;;おさら;;;
-3;1;;ヘッドフォン;;;
-3;1;;フォーク;;;
-3;1;;わたります;;;
-3;1;;とちゅうど;;;
-3;2;;グレー;;;
-3;2;;でんち;;;
-3;2;;レシート;;;
-3;2;;けーブル;;;
-3;2;;キーボード;;;
-3;2;;モニター;;;
-3;2;;ワイヤレス;;;
-3;2;;がるい;;;
-3;2;;スピーカー;;;
-3;2;電気屋;でんきや;;;
-3;2;;ペン;;;
-3;2;今夜;こんや;;;
-3;2;;ステーじ;;;
-3;2;;まんなが;;;
-3;2;;アーティスト;;artist;
-3;2;;まちます;;;
-3;2;;ひがし;;;
-3;2;;まだ;;;
-3;2;;もどります;;;
-3;2;;もう;;;
+2;14;食べ物;たべもの;tabemono;food;nourriture
+2;14;;おまつり;omatsuri;festival;festival
+2;14;;たいこ;taiko;drum;tambour
+2;14;;おおみそか;oomisoka;New Year's Eve;réveillon de Nouvel An
+2;14;;イルミネーション;irumineeshon;illumination;illumination
+2;14;;たんじょうび;tanjoubi;birthday;anniversaire
+2;15;;デート;deeto;date;rendez-vous
+2;15;映画館;えいがかん;eigakan;movie theater;cinéma
+2;15;;ばんご;bango;number;numéro
+2;15;;ツァー;tsuaa;tour;tour
+2;15;;きた;kita;north;nord
+2;15;;よびます;yobimasu;to call;appeler
+2;15;飲み物;のみもの;nomimono;drink;boisson
+2;15;;ゆっくり;yukkuri;slowly;lentement
+2;15;乗り換えます;のりかえます;norikaemasu;to transfer (trains, etc.);transférer (trains, etc.)
+2;15;;はらいます;haraimasu;to pay;payer
+2;15;;インフォマション;infomashon;information desk;bureau d'information
+2;15;;ポップコーン;poppukoon;popcorn;pop-corn
+2;15;;ワイン;wain;wine;vin
+2;15;;ネクレス;nekuresu;necklace;collier
+2;15;;うでどけい;udedokei;wristwatch;montre-bracelet
+2;15;;かいそく;kaisoku;express (train);express (train)
+2;15;;ブラウス;burausu;blouse;blouse
+2;16;口;くち;kuchi;mouth;bouche
+2;16;;め;me;eye;œil
+2;16;;カラフル;karafuru;colorful;coloré
+2;16;;トマト;tomato;tomato;tomate
+2;16;;はな;hana;flower;fleur
+2;16;耳;みみ;mimi;ear;oreille
+2;16;;すうがく;suugaku;mathematics;mathématiques
+2;16;;キャンパス;kyanpasu;campus;campus
+2;16;;せんこう;senkou;major (field of study);spécialité (domaine d'étude)
+2;16;;ビジネス;bijinesu;business;affaires
+2;16;;ボランティア;borantia;volunteer;volontaire
+2;16;;クリスマス;kurisumasu;Christmas;Noël
+2;16;;ダンス;dansu;dance;danse
+2;16;;ルームメイト;ruumumeito;roommate;colocataire
+2;16;;りょう;ryou;dormitory;dortoir
+2;16;;チェス;chesu;chess;échecs
+2;16;;かんとく;kantoku;director;réalisateur
+2;16;;どうぶつ;doubutsu;animal;animal
+2;16;;なんびき;nanbiki;how many animals;combien d'animaux
+2;17;雨;あめ;ame;rain;pluie
+2;17;;こしょう;koshou;pepper;poivre
+2;17;;バックパック;bakkupakku;backpack;sac à dos
+2;17;一日;ついたち;tsuitachi;first day of the month;premier jour du mois
+2;17;ぎゅ肉;ぎゅにく;gyuuniku;beef;bœuf
+2;17;川;かわ;kawa;river;rivière
+2;17;;けしき;keshiki;scenery;paysage
+2;17;;くらい;kurai;dark;sombre
+2;17;;ハイキング;haikingu;hiking;randonnée
+2;17;;ピクニック;pikunikku;picnic;pique-nique
+2;17;楽しい見ます;たのしいみます;tanoshiimimasu;to have fun;s'amuser
+2;17;;モノレール;monore-ru;monorail;monorail
+2;17;;バーバキュー;baabakyuu;barbecue;barbecue
+2;17;;すずしい;suzushii;cool (weather);frais (météo)
+2;17;;てんいん;ten'in;clerk,shop assistant;employé
+2;17;;ぜんぶで;zenbude;all together;tous ensemble
+2;17;;かいけい;kaikei;cashier;caissier
+2;17;;ちゅうかがい;chuukagai;Chinatown;quartier chinois
+2;17;;はし;hashi;bridge;pont
+2;18;;かぎ;kagi;key;clé
+2;18;三日;みっか;mikka;third day of the month;troisième jour du mois
+2;18;二日;ふつか;futsuka;second day of the month;deuxième jour du mois
+2;18;;クレジットカード;kurejitto ka-do;credit card;carte de crédit
+2;18;三階;さんがい;sangai;third floor;troisième étage
+2;18;;タオル;taoru;towel;serviette
+2;18;;チェックイン;chekkuin;check-in;enregistrement
+2;18;;チェックアウト;chekkuauto;check-out;départ
+2;18;;パスワード;pasuwa-do;password;mot de passe
+2;18;;こうり;kouri;ice;glace
+2;18;;さがします;sagashimasu;to look for;chercher
+2;18;;とまります;tomarimasu;to stay (at a hotel etc.);séjourner (dans un hôtel etc.)
+2;18;;ネット;netto;internet;internet
+2;18;;よやくします;yoyakushimasu;to reserve;réserver
+2;18;;むりょう;muryou;free (of charge);gratuit
+3;1;;ぞう;zou;elephant;éléphant
+3;1;;ピーナッツ;pi-nattsu;peanuts;cacahuètes
+3;1;;はじめて;hajimete;for the first time;pour la première fois
+3;1;;すいぞくかん;suizokukan;aquarium;aquarium
+3;1;;クレープ;kure-pu;crepe;crêpe
+3;1;;きょねん;kyonen;last year;l'année dernière
+3;1;;きります;kirimasu;to cut;couper
+3;1;;れんしゅうします;renshuushimasu;to practice;s'entrainer
+3;1;見つけます;みつけます;mitsukemasu;to find;trouver
+3;1;;プレゼント;purezento;present;cadeau
+3;1;;カップ;kappu;cup;tasse
+3;1;;おもちゃ;omocha;toy;jouet
+3;1;;ナイフ;naifu;knife;couteau
+3;1;;ぶんか;bunka;culture;culture
+3;1;;どうやって;douyatte;in what way,how;comment
+3;1;;おさら;osara;plate;assiette
+3;1;;ヘッドフォン;heddofon;headphones;casque
+3;1;;フォーク;fo-ku;fork;fourchette
+3;1;;わたります;watarimasu;to cross;traverser
+3;1;;とちゅうど;tochuudo;on the way;en chemin
+3;2;;グレー;guree;gray;gris
+3;2;;でんち;denchi;battery;batterie
+3;2;;レシート;reshiito;receipt;reçu
+3;2;;けーブル;ke-buru;cable;câble
+3;2;;キーボード;kiiboodo;keyboard;clavier
+3;2;;モニター;monitaa;monitor;moniteur
+3;2;;ワイヤレス;waiyaresu;wireless;sans fil
+3;2;;がるい;garui;category;catégorie
+3;2;;スピーカー;supiikaa;speaker;haut-parleur
+3;2;電気屋;でんきや;denkiya;electric store;magasin d'électronique
+3;2;;ペン;pen;pen;stylo
+3;2;今夜;こんや;konya;tonight;ce soir
+3;2;;ステーじ;suteeji;stage;scène
+3;2;;まんなか;mannaka;middle,center;milieu,centre
+3;2;;アーティスト;aatisuto;artist;artiste
+3;2;;まちます;machimasu;to wait;attendre
+3;2;;ひがし;higashi;east;est
+3;2;;まだ;mada;still;encore
+3;2;;もどります;modorimasu;to return;retourner
+3;2;;もう;mou;already;déjà
+3;2;;サイン;sain;autograph;autographe
+3;2;;ならびます;narabimasu;to line up;faire la queue
+3;2;;みなみ;minami;south;sud
+3;2;;かるい;karui;lightweight;léger
+3;2;;おもい;omoi;heavy;lourd
+3;2;;;mousu;mouse (gaming);souris d'ordinatetur
+3;2;;ひかります;hikarimasu;to shine;briller
+3;2;;;tsukaremasu;to get tired;se fatiguer
+3;2;;でかけます;dekakemasu;to go out;sortir
+3;2;;グッズ;guzzu;merch;marchandise
+
+
+
+
