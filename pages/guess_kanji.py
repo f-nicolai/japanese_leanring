@@ -6,20 +6,24 @@ from utils.wrapers import create_back_and_next_buttons
 
 
 def render_page():
-    st.title("Translate using Kanji !")
+    st.title("Translate from Japanese !")
 
     create_back_and_next_buttons()
 
     sample = get_sample(current_state=st.session_state['kanji_quizz.current_state'])
 
     if st.session_state['kanji_quizz.current_state'] == 'original':
-        st_write_centered(sample['kanji'].squeeze(), font_size=200)
+        if sample['kanji'].isnull().sum() >0:
+            text = sample['hiragana']
+        else:
+            text = sample['kanji']
+        st_write_centered(text.squeeze(), font_size=100)
 
 
     elif st.session_state['kanji_quizz.current_state'] == 'translation':
-        st_write_centered(f"{sample['romanji'].squeeze()}", font_size=100,style_name='label')
+        st_write_centered(f"{sample['romanji'].squeeze()}", font_size=50,style_name='label')
         display = sample[st.session_state['config.language'].lower()].squeeze().replace(',', ' / ')
-        st_write_centered(display,font_size=100)
+        st_write_centered(display,font_size=50)
 
 
 def get_sample(current_state: str) -> DataFrame:
@@ -38,4 +42,5 @@ def get_sample(current_state: str) -> DataFrame:
 
         st.session_state.sample = sample
 
+    st.session_state.sample[lambda x: x['kanji'].isnull(),'kanji'] = st.session_state.sample[lambda x: x['kanji'].isnull()]['hiragana']
     return st.session_state.sample

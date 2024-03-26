@@ -1,82 +1,122 @@
-type;kanji;romanji
-universal;一つ;hitotsu
-universal;二つ;futatsu
-universal;三つ;mittsu
-universal;よつ;yottsu
-universal;五つ;itsutsu
-universal;六つ;muttsu
-universal;七つ;nanatsu
-universal;八つ;yattsu
-universal;九つ;kokonotsu
-universal;十つ;tou
-people;一人;hitori
-people;二人;hutari
-people;三人;sannin
-people;四人;yonnin
-people;五人;gonin
-people;六人;rokunin
-people;七人;shichini
-people;八人;hachinin
-people;九人;kyuunin
-people;十人;juunin
-age;一歳;issai
-age;二歳;nisai
-age;三歳;sansai
-age;四歳;yonsai
-age;五歳;gosai
-age;六歳;rokusai
-age;七歳;nanasai
-age;八歳;hassai
-age;九歳;kyuusai
-age;十歳;jussai
-small_objects;二個;niko
-small_objects;三個;sanko
-small_objects;四個;yonko
-small_objects;五個;goko
-small_objects;六個;rokko
-small_objects;七個;nanako
-small_objects;八個;hakko
-small_objects;九個;kyuuko
-small_objects;十個;jukko
-books;一冊;issatsu
-books;二冊;nisatsu
-books;三冊;sansatsu
-books;四冊;yonsatsu
-books;五冊;gosatsu
-books;六冊;rokusatsu
-books;七冊;nanasatsu
-books;八冊;hassatsu
-books;九冊;kyūsatsu
-books;十冊;jussatsu
-minutes;一分;ippun
-minutes;二分;nihun
-minutes;三分;sanpun
-minutes;四分;yonpun
-minutes;五分;gohun
-minutes;六分;roppun
-minutes;七分;nanahun
-minutes;八分;happun
-minutes;九分;kyuuhun
-minutes;十分;juppun
-floor;一階;ikkai
-floor;二階;nikai
-birds;一羽;ichiwa
-birds;二羽;niwa
-birds;三羽;sanwa
-birds;四羽;yonwa
-birds;五羽;gowa
-birds;六羽;rokuwa
-birds;七羽;nanawa
-birds;八羽;hachiwa
-birds;九羽;kyuuwa
-birds;十羽;juuwa
-flat objects;一枚;ichimai
-flat objects;二枚;nimai
-flat objects;三枚;sanmai
-flat objects;四枚;yonmai
-flat objects;五枚;gomai
-flat objects;六枚;rokumai
-flat objects;七枚;nanamai
-flat objects;八枚;hachimai
-flat objects;九枚;kyuumai
-flat objects;十枚;juumai
+﻿type;kanji;hiragana;romanji
+universal;一つ;ひとつ;hitotsu
+universal;二つ;ふたつ;futatsu
+universal;三つ;みっつ;mittsu
+universal;よつ;よっつ;yottsu
+universal;五つ;いつつ;itsutsu
+universal;六つ;むっつ;muttsu
+universal;七つ;ななつ;nanatsu
+universal;八つ;やっつ;yattsu
+universal;九つ;ここのつ;kokonotsu
+universal;十つ;とおつ;tou
+people;一人;ひとり;hitori
+people;二人;ふたり;hutari
+people;三人;さんにん;sannin
+people;四人;よにん;yonnin
+people;五人;ごにん;gonin
+people;六人;ろくにん;rokunin
+people;七人;しちにん;shichini
+people;八人;はちにん;hachinin
+people;九人;きゅうにん;kyuunin
+people;十人;じゅうにん;juunin
+age;一歳;いっさい;issai
+age;二歳;にさい;nisai
+age;三歳;さんさい;sansai
+age;四歳;よんさい;yonsai
+age;五歳;ごさい;gosai
+age;六歳;ろくさい;rokusai
+age;七歳;ななさい;nanasai
+age;八歳;はっさい;hassai
+age;九歳;きゅうさい;kyuusai
+age;十歳;じゅっさい;jussai
+small_objects;二個;にこ;niko
+small_objects;三個;さんこ;sanko
+small_objects;四個;よんこ;yonko
+small_objects;五個;ごこ;goko
+small_objects;六個;ろっこ;rokko
+small_objects;七個;ななこ;nanako
+small_objects;八個;はっこ;hakko
+small_objects;九個;きゅうこ;kyuuko
+small_objects;十個;じゅっこ;jukko
+books;一冊;いっさつ;issatsu
+books;二冊;にさつ;nisatsu
+books;三冊;さんさつ;sansatsu
+books;四冊;よんさつ;yonsatsu
+books;五冊;ごさつ;gosatsu
+books;六冊;ろくさつ;rokusatsu
+books;七冊;ななさつ;nanasatsu
+books;八冊;はっさつ;hassatsu
+books;九冊;きゅうさつ;kyūsatsu
+books;十冊;じゅっさつ;jussatsu
+minutes;一分;いっぷん;ippun
+minutes;二分;にふん;nihun
+minutes;三分;さんぷん;sanpun
+minutes;四分;よんぷん;yonpun
+minutes;五分;ごふん;gohun
+minutes;六分;ろっぷん;roppun
+minutes;七分;ななふん;nanahun
+minutes;八分;はっぷん;happun
+minutes;九分;きゅうふん;kyuuhun
+minutes;十分;じっぷん;juppun
+floor;一階;いっかい;ikkai
+floor;二階;にかい;nikai
+birds;一羽;いちわ;ichiwa
+birds;二羽;にわ;niwa
+birds;三羽;さんわ;sanwa
+birds;四羽;しわ;yonwa
+birds;五羽;ごわ;gowa
+birds;六羽;ろくわ;rokuwa
+birds;七羽;しちわ;nanawa
+birds;八羽;はちわ;hachiwa
+birds;九羽;きゅうわ;kyuuwa
+birds;十羽;じゅうわ;juuwa
+flat objects;一枚;いちまい;ichimai
+flat objects;二枚;にまい;nimai
+flat objects;三枚;さんまい;sanmai
+flat objects;四枚;よんまい;yonmai
+flat objects;五枚;ごまい;gomai
+flat objects;六枚;ろくまい;rokumai
+flat objects;七枚;ななまい;nanamai
+flat objects;八枚;はちまい;hachimai
+flat objects;九枚;きゅうまい;kyuumai
+flat objects;十枚;じゅうまい;juumai
+days;一日;ついたち;Tsuitachi
+days;二日;ふつか;Futsuka
+days;三日;みっか;Mikka
+days;四日;よっか;Yokka
+days;五日;いつか;Itsuka
+days;六日;むいか;Muika
+days;七日;なのか;Nanoka
+days;八日;ようか;Youka
+days;九日;ここのか;Kokonoka
+days;十日;とおか;Tooka
+days;十一日;じゅういちにち;Juuichinichi
+days;十二日;じゅうににち;Juuninichi
+days;十三日;じゅうさんにち;Juusannichi
+days;十四日;じゅうよっか;Juu Yokka
+days;十五日;じゅうごにち;Juugonichi
+days;十六日;じゅうろくにち;Juurokunichi
+days;十七日;じゅうしちにち;Juushichinichi
+days;十八日;じゅうはちにち;Juu Hachinichi
+days;十九日;じゅうくにち;Juukunichi
+days;二十日;はつか;Hatsuka
+days;二十一日;にじゅういちにち;Nijuuichinichi
+days;二十二日;にじゅうににち;Nijuuninichi
+days;二十三日;にじゅうさんにち;Nijuusannichi
+days;二十四日;にじゅうよっか;Nijuuyokka
+days;二十五日;にじゅうごにち;Nijuugonichi
+days;二十六日;にじゅうろくにち;Nijuurokunichi
+days;二十七日;にじゅうしちにち;Nijuushichinichi
+days;二十八日;にじゅうはちにち;Nijuuhachinichi
+days;二十九日;にじゅうくにち;Nijuukunichi
+days;三十日;さんじゅうにち;Sanjuunichi
+days;三十一日;さんじゅういちにち;Sanjuuichinichi
+hundreds;百;ひゃく;hyaku
+hundreds;二百;にひゃく;nihyaku
+hundreds;三百;さんびゃく;sanbyaku
+hundreds;四百;よんひゃく;yonhyaku
+hundreds;五百;ごひゃく;gohyaku
+hundreds;六百;ろっぴゃく;roppyaku
+hundreds;七百;ななひゃく;nanahyaku
+hundreds;八百;はっぴゃく;happyaku
+hundreds;九百;きゅうひゃく;kyuhyaku

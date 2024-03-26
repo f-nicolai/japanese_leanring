@@ -16,7 +16,7 @@ def render_page():
     if st.session_state['kanji_quizz.current_state'] == 'original':
         st_write_centered(
             sample[st.session_state.verbs_direction[st.session_state['verbs.from']]].squeeze(),
-            font_size=200
+            font_size=100 if st.session_state['verbs.from'] in ('English','French','Romanji') else 200
         )
 
     elif st.session_state['kanji_quizz.current_state'] == 'translation':
