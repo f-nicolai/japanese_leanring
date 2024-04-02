@@ -291,7 +291,6 @@
 2;15;;インフォマション;infomashon;information desk;bureau d'information
 2;15;;ポップコーン;poppukoon;popcorn;pop-corn
 2;15;;ワイン;wain;wine;vin
-2;15;;うごどけい;ugodokei;watch;montre
 2;15;;ネクレス;nekuresu;necklace;collier
 2;15;;うでどけい;udedokei;wristwatch;montre-bracelet
 2;15;;かいそく;kaisoku;express (train);express (train)
@@ -355,11 +354,14 @@
 3;1;;すいぞくかん;suizokukan;aquarium;aquarium
 3;1;;クレープ;kure-pu;crepe;crêpe
 3;1;;きょねん;kyonen;last year;l'année dernière
+3;1;;きります;kirimasu;to cut;couper
+3;1;;れんしゅうします;renshuushimasu;to practice;s'entrainer
 3;1;見つけます;みつけます;mitsukemasu;to find;trouver
 3;1;;プレゼント;purezento;present;cadeau
 3;1;;カップ;kappu;cup;tasse
 3;1;;おもちゃ;omocha;toy;jouet
 3;1;;ナイフ;naifu;knife;couteau
+3;1;;ぶんか;bunka;culture;culture
 3;1;;どうやって;douyatte;in what way,how;comment
 3;1;;おさら;osara;plate;assiette
 3;1;;ヘッドフォン;heddofon;headphones;casque
@@ -386,3 +388,17 @@
 3;2;;まだ;mada;still;encore
 3;2;;もどります;modorimasu;to return;retourner
 3;2;;もう;mou;already;déjà
+3;2;;サイン;sain;autograph;autographe
+3;2;;ならびます;narabimasu;to line up;faire la queue
+3;2;;みなみ;minami;south;sud
+3;2;;かるい;karui;lightweight;léger
+3;2;;おもい;omoi;heavy;lourd
+3;2;;;mousu;mouse (gaming);souris d'ordinatetur
+3;2;;ひかります;hikarimasu;to shine;briller
+3;2;;;tsukaremasu;to get tired;se fatiguer
+3;2;;でかけます;dekakemasu;to go out;sortir
+3;2;;グッズ;guzzu;merch;marchandise
+
+
+
+
