@@ -375,7 +375,6 @@
 3;2;;キーボード;kiiboodo;keyboard;clavier
 3;2;;モニター;monitaa;monitor;moniteur
 3;2;;ワイヤレス;waiyaresu;wireless;sans fil
-3;2;;がるい;garui;category;catégorie
 3;2;;スピーカー;supiikaa;speaker;haut-parleur
 3;2;電気屋;でんきや;denkiya;electric store;magasin d'électronique
 3;2;;ペン;pen;pen;stylo
@@ -393,9 +392,9 @@
 3;2;;みなみ;minami;south;sud
 3;2;;かるい;karui;lightweight;léger
 3;2;;おもい;omoi;heavy;lourd
-3;2;;;mousu;mouse (gaming);souris d'ordinatetur
+3;2;;マウス;mousu;mouse (gaming);souris d'ordinatetur
 3;2;;ひかります;hikarimasu;to shine;briller
-3;2;;;tsukaremasu;to get tired;se fatiguer
+3;2;;つかれます;tsukaremasu;to get tired;se fatiguer
 3;2;;でかけます;dekakemasu;to go out;sortir
 3;2;;グッズ;guzzu;merch;marchandise
 
