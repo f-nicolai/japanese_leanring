@@ -42,8 +42,8 @@
 2 old;19;洗う;洗います;洗って;あらいます;araimasu;to wash;laver
 2 old;19;脱ぐ;脱ぎます;脱いで;ぬぎます;nugimasu;to take off,remove;enlever
 2;15;乗り換える;乗り換えます;乗り換えて;のりかえます;norikaemasu;to transfer (trains, etc.);transférer (trains, etc.)
-2;15;;よびます;yobimasu;to call;appeler
-2;15;;はらいます;haraimasu;to pay;payer
+2;15;;よびます;yobimasu;to call;appeler;;
+2;15;;はらいます;haraimasu;to pay;payer;;
 2;17;楽しむ;楽しみます;楽しんで;たのしいみます;tanoshiimimasu;to have fun;s'amuser
 2;18;探す;探します;探して;さがします;sagashimasu;to look for;chercher
 2;18;泊まる;泊まります;泊まって;とまります;tomarimasu;to stay (at a hotel etc.);séjourner (dans un hôtel etc.)
@@ -55,3 +55,9 @@
 3;2;戻る;戻ります;戻って;もどります;modorimasu;to return;retourner
 3;2;光る;光ります;光って;ひかります;hikarimasu;to shine;briller
 3;2;疲れる;疲れます;疲れて;つかれます;tsukaremasu;to get tired;se fatiguer
+3;3;入る;入ります;入って;はいる;hairu;to enter/enroll;entrer/s'inscrire
+3;3;卒業する;卒業します;卒業して;そつぎょうする;sotsugyō suru;to graduate;obtenir son diplôme
+3;3;閉める;閉めます;閉めて;しめる;shimeru;to close (something like a door);fermer (quelque chose comme une porte)
+3;3;開ける;開けます;開けて;あける;akeru;to open;ouvrir
+3;3;上がる;上がります;上がって;あがる;agaru;to go up;monter
+3;3;曲がる;曲がります;曲がって;まがる;magaru;to turn (change direction);tourner (changer de direction)

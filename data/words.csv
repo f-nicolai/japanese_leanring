@@ -326,7 +326,7 @@
 2;17;;ピクニック;pikunikku;picnic;pique-nique
 2;17;楽しい見ます;たのしいみます;tanoshiimimasu;to have fun;s'amuser
 2;17;;モノレール;monore-ru;monorail;monorail
-2;17;;バーバキュー;baabakyuu;barbecue;barbecue
+2;17;;バーべキュー;baabekyuu;barbecue;barbecue
 2;17;;すずしい;suzushii;cool (weather);frais (météo)
 2;17;;てんいん;ten'in;clerk,shop assistant;employé
 2;17;;ぜんぶで;zenbude;all together;tous ensemble
@@ -398,7 +398,41 @@
 3;2;;;tsukaremasu;to get tired;se fatiguer
 3;2;;でかけます;dekakemasu;to go out;sortir
 3;2;;グッズ;guzzu;merch;marchandise
-
-
-
-
+3;3;歴史;れきし;rekishi;history;histoire
+3;3;田舎;いなか;inaka;countryside;campagne
+3;3;木;き;ki;tree;arbre
+3;3;アメリカンフットボール;アメリカンフットボール;amerikan futtobōru;American football;football américain
+3;3;サークル;サークル;sākuru;sport club;club sportif
+3;3;スタジアム;スタジアム;sutajiamu;stadium;stade
+3;3;郵便局;ゆうびんきょく;yūbinkyoku;post office;bureau de poste
+3;3;銀行;ぎんこう;ginkō;bank;banque
+3;3;親切;しんせつ;shinsetsu;nice/kind;gentil
+3;3;空気;くうき;kūki;air;air
+3;3;不便;ふべん;fuben;inconvenient;désagréable
+3;3;裁判所;さいばんしょ;saibansho;court (legal);tribunal (judiciaire)
+3;3;薬局;ヤッキョク;yakkyoku;drugstore (pharmacy);pharmacie
+3;3;鉛筆;えんぴつ;enpitsu;pencil;crayon
+3;3;衣料品店;ふくや;fukuya;clothing store;magasin de vêtements
+3;3;クラスメート;クラスメート;kurasumēto;classmate;camarade de classe
+3;3;ショッピングセンター;ショッピングセンター;shoppingu sentā;shopping center;centre commercial
+3;3;靴下;くつした;kutsushita;socks;chaussettes
+3;3;ボロボロ;ボロボロ;boroboro;worn-out (shabby);usé (délabré)
+3;3;ジーンズ;ジーンズ;jīnzu;jeans;jeans
+3;3;紫;むらさき;murasaki;purple;violet
+3;3;パーカー;パーカー;pākā;hoodie;sweat à capuche
+3;3;まず;まず;mazu;first (initially);premièrement (initialement)
+3;3;まっすぐ;まっすぐ;massugu;straight;droit
+3;3;メンズ;メンズ;menzu;men's section;rayon hommes
+3;3;レディース;レディース;rediisu;women's section;rayon femmes
+3;3;ふわふわ;ふわふわ;fuwafuwa;fluffy;douillet
+3;3;マフラー;マフラー;mafurā;scarf;écharpe
+3;3;キラキラ;キラキラ;kirakira;sparkly;brillant
+3;3;アクセサリー;アクセサリー;akusesarī;accessory;accessoire
+3;3;レジ;レジ;reji;cash register;caisse
+3;3;今度;こんど;kondo;next time;la prochaine fois
+3;3;入ります;入ります;hairimasu;to enter/enroll;entrer/s'inscrire
+3;3;卒業します;卒業します;sotsugyō shimasu;to graduate;obtenir son diplôme
+3;3;閉めます;閉めます;shimemasu;to close;fermer
+3;3;開けます;開けます;akemasu;to open;ouvrir
+3;3;上がります;上がります;agarimasu;to go up;monter
+3;3;曲がります;曲がります;magarimasu;to turn;tourner
