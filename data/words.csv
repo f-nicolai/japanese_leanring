@@ -400,7 +400,7 @@
 3;3;歴史;れきし;rekishi;history;histoire
 3;3;田舎;いなか;inaka;countryside;campagne
 3;3;木;き;ki;tree;arbre
-3;3;アメリカンフットボール;アメリカンフットボール;amerikan futtobōru;American football;football américain
+3;3;アメフト;アメフト;amefuto;American football;football américain
 3;3;サークル;サークル;sākuru;sport club;club sportif
 3;3;スタジアム;スタジアム;sutajiamu;stadium;stade
 3;3;郵便局;ゆうびんきょく;yūbinkyoku;post office;bureau de poste
@@ -408,10 +408,10 @@
 3;3;親切;しんせつ;shinsetsu;nice/kind;gentil
 3;3;空気;くうき;kūki;air;air
 3;3;不便;ふべん;fuben;inconvenient;désagréable
-3;3;裁判所;さいばんしょ;saibansho;court (legal);tribunal (judiciaire)
-3;3;薬局;ヤッキョク;yakkyoku;drugstore (pharmacy);pharmacie
+3;3;コート;コート;kōto;court (legal);tribunal (judiciaire)
+3;3;ドラッグストア;ドラッグストア;doraggusutoa;drugstore (pharmacy);pharmacie
 3;3;鉛筆;えんぴつ;enpitsu;pencil;crayon
-3;3;衣料品店;ふくや;fukuya;clothing store;magasin de vêtements
+3;3;ふくや;ふくや;fukuya;clothing store;magasin de vêtements
 3;3;クラスメート;クラスメート;kurasumēto;classmate;camarade de classe
 3;3;ショッピングセンター;ショッピングセンター;shoppingu sentā;shopping center;centre commercial
 3;3;靴下;くつした;kutsushita;socks;chaussettes
@@ -429,9 +429,9 @@
 3;3;アクセサリー;アクセサリー;akusesarī;accessory;accessoire
 3;3;レジ;レジ;reji;cash register;caisse
 3;3;今度;こんど;kondo;next time;la prochaine fois
-3;3;入ります;入ります;hairimasu;to enter/enroll;entrer/s'inscrire
-3;3;卒業します;卒業します;sotsugyō shimasu;to graduate;obtenir son diplôme
-3;3;閉めます;閉めます;shimemasu;to close;fermer
-3;3;開けます;開けます;akemasu;to open;ouvrir
-3;3;上がります;上がります;agarimasu;to go up;monter
-3;3;曲がります;曲がります;magarimasu;to turn;tourner
+3;3;入ります;はいります;hairimasu;to enter/enroll;entrer/s'inscrire
+3;3;卒業します;そつぎょうします;sotsugyō shimasu;to graduate;obtenir son diplôme
+3;3;閉まります;しまります;shimarimasu;to close (own its own);fermer (de soit même)
+3;3;開けます;あけます;akemasu;to open;ouvrir
+3;3;上がります;あがります;agarimasu;to go up;monter
+3;3;曲がります;まがります;magarimasu;to turn;tourner

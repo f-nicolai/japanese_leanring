@@ -56,8 +56,9 @@
 3;2;光る;光ります;光って;ひかります;hikarimasu;to shine;briller
 3;2;疲れる;疲れます;疲れて;つかれます;tsukaremasu;to get tired;se fatiguer
 3;3;入る;入ります;入って;はいる;hairu;to enter/enroll;entrer/s'inscrire
-3;3;卒業する;卒業します;卒業して;そつぎょうする;sotsugyō suru;to graduate;obtenir son diplôme
-3;3;閉める;閉めます;閉めて;しめる;shimeru;to close (something like a door);fermer (quelque chose comme une porte)
-3;3;開ける;開けます;開けて;あける;akeru;to open;ouvrir
-3;3;上がる;上がります;上がって;あがる;agaru;to go up;monter
-3;3;曲がる;曲がります;曲がって;まがる;magaru;to turn (change direction);tourner (changer de direction)
+3;3;卒業する;卒業します;卒業して;そつぎょうします;sotsugyō shimasu;to graduate;obtenir son diplôme
+3;3;閉める;閉めます;閉めて;しめます;shimemasi;to close (something like a door);fermer (quelque chose comme une porte)
+3;3;閉まる;閉まります;閉まりて;しまります;shimarimasu;to close (on its own);fermer (de soit même)
+3;3;開ける;開けます;開けて;あけます;akemasu;to open;ouvrir
+3;3;上がる;上がります;上がって;あがります;agarimasu;to go up;monter
+3;3;曲がる;曲がります;曲がって;まがります;magarimasu;to turn (change direction);tourner (changer de direction)
