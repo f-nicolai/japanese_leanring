@@ -42,8 +42,8 @@
 2 old;19;洗う;洗います;洗って;あらいます;araimasu;to wash;laver
 2 old;19;脱ぐ;脱ぎます;脱いで;ぬぎます;nugimasu;to take off,remove;enlever
 2;15;乗り換える;乗り換えます;乗り換えて;のりかえます;norikaemasu;to transfer (trains, etc.);transférer (trains, etc.)
-2;15;;よびます;yobimasu;to call;appeler;;
-2;15;;はらいます;haraimasu;to pay;payer;;
+2;15;呼ぶ;呼びます;呼んで;よびます;yobimasu;to call;appeler
+2;15;払う;払います;払って;はらいます;haraimasu;to pay;payer
 2;17;楽しむ;楽しみます;楽しんで;たのしいみます;tanoshiimimasu;to have fun;s'amuser
 2;18;探す;探します;探して;さがします;sagashimasu;to look for;chercher
 2;18;泊まる;泊まります;泊まって;とまります;tomarimasu;to stay (at a hotel etc.);séjourner (dans un hôtel etc.)
@@ -62,3 +62,7 @@
 3;3;開ける;開けます;開けて;あけます;akemasu;to open;ouvrir
 3;3;上がる;上がります;上がって;あがります;agarimasu;to go up;monter
 3;3;曲がる;曲がります;曲がって;まがります;magarimasu;to turn (change direction);tourner (changer de direction)
+3;4;住む;住んでいます;住んで;すんでいます;sundeimasu;am living;je vis
+3;4;咲く;咲きます;咲いて;さきます;sakimasu;bloom (flowers);fleurit
+3;4;点ける;点けます;点けて;つけます;tsukemasu;to turn on;allumer
+3;4;焼く;焼きます;焼いて;やきます;yakimasu;grill;griller
