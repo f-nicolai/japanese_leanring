@@ -463,8 +463,6 @@
 3;4;帰ります;かえります;kaerimasu;return home;rentrer à la maison
 3;4;;かたづけます;katazukemasu;to tidy up;ranger
 3;4;そろそろ;そろそろ;sorosoro;in a bit / soon / shortly;bientôt / dans peu de temps
-;;;;;;
-3;;kanji;hiragana;romanji;english;french
 3;5;眠い;ねむい;Nemui;sleepy;fatigué
 3;5;アラーム;アラーム;Ara-mu;alarm;alarme
 3;5;まだ;まだ;Mada;yet / still / too;encore / toujours / aussi
@@ -491,4 +489,4 @@
 3;5;パン屋;ぱんや;Panya;bakery;boulangerie
 3;5;西;にし;Nishi;west;ouest
 3;5;急ぎます;いそぎます;Isogimasu;to hurry;se dépêcher
-3;5;遅れます;おくれます;Okuremasu;to be late;être en retard
+3;5;遅れます;おくれます;Okuremasu;to be late;être en retards
