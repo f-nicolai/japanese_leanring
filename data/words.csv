@@ -454,8 +454,8 @@
 3;4;スノボ;スノボ;snowboarding;snowboarding;snowboard
 3;4;焼く;やきます;yakimasu;grill;griller
 3;4;;なります;narimasu;to turn / to become;changer / devenir
-3;4;夕方;夕方;yuugata;evening;soirée
-3;4;招く;呼びます;yobimasu;to invite;inviter
+3;4;夕方;ゆうがた;yuugata;evening;soirée
+3;4;招く;よびます;yobimasu;to invite;inviter
 3;4;もう;もう;mou;already;déjà
 3;4;用事;ようじ;youji;stuff / stuff to do;affaires / choses à faire
 3;4;久しぶり;ひさしぶり;hisashiburi;long time no see;ça fait longtemps
@@ -465,7 +465,8 @@
 3;4;そろそろ;そろそろ;sorosoro;in a bit / soon / shortly;bientôt / dans peu de temps
 3;5;眠い;ねむい;Nemui;sleepy;fatigué
 3;5;アラーム;アラーム;Ara-mu;alarm;alarme
-3;5;まだ;まだ;Mada;yet / still / too;encore / toujours / aussi
+3;5;まだ;まだ;mada;yet,still,too;encore,toujours,aussi
+3;5;また;また;mata;again,also,furthermore;egalement,encore,de nouveau
 3;5;起きます;おきます;Okimasu;to get up;se lever
 3;5;寝ます;ねます;Nemasu;to sleep;dormir
 3;5;リモコン;リモコン;Rimokon;remote control;télécommande
@@ -474,7 +475,7 @@
 3;5;バナナ;バナナ;Banana;banana;banane
 3;5;ゆっくります;ゆっくります;Yukkurimasu;to relax;se détendre
 3;5;寝坊します;ねぼうします;Neboushimasu;to oversleep;dormir trop
-3;5;出ます;でます;Demasu;to stay;rester
+3;5;とどます;とどます;todomasu;to stay;rester
 3;5;キャンセルします;きゃんせるします;Kyanserushimasu;to cancel;annuler
 3;5;もう少し;もうすこし;Mousukoshi;a bit longer;un peu plus longtemps
 3;5;小説;しょうせつ;Shousetsu;a novel;un roman
@@ -486,7 +487,7 @@
 3;5;着きます;つきます;Tsukimasu;to arrive;arriver
 3;5;メッセージ;メッセージ;Messēji;message;message
 3;5;送ります;おくります;Okurimasu;to send (a message);envoyer (un message)
-3;5;パン屋;ぱんや;Panya;bakery;boulangerie
+3;5;パン屋;パンや;Panya;bakery;boulangerie
 3;5;西;にし;Nishi;west;ouest
 3;5;急ぎます;いそぎます;Isogimasu;to hurry;se dépêcher
 3;5;遅れます;おくれます;Okuremasu;to be late;être en retards
