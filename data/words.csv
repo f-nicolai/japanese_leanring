@@ -344,7 +344,7 @@
 2;18;;パスワード;pasuwa-do;password;mot de passe
 2;18;;こうり;kouri;ice;glace
 2;18;;さがします;sagashimasu;to look for;chercher
-2;18;;とまります;tomarimasu;to stay (at a hotel etc.);séjourner (dans un hôtel etc.)
+2;18;泊まります;とまります;tomarimasu;to stay (at a hotel etc.);séjourner (dans un hôtel etc.)
 2;18;;ネット;netto;internet;internet
 2;18;;よやくします;yoyakushimasu;to reserve;réserver
 2;18;;むりょう;muryou;free (of charge);gratuit
@@ -475,7 +475,6 @@
 3;5;バナナ;バナナ;Banana;banana;banane
 3;5;ゆっくります;ゆっくります;Yukkurimasu;to relax;se détendre
 3;5;寝坊します;ねぼうします;Neboushimasu;to oversleep;dormir trop
-3;5;とどます;とどます;todomasu;to stay;rester
 3;5;キャンセルします;きゃんせるします;Kyanserushimasu;to cancel;annuler
 3;5;もう少し;もうすこし;Mousukoshi;a bit longer;un peu plus longtemps
 3;5;小説;しょうせつ;Shousetsu;a novel;un roman
@@ -497,11 +496,11 @@
 3;11;港;みなと;minato;Port;Port
 3;11;水着;みずぎ;mizugi;Swimsuit;Maillot de bain
 3;11;船;ふね;fune;Boat;Bateau
-3;11;回ります;まわります;mawarimasu;To rotate;Tourner
+3;11;回ります;まわります;mawarimasu;To rotate,go arround;tourner,faire le tour
 3;11;ロブスター;ロブスター;robusutā;Lobster;Homard
 3;11;食べ放題;たべほうだい;tabehōdai;All-you-can-eat;Buffet à volonté
 3;11;ハンバーガー;ハンバーガー;hanbāgā;Hamburger;Hamburger
-3;11;結構;けっこう;kekkou;Fine;Bien
+3;11;結構;けっこう;kekkou;quite a bit;assez,pas mal
 3;11;ミニゴルフ;ミニゴルフ;minigorufu;Mini golf;Mini-golf
 3;11;3日間;みっかかん;mikkakan;3 days;3 jours
 3;11;何日間;なんにちかん;nannichikan;How many days;Combien de jours
@@ -523,3 +522,25 @@
 3;12;鴨;かも;kamo;Duck;Canard
 3;12;橋;はし;hashi;Bridge;Pont
 3;12;来年;らいねん;rainen;Next year;L'année prochaine
+3;13;週末;しゅうまつ;shuumatsu;Weekend;Week-end
+3;13;来週;らいしゅう;raishuu;Next week;La semaine prochaine
+3;13;五日;いつか;itsuka;Five days;Cinq jours
+3;13;赤ちゃん;あかちゃん;akachan;baby;nourisson
+3;13;パンダ;パンダ;panda;Panda;Panda
+3;13;鳥;とり;tori;Bird;Oiseau
+3;13;足;あし;ashi;Leg/Foot;Jambe/Pied
+3;13;キリン;キリン;kirin;Giraffe;Girafe
+3;13;猿;さる;saru;Monkey;Singe
+3;13;スムージー;スムージー;sumuujii;Smoothie;Smoothie
+3;13;ベンチ;ベンチ;benchi;Bench;Banc
+3;13;綿飴;わたあめ;wataame;Cotton candy;Barbe à papa
+3;13;三匹;さんびき;sanbiki;Three (small animals);Trois (petits animaux)
+3;13;兎;うさぎ;usagi;Rabbit;Lapin
+3;13;山羊;やぎ;yagi;Goat;Chèvre
+3;13;撫でます;なでます;nademasu;To pet;Caresser
+3;13;ハンドジェル;ハンドジェル;handojeru;Hand sanitizer;Gel pour les mains
+3;13;フェンス;フェンス;fensu;Fence;Clôture
+3;13;ギフトショップ;ギフトショップ;gifutoshoppu;Gift shop;Magasin de souvenirs
+3;13;マグネット;マグネット;magunetto;Magnet;Aimant
+3;13;キーホルダー;キーホルダー;kiihorudaa;Keychain;Porte-clés
+3;13;ぬいぐるみ;ぬいぐるみ;nuigurumi;Stuffed animal;Peluche

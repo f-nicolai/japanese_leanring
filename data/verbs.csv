@@ -70,15 +70,15 @@
 3;4;招く;呼びます;呼んで;よびます;yobimasu;to invite;inviter
 3;4;帰る;帰ります;帰って;かえります;kaerimasu;return home;rentrer à la maison
 3;4;片付ける;片付けます;片付けて;かたづけます;katatzukemasu;to tidy up;ranger
-3;5;起きる;起きます;起きて;おきる;okimasu;to get up;se lever
-3;5;寝る;寝ます;寝て;ねる;nemasu;to sleep;dormir
-3;5;出る;出ます;出て;でる;demasu;to leave (get out);sortir
-3;5;出る;出ます;出て;でる;Demasu;to stay;rester
-3;5;着く;着きます;着いて;つく;Tsukimasu;to arrive;arriver
-3;5;送る;送ります;送って;おくる;Okurimasu;to send (a message);envoyer (un message)
-3;5;急ぐ;急ぎます;急いで;いそぐ;Isogimasu;to hurry;se dépêcher
-3;5;遅れる;遅れます;遅れて;おくれる;Okuremasu;to be late;être en retard
-3;11;回る;回ります;回って;まわります;mawarimasu;to rotate;tourner
+3;5;起きる;起きます;起きて;おきます;okimasu;to get up;se lever
+3;5;寝る;寝ます;寝て;ねます;nemasu;to sleep;dormir
+3;5;出る;出ます;出て;でます;demasu;to leave (get out);sortir
+3;5;着く;着きます;着いて;つきます;Tsukimasu;to arrive;arriver
+3;5;送る;送ります;送って;おくります;Okurimasu;to send (a message);envoyer (un message)
+3;5;急ぐ;急ぎます;急いで;いそぐます;Isogimasu;to hurry;se dépêcher
+3;5;遅れる;遅れます;遅れて;おくれます;Okuremasu;to be late;être en retard
+3;11;回る;回ります;回って;まわります;mawarimasu;to rotate,go arround;tourner,faire le tour
 3;12;忘れる;忘れます;忘れて;わすれます;wasuremasu;to forget;oublier
 3;12;止まる;止まります;止まって;とまります;tomarimasu;to stop/to stay;s'arrêter/rester
 3;12;乗り換える;乗り換えます;乗り換えて;のりかえます;norikaemasu;to transfer;changer (de transport)
+3;13;撫でる;撫でます;撫でて;なでます;nademasu;to pet;caresser
