@@ -1,33 +1,69 @@
-## Mettre les Adjectifs à la Forme Négative en Japonais
+# Conjugaison des Adjectifs en Japonais (Forme Formelle)
 
-Pour exprimer la négation des adjectifs en japonais, il est nécessaire de suivre des règles spécifiques selon que l'adjectif est un i-adjectif ou un na-adjectif.
+En japonais, les adjectifs peuvent être conjugués de manière formelle, ce qui est couramment utilisé dans des contextes polis et respectueux. Les adjectifs se divisent en deux catégories principales : les adjectifs en **-i (い形容詞)** et les adjectifs en **-na (な形容詞)**. Voici comment les conjuguer au présent, passé et à la forme négative, de manière formelle.
 
-### 1. I-adjectifs
+## 1. Adjectifs en -i (い形容詞)
 
-Pour convertir un i-adjectif en forme négative, retirez le -い final et ajoutez -くない.
+### Présent Affirmatif
+- **Exemple :** 楽しい (tanoshii) - amusant
+- **Forme :** 楽しいです (tanoshii desu)
 
-**Exemples :**
-- たかい (takai, cher) ➜ たかくない (takakunai, pas cher)
-- あつい (atsui, chaud) ➜ あつくない (atsukunai, pas chaud)
+### Présent Négatif
+- **Forme :** Remplacer le suffixe -i par -kunai, puis ajouter -desu.
+- **Exemple :** 楽しくないです (tanoshikunai desu) - pas amusant
 
-### 2. Na-adjectifs
+### Passé Affirmatif
+- **Forme :** Remplacer le suffixe -i par -katta, puis ajouter -desu.
+- **Exemple :** 楽しかったです (tanoshikatta desu) - était amusant
 
-Pour les na-adjectifs, la négation se forme en ajoutant じゃない (ja nai) après l'adjectif, sans le -な final.
+### Passé Négatif
+- **Forme :** Remplacer le suffixe -i par -kunakatta, puis ajouter -desu.
+- **Exemple :** 楽しくなかったです (tanoshikunakatta desu) - n'était pas amusant
 
-**Exemples :**
-- しずか (shizuka, calme) ➜ しずかじゃない (shizuka ja nai, pas calme) en informel
-- げんき (genki, en bonne santé/énergique) ➜ げんきじゃない (genki ja nai, pas énergique)
+## 2. Adjectifs en -na (な形容詞)
 
-**Note :** En contexte formel, utilisez ではない (de wa nai) au lieu de じゃない.
+Les adjectifs en -na se comportent plus comme des noms et nécessitent la particule -na lorsqu'ils sont utilisés avant un nom.
 
-### Exercices
+### Présent Affirmatif
+- **Exemple :** きれい (kirei) - beau, propre
+- **Forme :** きれいです (kirei desu)
 
-1. Transformez l'i-adjectif はやい (hayai, rapide) en forme négative.
-2. Transformez le na-adjectif きれい (kirei, propre/beau) en forme négative, en utilisant le registre informel puis le registre formel.
-3. Donnez la forme négative de l'i-adjectif さむい (samui, froid).
+### Présent Négatif
+- **Forme :** Remplacer -da par -ja nai desu (forme polie).
+- **Exemple :** きれいじゃないです (kirei ja nai desu) - pas beau, pas propre
 
-### Réponses aux Exercices
+### Passé Affirmatif
+- **Forme :** Remplacer -da par -deshita.
+- **Exemple :** きれいでした (kirei deshita) - était beau, propre
 
-1. はやい (hayai) ➜ はやくない (hayakunai)
-2. きれい (kirei) en informel ➜ きれいじゃない (kirei ja nai), en formel ➜ きれいではない (kirei de wa nai)
-3. さむい (samui) ➜ さむくない (samukunai)
+### Passé Négatif
+- **Forme :** Remplacer -da par -ja nakatta desu (forme polie).
+- **Exemple :** きれいじゃなかったです (kirei ja nakatta desu) - n'était pas beau, pas propre
+
+## Résumé des Conjugaisons Formelles
+
+| **Adjectif**            | **Présent Affirmatif**    | **Présent Négatif**                  | **Passé Affirmatif**   | **Passé Négatif**                      |
+|-------------------------|---------------------------|--------------------------------------|------------------------|----------------------------------------|
+| **Adjectifs en -i**     | たのしいです (tanoshii desu) | たのしくないです (tanoshikunai desu)  | たのしかったです (tanoshikatta desu) | たのしくなかったです (tanoshikunakatta desu) |
+| **Adjectifs en -na**    | きれいです (kirei desu)      | きれいじゃないです (kirei ja nai desu) | きれいでした (kirei deshita)      | きれいじゃなかったです (kirei ja nakatta desu) |
+
+## Exemples de Conjugaison Formelle
+
+1. **Adjectif en -i : 高い (takai) - cher**
+   - Présent Affirmatif : 高いです (takai desu)
+   - Présent Négatif : 高くないです (takakunai desu)
+   - Passé Affirmatif : 高かったです (takakatta desu)
+   - Passé Négatif : 高くなかったです (takakunakatta desu)
+
+2. **Adjectif en -na : 静か (shizuka) - calme**
+   - Présent Affirmatif : 静かです (shizuka desu)
+   - Présent Négatif : 静かじゃないです (shizuka ja nai desu)
+   - Passé Affirmatif : 静かでした (shizuka deshita)
+   - Passé Négatif : 静かじゃなかったです (shizuka ja nakatta desu)
+
+## Notes Supplémentaires
+
+- Les adjectifs en -i sont intrinsèquement des mots qui se terminent par -i, mais il y a des exceptions comme **きれい** (kirei) qui est un adjectif en -na malgré sa terminaison en -i.
+- La forme formelle avec **じゃないです** est souvent utilisée dans des contextes polis et quotidiens pour exprimer la négation.
+
+En maîtrisant ces formes, vous pourrez vous exprimer de manière respectueuse et appropriée en japonais.
