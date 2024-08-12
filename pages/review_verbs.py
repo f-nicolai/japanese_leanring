@@ -30,6 +30,11 @@ def render_page():
                 font_size=100,
                 style_name='medium-font'
             )
+            st_write_centered(
+                f"{sample['romanji'].squeeze()}",
+                font_size=100,
+                style_name='medium-font'
+            )
 
 def get_sample(current_state: str) -> DataFrame:
     if current_state == 'original':
