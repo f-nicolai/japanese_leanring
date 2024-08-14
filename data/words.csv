@@ -1,863 +1,863 @@
-﻿section;unit;kanji;hiragana;romanji;english;french
-1;5;一;いち;ichi;one;un
-1;5;二;に;ni;two;deux
-1;5;三;さん;san;three;trois
-1;5;山;やま;yama;mountain;montagne
-1;5;口;くち;guchi;mouth;bouche
-1;5;田;た;ta;rice field;champ de riz
-1;5;中;なか;naka;inside,middle;Interieur,milieu
-1;6;私;わたし;watashi;i,me;je,moi
-1;6;東京;とうきょう;toukyou;tokyo;tokyo
-1;6;京都;きょうと;kyouto;kyoto;kyoto
-1;6;日;ひ;hi;day;jour
-1;6;日本;にほん;nihon;japan;japon
-1;6;父;ちち;chichi;father;pere
-1;6;母;はは;haha;mother;mere
-1;6;四;し;shi;four;quatre
-1;6;五;ご;go;five;cinq
-1;6;六;ろく;roku;six;six
-1;6;七;しち;shichi;seven;sept
-1;7;見ます;みます;mimasu;watch,look;regarder
-1;7;読みます;よみます;yomimasu;read;lire
-1;7;時;じ;ji;time;temps
-1;7;十;じゅう;juu;ten;dix
-1;7;八;はち;hachi;eight;huit
-1;7;九;きゅう;kyuu;nine;neuf
-1;7;半;はん;han;half;demi
-1;7;本;ほん;hon;book;livre
-1;7;七時;しちじ;shichiji;seven o'clock;sept heures
-1;8;古い;ふるい;furui;old;vieux
-1;8;新しい;あたらしい;atarashii;new;nouveau
-1;8;百;ひゃく;hyaku;hundred;cent
-1;8;千;せん;sen;thousand;mille
-1;8;水;みず;mizu;water;eau
-1;8;大きい;おおきい;ookii;big;grand
-1;8;小さい;ちいさい;chiisai;small;petit
-2 old;1;買います;かいます;kaimasu;buy;acheter
-2 old;1;土曜日;どようび;doyoubi;saturday;samedi
-2 old;1;話します;はなします;hanashimasu;speak,talk;parler
-2 old;1;日;ひ;hi;day;jour
-2 old;2;新聞;しんぶん;shinbun;newspaper;journal
-2 old;2;食べます;たべます;tabemasu;eat;manger
-2 old;2;飲みます;のみます;nomimasu;drink;boire
-2 old;2;と言います;といいます;toimasu;say;dire
-2 old;2;四時;よじ;yoji;four o'clock;(il est) 4 heures
-2 old;3;行きます;いきます;ikimasu;go;aller
-2 old;3;来ます;きます;kimasu;come;venir
-2 old;3;分;ふん;fun;minute;minute
-2 old;3;時間;じかん;jikan;hour;heure
-2 old;3;十分;じゅっぷん;juppun;ten minutes;dix minutes
-2 old;3;七分;しちふん;shichifun;seven minutes;sept minutes
-2 old;3;二分;にふん;nifun;two minutes;deux minutes
-2 old;3;五分;ごふん;gofun;five minutes;cinq minutes
-2 old;4;何;なに;nani;what;quoi
-2 old;4;高い;たかい;takai;expensive,high;cher,eleve
-2 old;4;休みます;やすみます;yasumimasu;rest,take a break;se reposer,prendre une pause
-2 old;4;九分;きゅうふん;kyuufun;nine minutes;neuf minutes
-2 old;5;七月;しちがつ;shichigatsu;july;juillet
-2 old;5;九月;くがつ;kugatsu;september;septembre
-2 old;5;休み;やすみ;yasumi;holiday,day off;vacances
-2 old;6;買い物;かいもの;kaimono;shopping;faire des achats
-2 old;6;来月;らいげつ;raigetsu;next month;mois prochain
-2 old;6;来週;らいしゅう;raishuu;next week;semaine prochaine
-2 old;7;会います;あいます;aimasu;meet;rencontrer
-2 old;7;金曜日;きんようび;kinyoubi;friday;vendredi
-2 old;7;お父さん;おとうさん;otousan;your father;ton père
-2 old;7;お母さん;おかあさん;okaasan;your mother;ta mère
-2 old;7;月曜日;げつようび;getsuyoubi;monday;lundi
-2 old;8;木曜日;もくようび;mokuyoubi;thursday;jeudi
-2 old;8;卵;たまご;tamago;egg;oeuf
-2 old;8;魚;さかな;sakana;fish;poisson
-2 old;8;火曜日;かようび;kayoubi;tuesday;mardi
-2 old;8;山田;やまだ;yamada;yamada;yamada
-2 old;8;水曜日;すいようび;suiyoubi;wednesday;mercredi
-2 old;9;三千;さんぜん;sanzen;three thousand;trois mille
-2 old;11;一階;いっかい;ikkai;first floor;premier etage
-2 old;11;二階;にかい;nikai;second floor;deuxieme etage
-2 old;11;書きます;かきます;kakimasu;write;ecrire
-2 old;11;作ります;つくります;tsukurimasu;make,create;creer,fabriquer
-2 old;12;先生;せんせい;sensei;teacher;professeur
-2 old;12;英語;えいご;eigo;english;anglais
-2 old;12;日本語;にほんご;nihongo;japanese;japonais
-2 old;12;学生;がくせい;gakusei;student;etudiant
-2 old;12;名前;なまえ;namae;name;nom
-2 old;12;お茶;おちゃ;ocha;tea;the
-2 old;12;僕;ぼく;boku;i,me;moi
-2 old;12;ご飯;ごはん;gohan;rice,meal;riz, repas
-2 old;12;野菜;やさい;yasai;vegetable;legume
-2 old;12;肉;にく;niku;meat;viande
-2 old;12;牛乳;ぎゅうにゅう;gyuunyuu;milk;lait
-2 old;12;今;いま;ima;now;maintenant
-2 old;13;学校;がっこう;gakkou;school;ecole
-2 old;13;午後;ごご;gogo;pm;apres-midi
-2 old;13;午前;ごぜん;gozen;am;matin
-2 old;13;零;れい;rei;zero;zero
-2 old;13;会社;かいしゃ;kaisha;company;entreprise
-2 old;13;毎日;まいにち;mainichi;every day;tous les jours
-2 old;13;毎朝;まいあさ;maiasa;every morning;tous les matins
-2 old;13;毎晩;まいばん;maiban;every night;toutes les nuits
-2 old;13;風呂;ふろ;furo;bath;bain
-2 old;13;寝室;しんしつ;shinshitsu;bedroom;chambre
-2 old;13;部屋;へや;heya;room;piece
-2 old;13;台所;だいどころ;daidokoro;kitchen;cuisine
-2 old;13;家;いえ;ie;house,home;maison
-2 old;13;庭;にわ;niwa;garden;jardin
-2 old;13;窓;まど;mado;window;fenetre
-2 old;13;子;こ;ko;child;enfant
-2 old;13;椅子;いす;isu;chair;chaise
-2 old;13;猫;ねこ;neko;cat;chat
-2 old;13;犬;いぬ;inu;dog;chien
-2 old;13;鳥;とり;tori;bird;oiseau
-2 old;13;机;つくえ;tsukue;desk;bureau
-2 old;14;歳;さい;sai;years old;ans
-2 old;14;大阪;おおさか;oosaka;osaka;osaka
-2 old;14;外;そと;soto;outside;exterieur
-2 old;14;外国人;がいこくじん;gaikokujin;foreigner;etranger
-2 old;14;留学;りゅうがく;ryuugaku;study abroad;etudier a l'etranger
-2 old;14;留学生;りゅうがくせい;ryuugakusei;international student;etudiant international
-2 old;14;健太;けんた;kenta;kenta;kenta
-2 old;14;直美;なおみ;naomi;naomi;naomi
-2 old;14;個;こ;ko;counter for small objects;compteur pour petits objets
-2 old;14;中学;ちゅうがく;chuugaku;junior high school;college
-2 old;14;小学;しょうがく;shougaku;elementary school;ecole primaire
-2 old;14;高校;こうこう;koukou;high school;lycee
-2 old;14;大学;だいがく;daigaku;university;universite
-2 old;15;彼;かれ;kare;he,boyfriend;lui,petit ami
-2 old;15;彼女;かのじょ;kanojo;she,girlfriend;elle,petite amie
-2 old;15;誰;だれ;dare;who;qui
-2 old;15;姉;あね;ane;older sister;grand soeur
-2 old;15;妹;いもうと;imouto;younger sister;petite soeur
-2 old;15;弟;おとうと;otouto;younger brother;petit frere
-2 old;15;兄;あに;ani;older brother;frere
-2 old;15;お姉さん;おねえさん;oneesan;your sister;soeur
-2 old;15;お兄さん;おにいさん;oniisan;your brother;frere
-2 old;15;子供;こども;kodomo;child;enfant
-2 old;15;両親;りょうしん;ryoushin;my parents;mes parents
-2 old;15;家族;かぞく;kazoku;family;famille
-2 old;15;昼ご飯;ひるごはん;hirugohan;lunch;dejeuner
-2 old;15;晩ご飯;ばんごはん;bangohan;dinner;diner
-2 old;15;食堂;しょくどう;shokudou;cafeteria;cafeteria
-2 old;15;熱い;あつい;atsui;hot;chaud
-2 old;15;冷たい;つめたい;tsumetai;cold;froid
-2 old;15;好き;すき;suki;like,love;aimer
-2 old;15;安い;やすい;yasui;cheap;bon marche
-2 old;15;甘い;あまい;amai;sweet;doux
-2 old;15;朝ご飯;あさごはん;asagohan;breakfast;petit dejeuner
-2 old;16;今日;きょう;kyou;today;aujourd'hui
-2 old;16;仕事;しごと;shigoto;work;travail
-2 old;16;働きます;はたらきます;hatarakimasu;to work;travailler
-2 old;16;友達;ともだち;tomodachi;friend;ami
-2 old;16;昨日;きのう;kinou;yesterday;hier
-2 old;16;明日;あした;ashita;tomorrow;demain
-2 old;16;明後日;あさって;asatte;day after tomorrow;apres-demain
-2 old;16;忙しい;いそがしい;isogashii;busy;occupe
-2 old;16;上;うえ;ue;up,above;haut,dessus
-2 old;16;下;した;shita;down,below;bas,dessous
-2 old;16;左;ひだらい;hidari;left;gauche
-2 old;16;右;みぎ;migi;right;droit
-2 old;16;横;よこ;yoko;side,beside;a cote
-2 old;16;隣;となり;tonari;next to;a cote de
-2 old;16;前;まえ;mae;front;devant
-2 old;16;後ろ;うしろ;ushiro;behind;derriere
-2 old;16;冊;さつ;satsu;counter for books;compteur pour livres
-2 old;16;本棚;ほんだな;hondana;bookshelf;etagere a livres
-2 old;16;棚;たな;tana;shelf;etagere
-2 old;16;旅行;りょこう;ryokou;travel;voyage
-2 old;16;お土産;おみやげ;omiyage;souvenir;souvenir
-2 old;16;韓国;かんこく;kankoku;korea;coree
-2 old;16;韓国人;かんこくじん;kankokujin;korean;coreen
-2 old;16;間;あいだ;aida;between;entre
-2 old;16;時々;ときどき;tokidoki;sometimes;parfois
-2 old;17;座ります;すわります;suarimasu;sit;s’assoir
-2 old;17;布団;ふとん;futon;futon;futon
-2 old;17;隅;すみ;sumi;corner;coin
-2 old;17;片隅;かたすみ;katasumi;small corner;petit coin
-2 old;17;長い;ながい;nagai;long;long
-2 old;17;低い;ひくい;hikui;low;bas
-2 old;17;汚い;きたない;kitanai;dirty;sale
-2 old;17;冷蔵庫;れいぞうこ;reizouko;refrigerator;refrigerateur
-2 old;17;平日;へいじつ;heijitsu;weekday;jour de semaine
-2 old;17;週末;しゅうまつ;shuumatsu;weekend;week-end
-2 old;17;一昨日;おととい;ototoi;day before yesterday;avant-hier
-2 old;17;来週;らいしゅう;raishuu;next week;semaine prochaine
-2 old;17;先週;せんしゅう;senshuu;last week;semaine derniere
-2 old;17;洗濯;せんたく;sentaku;laundry;lessive
-2 old;17;掃除;そうじ;souji;cleaning;nettoyage
-2 old;17;;すぐ;sugu;right away;de suite
-2 old;17;浴びます;あびます;abimasu;bathe,shower;prendre une douche,se baigner
-2 old;17;開けます;あけます;akemasu;open;ouvrir
-2 old;17;終わります;おわります;owarimasu;to end;finir
-2 old;17;始まります;はじまります;hajimarimasu;to start;commencer
-2 old;17;鏡;かがみ;kagami;mirror;miroir
-2 old;17;閉めます;しめます;shimemasu;close;fermer
-2 old;17;電気;でんき;denki;electricity;electrecite
-2 old;17;立ちます;たちます;tachimasu;stand up;se mettre debout
-2 old;17;点けます;つけます;tsukeimasu;turn on (lights);allumer (lumière)
-2 old;17;電車;でんしゃ;densha;train;train
-2 old;17;人気;にんき;ninki;personality (popularity);personnalité (populaire)
-2 old;17;帰ります;かえります;kaerimasu;return;rentrer,retourner
-2 old;18;泳ぎます;およぎます;oyogimasu;to swim;nager
-2 old;18;習います;ならいます;naraimasu;to learn;apprendre
-2 old;18;走ります;はしります;hashirimasu;to run;courir
-2 old;18;聞きます;ききます;kikimasu;to listen;écouter
-2 old;18;音楽;おんがく;ongaku;music;musique
-2 old;18;遊びます;あそびます;asobimasu;to play;jouer
-2 old;18;歌います;うたいます;utaimasu;to sing;chanter
-2 old;18;歌;うた;uta;song;chanson
-2 old;18;枚;まい;mai;counter for flat objects;compteur pour objets plats
-2 old;18;写真;しゃしん;shashin;photo;photo
-2 old;18;撮ります;とります;torimasu;to take photos;prendre des photos
-2 old;18;映画;えいが;eiga;film,movie;film
-2 old;18;描きます;かきます;kakimasu;to draw;dessiner
-2 old;18;手紙;てがみ;tegami;letter;lettre
-2 old;18;絵;え;e;picture;dessin
-2 old;18;楽しい;たのしい;tanoshii;fun;fun
-2 old;18;息子;むすこ;musuko;son;fils
-2 old;18;娘;むすめ;musume;daughter;fille
-2 old;18;叔母;おば;oba;aunt;tante
-2 old;18;妻;つま;tsuma;wife (formal);épouse (formel)
-2 old;18;夫;おっと;otto;husband (formal);époux (formel)
-2 old;18;;いとこ;itoko;cousin;cousin
-2 old;18;;おじ;oji;uncle;oncle
-2 old;18;(ご)在宅;(ご)ざいたく;(go)zaitaku;at home;être à la maison
-2 old;18;;ただいま;tadaima;I'm back,I'm home;je suis de retour,je suis à la maison
-2 old;18;;おじさん;ojiisan;grandfather;grand père
-2 old;18;;いってきます;ittekimasu;I'm off,I'm leaving;je pars
-2 old;18;お帰りなさい;おかえりなさい;okaerinasai;welcome back;rebienvenu
-2 old;18;;いってらっしゃい;itterasshai;take care,have a nice day;passe une bonne journée
-2 old;18;似ています;にています;niteimasu;to resemble;ressembler
-2 old;18;親戚;しんせき;shinseki;relatives;proches
-2 old;18;祖母;そぼ;sobo;my grandmother;ma grand mère
-2 old;18;祖父;そふ;sofu;my grandfather;mon grand père
-2 old;18;孫;まご;mago;my grandchildren;mes petit enfants
-2 old;18;父親;ちちおや;chichioya; father (relationship or role);père (relation ou rôle)
-2 old;18;母親;ははおや;hahaoya;mother (relationship or role);mère (relation ou rôle)
-2 old;18;親;おや;oya;parents,ancestor (general without sepcifying the degree offormality);parents,ancêtres (en général sans spécifier le degré de formalité)
-2 old;18;主人;しゅじん;shujin;owner;propriétaire
-2 old;18;ご主人;ごしゅじん;goshujin;husband (polite & affectionate);mari (polit & affectif)
-2 old;18;奥さん;おくさん;okusan;wife (polite & affectionate);femme (polit & affectif)
-2 old;18;孫息子;まごむすこ;magomusuko;grandson;petit fils
-2 old;18;お孫さん;おまごさん;omagosan;your grandchild;tes petis enfants
-2 old;18;孫娘;まごむすめ;magomusume;granddaughter;petite fille
-2 old;19;車;くるま;kuruma;car;voiture
-2 old;19;駅;えき;eki;station;gare
-2 old;19;自転車;じてんしゃ;jitenshi;bicycle;vélo
-2 old;19;地下鉄;ちかてつ;chikaku;subway;métro
-2 old;19;空港;くうこう;kuukou;airport;aéroport
-2 old;19;飛行機;ひこうき;hikouki;airplane;avion
-2 old;19;地図;ちず;chizu;map;carte
-2 old;19;速い;はやい;hayai;fast,early;rapide,tôt
-2 old;19;遅い;おそい;osoi;slow,late;lent,en retard
-2 old;19;遠い;とおい;tooi;far;loin
-2 old;19;近い;ちかい;chikai;near;proche (lieu)
-2 old;19;白い;しろい;shiroi;white;blanc
-2 old;19;赤い;あかい;akai;red;rouge
-2 old;19;乗ります;のります;norimasu;to ride;prendre (un transport)
-2 old;19;使います;つかいます;tsukaimasu;to use;utiliser
-2 old;19;歩きます;あるきます;arukimasu;to walk;marcher
-2 old;19;着ます;きます;kimasu;to wear (full/upper body);porter (corps complet/supérieur)
-2 old;19;履きます;はきます;hakimasu;to wear (foot / leg);porter (jambes / pieds)
-2 old;19;被ります;かぶります;kaburimasu;to wear (on head);porter (sur la tête)
-2 old;19;黄色い;きいろい;kiiroi;yellow;jaune
-2 old;19;靴;くつ;kutsu;shoes;chaussure
-2 old;19;青い;あおい;aoi;blue;bleu
-2 old;19;オランジ色;オランジいろ;oranjiiro;orange;orange
-2 old;19;ピンク色;ピンクいろ;pinkuiro;pink;rose
-2 old;19;;パンツ;pantsu;underwear;sous-vêtement
-2 old;19;;ズポン;zupon;pants;pantalon
-2 old;19;洗います;あらいます;araimasu;to wash;laver
-2 old;19;服;ふく;fuku;clothes;habits
-2 old;19;黒い;くろい;kuroi;black;noir
-2 old;19;茶色;ちゃいろ;chairo;brown;marron
-2 old;19;脱ぎます;ぬぎます;nugimasu;to take off,remove;enlever
-2 old;19;帽子;ぼおし;booshi;hat;chapeau
-2 old;19;欲しい;ほしい;hoshii;want;vouloir
-2;14;食べ物;たべもの;tabemono;food;nourriture
-2;14;;おまつり;omatsuri;festival;festival
-2;14;;たいこ;taiko;drum;tambour
-2;14;;おおみそか;oomisoka;New Year's Eve;réveillon de Nouvel An
-2;14;;イルミネーション;irumineeshon;illumination;illumination
-2;14;;たんじょうび;tanjoubi;birthday;anniversaire
-2;15;;デート;deeto;date;rendez-vous
-2;15;映画館;えいがかん;eigakan;movie theater;cinéma
-2;15;;ばんご;bango;number;numéro
-2;15;;ツァー;tsuaa;tour;tour
-2;15;;きた;kita;north;nord
-2;15;;よびます;yobimasu;to call;appeler
-2;15;飲み物;のみもの;nomimono;drink;boisson
-2;15;;ゆっくり;yukkuri;slowly;lentement
-2;15;乗り換えます;のりかえます;norikaemasu;to transfer (trains, etc.);transférer (trains, etc.)
-2;15;;はらいます;haraimasu;to pay;payer
-2;15;;インフォマション;infomashon;information desk;bureau d'information
-2;15;;ポップコーン;poppukoon;popcorn;pop-corn
-2;15;;ワイン;wain;wine;vin
-2;15;;ネクレス;nekuresu;necklace;collier
-2;15;;うでどけい;udedokei;wristwatch;montre-bracelet
-2;15;;かいそく;kaisoku;express (train);express (train)
-2;15;;ブラウス;burausu;blouse;blouse
-2;16;口;くち;kuchi;mouth;bouche
-2;16;;め;me;eye;œil
-2;16;;カラフル;karafuru;colorful;coloré
-2;16;;トマト;tomato;tomato;tomate
-2;16;;はな;hana;flower;fleur
-2;16;耳;みみ;mimi;ear;oreille
-2;16;;すうがく;suugaku;mathematics;mathématiques
-2;16;;キャンパス;kyanpasu;campus;campus
-2;16;;せんこう;senkou;major (field of study);spécialité (domaine d'étude)
-2;16;;ビジネス;bijinesu;business;affaires
-2;16;;ボランティア;borantia;volunteer;volontaire
-2;16;;クリスマス;kurisumasu;Christmas;Noël
-2;16;;ダンス;dansu;dance;danse
-2;16;;ルームメイト;ruumumeito;roommate;colocataire
-2;16;;りょう;ryou;dormitory;dortoir
-2;16;;チェス;chesu;chess;échecs
-2;16;;かんとく;kantoku;director;réalisateur
-2;16;;どうぶつ;doubutsu;animal;animal
-2;16;;なんびき;nanbiki;how many animals;combien d'animaux
-2;17;雨;あめ;ame;rain;pluie
-2;17;;こしょう;koshou;pepper;poivre
-2;17;;バックパック;bakkupakku;backpack;sac à dos
-2;17;一日;ついたち;tsuitachi;first day of the month;premier jour du mois
-2;17;ぎゅ肉;ぎゅにく;gyuuniku;beef;bœuf
-2;17;川;かわ;kawa;river;rivière
-2;17;;けしき;keshiki;scenery;paysage
-2;17;;くらい;kurai;dark;sombre
-2;17;;ハイキング;haikingu;hiking;randonnée
-2;17;;ピクニック;pikunikku;picnic;pique-nique
-2;17;楽しい見ます;たのしいみます;tanoshiimimasu;to have fun;s'amuser
-2;17;;モノレール;monore-ru;monorail;monorail
-2;17;;バーべキュー;baabekyuu;barbecue;barbecue
-2;17;;すずしい;suzushii;cool (weather);frais (météo)
-2;17;;てんいん;ten'in;clerk,shop assistant;employé
-2;17;;ぜんぶで;zenbude;all together;tous ensemble
-2;17;;かいけい;kaikei;cashier;caissier
-2;17;;ちゅうかがい;chuukagai;Chinatown;quartier chinois
-2;17;;はし;hashi;bridge;pont
-2;18;;かぎ;kagi;key;clé
-2;18;三日;みっか;mikka;third day of the month;troisième jour du mois
-2;18;二日;ふつか;futsuka;second day of the month;deuxième jour du mois
-2;18;;クレジットカード;kurejitto ka-do;credit card;carte de crédit
-2;18;三階;さんがい;sangai;third floor;troisième étage
-2;18;;タオル;taoru;towel;serviette
-2;18;;チェックイン;chekkuin;check-in;enregistrement
-2;18;;チェックアウト;chekkuauto;check-out;départ
-2;18;;パスワード;pasuwa-do;password;mot de passe
-2;18;;こうり;kouri;ice;glace
-2;18;;さがします;sagashimasu;to look for;chercher
-2;18;泊まります;とまります;tomarimasu;to stay (at a hotel etc.);séjourner (dans un hôtel etc.)
-2;18;;ネット;netto;internet;internet
-2;18;;よやくします;yoyakushimasu;to reserve;réserver
-2;18;;むりょう;muryou;free (of charge);gratuit
-3;1;;ぞう;zou;elephant;éléphant
-3;1;;ピーナッツ;pi-nattsu;peanuts;cacahuètes
-3;1;;はじめて;hajimete;for the first time;pour la première fois
-3;1;;すいぞくかん;suizokukan;aquarium;aquarium
-3;1;;クレープ;kure-pu;crepe;crêpe
-3;1;;きょねん;kyonen;last year;l'année dernière
-3;1;;きります;kirimasu;to cut;couper
-3;1;;れんしゅうします;renshuushimasu;to practice;s'entrainer
-3;1;見つけます;みつけます;mitsukemasu;to find;trouver
-3;1;;プレゼント;purezento;present;cadeau
-3;1;;カップ;kappu;cup;tasse
-3;1;;おもちゃ;omocha;toy;jouet
-3;1;;ナイフ;naifu;knife;couteau
-3;1;;ぶんか;bunka;culture;culture
-3;1;;どうやって;douyatte;in what way,how;comment
-3;1;;おさら;osara;plate;assiette
-3;1;;ヘッドフォン;heddofon;headphones;casque
-3;1;;フォーク;fo-ku;fork;fourchette
-3;1;;わたります;watarimasu;to cross;traverser
-3;1;;とちゅうど;tochuudo;on the way;en chemin
-3;2;;グレー;guree;gray;gris
-3;2;;でんち;denchi;battery;batterie
-3;2;;レシート;reshiito;receipt;reçu
-3;2;;けーブル;ke-buru;cable;câble
-3;2;;キーボード;kiiboodo;keyboard;clavier
-3;2;;モニター;monitaa;monitor;moniteur
-3;2;;ワイヤレス;waiyaresu;wireless;sans fil
-3;2;;スピーカー;supiikaa;speaker;haut-parleur
-3;2;電気屋;でんきや;denkiya;electric store;magasin d'électronique
-3;2;;ペン;pen;pen;stylo
-3;2;今夜;こんや;konya;tonight;ce soir
-3;2;;ステーじ;suteeji;stage;scène
-3;2;;まんなか;mannaka;middle,center;milieu,centre
-3;2;;アーティスト;aatisuto;artist;artiste
-3;2;;まちます;machimasu;to wait;attendre
-3;2;;ひがし;higashi;east;est
-3;2;;まだ;mada;still;encore
-3;2;;もどります;modorimasu;to return;retourner
-3;2;;もう;mou;already;déjà
-3;2;;サイン;sain;autograph;autographe
-3;2;;ならびます;narabimasu;to line up;faire la queue
-3;2;;みなみ;minami;south;sud
-3;2;;かるい;karui;lightweight;léger
-3;2;;おもい;omoi;heavy;lourd
-3;2;;マウス;mousu;mouse (gaming);souris d'ordinatetur
-3;2;;ひかります;hikarimasu;to shine;briller
-3;2;;つかれます;tsukaremasu;to get tired;se fatiguer
-3;2;;でかけます;dekakemasu;to go out;sortir
-3;2;;グッズ;guzzu;merch;marchandise
-3;3;歴史;れきし;rekishi;history;histoire
-3;3;田舎;いなか;inaka;countryside;campagne
-3;3;木;き;ki;tree;arbre
-3;3;アメフト;アメフト;amefuto;American football;football américain
-3;3;サークル;サークル;sākuru;sport club;club sportif
-3;3;スタジアム;スタジアム;sutajiamu;stadium;stade
-3;3;郵便局;ゆうびんきょく;yūbinkyoku;post office;bureau de poste
-3;3;銀行;ぎんこう;ginkō;bank;banque
-3;3;親切;しんせつ;shinsetsu;nice/kind;gentil
-3;3;空気;くうき;kūki;air;air
-3;3;不便;ふべん;fuben;inconvenient;désagréable
-3;3;コート;コート;kōto;court (legal);tribunal (judiciaire)
-3;3;ドラッグストア;ドラッグストア;doraggusutoa;drugstore (pharmacy);pharmacie
-3;3;鉛筆;えんぴつ;enpitsu;pencil;crayon
-3;3;ふくや;ふくや;fukuya;clothing store;magasin de vêtements
-3;3;クラスメート;クラスメート;kurasumēto;classmate;camarade de classe
-3;3;ショッピングセンター;ショッピングセンター;shoppingu sentā;shopping center;centre commercial
-3;3;靴下;くつした;kutsushita;socks;chaussettes
-3;3;ボロボロ;ボロボロ;boroboro;worn-out (shabby);usé (délabré)
-3;3;ジーンズ;ジーンズ;jīnzu;jeans;jeans
-3;3;紫;むらさき;murasaki;purple;violet
-3;3;パーカー;パーカー;pākā;hoodie;sweat à capuche
-3;3;まず;まず;mazu;first (initially);premièrement (initialement)
-3;3;まっすぐ;まっすぐ;massugu;straight;droit
-3;3;メンズ;メンズ;menzu;men's section;rayon hommes
-3;3;レディース;レディース;rediisu;women's section;rayon femmes
-3;3;ふわふわ;ふわふわ;fuwafuwa;fluffy;douillet
-3;3;マフラー;マフラー;mafurā;scarf;écharpe
-3;3;キラキラ;キラキラ;kirakira;sparkly;brillant
-3;3;アクセサリー;アクセサリー;akusesarī;accessory;accessoire
-3;3;レジ;レジ;reji;cash register;caisse
-3;3;今度;こんど;kondo;next time;la prochaine fois
-3;3;入ります;はいります;hairimasu;to enter/enroll;entrer/s'inscrire
-3;3;卒業します;そつぎょうします;sotsugyō shimasu;to graduate;obtenir son diplôme
-3;3;閉まります;しまります;shimarimasu;to close (own its own);fermer (de soit même)
-3;3;開けます;あけます;akemasu;to open;ouvrir
-3;3;上がります;あがります;agarimasu;to go up;monter
-3;3;曲がります;まがります;magarimasu;to turn;tourner
-3;4;四月;しがつ;shigatsu;April;avril
-3;4;住んでいます;すんでいます;sundeimasu;am living;je vis
-3;4;桜;さくら;sakura;cherry blossom;fleur de cerisier
-3;4;咲く;さきます;sakimasu;bloom (flowers);fleurit
-3;4;夜;よる;yoru;night;nuit
-3;4;夏;なつ;natsu;summer;été
-3;4;西瓜;すいか;suika;watermelon;pastèque
-3;4;点けます;つけます;tsukemasu;to turn on;allumer
-3;4;秋;あき;aki;autumn;automne
-3;4;冬;ふゆ;fuyu;winter;hiver
-3;4;薩摩芋;さつまいも;satsumaimo;sweet potato;patate douce
-3;4;暖房;だんぼう;danbou;heater;chauffage
-3;4;鍋;なべ;nabe;pot (cooking);marmite
-3;4;スケート;スケート;sukeito;skate;patin
-3;4;蜜柑;みかん;oranges;orange (fruit);orange (fruit)
-3;4;スキー;スキー;skiing;skiing;ski
-3;4;スノボ;スノボ;snowboarding;snowboarding;snowboard
-3;4;焼く;やきます;yakimasu;grill;griller
-3;4;;なります;narimasu;to turn / to become;changer / devenir
-3;4;夕方;ゆうがた;yuugata;evening;soirée
-3;4;招く;よびます;yobimasu;to invite;inviter
-3;4;もう;もう;mou;already;déjà
-3;4;用事;ようじ;youji;stuff / stuff to do;affaires / choses à faire
-3;4;久しぶり;ひさしぶり;hisashiburi;long time no see;ça fait longtemps
-3;4;最近;さいきん;saikin;recently;récemment
-3;4;帰ります;かえります;kaerimasu;return home;rentrer à la maison
-3;4;;かたづけます;katazukemasu;to tidy up;ranger
-3;4;そろそろ;そろそろ;sorosoro;in a bit / soon / shortly;bientôt / dans peu de temps
-3;5;眠い;ねむい;Nemui;sleepy;fatigué
-3;5;アラーム;アラーム;Ara-mu;alarm;alarme
-3;5;まだ;まだ;mada;yet,still,too;encore,toujours,aussi
-3;5;また;また;mata;again,also,furthermore;egalement,encore,de nouveau
-3;5;起きます;おきます;Okimasu;to get up;se lever
-3;5;寝ます;ねます;Nemasu;to sleep;dormir
-3;5;リモコン;リモコン;Rimokon;remote control;télécommande
-3;5;ブランケット;ブランケット;Buranketto;blanket;couverture
-3;5;出ます;でます;Demasu;to leave (get out);sortir
-3;5;バナナ;バナナ;Banana;banana;banane
-3;5;ゆっくります;ゆっくります;Yukkurimasu;to relax;se détendre
-3;5;寝坊します;ねぼうします;Neboushimasu;to oversleep;dormir trop
-3;5;キャンセルします;きゃんせるします;Kyanserushimasu;to cancel;annuler
-3;5;もう少し;もうすこし;Mousukoshi;a bit longer;un peu plus longtemps
-3;5;小説;しょうせつ;Shousetsu;a novel;un roman
-3;5;後で;あとで;Atode;later;plus tard
-3;5;予定;よてい;Yotei;plans / schedule;plans / emploi du temps
-3;5;皆;みな;Mina;everyone;tout le monde
-3;5;今から;いまから;ima kara;just now;à l'instant
-3;5;遅い;おそい;Osoi;slow;lent
-3;5;着きます;つきます;Tsukimasu;to arrive;arriver
-3;5;メッセージ;メッセージ;Messēji;message;message
-3;5;送ります;おくります;Okurimasu;to send (a message);envoyer (un message)
-3;5;パン屋;パンや;Panya;bakery;boulangerie
-3;5;西;にし;Nishi;west;ouest
-3;5;急ぎます;いそぎます;Isogimasu;to hurry;se dépêcher
-3;5;遅れます;おくれます;Okuremasu;to be late;être en retards
-3;11;いいですか;いいですか;iidesuka;Is it okay?;Est-ce que c'est bon ?
-3;11;島;しま;shima;Island;Île
-3;11;クルーズ;クルーズ;kuruuzu;Cruise;Croisière
-3;11;港;みなと;minato;Port;Port
-3;11;水着;みずぎ;mizugi;Swimsuit;Maillot de bain
-3;11;船;ふね;fune;Boat;Bateau
-3;11;回ります;まわります;mawarimasu;To rotate,go arround;tourner,faire le tour
-3;11;ロブスター;ロブスター;robusutā;Lobster;Homard
-3;11;食べ放題;たべほうだい;tabehōdai;All-you-can-eat;Buffet à volonté
-3;11;ハンバーガー;ハンバーガー;hanbāgā;Hamburger;Hamburger
-3;11;結構;けっこう;kekkou;quite a bit;assez,pas mal
-3;11;ミニゴルフ;ミニゴルフ;minigorufu;Mini golf;Mini-golf
-3;11;3日間;みっかかん;mikkakan;3 days;3 jours
-3;11;何日間;なんにちかん;nannichikan;How many days;Combien de jours
-3;11;祖父母;そふぼ;sofubo;Grandparents;Grands-parents
-3;11;海外;かいがい;kaigai;Overseas;Étranger (à l'étranger)
-3;11;リゾート;リゾート;rizōto;Resort;Station balnéaire
-3;11;1週間;いっしゅうかん;isshuukan;1 week;1 semaine
-3;11;景色;けしき;keshiki;Scenery;Paysage
-3;12;花見;はなみ;hanami;Cherry blossom viewing;Observation des cerisiers en fleur
-3;12;忘れます;わすれます;wasuremasu;To forget;Oublier
-3;12;事故;じこ;jiko;Accident;Accident
-3;12;止まります;とまります;torimasu;To stop/To stay;S'arrêter/Rester
-3;12;乗り換えます;のりかえます;norikaemasu;To transfer;Changer (de transport)
-3;12;焼きそば;やきそば;yakisoba;Fried noodles;Nouilles sautées
-3;12;やっと;やっと;yatto;Finally;Enfin
-3;12;もう一つ;もうひとつ;mouhitotsu;One more;Encore un
-3;12;池;いけ;ike;Pond;Étang
-3;12;屋台;やたい;yatai;Street stall;Stand de rue
-3;12;鴨;かも;kamo;Duck;Canard
-3;12;橋;はし;hashi;Bridge;Pont
-3;12;来年;らいねん;rainen;Next year;L'année prochaine
-3;13;週末;しゅうまつ;shuumatsu;Weekend;Week-end
-3;13;来週;らいしゅう;raishuu;Next week;La semaine prochaine
-3;13;五日;いつか;itsuka;Five days;Cinq jours
-3;13;赤ちゃん;あかちゃん;akachan;baby;nourisson
-3;13;パンダ;パンダ;panda;Panda;Panda
-3;13;鳥;とり;tori;Bird;Oiseau
-3;13;足;あし;ashi;Leg/Foot;Jambe/Pied
-3;13;キリン;キリン;kirin;Giraffe;Girafe
-3;13;猿;さる;saru;Monkey;Singe
-3;13;スムージー;スムージー;sumuujii;Smoothie;Smoothie
-3;13;ベンチ;ベンチ;benchi;Bench;Banc
-3;13;綿飴;わたあめ;wataame;Cotton candy;Barbe à papa
-3;13;三匹;さんびき;sanbiki;Three (small animals);Trois (petits animaux)
-3;13;兎;うさぎ;usagi;Rabbit;Lapin
-3;13;山羊;やぎ;yagi;Goat;Chèvre
-3;13;撫でます;なでます;nademasu;To pet;Caresser
-3;13;ハンドジェル;ハンドジェル;handojeru;Hand sanitizer;Gel pour les mains
-3;13;フェンス;フェンス;fensu;Fence;Clôture
-3;13;ギフトショップ;ギフトショップ;gifutoshoppu;Gift shop;Magasin de souvenirs
-3;13;マグネット;マグネット;magunetto;Magnet;Aimant
-3;13;キーホルダー;キーホルダー;kiihorudaa;Keychain;Porte-clés
-3;13;ぬいぐるみ;ぬいぐるみ;nuigurumi;Stuffed animal;Peluche
-3;14;風邪;かぜ;kaze;Cold;Rhume
-3;14;引きます;ひきます;hikimasu;To catch (a cold);Attraper (un rhume)
-3;14;熱;ねつ;netsu;Fever;Fièvre
-3;14;嵐;あらし;arashi;Storm;Tempête
-3;14;何も;なにも;nanimo;Nothing;Rien
-3;14;何もしません;なにもしません;nanimoshimasen;Do nothing;Ne rien faire
-3;14;メールします;メールします;me-ru shimasu;To email;Envoyer un e-mail
-3;14;電話します;でんわします;denwashimasu;To call;Téléphoner
-3;14;ノート;ノート;no-to;Notebook;Carnet
-3;14;借ります;かります;karimasu;To borrow;Emprunter
-3;14;一日中;いちにちじゅう;ichinichijuu;All day;Toute la journée
-3;14;マスク;マスク;masuku;Mask;Masque
-3;14;全然;ぜんぜん;zenzen;Not at all;Pas du tout
-3;14;薬;くすり;kusuri;Medicine;Médicament
-3;14;ティッシュ;ティッシュ;tisshu;Tissue;Mouchoir
-3;14;お粥;おかゆ;okayu;Rice porridge;Bouillie de riz
-3;14;ビタミン;ビタミン;bitamin;Vitamin;Vitamine
-3;14;苦い;にがい;nigai;Bitter;Amer
-3;14;昨日;きのう;kinou;Yesterday;Hier
-3;14;元気;げんき;genki;Healthy;En forme
-3;14;なります;なります;narimasu;To become;Devenir
-3;15;止めます;やめます;yamemasu;To stop;Arrêter
-3;15;遅くまで;おそくまで;osokumade;Until late;Jusqu'à tard
-3;15;良い;よい;yoi;Good;Bon
-3;15;オフィス;オフィス;ofuisu;Office;Bureau
-3;15;壊れます;こわれます;kowaremasu;To break;Casser
-3;15;怒ります;おこります;okorimasu;To get angry;Se fâcher
-3;15;真面目;まじめ;majime;Serious;Sérieux
-3;15;まずい;まずい;mazui;Unappetizing;Dégoutant
-3;15;インスタント;インスタント;insutanto;Instant;Instantané
-3;15;同じ;おなじ;onaji;Same;Même
-3;15;頑張ります;がんばります;ganbarimasu;To do one's best;Faire de son mieux
-3;15;別;べつ;betsu;Different;Différent
-3;15;スキル;スキル;sukiru;Skill;Compétence
-3;15;紹介します;しょうかいします;shoukaishimasu;To introduce;Présenter
-3;15;開けます;あけます;akemasu;To open (something);Ouvrir
-3;15;開きます;あきます;akimasu;To open;S'ouvrir
-3;15;閉めます;しめます;shimemasu;To close (something);Fermer
-3;15;閉まります;しまります;shimarimasu;To close;Se fermer
-3;16;毎年;まいとし;maitoshi;Every year;Chaque année
-3;16;絵本;えほん;ehon;Picture book;Livre d'images
-3;16;姪;めい;mei;Niece;Nièce
-3;16;あげます;あげます;agemasu;To give;Donner
-3;16;タブレット;タブレット;taburetto;Tablet;Tablette
-3;16;人形;にんぎょう;ningyou;Doll;Poupée
-3;16;甥;おい;oi;Nephew;Neveu
-3;16;喜びます;よろこびます;yorokobimasu;To be pleased;Se réjouir
-3;16;祖母;そぼ;sobo;Grandmother;Grand-mère
-3;16;祖父;そふ;sofu;Grandfather;Grand-père
-3;16;ベルト;ベルト;beruto;Belt;Ceinture
-3;16;革;かわ;kawa (leather);Leather;Cuir
-3;16;ハンカチ;ハンカチ;hankachi;Handkerchief;Mouchoir
-3;16;ケース;ケース;case;Case;Étui
-3;16;もらいます;もらいます;moraimasu;To receive;Recevoir
-3;16;今年;ことし;kotoshi;This year;Cette année
-3;16;マグカップ;マグカップ;magukappu;Mug;Tasse
-3;16;パートナー;パートナー;paatonaa;Partner;Partenaire
-3;17;二日間;ふつかかん;futsukakan;2 days;2 jours
-3;17;湖;みずうみ;mizuumi;Lake;Lac
-3;17;村;むら;mura;Village;Village
-3;17;旅館;りょかん;ryokan;Japanese inn;Auberge japonaise
-3;17;森;もり;mori;Forest;Forêt
-3;17;周り;まわり;mawari;Around;Autour
-3;17;立派;りっぱ;rippa;Splendid;Splendide
-3;17;散歩します;さんぽします;sanposhimasu;To take a walk;Se promener
-3;17;入口;いりぐち;iriguchi;Entrance;Entrée
-3;17;靴;くつ;kutsu;Shoes;Chaussures
-3;17;よく;よく;yoku;Often,Well;Souvent,Bien
-3;17;畳;たたみ;tatami;Tatami mat;Tatami
-3;17;脱ぎます;ぬぎます;nugimasu;To take off;Enlever
-3;17;きのこ;きのこ;kinoko;Mushroom;Champignon
-3;17;季節の;きせつの;kisetsuno;Seasonal;De saison
-3;17;新鮮;しんせん;shinsen;Fresh;Frais
-3;17;刺身;さしみ;sashimi;Sashimi;Sashimi
-3;17;お客さん;おきゃくさん;okyakusan;Customer;Client
-3;17;クーポン;クーポン;kuupon;Coupon;Coupon
-3;17;レビュー;レビュー;rebyuu;Review;Critique
-3;17;必ず;かならず;kanarazu;Surely;Sûrement
-3;17;スタッフ;スタッフ;sutaffu;Staff;Personnel
-3;18;今週末;こんしゅうまつ;konshuumatsu;This weekend;Ce week-end
-3;18;北;きた;kita;North;Nord
-3;18;シャツ;シャツ;shatsu;Shirt;Chemise
-3;18;ブランド;ブランド;burando;Brand;Marque
-3;18;ギフトカード;ギフトカード;gifutokaado;Gift card;Carte cadeau
-3;18;ショートパンツ;ショートパンツ;shootopantsu;Short pants;Short
-3;18;ボタン;ボタン;botan;Button;Bouton
-3;18;の;の;no;Of,one;De,un
-3;18;ポロシャツ;ポロシャツ;poroshatsu;Polo shirt;Polo
-3;18;ショルダーバッグ;ショルダーバッグ;shorudaabaggu;Shoulder bag;Sac à bandoulière
-3;18;キャップ;キャップ;kyappu;Cap;Casquette
-3;18;眼鏡;めがね;megane;Glasses;Lunettes
-3;18;指輪;ゆびわ;yubiwa;Ring;Bague
-3;18;ブレスレット;ブレスレット;buresuretto;Bracelet;Bracelet
-3;18;シルバー;シルバー;shirubaa;Silver;Argent
-3;18;スニーカー;スニーカー;sunyuukaa;Sneakers;Baskets
-3;18;ブーツ;ブーツ;buutsu;Boots;Bottes
-3;18;サンダル;サンダル;sandaru;Sandals;Sandales
-3;18;ちょっと;ちょっと;chotto;a little,a bit,slightly;un peu,légèrement
-3;19;年;ねん;nen;Year;An
-3;19;イタリア;イタリア;itaria;Italy;Italie
-3;19;文学;ぶんがく;bungaku;Literature;Littérature
-3;19;留学します;りゅうがくします;ryuugakushimasu;To study abroad;Étudier à l'étranger
-3;19;課題;かだい;kadai;Assignment;Devoir
-3;19;まあまあ;まあまあ;maamaa;So-so,alright;Comme ci comme ça
-3;19;レポート;レポート;repooto;Report;Rapport
-3;19;生活;せいかつ;seikatsu;Life;Vie
-3;19;毎朝;まいあさ;maiasa;Every morning;Tous les matins
-3;19;外国語;がいこくご;gaikokugo;Foreign language;Langue étrangère
-3;19;ダメ;ダメ;dana;No good;Pas bon
-3;19;成績;せいせき;seiseki;Grades;Notes
-3;19;大好き;だいすき;daisuki;Love it;Adorer
-3;19;バイト;バイト;baito;Part-time job;Petit boulot
-3;19;入ります;はいります;hairimasu;To enter;Entrer
-3;19;たまに;たまに;tamani;Occasionally;De temps en temps
-3;19;近所の人;きんじょのひと;kinjo no hito;Neighbor;Voisin
-3;19;寮;りょう;ryou;Dormitory;Dortoir
-3;19;快適;かいてき;kaiteki;Comfortable;Confortable
-3;19;バイク;バイク;baiku;Motorcycle;Moto
-3;19;借ります;かります;karimasu;To borrow,to rent;Emprunter,louer
-3;20;昼ご飯;ひるごはん;hirugohan;Lunch;Déjeuner
-3;20;シチュー;シチュー;shichuu;Stew;Ragoût
-3;20;玉ねぎ;たまねぎ;tamanegi;Onion;Oignon
-3;20;お腹;おなか;onaka;Stomach;Estomac
-3;20;お腹が空きました;おなかがすきました;onakagasukimashita;I'm hungry;J'ai faim
-3;20;空きます;すきます;sukimasu;To become empty;Se vider
-3;20;作ります;つくります;tsukurimasu;To make;Faire
-3;20;じゃがいも;じゃがいも;jagaimo;Potato;Pomme de terre
-3;20;要ります;いります;irimasu;To need;Avoir besoin
-3;20;レシピ;レシピ;reshipi;Recipe;Recette
-3;20;幾つ;いくつ;ikutsu;How many;Combien
-3;20;バター;バター;batā;Butter;Beurre
-3;20;砂糖;さとう;satou;Sugar;Sucre
-3;20;小麦粉;こむぎこ;komugiko;Flour;Farine
-3;20;グラム;グラム;guramu;Gram;Gramme
-3;20;スプーン;スプーン;supūn;Spoon;Cuillère
-3;20;茶碗;ちゃわん;chawan;Rice bowl;Bol à riz
-3;20;引き出し;ひきだし;hikidashi;Drawer;Tiroir
-3;21;今月;こんげつ;kongetsu;This month;Ce mois-ci
-3;21;門;もん;mon;Gate;Porte
-3;21;楽しかった;たのしかった;tanoshikatta;Was fun;C'était amusant
-3;21;東;ひがし;higashi;East;Est
-3;21;奥さん;おくさん;okusan;Wife;Épouse
-3;21;午後;ごご;gogo;Afternoon;Après-midi
-3;21;玄関;げんかん;genkan;Entrance;Entrée
-3;21;スリッパ;スリッパ;surippa;Slippers;Pantoufles
-3;21;履きます;はきます;hakimasu;To wear (shoes);Porter (chaussures)
-3;21;旦那さん;だんなさん;dannasan;Husband;Mari
-3;21;ドア;ドア;doa;Door;Porte
-3;21;壁;かべ;kabe;Wall;Mur
-3;21;棚;たな;tana;Shelf;Étagère
-3;21;間;あいだ;aida;Between;Entre
-3;21;家具;かぐ;kagu;Furniture;Meubles
-3;21;花瓶;かびん;kabin;Vase;Vase
-3;21;手作り;てづくり;tetsukuri;Handmade;Fait main
-3;22;入れます;いれます;iremasu;To put in;Mettre
-3;22;風邪;かぜ;kaze;Cold (illness);Rhume
-3;22;クリニック;クリニック;kurinikku;Clinic;Clinique
-3;22;どうしましたか;どうしましたか;doushimashitaka;What happened?;Qu'est-ce qui s'est passé ?
-3;22;予約を入れ;よやくをいれ;yoyaku wo ire;To make a reservation;Faire une réservation
-3;22;ちょっと;ちょっと;chotto;A little;Un peu
-3;22;ストレス;ストレス;sutoresu;Stress;Stress
-3;22;痛い;いたい;itai;Painful;Douloureux
-3;22;頭;あたま;atama;Head;Tête
-3;22;目;め;me;Eye;Œil
-3;22;首;くび;kubi;Neck;Cou
-3;22;SNS;SNS;sns;Social Media;Réseaux sociaux
-3;22;ほとんど;ほとんど;hotondo;Almost;Presque
-3;22;腕;うで;ude;Arm;Bras
-3;22;転びます;ころびます;korobimasu;To fall;Tomber
-3;22;傷;きず;kizu;Wound;Blessure
-3;22;打ちます;うちます;uchimasu;To hit;Frapper
-3;22;薬局;やっきょく;yakkyoku;Pharmacy;Pharmacie
-3;22;しばらく;しばらく;shibaraku;A while;Un moment
-3;22;治ります;なおります;naorimasu;To heal;Guérir
-3;22;塗ります;ぬります;nurimasu;To apply (medicine);Appliquer (médicament)
-3;23;西;にし;nishi;West;Ouest
-3;23;広告;こうこく;koukoku;Advertisement;Publicité
-3;23;シャトルバス;シャトルバス;shatorubasu;Shuttle bus;Navette
-3;23;ゴミ;ゴミ;gomi;Trash;Déchet
-3;23;六階;ろっかい;rokkai;Sixth floor;Sixième étage
-3;23;カーテン;カーテン;kaaten;Curtain;Rideau
-3;23;ゴキブリ;ゴキブリ;gokiburi;Cockroach;Cafard
-3;23;薄い;うすい;usui;Thin;Mince
-3;23;温い;ぬるい;nurui;Lukewarm;Tiede
-3;23;シャンプー;シャンプー;shanpuu;Shampoo;Shampooing
-3;23;朝ご飯;あさごはん;asagohan;Breakfast;Petit-déjeuner
-3;23;果物;くだもの;kudamono;Fruit;Fruit
-3;23;シリアル;シリアル;shiriaru;Cereal;Céréales
-3;23;ベタベタ;ベタベタ;betabeta;Sticky;Collant
-3;23;もう;もう;mou;Anymore;Plus (du tout)
-3;23;他の;ほかの;hokano;Other;Autre
-3;23;悪い;わるい;warui;Bad;Mauvais
-3;23;不味い;まずい;mazui;Unappetizing;Dégoûtant
-3;24;飴;あめ;ame;Sweet;Bonbon
-3;24;幼稚園;ようちえん;youchien;Kindergarten;Jardin d'enfants
-3;24;時;とき;toki;Time;Temps
-3;24;郊外;こうがい;kougai;Suburbs;Banlieue
-3;24;小学生;しょうがくせい;shougakusei;Elementary school student;Élève de primaire
-3;24;中学生;ちゅうがくせい;chuugakusei;Middle school student;Collégien
-3;24;高校生;こうこうせい;koukousei;High school student;Lycéen
-3;24;習います;ならいます;naraimasu;To learn;Apprendre
-3;24;水泳;すいえい;suiei;Swimming;Natation
-3;24;体育;たいいく;taiiku;Physical education;Éducation physique
-3;24;学校;がっこう;gakkou;School;École
-3;24;勉強;べんきょう;benkyou;Study;Étude
-3;24;始めました;はじめます;hajimemasu;to start;Commencer
-3;24;美術;びじゅつ;bijutsu;Art;Art
-3;24;制服;せいふく;seifuku;Uniform;Uniforme
-3;24;厳しい;きびしい;kibishii;Strict;Strict
-3;24;かっこよかった;かっこよかった;kakkoyokatta;Was cool;Était cool
-3;24;大会;たいかい;taikai;Tournament;Tournoi
-3;24;漫画家;まんがか;mangaka;Manga artist;Mangaka
-3;24;ジョギング;ジョギング;jogingu;Jogging;Jogging
-3;24;ボクシング;ボクシング;boxingu;Boxing;Boxe
-3;25;七日;なのか;nanoka;The seventh day;Le septième jour
-3;25;喧嘩します;けんかします;kenkashimasu;To fight;Se battre
-3;25;今回;こんかい;konkai;This time;Cette fois
-3;25;最悪;さいあく;saiaku;The worst;Le pire
-3;25;列;れつ;retsu;Line;File
-3;25;混んでいます;こんでいます;kondeimasu;Crowded;Bondé
-3;25;お化け屋敷;おばけやしき;obakeyashiki;Haunted house;Maison hantée
-3;25;床;ゆか;yuka;Floor;Sol
-3;25;演技;えんぎ;engi;acting,performance;jeu d'acteur,performance
-3;25;シーン;シーン;shiin;Scene;Scène
-3;25;最後;さいご;saigo;Last;Dernier
-3;25;晩御飯;ばんごはん;bangohan;Dinner;Dîner
-3;25;メイン;メイン;mein;Main (dish);Plat principal
-3;25;硬い;かたい;katai;Hard;Dur
-3;25;だけ;だけ;dake;Only;Seulement
-3;25;残念;ざんねん;zannen;shame,disappointing;Regrettable,honte
-3;25;アプリ;アプリ;apuri;App;Application
-3;25;別れます;わかれます;wakaremasu;To separate;Se séparer
-3;25;きっと;きっと;kitto;Surely;Sûrement
-3;25;問題;もんだい;mondai;Problem;Problème
-3;26;一回;いっかい;ikkai;once;une fois
-3;26;回;かい;kai;times;fois
-3;26;インフルエンザ;インフルエンザ;infuruenza;flue;grippe
-3;26;喉;のど;nodo;throat;gorge
-3;26;予約;よやく;yoyaku;reservation;réservation
-3;26;お腹;おなか;onaka;stomach;ventre
-3;26;一日に;いちにちに;ichinichini;per day;par jour
-3;26;オレンジ;オレンジ;orenji;orange;orange
-3;26;人参;にんじん;ninjin;carrot;carotte
-3;26;ヨーグルト;ヨーグルト;yooguruto;yogurt;yaourt
-3;26;一か月に;いっかげつに;ikkagetsuni;per month;par mois
-3;26;揚げ物;あげもの;agemono;fried food;aliments frits
-3;26;脂っこい;あぶらっこい;aburakkoi;greasy;gras
-3;26;結構;けっこう;kekkou;quite often,quite a bit,quite;bien,pas mal
-3;26;携帯;けいたい;keitai;mobile phone;téléphone portable
-3;26;どれぐらい;どれぐらい;doregurai;how much;combien
-3;26;筋トレ;きんとれ;kintore;muscle training;entraînement musculaire
-3;26;これから;これから;korekara;from now on;à partir de maintenant
-3;26;サイクリング;サイクリング;saikuringu;cycling;cyclisme
-3;26;お酒;おさけ;osake;alcohol;alcool
-3;26;止めます;やめます;yamemasu;to stop;arrêter
-3;26;吸います;すいます;suimasu;to smoke;fumer
-3;26;夜中;よなか;yonaka;late at night,midnight;tard dans la nuit,minuit
-3;27;八日;ようか;youka;8th day of the month;le huitième jour
-3;27;海;うみ;umi;Sea;Mer
-3;27;どこか;どこか;dokoka;Somewhere;Quelque part
-3;27;近い;ちかい;chikai;Near;Près
-3;27;日焼け止め;ひやけどめ;hiyakedome;Sunscreen;Écran solaire
-3;27;一番近い;いちばんちかい;ichibanchikai;Nearest;Le plus proche
-3;27;サングラス;サングラス;sangurasu;Sunglasses;Lunettes de soleil
-3;27;ので;ので;node;Because;Parce que
-3;27;サーフィン;サーフィン;saafin;Surfing;Surf
-3;27;持ってきます;もってきます;mottekimasu;To bring;Apporter
-3;27;場所;ばしょ;basho;Place;Lieu
-3;27;どうしましたか;どうしましたか;doushimashitaka;What happened?;Que s'est-il passé ?
-3;27;かき氷;かきごおり;kakigoori;Shaved ice;Granité
-3;27;レモン;レモン;remon;Lemon;Citron
-3;27;ストロー;ストロー;sutoroo;Straw;Paille
-3;27;着替えます;きがえます;kigaemasu;To change clothes;Se changer
-3;27;落とします;おとします;otoshimasu;To drop;Faire tomber
-3;27;降ります;おります;orimasu;To get off;Descendre
-3;28;洋食;ようしょく;youshoku;Western food;Cuisine occidentale
-3;28;オムライス;オムライス;omuraisu;Omelette rice;Omelette-riz
-3;28;奢り;おごり;ogori;Treat (someone);Régal
-3;28;ファミレス;ファミレス;famiresu;Dinner,Family restaurant;Restaurant familial
-3;28;どちら;どちら;dochira;Which one;Lequel
-3;28;葡萄;ぶどう;budou;Grapes;Raisin
-3;28;ドリンクバー;ドリンクバー;dorinkubaa;Self service drink bar;Bar à boissons
-3;28;レモン;レモン;remon;Lemon;Citron
-3;28;胡瓜;きゅうり;kyuuri;Cucumber;Concombre
-3;28;にします;にします;nishimasu;I'll have (to order);Je prendrai (commander)
-3;28;ドレッシング;ドレッシング;doresshingu;Dressing;Vinaigrette
-3;28;ソーセージ;ソーセージ;sōsāji;Sausage;Saucisse
-3;28;ブロッコリー;ブロッコリー;burokkorii;Broccoli;Brocoli
-3;28;スペシャル;スペシャル;supesharu;Special;Spécial
-3;28;いただきます;いただきます;itadakimasu;Let's eat;Bon appétit
-3;28;とろとろ;とろとろ;torotoro;Gooey;Fondant
-3;28;マヨネーズ;マヨネーズ;mayonēzu;Mayonnaise;Mayonnaise
-3;28;多い;おおい;ooi;Many;Beaucoup
-3;28;半分;はんぶん;hanbun;Half;Moitié
-3;29;六日;むいか;muika;Sixth day;Sixième jour
-3;29;一昨日;おととい;ototoi;Day before yesterday;Avant-hier
-3;29;結婚式;けっこんしき;kekkonshiki;Wedding ceremony;Cérémonie de mariage
-3;29;新郎;しんろう;shinrou;Groom;Marié
-3;29;リムジン;リムジン;rimujin;Limousine;Limousine
-3;29;借ります;かります;karimasu;To borrow;Emprunter
-3;29;花;はな;hana;Flower;Fleur
-3;29;色;いろ;iro;Color;Couleur
-3;29;カーペット;カーペット;kaapetto;Carpet;Tapis
-3;29;会場;かいじょう;kaijou;Venue;Lieu
-3;29;デコレーション;デコレーション;dekoreeshon;Decoration;Décoration
-3;29;新婦;しんぷ;shinpu;Bride;Mariée
-3;29;美しい;うつくしい;utsukushii;Beautiful;Beau
-3;29;ゲスト;ゲスト;gesuto;Guest;Invité
-3;29;挨拶します;あいさつします;aisatsushimasu;To greet;Saluer
-3;29;親戚;しんせき;shinseki;Relative;Parent
-3;29;お酒;おさけ;osake;Alcohol;Alcool
-3;29;変;へん;hen;Strange;Étrange
-3;29;低い;ひくい;hikui;Low;Bas
-3;29;ひどい;ひどい;hidoi;Terrible;Terrible
-3;29;スピーチ;スピーチ;supīchi;Speech;Discours
-3;29;つまらない;つまらない;tsumaranai;Boring;Ennuyeux
-3;29;歌手;かしゅ;kashu;Singer;Chanteur
+﻿section;unit;kanji;hiragana;romanji;english;french;known_kanji
+1;5;一;いち;ichi;one;un;TRUE
+1;5;二;に;ni;two;deux;TRUE
+1;5;三;さん;san;three;trois;TRUE
+1;5;山;やま;yama;mountain;montagne;TRUE
+1;5;口;くち;guchi;mouth;bouche;TRUE
+1;5;田;た;ta;rice field;champ de riz;TRUE
+1;5;中;なか;naka;inside,middle;Interieur,milieu;TRUE
+1;6;私;わたし;watashi;i,me;je,moi;TRUE
+1;6;東京;とうきょう;toukyou;tokyo;tokyo;TRUE
+1;6;京都;きょうと;kyouto;kyoto;kyoto;TRUE
+1;6;日;ひ;hi;day;jour;TRUE
+1;6;日本;にほん;nihon;japan;japon;TRUE
+1;6;父;ちち;chichi;father;pere;TRUE
+1;6;母;はは;haha;mother;mere;TRUE
+1;6;四;し;shi;four;quatre;TRUE
+1;6;五;ご;go;five;cinq;TRUE
+1;6;六;ろく;roku;six;six;TRUE
+1;6;七;しち;shichi;seven;sept;TRUE
+1;7;見ます;みます;mimasu;watch,look;regarder;TRUE
+1;7;読みます;よみます;yomimasu;read;lire;TRUE
+1;7;時;じ;ji;time;temps;TRUE
+1;7;十;じゅう;juu;ten;dix;TRUE
+1;7;八;はち;hachi;eight;huit;TRUE
+1;7;九;きゅう;kyuu;nine;neuf;TRUE
+1;7;半;はん;han;half;demi;TRUE
+1;7;本;ほん;hon;book;livre;TRUE
+1;7;七時;しちじ;shichiji;seven o'clock;sept heures;TRUE
+1;8;古い;ふるい;furui;old;vieux;TRUE
+1;8;新しい;あたらしい;atarashii;new;nouveau;TRUE
+1;8;百;ひゃく;hyaku;hundred;cent;TRUE
+1;8;千;せん;sen;thousand;mille;TRUE
+1;8;水;みず;mizu;water;eau;TRUE
+1;8;大きい;おおきい;ookii;big;grand;TRUE
+1;8;小さい;ちいさい;chiisai;small;petit;TRUE
+2 old;1;買います;かいます;kaimasu;buy;acheter;TRUE
+2 old;1;土曜日;どようび;doyoubi;saturday;samedi;TRUE
+2 old;1;話します;はなします;hanashimasu;speak,talk;parler;TRUE
+2 old;1;日;ひ;hi;day;jour;TRUE
+2 old;2;新聞;しんぶん;shinbun;newspaper;journal;TRUE
+2 old;2;食べます;たべます;tabemasu;eat;manger;TRUE
+2 old;2;飲みます;のみます;nomimasu;drink;boire;TRUE
+2 old;2;と言います;といいます;toimasu;say;dire;TRUE
+2 old;2;四時;よじ;yoji;four o'clock;(il est) 4 heures;TRUE
+2 old;3;行きます;いきます;ikimasu;go;aller;TRUE
+2 old;3;来ます;きます;kimasu;come;venir;TRUE
+2 old;3;分;ふん;fun;minute;minute;TRUE
+2 old;3;時間;じかん;jikan;hour;heure;TRUE
+2 old;3;十分;じゅっぷん;juppun;ten minutes;dix minutes;TRUE
+2 old;3;七分;しちふん;shichifun;seven minutes;sept minutes;TRUE
+2 old;3;二分;にふん;nifun;two minutes;deux minutes;TRUE
+2 old;3;五分;ごふん;gofun;five minutes;cinq minutes;TRUE
+2 old;4;何;なに;nani;what;quoi;TRUE
+2 old;4;高い;たかい;takai;expensive,high;cher,eleve;TRUE
+2 old;4;休みます;やすみます;yasumimasu;rest,take a break;se reposer,prendre une pause;TRUE
+2 old;4;九分;きゅうふん;kyuufun;nine minutes;neuf minutes;TRUE
+2 old;5;七月;しちがつ;shichigatsu;july;juillet;TRUE
+2 old;5;九月;くがつ;kugatsu;september;septembre;TRUE
+2 old;5;休み;やすみ;yasumi;holiday,day off;vacances;TRUE
+2 old;6;買い物;かいもの;kaimono;shopping;faire des achats;TRUE
+2 old;6;来月;らいげつ;raigetsu;next month;mois prochain;TRUE
+2 old;6;来週;らいしゅう;raishuu;next week;semaine prochaine;TRUE
+2 old;7;会います;あいます;aimasu;meet;rencontrer;TRUE
+2 old;7;金曜日;きんようび;kinyoubi;friday;vendredi;TRUE
+2 old;7;お父さん;おとうさん;otousan;your father;ton père;TRUE
+2 old;7;お母さん;おかあさん;okaasan;your mother;ta mère;TRUE
+2 old;7;月曜日;げつようび;getsuyoubi;monday;lundi;TRUE
+2 old;8;木曜日;もくようび;mokuyoubi;thursday;jeudi;TRUE
+2 old;8;卵;たまご;tamago;egg;oeuf;TRUE
+2 old;8;魚;さかな;sakana;fish;poisson;TRUE
+2 old;8;火曜日;かようび;kayoubi;tuesday;mardi;TRUE
+2 old;8;山田;やまだ;yamada;yamada;yamada;TRUE
+2 old;8;水曜日;すいようび;suiyoubi;wednesday;mercredi;TRUE
+2 old;9;三千;さんぜん;sanzen;three thousand;trois mille;TRUE
+2 old;11;一階;いっかい;ikkai;first floor;premier etage;TRUE
+2 old;11;二階;にかい;nikai;second floor;deuxieme etage;TRUE
+2 old;11;書きます;かきます;kakimasu;write;ecrire;TRUE
+2 old;11;作ります;つくります;tsukurimasu;make,create;creer,fabriquer;TRUE
+2 old;12;先生;せんせい;sensei;teacher;professeur;TRUE
+2 old;12;英語;えいご;eigo;english;anglais;TRUE
+2 old;12;日本語;にほんご;nihongo;japanese;japonais;TRUE
+2 old;12;学生;がくせい;gakusei;student;etudiant;TRUE
+2 old;12;名前;なまえ;namae;name;nom;TRUE
+2 old;12;お茶;おちゃ;ocha;tea;the;TRUE
+2 old;12;僕;ぼく;boku;i,me;moi;TRUE
+2 old;12;ご飯;ごはん;gohan;rice,meal;riz, repas;TRUE
+2 old;12;野菜;やさい;yasai;vegetable;legume;TRUE
+2 old;12;肉;にく;niku;meat;viande;TRUE
+2 old;12;牛乳;ぎゅうにゅう;gyuunyuu;milk;lait;TRUE
+2 old;12;今;いま;ima;now;maintenant;TRUE
+2 old;13;学校;がっこう;gakkou;school;ecole;TRUE
+2 old;13;午後;ごご;gogo;pm;apres-midi;TRUE
+2 old;13;午前;ごぜん;gozen;am;matin;TRUE
+2 old;13;零;れい;rei;zero;zero;TRUE
+2 old;13;会社;かいしゃ;kaisha;company;entreprise;TRUE
+2 old;13;毎日;まいにち;mainichi;every day;tous les jours;TRUE
+2 old;13;毎朝;まいあさ;maiasa;every morning;tous les matins;TRUE
+2 old;13;毎晩;まいばん;maiban;every night;toutes les nuits;TRUE
+2 old;13;風呂;ふろ;furo;bath;bain;TRUE
+2 old;13;寝室;しんしつ;shinshitsu;bedroom;chambre;TRUE
+2 old;13;部屋;へや;heya;room;piece;TRUE
+2 old;13;台所;だいどころ;daidokoro;kitchen;cuisine;TRUE
+2 old;13;家;いえ;ie;house,home;maison;TRUE
+2 old;13;庭;にわ;niwa;garden;jardin;TRUE
+2 old;13;窓;まど;mado;window;fenetre;TRUE
+2 old;13;子;こ;ko;child;enfant;TRUE
+2 old;13;椅子;いす;isu;chair;chaise;TRUE
+2 old;13;猫;ねこ;neko;cat;chat;TRUE
+2 old;13;犬;いぬ;inu;dog;chien;TRUE
+2 old;13;鳥;とり;tori;bird;oiseau;TRUE
+2 old;13;机;つくえ;tsukue;desk;bureau;TRUE
+2 old;14;歳;さい;sai;years old;ans;TRUE
+2 old;14;大阪;おおさか;oosaka;osaka;osaka;TRUE
+2 old;14;外;そと;soto;outside;exterieur;TRUE
+2 old;14;外国人;がいこくじん;gaikokujin;foreigner;etranger;TRUE
+2 old;14;留学;りゅうがく;ryuugaku;study abroad;etudier a l'etranger;TRUE
+2 old;14;留学生;りゅうがくせい;ryuugakusei;international student;etudiant international;TRUE
+2 old;14;健太;けんた;kenta;kenta;kenta;TRUE
+2 old;14;直美;なおみ;naomi;naomi;naomi;TRUE
+2 old;14;個;こ;ko;counter for small objects;compteur pour petits objets;TRUE
+2 old;14;中学;ちゅうがく;chuugaku;junior high school;college;TRUE
+2 old;14;小学;しょうがく;shougaku;elementary school;ecole primaire;TRUE
+2 old;14;高校;こうこう;koukou;high school;lycee;TRUE
+2 old;14;大学;だいがく;daigaku;university;universite;TRUE
+2 old;15;彼;かれ;kare;he,boyfriend;lui,petit ami;TRUE
+2 old;15;彼女;かのじょ;kanojo;she,girlfriend;elle,petite amie;TRUE
+2 old;15;誰;だれ;dare;who;qui;TRUE
+2 old;15;姉;あね;ane;older sister;grand soeur;TRUE
+2 old;15;妹;いもうと;imouto;younger sister;petite soeur;TRUE
+2 old;15;弟;おとうと;otouto;younger brother;petit frere;TRUE
+2 old;15;兄;あに;ani;older brother;frere;TRUE
+2 old;15;お姉さん;おねえさん;oneesan;your sister;soeur;TRUE
+2 old;15;お兄さん;おにいさん;oniisan;your brother;frere;TRUE
+2 old;15;子供;こども;kodomo;child;enfant;TRUE
+2 old;15;両親;りょうしん;ryoushin;my parents;mes parents;TRUE
+2 old;15;家族;かぞく;kazoku;family;famille;TRUE
+2 old;15;昼ご飯;ひるごはん;hirugohan;lunch;dejeuner;TRUE
+2 old;15;晩ご飯;ばんごはん;bangohan;dinner;diner;TRUE
+2 old;15;食堂;しょくどう;shokudou;cafeteria;cafeteria;TRUE
+2 old;15;熱い;あつい;atsui;hot;chaud;TRUE
+2 old;15;冷たい;つめたい;tsumetai;cold;froid;TRUE
+2 old;15;好き;すき;suki;like,love;aimer;TRUE
+2 old;15;安い;やすい;yasui;cheap;bon marche;TRUE
+2 old;15;甘い;あまい;amai;sweet;doux;TRUE
+2 old;15;朝ご飯;あさごはん;asagohan;breakfast;petit dejeuner;TRUE
+2 old;16;今日;きょう;kyou;today;aujourd'hui;TRUE
+2 old;16;仕事;しごと;shigoto;work;travail;TRUE
+2 old;16;働きます;はたらきます;hatarakimasu;to work;travailler;TRUE
+2 old;16;友達;ともだち;tomodachi;friend;ami;TRUE
+2 old;16;昨日;きのう;kinou;yesterday;hier;TRUE
+2 old;16;明日;あした;ashita;tomorrow;demain;TRUE
+2 old;16;明後日;あさって;asatte;day after tomorrow;apres-demain;TRUE
+2 old;16;忙しい;いそがしい;isogashii;busy;occupe;TRUE
+2 old;16;上;うえ;ue;up,above;haut,dessus;TRUE
+2 old;16;下;した;shita;down,below;bas,dessous;TRUE
+2 old;16;左;ひだらい;hidari;left;gauche;TRUE
+2 old;16;右;みぎ;migi;right;droit;TRUE
+2 old;16;横;よこ;yoko;side,beside;a cote;TRUE
+2 old;16;隣;となり;tonari;next to;a cote de;TRUE
+2 old;16;前;まえ;mae;front;devant;TRUE
+2 old;16;後ろ;うしろ;ushiro;behind;derriere;TRUE
+2 old;16;冊;さつ;satsu;counter for books;compteur pour livres;TRUE
+2 old;16;本棚;ほんだな;hondana;bookshelf;etagere a livres;TRUE
+2 old;16;棚;たな;tana;shelf;etagere;TRUE
+2 old;16;旅行;りょこう;ryokou;travel;voyage;TRUE
+2 old;16;お土産;おみやげ;omiyage;souvenir;souvenir;TRUE
+2 old;16;韓国;かんこく;kankoku;korea;coree;TRUE
+2 old;16;韓国人;かんこくじん;kankokujin;korean;coreen;TRUE
+2 old;16;間;あいだ;aida;between;entre;TRUE
+2 old;16;時々;ときどき;tokidoki;sometimes;parfois;TRUE
+2 old;17;座ります;すわります;suarimasu;sit;s’assoir;TRUE
+2 old;17;布団;ふとん;futon;futon;futon;TRUE
+2 old;17;隅;すみ;sumi;corner;coin;TRUE
+2 old;17;片隅;かたすみ;katasumi;small corner;petit coin;TRUE
+2 old;17;長い;ながい;nagai;long;long;TRUE
+2 old;17;低い;ひくい;hikui;low;bas;TRUE
+2 old;17;汚い;きたない;kitanai;dirty;sale;TRUE
+2 old;17;冷蔵庫;れいぞうこ;reizouko;refrigerator;refrigerateur;TRUE
+2 old;17;平日;へいじつ;heijitsu;weekday;jour de semaine;TRUE
+2 old;17;週末;しゅうまつ;shuumatsu;weekend;week-end;TRUE
+2 old;17;一昨日;おととい;ototoi;day before yesterday;avant-hier;TRUE
+2 old;17;来週;らいしゅう;raishuu;next week;semaine prochaine;TRUE
+2 old;17;先週;せんしゅう;senshuu;last week;semaine derniere;TRUE
+2 old;17;洗濯;せんたく;sentaku;laundry;lessive;TRUE
+2 old;17;掃除;そうじ;souji;cleaning;nettoyage;TRUE
+2 old;17;;すぐ;sugu;right away;de suite;FALSE
+2 old;17;浴びます;あびます;abimasu;bathe,shower;prendre une douche,se baigner;TRUE
+2 old;17;開けます;あけます;akemasu;open;ouvrir;TRUE
+2 old;17;終わります;おわります;owarimasu;to end;finir;TRUE
+2 old;17;始まります;はじまります;hajimarimasu;to start;commencer;TRUE
+2 old;17;鏡;かがみ;kagami;mirror;miroir;TRUE
+2 old;17;閉めます;しめます;shimemasu;close;fermer;TRUE
+2 old;17;電気;でんき;denki;electricity;electrecite;TRUE
+2 old;17;立ちます;たちます;tachimasu;stand up;se mettre debout;TRUE
+2 old;17;点けます;つけます;tsukeimasu;turn on (lights);allumer (lumière);TRUE
+2 old;17;電車;でんしゃ;densha;train;train;TRUE
+2 old;17;人気;にんき;ninki;personality (popularity);personnalité (populaire);TRUE
+2 old;17;帰ります;かえります;kaerimasu;return;rentrer,retourner;TRUE
+2 old;18;泳ぎます;およぎます;oyogimasu;to swim;nager;TRUE
+2 old;18;習います;ならいます;naraimasu;to learn;apprendre;TRUE
+2 old;18;走ります;はしります;hashirimasu;to run;courir;TRUE
+2 old;18;聞きます;ききます;kikimasu;to listen;écouter;TRUE
+2 old;18;音楽;おんがく;ongaku;music;musique;TRUE
+2 old;18;遊びます;あそびます;asobimasu;to play;jouer;TRUE
+2 old;18;歌います;うたいます;utaimasu;to sing;chanter;TRUE
+2 old;18;歌;うた;uta;song;chanson;TRUE
+2 old;18;枚;まい;mai;counter for flat objects;compteur pour objets plats;TRUE
+2 old;18;写真;しゃしん;shashin;photo;photo;TRUE
+2 old;18;撮ります;とります;torimasu;to take photos;prendre des photos;TRUE
+2 old;18;映画;えいが;eiga;film,movie;film;TRUE
+2 old;18;描きます;かきます;kakimasu;to draw;dessiner;TRUE
+2 old;18;手紙;てがみ;tegami;letter;lettre;TRUE
+2 old;18;絵;え;e;picture;dessin;TRUE
+2 old;18;楽しい;たのしい;tanoshii;fun;fun;TRUE
+2 old;18;息子;むすこ;musuko;son;fils;TRUE
+2 old;18;娘;むすめ;musume;daughter;fille;TRUE
+2 old;18;叔母;おば;oba;aunt;tante;TRUE
+2 old;18;妻;つま;tsuma;wife (formal);épouse (formel);TRUE
+2 old;18;夫;おっと;otto;husband (formal);époux (formel);TRUE
+2 old;18;;いとこ;itoko;cousin;cousin;FALSE
+2 old;18;;おじ;oji;uncle;oncle;FALSE
+2 old;18;(ご)在宅;(ご)ざいたく;(go)zaitaku;at home;être à la maison;TRUE
+2 old;18;;ただいま;tadaima;I'm back,I'm home;je suis de retour,je suis à la maison;FALSE
+2 old;18;;おじさん;ojiisan;grandfather;grand père;FALSE
+2 old;18;;いってきます;ittekimasu;I'm off,I'm leaving;je pars;FALSE
+2 old;18;お帰りなさい;おかえりなさい;okaerinasai;welcome back;rebienvenu;TRUE
+2 old;18;;いってらっしゃい;itterasshai;take care,have a nice day;passe une bonne journée;FALSE
+2 old;18;似ています;にています;niteimasu;to resemble;ressembler;TRUE
+2 old;18;親戚;しんせき;shinseki;relatives;proches;TRUE
+2 old;18;祖母;そぼ;sobo;my grandmother;ma grand mère;TRUE
+2 old;18;祖父;そふ;sofu;my grandfather;mon grand père;TRUE
+2 old;18;孫;まご;mago;my grandchildren;mes petit enfants;TRUE
+2 old;18;父親;ちちおや;chichioya; father (relationship or role);père (relation ou rôle);TRUE
+2 old;18;母親;ははおや;hahaoya;mother (relationship or role);mère (relation ou rôle);TRUE
+2 old;18;親;おや;oya;parents,ancestor (general without sepcifying the degree offormality);parents,ancêtres (en général sans spécifier le degré de formalité);TRUE
+2 old;18;主人;しゅじん;shujin;owner;propriétaire;TRUE
+2 old;18;ご主人;ごしゅじん;goshujin;husband (polite & affectionate);mari (polit & affectif);TRUE
+2 old;18;奥さん;おくさん;okusan;wife (polite & affectionate);femme (polit & affectif);TRUE
+2 old;18;孫息子;まごむすこ;magomusuko;grandson;petit fils;TRUE
+2 old;18;お孫さん;おまごさん;omagosan;your grandchild;tes petis enfants;TRUE
+2 old;18;孫娘;まごむすめ;magomusume;granddaughter;petite fille;TRUE
+2 old;19;車;くるま;kuruma;car;voiture;TRUE
+2 old;19;駅;えき;eki;station;gare;TRUE
+2 old;19;自転車;じてんしゃ;jitenshi;bicycle;vélo;TRUE
+2 old;19;地下鉄;ちかてつ;chikaku;subway;métro;TRUE
+2 old;19;空港;くうこう;kuukou;airport;aéroport;TRUE
+2 old;19;飛行機;ひこうき;hikouki;airplane;avion;TRUE
+2 old;19;地図;ちず;chizu;map;carte;TRUE
+2 old;19;速い;はやい;hayai;fast,early;rapide,tôt;TRUE
+2 old;19;遅い;おそい;osoi;slow,late;lent,en retard;TRUE
+2 old;19;遠い;とおい;tooi;far;loin;TRUE
+2 old;19;近い;ちかい;chikai;near;proche (lieu);TRUE
+2 old;19;白い;しろい;shiroi;white;blanc;TRUE
+2 old;19;赤い;あかい;akai;red;rouge;TRUE
+2 old;19;乗ります;のります;norimasu;to ride;prendre (un transport);TRUE
+2 old;19;使います;つかいます;tsukaimasu;to use;utiliser;TRUE
+2 old;19;歩きます;あるきます;arukimasu;to walk;marcher;TRUE
+2 old;19;着ます;きます;kimasu;to wear (full/upper body);porter (corps complet/supérieur);TRUE
+2 old;19;履きます;はきます;hakimasu;to wear (foot / leg);porter (jambes / pieds);TRUE
+2 old;19;被ります;かぶります;kaburimasu;to wear (on head);porter (sur la tête);TRUE
+2 old;19;黄色い;きいろい;kiiroi;yellow;jaune;TRUE
+2 old;19;靴;くつ;kutsu;shoes;chaussure;TRUE
+2 old;19;青い;あおい;aoi;blue;bleu;TRUE
+2 old;19;オランジ色;オランジいろ;oranjiiro;orange;orange;TRUE
+2 old;19;ピンク色;ピンクいろ;pinkuiro;pink;rose;TRUE
+2 old;19;;パンツ;pantsu;underwear;sous-vêtement;FALSE
+2 old;19;;ズポン;zupon;pants;pantalon;FALSE
+2 old;19;洗います;あらいます;araimasu;to wash;laver;TRUE
+2 old;19;服;ふく;fuku;clothes;habits;TRUE
+2 old;19;黒い;くろい;kuroi;black;noir;TRUE
+2 old;19;茶色;ちゃいろ;chairo;brown;marron;TRUE
+2 old;19;脱ぎます;ぬぎます;nugimasu;to take off,remove;enlever;TRUE
+2 old;19;帽子;ぼおし;booshi;hat;chapeau;TRUE
+2 old;19;欲しい;ほしい;hoshii;want;vouloir;TRUE
+2;14;食べ物;たべもの;tabemono;food;nourriture;TRUE
+2;14;;おまつり;omatsuri;festival;festival;FALSE
+2;14;;たいこ;taiko;drum;tambour;FALSE
+2;14;;おおみそか;oomisoka;New Year's Eve;réveillon de Nouvel An;FALSE
+2;14;;イルミネーション;irumineeshon;illumination;illumination;FALSE
+2;14;;たんじょうび;tanjoubi;birthday;anniversaire;FALSE
+2;15;;デート;deeto;date;rendez-vous;FALSE
+2;15;映画館;えいがかん;eigakan;movie theater;cinéma;FALSE
+2;15;;ばんご;bango;number;numéro;FALSE
+2;15;;ツァー;tsuaa;tour;tour;FALSE
+2;15;;きた;kita;north;nord;FALSE
+2;15;;よびます;yobimasu;to call;appeler;FALSE
+2;15;飲み物;のみもの;nomimono;drink;boisson;TRUE
+2;15;;ゆっくり;yukkuri;slowly;lentement;FALSE
+2;15;乗り換えます;のりかえます;norikaemasu;to transfer (trains, etc.);transférer (trains, etc.);TRUE
+2;15;;はらいます;haraimasu;to pay;payer;FALSE
+2;15;;インフォマション;infomashon;information desk;bureau d'information;FALSE
+2;15;;ポップコーン;poppukoon;popcorn;pop-corn;FALSE
+2;15;;ワイン;wain;wine;vin;FALSE
+2;15;;ネクレス;nekuresu;necklace;collier;FALSE
+2;15;;うでどけい;udedokei;wristwatch;montre-bracelet;FALSE
+2;15;;かいそく;kaisoku;express (train);express (train);FALSE
+2;15;;ブラウス;burausu;blouse;blouse;FALSE
+2;16;口;くち;kuchi;mouth;bouche;TRUE
+2;16;;め;me;eye;œil;FALSE
+2;16;;カラフル;karafuru;colorful;coloré;FALSE
+2;16;;トマト;tomato;tomato;tomate;FALSE
+2;16;;はな;hana;flower;fleur;FALSE
+2;16;耳;みみ;mimi;ear;oreille;TRUE
+2;16;;すうがく;suugaku;mathematics;mathématiques;FALSE
+2;16;;キャンパス;kyanpasu;campus;campus;FALSE
+2;16;;せんこう;senkou;major (field of study);spécialité (domaine d'étude);FALSE
+2;16;;ビジネス;bijinesu;business;affaires;FALSE
+2;16;;ボランティア;borantia;volunteer;volontaire;FALSE
+2;16;;クリスマス;kurisumasu;Christmas;Noël;FALSE
+2;16;;ダンス;dansu;dance;danse;FALSE
+2;16;;ルームメイト;ruumumeito;roommate;colocataire;FALSE
+2;16;;りょう;ryou;dormitory;dortoir;FALSE
+2;16;;チェス;chesu;chess;échecs;FALSE
+2;16;;かんとく;kantoku;director;réalisateur;FALSE
+2;16;;どうぶつ;doubutsu;animal;animal;FALSE
+2;16;;なんびき;nanbiki;how many animals;combien d'animaux;FALSE
+2;17;雨;あめ;ame;rain;pluie;TRUE
+2;17;;こしょう;koshou;pepper;poivre;FALSE
+2;17;;バックパック;bakkupakku;backpack;sac à dos;FALSE
+2;17;一日;ついたち;tsuitachi;first day of the month;premier jour du mois;TRUE
+2;17;ぎゅ肉;ぎゅにく;gyuuniku;beef;bœuf;TRUE
+2;17;川;かわ;kawa;river;rivière;TRUE
+2;17;;けしき;keshiki;scenery;paysage;FALSE
+2;17;;くらい;kurai;dark;sombre;FALSE
+2;17;;ハイキング;haikingu;hiking;randonnée;FALSE
+2;17;;ピクニック;pikunikku;picnic;pique-nique;FALSE
+2;17;楽しい見ます;たのしいみます;tanoshiimimasu;to have fun;s'amuser;TRUE
+2;17;;モノレール;monore-ru;monorail;monorail;FALSE
+2;17;;バーべキュー;baabekyuu;barbecue;barbecue;FALSE
+2;17;;すずしい;suzushii;cool (weather);frais (météo);FALSE
+2;17;;てんいん;ten'in;clerk,shop assistant;employé;FALSE
+2;17;;ぜんぶで;zenbude;all together;tous ensemble;FALSE
+2;17;;かいけい;kaikei;cashier;caissier;FALSE
+2;17;;ちゅうかがい;chuukagai;Chinatown;quartier chinois;FALSE
+2;17;;はし;hashi;bridge;pont;FALSE
+2;18;;かぎ;kagi;key;clé;FALSE
+2;18;三日;みっか;mikka;third day of the month;troisième jour du mois;TRUE
+2;18;二日;ふつか;futsuka;second day of the month;deuxième jour du mois;TRUE
+2;18;;クレジットカード;kurejitto ka-do;credit card;carte de crédit;FALSE
+2;18;三階;さんがい;sangai;third floor;troisième étage;TRUE
+2;18;;タオル;taoru;towel;serviette;FALSE
+2;18;;チェックイン;chekkuin;check-in;enregistrement;FALSE
+2;18;;チェックアウト;chekkuauto;check-out;départ;FALSE
+2;18;;パスワード;pasuwa-do;password;mot de passe;FALSE
+2;18;;こうり;kouri;ice;glace;FALSE
+2;18;;さがします;sagashimasu;to look for;chercher;FALSE
+2;18;泊まります;とまります;tomarimasu;to stay (at a hotel etc.);séjourner (dans un hôtel etc.);FALSE
+2;18;;ネット;netto;internet;internet;FALSE
+2;18;;よやくします;yoyakushimasu;to reserve;réserver;FALSE
+2;18;;むりょう;muryou;free (of charge);gratuit;FALSE
+3;1;;ぞう;zou;elephant;éléphant;FALSE
+3;1;;ピーナッツ;pi-nattsu;peanuts;cacahuètes;FALSE
+3;1;;はじめて;hajimete;for the first time;pour la première fois;FALSE
+3;1;;すいぞくかん;suizokukan;aquarium;aquarium;FALSE
+3;1;;クレープ;kure-pu;crepe;crêpe;FALSE
+3;1;;きょねん;kyonen;last year;l'année dernière;FALSE
+3;1;;きります;kirimasu;to cut;couper;FALSE
+3;1;;れんしゅうします;renshuushimasu;to practice;s'entrainer;FALSE
+3;1;見つけます;みつけます;mitsukemasu;to find;trouver;TRUE
+3;1;;プレゼント;purezento;present;cadeau;FALSE
+3;1;;カップ;kappu;cup;tasse;FALSE
+3;1;;おもちゃ;omocha;toy;jouet;FALSE
+3;1;;ナイフ;naifu;knife;couteau;FALSE
+3;1;;ぶんか;bunka;culture;culture;FALSE
+3;1;;どうやって;douyatte;in what way,how;comment;FALSE
+3;1;;おさら;osara;plate;assiette;FALSE
+3;1;;ヘッドフォン;heddofon;headphones;casque;FALSE
+3;1;;フォーク;fo-ku;fork;fourchette;FALSE
+3;1;;わたります;watarimasu;to cross;traverser;FALSE
+3;1;;とちゅうど;tochuudo;on the way;en chemin;FALSE
+3;2;;グレー;guree;gray;gris;FALSE
+3;2;;でんち;denchi;battery;batterie;FALSE
+3;2;;レシート;reshiito;receipt;reçu;FALSE
+3;2;;けーブル;ke-buru;cable;câble;FALSE
+3;2;;キーボード;kiiboodo;keyboard;clavier;FALSE
+3;2;;モニター;monitaa;monitor;moniteur;FALSE
+3;2;;ワイヤレス;waiyaresu;wireless;sans fil;FALSE
+3;2;;スピーカー;supiikaa;speaker;haut-parleur;FALSE
+3;2;電気屋;でんきや;denkiya;electric store;magasin d'électronique;TRUE
+3;2;;ペン;pen;pen;stylo;FALSE
+3;2;今夜;こんや;konya;tonight;ce soir;TRUE
+3;2;;ステーじ;suteeji;stage;scène;FALSE
+3;2;;まんなか;mannaka;middle,center;milieu,centre;FALSE
+3;2;;アーティスト;aatisuto;artist;artiste;FALSE
+3;2;;まちます;machimasu;to wait;attendre;FALSE
+3;2;;ひがし;higashi;east;est;FALSE
+3;2;;まだ;mada;still;encore;FALSE
+3;2;;もどります;modorimasu;to return;retourner;FALSE
+3;2;;もう;mou;already;déjà;FALSE
+3;2;;サイン;sain;autograph;autographe;FALSE
+3;2;;ならびます;narabimasu;to line up;faire la queue;FALSE
+3;2;;みなみ;minami;south;sud;FALSE
+3;2;;かるい;karui;lightweight;léger;FALSE
+3;2;;おもい;omoi;heavy;lourd;FALSE
+3;2;;マウス;mousu;mouse (gaming);souris d'ordinatetur;FALSE
+3;2;;ひかります;hikarimasu;to shine;briller;FALSE
+3;2;;つかれます;tsukaremasu;to get tired;se fatiguer;FALSE
+3;2;;でかけます;dekakemasu;to go out;sortir;FALSE
+3;2;;グッズ;guzzu;merch;marchandise;FALSE
+3;3;歴史;れきし;rekishi;history;histoire;FALSE
+3;3;田舎;いなか;inaka;countryside;campagne;FALSE
+3;3;木;き;ki;tree;arbre;TRUE
+3;3;アメフト;アメフト;amefuto;American football;football américain;FALSE
+3;3;サークル;サークル;sākuru;sport club;club sportif;FALSE
+3;3;スタジアム;スタジアム;sutajiamu;stadium;stade;FALSE
+3;3;郵便局;ゆうびんきょく;yūbinkyoku;post office;bureau de poste;FALSE
+3;3;銀行;ぎんこう;ginkō;bank;banque;FALSE
+3;3;親切;しんせつ;shinsetsu;nice/kind;gentil;FALSE
+3;3;空気;くうき;kūki;air;air;FALSE
+3;3;不便;ふべん;fuben;inconvenient;désagréable;FALSE
+3;3;コート;コート;kōto;court (legal);tribunal (judiciaire);FALSE
+3;3;ドラッグストア;ドラッグストア;doraggusutoa;drugstore (pharmacy);pharmacie;FALSE
+3;3;鉛筆;えんぴつ;enpitsu;pencil;crayon;FALSE
+3;3;ふくや;ふくや;fukuya;clothing store;magasin de vêtements;FALSE
+3;3;クラスメート;クラスメート;kurasumēto;classmate;camarade de classe;FALSE
+3;3;ショッピングセンター;ショッピングセンター;shoppingu sentā;shopping center;centre commercial;FALSE
+3;3;靴下;くつした;kutsushita;socks;chaussettes;FALSE
+3;3;ボロボロ;ボロボロ;boroboro;worn-out (shabby);usé (délabré);FALSE
+3;3;ジーンズ;ジーンズ;jīnzu;jeans;jeans;FALSE
+3;3;紫;むらさき;murasaki;purple;violet;FALSE
+3;3;パーカー;パーカー;pākā;hoodie;sweat à capuche;FALSE
+3;3;まず;まず;mazu;first (initially);premièrement (initialement);FALSE
+3;3;まっすぐ;まっすぐ;massugu;straight;droit;FALSE
+3;3;メンズ;メンズ;menzu;men's section;rayon hommes;FALSE
+3;3;レディース;レディース;rediisu;women's section;rayon femmes;FALSE
+3;3;ふわふわ;ふわふわ;fuwafuwa;fluffy;douillet;FALSE
+3;3;マフラー;マフラー;mafurā;scarf;écharpe;FALSE
+3;3;キラキラ;キラキラ;kirakira;sparkly;brillant;FALSE
+3;3;アクセサリー;アクセサリー;akusesarī;accessory;accessoire;FALSE
+3;3;レジ;レジ;reji;cash register;caisse;FALSE
+3;3;今度;こんど;kondo;next time;la prochaine fois;FALSE
+3;3;入ります;はいります;hairimasu;to enter/enroll;entrer/s'inscrire;FALSE
+3;3;卒業します;そつぎょうします;sotsugyō shimasu;to graduate;obtenir son diplôme;FALSE
+3;3;閉まります;しまります;shimarimasu;to close (own its own);fermer (de soit même);TRUE
+3;3;開けます;あけます;akemasu;to open;ouvrir;TRUE
+3;3;上がります;あがります;agarimasu;to go up;monter;TRUE
+3;3;曲がります;まがります;magarimasu;to turn;tourner;FALSE
+3;4;四月;しがつ;shigatsu;April;avril;TRUE
+3;4;住んでいます;すんでいます;sundeimasu;am living;je vis;TRUE
+3;4;桜;さくら;sakura;cherry blossom;fleur de cerisier;FALSE
+3;4;咲く;さきます;sakimasu;bloom (flowers);fleurit;FALSE
+3;4;夜;よる;yoru;night;nuit;TRUE
+3;4;夏;なつ;natsu;summer;été;FALSE
+3;4;西瓜;すいか;suika;watermelon;pastèque;FALSE
+3;4;点けます;つけます;tsukemasu;to turn on;allumer;TRUE
+3;4;秋;あき;aki;autumn;automne;FALSE
+3;4;冬;ふゆ;fuyu;winter;hiver;FALSE
+3;4;薩摩芋;さつまいも;satsumaimo;sweet potato;patate douce;FALSE
+3;4;暖房;だんぼう;danbou;heater;chauffage;FALSE
+3;4;鍋;なべ;nabe;pot (cooking);marmite;FALSE
+3;4;スケート;スケート;sukeito;skate;patin;FALSE
+3;4;蜜柑;みかん;oranges;orange (fruit);orange (fruit);FALSE
+3;4;スキー;スキー;skiing;skiing;ski;FALSE
+3;4;スノボ;スノボ;snowboarding;snowboarding;snowboard;FALSE
+3;4;焼く;やきます;yakimasu;grill;griller;FALSE
+3;4;;なります;narimasu;to turn / to become;changer / devenir;FALSE
+3;4;夕方;ゆうがた;yuugata;evening;soirée;FALSE
+3;4;招く;よびます;yobimasu;to invite;inviter;FALSE
+3;4;もう;もう;mou;already;déjà;FALSE
+3;4;用事;ようじ;youji;stuff / stuff to do;affaires / choses à faire;FALSE
+3;4;久しぶり;ひさしぶり;hisashiburi;long time no see;ça fait longtemps;FALSE
+3;4;最近;さいきん;saikin;recently;récemment;FALSE
+3;4;帰ります;かえります;kaerimasu;return home;rentrer à la maison;TRUE
+3;4;;かたづけます;katazukemasu;to tidy up;ranger;FALSE
+3;4;そろそろ;そろそろ;sorosoro;in a bit / soon / shortly;bientôt / dans peu de temps;FALSE
+3;5;眠い;ねむい;Nemui;sleepy;fatigué;FALSE
+3;5;アラーム;アラーム;Ara-mu;alarm;alarme;FALSE
+3;5;まだ;まだ;mada;yet,still,too;encore,toujours,aussi;FALSE
+3;5;また;また;mata;again,also,furthermore;egalement,encore,de nouveau;FALSE
+3;5;起きます;おきます;Okimasu;to get up;se lever;TRUE
+3;5;寝ます;ねます;Nemasu;to sleep;dormir;TRUE
+3;5;リモコン;リモコン;Rimokon;remote control;télécommande;FALSE
+3;5;ブランケット;ブランケット;Buranketto;blanket;couverture;FALSE
+3;5;出ます;でます;Demasu;to leave (get out);sortir;TRUE
+3;5;バナナ;バナナ;Banana;banana;banane;FALSE
+3;5;ゆっくります;ゆっくります;Yukkurimasu;to relax;se détendre;FALSE
+3;5;寝坊します;ねぼうします;Neboushimasu;to oversleep;dormir trop;FALSE
+3;5;キャンセルします;きゃんせるします;Kyanserushimasu;to cancel;annuler;FALSE
+3;5;もう少し;もうすこし;Mousukoshi;a bit longer;un peu plus longtemps;FALSE
+3;5;小説;しょうせつ;Shousetsu;a novel;un roman;FALSE
+3;5;後で;あとで;Atode;later;plus tard;TRUE
+3;5;予定;よてい;Yotei;plans / schedule;plans / emploi du temps;FALSE
+3;5;皆;みな;Mina;everyone;tout le monde;FALSE
+3;5;今から;いまから;ima kara;just now;à l'instant;TRUE
+3;5;遅い;おそい;Osoi;slow;lent;TRUE
+3;5;着きます;つきます;Tsukimasu;to arrive;arriver;TRUE
+3;5;メッセージ;メッセージ;Messēji;message;message;FALSE
+3;5;送ります;おくります;Okurimasu;to send (a message);envoyer (un message);FALSE
+3;5;パン屋;パンや;Panya;bakery;boulangerie;FALSE
+3;5;西;にし;Nishi;west;ouest;TRUE
+3;5;急ぎます;いそぎます;Isogimasu;to hurry;se dépêcher;FALSE
+3;5;遅れます;おくれます;Okuremasu;to be late;être en retards;FALSE
+3;11;いいですか;いいですか;iidesuka;Is it okay?;Est-ce que c'est bon ?;FALSE
+3;11;島;しま;shima;Island;Île;FALSE
+3;11;クルーズ;クルーズ;kuruuzu;Cruise;Croisière;FALSE
+3;11;港;みなと;minato;Port;Port;FALSE
+3;11;水着;みずぎ;mizugi;Swimsuit;Maillot de bain;FALSE
+3;11;船;ふね;fune;Boat;Bateau;FALSE
+3;11;回ります;まわります;mawarimasu;To rotate,go arround;tourner,faire le tour;TRUE
+3;11;ロブスター;ロブスター;robusutā;Lobster;Homard;FALSE
+3;11;食べ放題;たべほうだい;tabehōdai;All-you-can-eat;Buffet à volonté;FALSE
+3;11;ハンバーガー;ハンバーガー;hanbāgā;Hamburger;Hamburger;FALSE
+3;11;結構;けっこう;kekkou;quite a bit;assez,pas mal;FALSE
+3;11;ミニゴルフ;ミニゴルフ;minigorufu;Mini golf;Mini-golf;FALSE
+3;11;3日間;みっかかん;mikkakan;3 days;3 jours;TRUE
+3;11;何日間;なんにちかん;nannichikan;How many days;Combien de jours;TRUE
+3;11;祖父母;そふぼ;sofubo;Grandparents;Grands-parents;FALSE
+3;11;海外;かいがい;kaigai;Overseas;Étranger (à l'étranger);TRUE
+3;11;リゾート;リゾート;rizōto;Resort;Station balnéaire;FALSE
+3;11;1週間;いっしゅうかん;isshuukan;1 week;1 semaine;FALSE
+3;11;景色;けしき;keshiki;Scenery;Paysage;FALSE
+3;12;花見;はなみ;hanami;Cherry blossom viewing;Observation des cerisiers en fleur;TRUE
+3;12;忘れます;わすれます;wasuremasu;To forget;Oublier;FALSE
+3;12;事故;じこ;jiko;Accident;Accident;FALSE
+3;12;止まります;とまります;torimasu;To stop/To stay;S'arrêter/Rester;TRUE
+3;12;乗り換えます;のりかえます;norikaemasu;To transfer;Changer (de transport);FALSE
+3;12;焼きそば;やきそば;yakisoba;Fried noodles;Nouilles sautées;FALSE
+3;12;やっと;やっと;yatto;Finally;Enfin;FALSE
+3;12;もう一つ;もうひとつ;mouhitotsu;One more;Encore un;FALSE
+3;12;池;いけ;ike;Pond;Étang;FALSE
+3;12;屋台;やたい;yatai;Street stall;Stand de rue;TRUE
+3;12;鴨;かも;kamo;Duck;Canard;FALSE
+3;12;橋;はし;hashi;Bridge;Pont;FALSE
+3;12;来年;らいねん;rainen;Next year;L'année prochaine;TRUE
+3;13;週末;しゅうまつ;shuumatsu;Weekend;Week-end;TRUE
+3;13;来週;らいしゅう;raishuu;Next week;La semaine prochaine;TRUE
+3;13;五日;いつか;itsuka;Five days;Cinq jours;TRUE
+3;13;赤ちゃん;あかちゃん;akachan;baby;nourisson;FALSE
+3;13;パンダ;パンダ;panda;Panda;Panda;FALSE
+3;13;鳥;とり;tori;Bird;Oiseau;FALSE
+3;13;足;あし;ashi;Leg/Foot;Jambe/Pied;FALSE
+3;13;キリン;キリン;kirin;Giraffe;Girafe;FALSE
+3;13;猿;さる;saru;Monkey;Singe;FALSE
+3;13;スムージー;スムージー;sumuujii;Smoothie;Smoothie;FALSE
+3;13;ベンチ;ベンチ;benchi;Bench;Banc;FALSE
+3;13;綿飴;わたあめ;wataame;Cotton candy;Barbe à papa;FALSE
+3;13;三匹;さんびき;sanbiki;Three (small animals);Trois (petits animaux);FALSE
+3;13;兎;うさぎ;usagi;Rabbit;Lapin;FALSE
+3;13;山羊;やぎ;yagi;Goat;Chèvre;FALSE
+3;13;撫でます;なでます;nademasu;To pet;Caresser;FALSE
+3;13;ハンドジェル;ハンドジェル;handojeru;Hand sanitizer;Gel pour les mains;FALSE
+3;13;フェンス;フェンス;fensu;Fence;Clôture;FALSE
+3;13;ギフトショップ;ギフトショップ;gifutoshoppu;Gift shop;Magasin de souvenirs;FALSE
+3;13;マグネット;マグネット;magunetto;Magnet;Aimant;FALSE
+3;13;キーホルダー;キーホルダー;kiihorudaa;Keychain;Porte-clés;FALSE
+3;13;ぬいぐるみ;ぬいぐるみ;nuigurumi;Stuffed animal;Peluche;FALSE
+3;14;風邪;かぜ;kaze;Cold;Rhume;FALSE
+3;14;引きます;ひきます;hikimasu;To catch (a cold);Attraper (un rhume);FALSE
+3;14;熱;ねつ;netsu;Fever;Fièvre;FALSE
+3;14;嵐;あらし;arashi;Storm;Tempête;TRUE
+3;14;何も;なにも;nanimo;Nothing;Rien;FALSE
+3;14;何もしません;なにもしません;nanimoshimasen;Do nothing;Ne rien faire;FALSE
+3;14;メールします;メールします;me-ru shimasu;To email;Envoyer un e-mail;FALSE
+3;14;電話します;でんわします;denwashimasu;To call;Téléphoner;FALSE
+3;14;ノート;ノート;no-to;Notebook;Carnet;FALSE
+3;14;借ります;かります;karimasu;To borrow;Emprunter;FALSE
+3;14;一日中;いちにちじゅう;ichinichijuu;All day;Toute la journée;FALSE
+3;14;マスク;マスク;masuku;Mask;Masque;FALSE
+3;14;全然;ぜんぜん;zenzen;Not at all;Pas du tout;FALSE
+3;14;薬;くすり;kusuri;Medicine;Médicament;TRUE
+3;14;ティッシュ;ティッシュ;tisshu;Tissue;Mouchoir;FALSE
+3;14;お粥;おかゆ;okayu;Rice porridge;Bouillie de riz;FALSE
+3;14;ビタミン;ビタミン;bitamin;Vitamin;Vitamine;FALSE
+3;14;苦い;にがい;nigai;Bitter;Amer;FALSE
+3;14;昨日;きのう;kinou;Yesterday;Hier;FALSE
+3;14;元気;げんき;genki;Healthy;En forme;TRUE
+3;14;なります;なります;narimasu;To become;Devenir;FALSE
+3;15;止めます;やめます;yamemasu;To stop;Arrêter;TRUE
+3;15;遅くまで;おそくまで;osokumade;Until late;Jusqu'à tard;TRUE
+3;15;良い;よい;yoi;Good;Bon;FALSE
+3;15;オフィス;オフィス;ofuisu;Office;Bureau;FALSE
+3;15;壊れます;こわれます;kowaremasu;To break;Casser;FALSE
+3;15;怒ります;おこります;okorimasu;To get angry;Se fâcher;FALSE
+3;15;真面目;まじめ;majime;Serious;Sérieux;FALSE
+3;15;まずい;まずい;mazui;Unappetizing;Dégoutant;FALSE
+3;15;インスタント;インスタント;insutanto;Instant;Instantané;FALSE
+3;15;同じ;おなじ;onaji;Same;Même;FALSE
+3;15;頑張ります;がんばります;ganbarimasu;To do one's best;Faire de son mieux;FALSE
+3;15;別;べつ;betsu;Different;Différent;FALSE
+3;15;スキル;スキル;sukiru;Skill;Compétence;FALSE
+3;15;紹介します;しょうかいします;shoukaishimasu;To introduce;Présenter;FALSE
+3;15;開けます;あけます;akemasu;To open (something);Ouvrir;TRUE
+3;15;開きます;あきます;akimasu;To open;S'ouvrir;TRUE
+3;15;閉めます;しめます;shimemasu;To close (something);Fermer;TRUE
+3;15;閉まります;しまります;shimarimasu;To close;Se fermer;TRUE
+3;16;毎年;まいとし;maitoshi;Every year;Chaque année;TRUE
+3;16;絵本;えほん;ehon;Picture book;Livre d'images;FALSE
+3;16;姪;めい;mei;Niece;Nièce;FALSE
+3;16;あげます;あげます;agemasu;To give;Donner;FALSE
+3;16;タブレット;タブレット;taburetto;Tablet;Tablette;FALSE
+3;16;人形;にんぎょう;ningyou;Doll;Poupée;FALSE
+3;16;甥;おい;oi;Nephew;Neveu;FALSE
+3;16;喜びます;よろこびます;yorokobimasu;To be pleased;Se réjouir;FALSE
+3;16;祖母;そぼ;sobo;Grandmother;Grand-mère;FALSE
+3;16;祖父;そふ;sofu;Grandfather;Grand-père;FALSE
+3;16;ベルト;ベルト;beruto;Belt;Ceinture;FALSE
+3;16;革;かわ;kawa (leather);Leather;Cuir;FALSE
+3;16;ハンカチ;ハンカチ;hankachi;Handkerchief;Mouchoir;FALSE
+3;16;ケース;ケース;case;Case;Étui;FALSE
+3;16;もらいます;もらいます;moraimasu;To receive;Recevoir;FALSE
+3;16;今年;ことし;kotoshi;This year;Cette année;TRUE
+3;16;マグカップ;マグカップ;magukappu;Mug;Tasse;FALSE
+3;16;パートナー;パートナー;paatonaa;Partner;Partenaire;FALSE
+3;17;二日間;ふつかかん;futsukakan;2 days;2 jours;TRUE
+3;17;湖;みずうみ;mizuumi;Lake;Lac;FALSE
+3;17;村;むら;mura;Village;Village;FALSE
+3;17;旅館;りょかん;ryokan;Japanese inn;Auberge japonaise;FALSE
+3;17;森;もり;mori;Forest;Forêt;TRUE
+3;17;周り;まわり;mawari;Around;Autour;FALSE
+3;17;立派;りっぱ;rippa;Splendid;Splendide;FALSE
+3;17;散歩します;さんぽします;sanposhimasu;To take a walk;Se promener;FALSE
+3;17;入口;いりぐち;iriguchi;Entrance;Entrée;TRUE
+3;17;靴;くつ;kutsu;Shoes;Chaussures;TRUE
+3;17;よく;よく;yoku;Often,Well;Souvent,Bien;FALSE
+3;17;畳;たたみ;tatami;Tatami mat;Tatami;FALSE
+3;17;脱ぎます;ぬぎます;nugimasu;To take off;Enlever;FALSE
+3;17;きのこ;きのこ;kinoko;Mushroom;Champignon;FALSE
+3;17;季節の;きせつの;kisetsuno;Seasonal;De saison;FALSE
+3;17;新鮮;しんせん;shinsen;Fresh;Frais;FALSE
+3;17;刺身;さしみ;sashimi;Sashimi;Sashimi;FALSE
+3;17;お客さん;おきゃくさん;okyakusan;Customer;Client;FALSE
+3;17;クーポン;クーポン;kuupon;Coupon;Coupon;FALSE
+3;17;レビュー;レビュー;rebyuu;Review;Critique;FALSE
+3;17;必ず;かならず;kanarazu;Surely;Sûrement;FALSE
+3;17;スタッフ;スタッフ;sutaffu;Staff;Personnel;FALSE
+3;18;今週末;こんしゅうまつ;konshuumatsu;This weekend;Ce week-end;FALSE
+3;18;北;きた;kita;North;Nord;TRUE
+3;18;シャツ;シャツ;shatsu;Shirt;Chemise;FALSE
+3;18;ブランド;ブランド;burando;Brand;Marque;FALSE
+3;18;ギフトカード;ギフトカード;gifutokaado;Gift card;Carte cadeau;FALSE
+3;18;ショートパンツ;ショートパンツ;shootopantsu;Short pants;Short;FALSE
+3;18;ボタン;ボタン;botan;Button;Bouton;FALSE
+3;18;の;の;no;Of,one;De,un;FALSE
+3;18;ポロシャツ;ポロシャツ;poroshatsu;Polo shirt;Polo;FALSE
+3;18;ショルダーバッグ;ショルダーバッグ;shorudaabaggu;Shoulder bag;Sac à bandoulière;FALSE
+3;18;キャップ;キャップ;kyappu;Cap;Casquette;FALSE
+3;18;眼鏡;めがね;megane;Glasses;Lunettes;FALSE
+3;18;指輪;ゆびわ;yubiwa;Ring;Bague;FALSE
+3;18;ブレスレット;ブレスレット;buresuretto;Bracelet;Bracelet;FALSE
+3;18;シルバー;シルバー;shirubaa;Silver;Argent;FALSE
+3;18;スニーカー;スニーカー;sunyuukaa;Sneakers;Baskets;FALSE
+3;18;ブーツ;ブーツ;buutsu;Boots;Bottes;FALSE
+3;18;サンダル;サンダル;sandaru;Sandals;Sandales;FALSE
+3;18;ちょっと;ちょっと;chotto;a little,a bit,slightly;un peu,légèrement;FALSE
+3;19;年;ねん;nen;Year;An;TRUE
+3;19;イタリア;イタリア;itaria;Italy;Italie;FALSE
+3;19;文学;ぶんがく;bungaku;Literature;Littérature;FALSE
+3;19;留学します;りゅうがくします;ryuugakushimasu;To study abroad;Étudier à l'étranger;TRUE
+3;19;課題;かだい;kadai;Assignment;Devoir;FALSE
+3;19;まあまあ;まあまあ;maamaa;So-so,alright;Comme ci comme ça;FALSE
+3;19;レポート;レポート;repooto;Report;Rapport;FALSE
+3;19;生活;せいかつ;seikatsu;Life;Vie;FALSE
+3;19;毎朝;まいあさ;maiasa;Every morning;Tous les matins;TRUE
+3;19;外国語;がいこくご;gaikokugo;Foreign language;Langue étrangère;TRUE
+3;19;ダメ;ダメ;dana;No good;Pas bon;FALSE
+3;19;成績;せいせき;seiseki;Grades;Notes;FALSE
+3;19;大好き;だいすき;daisuki;Love it;Adorer;TRUE
+3;19;バイト;バイト;baito;Part-time job;Petit boulot;FALSE
+3;19;入ります;はいります;hairimasu;To enter;Entrer;FALSE
+3;19;たまに;たまに;tamani;Occasionally;De temps en temps;FALSE
+3;19;近所の人;きんじょのひと;kinjo no hito;Neighbor;Voisin;FALSE
+3;19;寮;りょう;ryou;Dormitory;Dortoir;FALSE
+3;19;快適;かいてき;kaiteki;Comfortable;Confortable;FALSE
+3;19;バイク;バイク;baiku;Motorcycle;Moto;FALSE
+3;19;借ります;かります;karimasu;To borrow,to rent;Emprunter,louer;FALSE
+3;20;昼ご飯;ひるごはん;hirugohan;Lunch;Déjeuner;TRUE
+3;20;シチュー;シチュー;shichuu;Stew;Ragoût;FALSE
+3;20;玉ねぎ;たまねぎ;tamanegi;Onion;Oignon;FALSE
+3;20;お腹;おなか;onaka;Stomach;Estomac;FALSE
+3;20;お腹が空きました;おなかがすきました;onakagasukimashita;I'm hungry;J'ai faim;FALSE
+3;20;空きます;すきます;sukimasu;To become empty;Se vider;FALSE
+3;20;作ります;つくります;tsukurimasu;To make;Faire;TRUE
+3;20;じゃがいも;じゃがいも;jagaimo;Potato;Pomme de terre;FALSE
+3;20;要ります;いります;irimasu;To need;Avoir besoin;FALSE
+3;20;レシピ;レシピ;reshipi;Recipe;Recette;FALSE
+3;20;幾つ;いくつ;ikutsu;How many;Combien;FALSE
+3;20;バター;バター;batā;Butter;Beurre;FALSE
+3;20;砂糖;さとう;satou;Sugar;Sucre;FALSE
+3;20;小麦粉;こむぎこ;komugiko;Flour;Farine;FALSE
+3;20;グラム;グラム;guramu;Gram;Gramme;FALSE
+3;20;スプーン;スプーン;supūn;Spoon;Cuillère;FALSE
+3;20;茶碗;ちゃわん;chawan;Rice bowl;Bol à riz;FALSE
+3;20;引き出し;ひきだし;hikidashi;Drawer;Tiroir;FALSE
+3;21;今月;こんげつ;kongetsu;This month;Ce mois-ci;TRUE
+3;21;門;もん;mon;Gate;Porte;TRUE
+3;21;楽しかった;たのしかった;tanoshikatta;Was fun;C'était amusant;TRUE
+3;21;東;ひがし;higashi;East;Est;TRUE
+3;21;奥さん;おくさん;okusan;Wife;Épouse;FALSE
+3;21;午後;ごご;gogo;Afternoon;Après-midi;TRUE
+3;21;玄関;げんかん;genkan;Entrance;Entrée;FALSE
+3;21;スリッパ;スリッパ;surippa;Slippers;Pantoufles;FALSE
+3;21;履きます;はきます;hakimasu;To wear (shoes);Porter (chaussures);FALSE
+3;21;旦那さん;だんなさん;dannasan;Husband;Mari;FALSE
+3;21;ドア;ドア;doa;Door;Porte;FALSE
+3;21;壁;かべ;kabe;Wall;Mur;FALSE
+3;21;棚;たな;tana;Shelf;Étagère;FALSE
+3;21;間;あいだ;aida;Between;Entre;TRUE
+3;21;家具;かぐ;kagu;Furniture;Meubles;FALSE
+3;21;花瓶;かびん;kabin;Vase;Vase;FALSE
+3;21;手作り;てづくり;tetsukuri;Handmade;Fait main;FALSE
+3;22;入れます;いれます;iremasu;To put in;Mettre;TRUE
+3;22;風邪;かぜ;kaze;Cold (illness);Rhume;FALSE
+3;22;クリニック;クリニック;kurinikku;Clinic;Clinique;FALSE
+3;22;どうしましたか;どうしましたか;doushimashitaka;What happened?;Qu'est-ce qui s'est passé ?;FALSE
+3;22;予約を入れ;よやくをいれ;yoyaku wo ire;To make a reservation;Faire une réservation;FALSE
+3;22;ちょっと;ちょっと;chotto;A little;Un peu;FALSE
+3;22;ストレス;ストレス;sutoresu;Stress;Stress;FALSE
+3;22;痛い;いたい;itai;Painful;Douloureux;FALSE
+3;22;頭;あたま;atama;Head;Tête;FALSE
+3;22;目;め;me;Eye;Œil;FALSE
+3;22;首;くび;kubi;Neck;Cou;FALSE
+3;22;SNS;SNS;sns;Social Media;Réseaux sociaux;FALSE
+3;22;ほとんど;ほとんど;hotondo;Almost;Presque;FALSE
+3;22;腕;うで;ude;Arm;Bras;FALSE
+3;22;転びます;ころびます;korobimasu;To fall;Tomber;FALSE
+3;22;傷;きず;kizu;Wound;Blessure;FALSE
+3;22;打ちます;うちます;uchimasu;To hit;Frapper;FALSE
+3;22;薬局;やっきょく;yakkyoku;Pharmacy;Pharmacie;FALSE
+3;22;しばらく;しばらく;shibaraku;A while;Un moment;FALSE
+3;22;治ります;なおります;naorimasu;To heal;Guérir;FALSE
+3;22;塗ります;ぬります;nurimasu;To apply (medicine);Appliquer (médicament);FALSE
+3;23;西;にし;nishi;West;Ouest;TRUE
+3;23;広告;こうこく;koukoku;Advertisement;Publicité;FALSE
+3;23;シャトルバス;シャトルバス;shatorubasu;Shuttle bus;Navette;FALSE
+3;23;ゴミ;ゴミ;gomi;Trash;Déchet;FALSE
+3;23;六階;ろっかい;rokkai;Sixth floor;Sixième étage;FALSE
+3;23;カーテン;カーテン;kaaten;Curtain;Rideau;FALSE
+3;23;ゴキブリ;ゴキブリ;gokiburi;Cockroach;Cafard;FALSE
+3;23;薄い;うすい;usui;Thin;Mince;FALSE
+3;23;温い;ぬるい;nurui;Lukewarm;Tiede;FALSE
+3;23;シャンプー;シャンプー;shanpuu;Shampoo;Shampooing;FALSE
+3;23;朝ご飯;あさごはん;asagohan;Breakfast;Petit-déjeuner;TRUE
+3;23;果物;くだもの;kudamono;Fruit;Fruit;FALSE
+3;23;シリアル;シリアル;shiriaru;Cereal;Céréales;FALSE
+3;23;ベタベタ;ベタベタ;betabeta;Sticky;Collant;FALSE
+3;23;もう;もう;mou;Anymore;Plus (du tout);FALSE
+3;23;他の;ほかの;hokano;Other;Autre;FALSE
+3;23;悪い;わるい;warui;Bad;Mauvais;FALSE
+3;23;不味い;まずい;mazui;Unappetizing;Dégoûtant;FALSE
+3;24;飴;あめ;ame;Sweet;Bonbon;FALSE
+3;24;幼稚園;ようちえん;youchien;Kindergarten;Jardin d'enfants;FALSE
+3;24;時;とき;toki;Time;Temps;TRUE
+3;24;郊外;こうがい;kougai;Suburbs;Banlieue;FALSE
+3;24;小学生;しょうがくせい;shougakusei;Elementary school student;Élève de primaire;TRUE
+3;24;中学生;ちゅうがくせい;chuugakusei;Middle school student;Collégien;TRUE
+3;24;高校生;こうこうせい;koukousei;High school student;Lycéen;TRUE
+3;24;習います;ならいます;naraimasu;To learn;Apprendre;FALSE
+3;24;水泳;すいえい;suiei;Swimming;Natation;FALSE
+3;24;体育;たいいく;taiiku;Physical education;Éducation physique;FALSE
+3;24;学校;がっこう;gakkou;School;École;TRUE
+3;24;勉強;べんきょう;benkyou;Study;Étude;FALSE
+3;24;始めました;はじめます;hajimemasu;to start;Commencer;FALSE
+3;24;美術;びじゅつ;bijutsu;Art;Art;FALSE
+3;24;制服;せいふく;seifuku;Uniform;Uniforme;FALSE
+3;24;厳しい;きびしい;kibishii;Strict;Strict;FALSE
+3;24;かっこよかった;かっこよかった;kakkoyokatta;Was cool;Était cool;FALSE
+3;24;大会;たいかい;taikai;Tournament;Tournoi;FALSE
+3;24;漫画家;まんがか;mangaka;Manga artist;Mangaka;FALSE
+3;24;ジョギング;ジョギング;jogingu;Jogging;Jogging;FALSE
+3;24;ボクシング;ボクシング;boxingu;Boxing;Boxe;FALSE
+3;25;七日;なのか;nanoka;The seventh day;Le septième jour;TRUE
+3;25;喧嘩します;けんかします;kenkashimasu;To fight;Se battre;FALSE
+3;25;今回;こんかい;konkai;This time;Cette fois;TRUE
+3;25;最悪;さいあく;saiaku;The worst;Le pire;FALSE
+3;25;列;れつ;retsu;Line;File;FALSE
+3;25;混んでいます;こんでいます;kondeimasu;Crowded;Bondé;FALSE
+3;25;お化け屋敷;おばけやしき;obakeyashiki;Haunted house;Maison hantée;FALSE
+3;25;床;ゆか;yuka;Floor;Sol;FALSE
+3;25;演技;えんぎ;engi;acting,performance;jeu d'acteur,performance;FALSE
+3;25;シーン;シーン;shiin;Scene;Scène;FALSE
+3;25;最後;さいご;saigo;Last;Dernier;FALSE
+3;25;晩御飯;ばんごはん;bangohan;Dinner;Dîner;FALSE
+3;25;メイン;メイン;mein;Main (dish);Plat principal;FALSE
+3;25;硬い;かたい;katai;Hard;Dur;FALSE
+3;25;だけ;だけ;dake;Only;Seulement;FALSE
+3;25;残念;ざんねん;zannen;shame,disappointing;Regrettable,honte;FALSE
+3;25;アプリ;アプリ;apuri;App;Application;FALSE
+3;25;別れます;わかれます;wakaremasu;To separate;Se séparer;FALSE
+3;25;きっと;きっと;kitto;Surely;Sûrement;FALSE
+3;25;問題;もんだい;mondai;Problem;Problème;FALSE
+3;26;一回;いっかい;ikkai;once;une fois;TRUE
+3;26;回;かい;kai;times;fois;TRUE
+3;26;インフルエンザ;インフルエンザ;infuruenza;flue;grippe;FALSE
+3;26;喉;のど;nodo;throat;gorge;FALSE
+3;26;予約;よやく;yoyaku;reservation;réservation;FALSE
+3;26;お腹;おなか;onaka;stomach;ventre;FALSE
+3;26;一日に;いちにちに;ichinichini;per day;par jour;FALSE
+3;26;オレンジ;オレンジ;orenji;orange;orange;FALSE
+3;26;人参;にんじん;ninjin;carrot;carotte;FALSE
+3;26;ヨーグルト;ヨーグルト;yooguruto;yogurt;yaourt;FALSE
+3;26;一か月に;いっかげつに;ikkagetsuni;per month;par mois;FALSE
+3;26;揚げ物;あげもの;agemono;fried food;aliments frits;FALSE
+3;26;脂っこい;あぶらっこい;aburakkoi;greasy;gras;FALSE
+3;26;結構;けっこう;kekkou;quite often,quite a bit,quite;bien,pas mal;FALSE
+3;26;携帯;けいたい;keitai;mobile phone;téléphone portable;FALSE
+3;26;どれぐらい;どれぐらい;doregurai;how much;combien;FALSE
+3;26;筋トレ;きんとれ;kintore;muscle training;entraînement musculaire;FALSE
+3;26;これから;これから;korekara;from now on;à partir de maintenant;FALSE
+3;26;サイクリング;サイクリング;saikuringu;cycling;cyclisme;FALSE
+3;26;お酒;おさけ;osake;alcohol;alcool;TRUE
+3;26;止めます;やめます;yamemasu;to stop;arrêter;FALSE
+3;26;吸います;すいます;suimasu;to smoke;fumer;FALSE
+3;26;夜中;よなか;yonaka;late at night,midnight;tard dans la nuit,minuit;FALSE
+3;27;八日;ようか;youka;8th day of the month;le huitième jour;FALSE
+3;27;海;うみ;umi;Sea;Mer;TRUE
+3;27;どこか;どこか;dokoka;Somewhere;Quelque part;FALSE
+3;27;近い;ちかい;chikai;Near;Près;TRUE
+3;27;日焼け止め;ひやけどめ;hiyakedome;Sunscreen;Écran solaire;FALSE
+3;27;一番近い;いちばんちかい;ichibanchikai;Nearest;Le plus proche;FALSE
+3;27;サングラス;サングラス;sangurasu;Sunglasses;Lunettes de soleil;FALSE
+3;27;ので;ので;node;Because;Parce que;FALSE
+3;27;サーフィン;サーフィン;saafin;Surfing;Surf;FALSE
+3;27;持ってきます;もってきます;mottekimasu;To bring;Apporter;FALSE
+3;27;場所;ばしょ;basho;Place;Lieu;FALSE
+3;27;どうしましたか;どうしましたか;doushimashitaka;What happened?;Que s'est-il passé ?;FALSE
+3;27;かき氷;かきごおり;kakigoori;Shaved ice;Granité;FALSE
+3;27;レモン;レモン;remon;Lemon;Citron;FALSE
+3;27;ストロー;ストロー;sutoroo;Straw;Paille;FALSE
+3;27;着替えます;きがえます;kigaemasu;To change clothes;Se changer;FALSE
+3;27;落とします;おとします;otoshimasu;To drop;Faire tomber;FALSE
+3;27;降ります;おります;orimasu;To get off;Descendre;FALSE
+3;28;洋食;ようしょく;youshoku;Western food;Cuisine occidentale;FALSE
+3;28;オムライス;オムライス;omuraisu;Omelette rice;Omelette-riz;FALSE
+3;28;奢り;おごり;ogori;Treat (someone);Régal;FALSE
+3;28;ファミレス;ファミレス;famiresu;Dinner,Family restaurant;Restaurant familial;FALSE
+3;28;どちら;どちら;dochira;Which one;Lequel;FALSE
+3;28;葡萄;ぶどう;budou;Grapes;Raisin;FALSE
+3;28;ドリンクバー;ドリンクバー;dorinkubaa;Self service drink bar;Bar à boissons;FALSE
+3;28;レモン;レモン;remon;Lemon;Citron;FALSE
+3;28;胡瓜;きゅうり;kyuuri;Cucumber;Concombre;FALSE
+3;28;にします;にします;nishimasu;I'll have (to order);Je prendrai (commander);FALSE
+3;28;ドレッシング;ドレッシング;doresshingu;Dressing;Vinaigrette;FALSE
+3;28;ソーセージ;ソーセージ;sōsāji;Sausage;Saucisse;FALSE
+3;28;ブロッコリー;ブロッコリー;burokkorii;Broccoli;Brocoli;FALSE
+3;28;スペシャル;スペシャル;supesharu;Special;Spécial;FALSE
+3;28;いただきます;いただきます;itadakimasu;Let's eat;Bon appétit;FALSE
+3;28;とろとろ;とろとろ;torotoro;Gooey;Fondant;FALSE
+3;28;マヨネーズ;マヨネーズ;mayonēzu;Mayonnaise;Mayonnaise;FALSE
+3;28;多い;おおい;ooi;Many;Beaucoup;TRUE
+3;28;半分;はんぶん;hanbun;Half;Moitié;FALSE
+3;29;六日;むいか;muika;Sixth day;Sixième jour;FALSE
+3;29;一昨日;おととい;ototoi;Day before yesterday;Avant-hier;TRUE
+3;29;結婚式;けっこんしき;kekkonshiki;Wedding ceremony;Cérémonie de mariage;FALSE
+3;29;新郎;しんろう;shinrou;Groom;Marié;FALSE
+3;29;リムジン;リムジン;rimujin;Limousine;Limousine;FALSE
+3;29;借ります;かります;karimasu;To borrow;Emprunter;FALSE
+3;29;花;はな;hana;Flower;Fleur;TRUE
+3;29;色;いろ;iro;Color;Couleur;TRUE
+3;29;カーペット;カーペット;kaapetto;Carpet;Tapis;FALSE
+3;29;会場;かいじょう;kaijou;Venue;Lieu;FALSE
+3;29;デコレーション;デコレーション;dekoreeshon;Decoration;Décoration;FALSE
+3;29;新婦;しんぷ;shinpu;Bride;Mariée;FALSE
+3;29;美しい;うつくしい;utsukushii;Beautiful;Beau;FALSE
+3;29;ゲスト;ゲスト;gesuto;Guest;Invité;FALSE
+3;29;挨拶します;あいさつします;aisatsushimasu;To greet;Saluer;FALSE
+3;29;親戚;しんせき;shinseki;Relative;Parent;FALSE
+3;29;お酒;おさけ;osake;Alcohol;Alcool;TRUE
+3;29;変;へん;hen;Strange;Étrange;FALSE
+3;29;低い;ひくい;hikui;Low;Bas;FALSE
+3;29;ひどい;ひどい;hidoi;Terrible;Terrible;FALSE
+3;29;スピーチ;スピーチ;supīchi;Speech;Discours;FALSE
+3;29;つまらない;つまらない;tsumaranai;Boring;Ennuyeux;FALSE
+3;29;歌手;かしゅ;kashu;Singer;Chanteur;FALSE

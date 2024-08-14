@@ -30,6 +30,7 @@ def render_config_tab():
 
         st.radio("Language", LANGUAGES, key="config.language", on_change=update_verbs_direction)
         st.checkbox('Shuffle without replacement ?', key='config.random', value=True)
+        st.checkbox('Show only known kanji ?', key='config.known_kanji_only', value=False)
         # st.number_input('# of samples', value=10000, format="%d", key='config.n_samples')
 
 
@@ -116,6 +117,8 @@ def get_dataframe_filter(resource: str):
                 (source['section'] == section)
                 & source['unit'].isin(units)
         )
+        if st.session_state['config.known_kanji_only'] and resource == 'words':
+            filter = filter & source['known_kanji']
     return filter
 
 
