@@ -705,7 +705,7 @@
 3;22;予約を入れ;よやくをいれ;yoyaku wo ire;To make a reservation;Faire une réservation;FALSE
 3;22;ちょっと;ちょっと;chotto;A little;Un peu;FALSE
 3;22;ストレス;ストレス;sutoresu;Stress;Stress;FALSE
-3;22;痛い;いたい;itai;Painful;Douloureux;FALSE
+3;22;痛い;いたい;itai;Painful;Douloureux;TRUE
 3;22;頭;あたま;atama;Head;Tête;FALSE
 3;22;目;め;me;Eye;Œil;FALSE
 3;22;首;くび;kubi;Neck;Cou;FALSE
