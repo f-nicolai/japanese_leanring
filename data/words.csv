@@ -861,16 +861,30 @@
 3;29;スピーチ;スピーチ;supīchi;Speech;Discours;FALSE
 3;29;つまらない;つまらない;tsumaranai;Boring;Ennuyeux;FALSE
 3;29;歌手;かしゅ;kashu;Singer;Chanteur;FALSE
-3;30;女優;じょゆう;joyuu;Actress;Actrice
-3;30;悲しい;かなしい;kanashii;Sad;Triste
-3;30;ジャンル;ジャンル;janru;Genre;Genre
-3;30;十日;とおか;tooka;10th day;10e jour
-3;30;南;みなみ;minami;South;Sud
-3;30;ゲームセンター;ゲームセンター;geemusentaa;Game center;Salle de jeux
-3;30;後;あと;ato;After;Après
-3;30;パフェ;パフェ;pafe;Parfait;Parfait
-3;30;キャラメル;キャラメル;kiarameru;Caramel;Caramel
-3;30;ボウリング;ボウリング;bouringu;Bowling;Bowling
-3;30;イヤリング;イヤリング;iyaringu;Earring;Boucle d'oreille
-3;30;タワー;タワー;tawaa;Tower;Tour
-3;30;居酒屋;いざかや;izakaya;Japanese pub;bar japonais
+3;30;女優;じょゆう;joyuu;Actress;Actrice;FALSE
+3;30;悲しい;かなしい;kanashii;Sad;Triste;FALSE
+3;30;ジャンル;ジャンル;janru;Genre;Genre;FALSE
+3;30;十日;とおか;tooka;10th day;10e jour;TRUE
+3;30;南;みなみ;minami;South;Sud;TRUE
+3;30;ゲームセンター;ゲームセンター;geemusentaa;Game center;Salle de jeux;FALSE
+3;30;後;あと;ato;After;Après;TRUE
+3;30;パフェ;パフェ;pafe;Parfait;Parfait;FALSE
+3;30;キャラメル;キャラメル;kiarameru;Caramel;Caramel;FALSE
+3;30;ボウリング;ボウリング;bouringu;Bowling;Bowling;FALSE
+3;30;イヤリング;イヤリング;iyaringu;Earring;Boucle d'oreille;FALSE
+3;30;タワー;タワー;tawaa;Tower;Tour;FALSE
+3;30;居酒屋;いざかや;izakaya;Japanese pub;bar japonais;FALSE
+3;31;人気;にんき;ninki;Popularity;Popularité;TRUE
+3;31;調べます;しらべます;shirabemasu;To check,to look up;Vérifier;FALSE
+3;31;料理;りょうり;riouri;Cooking;Cuisine;TRUE
+3;31;サイト;サイト;saito;Site;Site;FALSE
+3;31;屋上;おくじょう;okujou;Rooftop;Toit-terrasse;FALSE
+3;31;マンション;マンション;manshon;Apartment building;Immeuble résidentiel;FALSE
+3;31;ベジタリアン;ベジタリアン;bejitarian;Vegetarian;Végétarien;FALSE
+3;31;ヘルシー;ヘルシー;herushii;Healthy;Sain;FALSE
+3;31;シェフ;シェフ;shefu;Chef;Chef cuisinier;FALSE
+3;31;少し;すこし;sukoshi;A little;Un peu;TRUE
+3;31;場所;ばしょう;bashou;Place;Endroit;TRUE
+3;31;最高;さいこう;saikou;The best;Le meilleur;FALSE
+3;31;込みます;こみます;komimasu;To be crowded;Être bondé;FALSE
+3;31;そうですね;そうですね;soudesune;That's right;C'est vrai;FALSE
