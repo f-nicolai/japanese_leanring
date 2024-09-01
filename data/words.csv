@@ -888,3 +888,22 @@
 3;31;最高;さいこう;saikou;The best;Le meilleur;FALSE
 3;31;込みます;こみます;komimasu;To be crowded;Être bondé;FALSE
 3;31;そうですね;そうですね;soudesune;That's right;C'est vrai;FALSE
+3;32;何人;なんにん;nannin;How many people;Combien de personnes;TRUE
+3;32;学期;がっき;gakki;Semester;Semestre;FALSE
+3;32;受けます;うけます;ukemasu;To take (a test);Passer (un examen);FALSE
+3;32;終わります;おわります;owarimasu;To end;Terminer;FALSE
+3;32;週;しゅう;shuu;Week;Semaine;TRUE
+3;32;生物学;せいぶつがく;seibutsugaku;Biology;Biologie;FALSE
+3;32;経済学;けいざいがく;keizaigaku;Economics;Économie;FALSE
+3;32;けど;けど;kedo;But;Mais;FALSE
+3;32;週に;しゅうに;shuuni;Per week;Par semaine;FALSE
+3;32;オフィスアワー;オフィスアワー;ofisuawā;Office hours;Heures de bureau;FALSE
+3;32;教科書;きょうかしょ;kyoukajo;Textbook;Manuel scolaire;FALSE
+3;32;プログラミング;プログラミング;puroguramingu;Programming;Programmation;FALSE
+3;32;メディアセンタ;メディアセンタ;mediasenta;Media center;Centre multimédia;FALSE
+3;32;語;ご;go;Language (like nihongo);Langue (comme nihongo);TRUE
+3;32;ヨーロッパ;ヨーロッパ;yooroppa;Europe;Europe;FALSE
+3;32;演劇;えんげき;engeki;Drama (theater);Théâtre;FALSE
+3;32;是非;ぜひ;zehi;By all means;S'il vous plaît;FALSE
+3;32;スケジュール;スケジュール;sukejuuru;Schedule;Emploi du temps;FALSE
+3;32;選びます;えらびます;erabimasu;To choose;Choisir;FALSE
