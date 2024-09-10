@@ -925,19 +925,42 @@
 3;33;ゴルフ;ゴルフ;gorufu;Golf;Golf;FALSE
 3;33;が得意です;がとくいです;gatokuidesu;Be good at;Être doué pour;FALSE
 3;33;20日;はつか;hatsuka;Twentieth;Vingtième;TRUE
-3;34;店;みせ;mise;Shop;Magasin
-3;34;文房具;ぶんぼうぐ;bunbougu;Stationery;Fournitures de bureau
-3;34;準備をします;じゅんびをします;junbiwoshimasu;To prepare;Préparer
-3;34;ところで;ところで;tokorode;By the way;Au fait
-3;34;色鉛筆;いろえんぴつ;iroenpitsu;Colored pencil;Crayon de couleur
-3;34;消しゴム;けしごむ;keshigomu;Eraser;Gomme
-3;34;シャーペン;シャーペン;shaapen;Mechanical pencil;Porte-mine
-3;34;はさみ;はさみ;hasami;Scissors;Ciseaux
-3;34;デザイン;デザイン;desain;Design;Conception
-3;34;ホチキス;ホチキス;hochikisu;Stapler;Agrafeuse
-3;34;厚い;あつい;atsui;Thick;Épais
-3;34;付箋;ふせん;fusen;Sticky note;Post-it
-3;34;使います;つかいます;tsukaimasu;To use;Utiliser
-3;34;引き;びき;biki;Discount;Réduction
-3;34;会計;かいけい;kaikei;cashier;caissier
-3;34;半額;はんがく;hangaku;Half price;Moitié prix
+3;34;店;みせ;mise;Shop;Magasin;TRUE
+3;34;文房具;ぶんぼうぐ;bunbougu;Stationery;Fournitures de bureau;FALSE
+3;34;準備をします;じゅんびをします;junbiwoshimasu;To prepare;Préparer;FALSE
+3;34;ところで;ところで;tokorode;By the way;Au fait;FALSE
+3;34;色鉛筆;いろえんぴつ;iroenpitsu;Colored pencil;Crayon de couleur;TRUE
+3;34;消しゴム;けしごむ;keshigomu;Eraser;Gomme;FALSE
+3;34;シャーペン;シャーペン;shaapen;Mechanical pencil;Porte-mine;FALSE
+3;34;はさみ;はさみ;hasami;Scissors;Ciseaux;FALSE
+3;34;デザイン;デザイン;desain;Design;Conception;FALSE
+3;34;ホチキス;ホチキス;hochikisu;Stapler;Agrafeuse;FALSE
+3;34;厚い;あつい;atsui;Thick;Épais;FALSE
+3;34;付箋;ふせん;fusen;Sticky note;Post-it;FALSE
+3;34;使います;つかいます;tsukaimasu;To use;Utiliser;TRUE
+3;34;引き;びき;biki;Discount;Réduction;FALSE
+3;34;会計;かいけい;kaikei;cashier;caissier;TRUE
+3;34;半額;はんがく;hangaku;Half price;Moitié prix;FALSE
+3;35;コピーします;コピーします;kopiishimasu;To copy;Copier;FALSE
+3;35;開いています;あいています;aiteimasu;Is open;Est ouvert;FALSE
+3;35;いくつか;いくつか;ikutsuka;Some;Quelques;FALSE
+3;35;コピー機;コピーき;kopiiki;Copy machine;Photocopieuse;FALSE
+3;35;分かります;わかります;wakarimasu;To understand;Comprendre;FALSE
+3;35;こちら;こちら;kochira;This way;Par ici;FALSE
+3;35;スキャン;スキャン;skyan;Scan;Numérisation;FALSE
+3;35;少々;しょうしょう;shoushou;A little;Un peu;FALSE
+3;35;お待ちください;おまちください;omachikudasai;Please wait;Veuillez patienter;FALSE
+3;35;お金;おかね;okane;Money;Argent;TRUE
+3;35;納豆;なっとう;nattou;Fermented soybeans;Soja fermenté;FALSE
+3;35;切手;きって;kitte;Stamp;Timbre;FALSE
+3;35;引き出します;ひきだします;hikidashimasu;To withdraw;Retirer;FALSE
+3;35;お箸;おはし;ohashi;Chopsticks;Baguettes;FALSE
+3;35;なります;なります;narimasu;It will be;Ça deviendra,ça sera;FALSE
+3;35;押します;おします;oshimasu;To push;Appuyer;FALSE
+3;35;温めます;あたためます;atatamemasu;To heat;Réchauffer;FALSE
+3;35;ガム;ガム;gamu;Gum;Chewing-gum;FALSE
+3;35;どうぞ;どうぞ;douzo;Here you go;Tenez;FALSE
+3;35;お釣り;おつり;otsuri;Change (money);Monnaie;FALSE
+3;35;肉まん;にくまん;nikuman;Meat bun;Pain de viande;TRUE
+3;35;払います;はらいます;haraimasu;To pay;Payer;FALSE
+3;35;大丈夫です;だいじょうぶです;daijoubudesu;It's OK / No need;C'est bon / Pas besoin;FALSE
