@@ -964,3 +964,19 @@
 3;35;肉まん;にくまん;nikuman;Meat bun;Pain de viande;TRUE
 3;35;払います;はらいます;haraimasu;To pay;Payer;FALSE
 3;35;大丈夫です;だいじょうぶです;daijoubudesu;It's OK / No need;C'est bon / Pas besoin;FALSE
+3;36;英語;えいご;eigo;English (language);Anglais;TRUE
+3;36;野菜;やさい;yasai;Vegetable;Légume;TRUE
+3;36;お茶;おちゃ;ocha;Tea;Thé;TRUE
+3;36;牛乳;ぎゅうにゅう;gyuunyuu;Milk;Lait;TRUE
+3;36;丁度;ちょうど;choudo;Exactly;Juste;TRUE
+3;36;僕;ぼく;boku;I (male);Je (mâle);TRUE
+3;37;台所;だいどころ;daidokoro;Kitchen;Cuisine;TRUE
+3;37;部屋;へや;heya;Room;Chambre;TRUE
+3;37;寝室;しんしつ;shinshitsu;Bedroom;Chambre à coucher;TRUE
+3;37;午後;ごご;gogo;Afternoon;Après-midi;TRUE
+3;37;午前;ごぜん;gozen;Morning;Matin;TRUE
+3;37;起きます;おきます;okimasu;To wake up;Se réveiller;TRUE
+3;37;寝ます;ねます;nemasu;To sleep;Dormir;TRUE
+3;37;零;れい;rei;Zero;Zéro;TRUE
+3;37;風呂;ふろ;furo;Bath;Bain;TRUE
+3;37;会社;かいしゃ;kaisha;Company;Entreprise;TRUE
