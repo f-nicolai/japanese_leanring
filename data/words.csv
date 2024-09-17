@@ -968,7 +968,7 @@
 3;36;野菜;やさい;yasai;Vegetable;Légume;TRUE
 3;36;お茶;おちゃ;ocha;Tea;Thé;TRUE
 3;36;牛乳;ぎゅうにゅう;gyuunyuu;Milk;Lait;TRUE
-3;36;丁度;ちょうど;choudo;Exactly;Juste;TRUE
+3;36;丁度;ちょうど;choudo;Exactly;Juste;FALSE
 3;36;僕;ぼく;boku;I (male);Je (mâle);TRUE
 3;37;台所;だいどころ;daidokoro;Kitchen;Cuisine;TRUE
 3;37;部屋;へや;heya;Room;Chambre;TRUE
@@ -980,3 +980,31 @@
 3;37;零;れい;rei;Zero;Zéro;TRUE
 3;37;風呂;ふろ;furo;Bath;Bain;TRUE
 3;37;会社;かいしゃ;kaisha;Company;Entreprise;TRUE
+3;38;庭;にわ;niwa;Garden;Jardin;TRUE
+3;38;猫;ねこ;neko;Cat;Chat;TRUE
+3;38;窓;まど;mado;Window;Fenêtre;TRUE
+3;38;羽;わ;wa (counter for small animals);Counter for small animals;Compteur pour petits animaux;TRUE
+3;38;鳥;とり;tori;Bird;Oiseau;TRUE
+3;38;椅子;いす;isu;Chair;Chaise;TRUE
+3;38;犬;いぬ;inu;Dog;Chien;TRUE
+3;38;机;つくえ;tsukue;Desk;Bureau;TRUE
+3;39;直美;ナオミ;naomi;Naomi (name);Naomi (prénom);TRUE
+3;39;健太;ケンタ;kenta;Kenta (name);Kenta (prénom);TRUE
+3;39;留学生;りゅうがくせい;ryuugakusei;Foreign exchange student;Étudiant étranger;TRUE
+3;39;留学;りゅうがく;ryuugaku;Study abroad;Étudier à l'étranger;TRUE
+3;39;個;こ;ko (counter for fruits);Counter for fruits;Compteur pour fruits;TRUE
+3;39;違い;ちがい;chigai;Difference;Différence;TRUE
+3;39;申します;もうします;moushimasu;To say (humble);Dire (humble);TRUE
+3;39;歳;さい;sai;Age;Âge;TRUE
+3;39;外国人;がいこくじん;gaikokujin;Foreigner;Étranger;TRUE
+3;39;大阪;おおさか;oosaka;Osaka;Osaka;TRUE
+3;40;両親;りょうしん;ryoushin;Parents;Parents;TRUE
+3;40;姉;あね;ane;Older sister;Grande sœur;TRUE
+3;40;妹;いもうと;imouto;Younger sister;Petite sœur;TRUE
+3;40;弟;おとうと;otouto;Younger brother;Petit frère;TRUE
+3;40;兄;あに;ani;Older brother;Grand frère;TRUE
+3;40;彼;かれ;kare;He,boyfriend;Il,petit ami;TRUE
+3;40;彼ら;かれら;karera;They (male or mixed);Ils (groupe masculin ou mixte);TRUE
+3;40;彼女;かのじょ;kanojou;She, girlfriend;Elle, petite amie;TRUE
+3;40;誰;だれ;dare;Who;Qui;TRUE
+3;40;牛乳;ぎゅうにゅう;gyuunyuu;Milk;Lait;TRUE
