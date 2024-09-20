@@ -1009,7 +1009,7 @@
 3;40;彼女;かのじょ;kanojou;She, girlfriend;Elle, petite amie;TRUE
 3;40;誰;だれ;dare;Who;Qui;TRUE
 3;40;牛乳;ぎゅうにゅう;gyuunyuu;Milk;Lait;TRUE
-3;41;暑い;あつい;atsui;Hot;Chaud;TRUE
+3;41;熱い;あつい;atsui;Hot;Chaud;TRUE
 3;41;食堂;しょくどう;shokudou;Cafeteria;Cantine;TRUE
 3;41;冷たい;つめたい;tsumetai;Cold;Froid;TRUE
 3;41;嫌い;きらい;kirai;Dislike;Détester;TRUE
@@ -1040,3 +1040,18 @@
 3;43;鏡;かがみ;kagami;Mirror;Miroir;TRUE
 3;43;お土産;おみやげ;omiyage;Souvenir;Souvenir;TRUE
 3;43;冷蔵庫;れいぞうこ;reizouko;Refrigerator;Réfrigérateur;TRUE
+3;43;ちょっとの間;ちょっとのあいだ;chottonoaida;For a little while;Pendant un petit moment;FALSE
+3;43;湾;わん;wan;bay,gulf;baie,golf;TRUE
+3;44;閉めます;しめます;shimemasu;To close;Fermer;TRUE
+3;44;開けます;あけます;akemasu;To open;Ouvrir;TRUE
+3;44;座ります;すわります;suwarimasu;To sit;S'asseoir;TRUE
+3;44;浴びます;あびます;abimasu;To bathe;Se baigner;TRUE
+3;44;立ちます;たちます;tachimasu;To stand;Se lever;TRUE
+3;44;平日;へいじつ;heijitsu;Weekday;Jour de semaine;TRUE
+3;44;掃除;そうじ;souji;Cleaning;Nettoyage;TRUE
+3;44;洗濯;せんたく;sentaku;Laundry;Lessive;TRUE
+3;44;電気;でんき;denki;Electricity/Light;Électricité/Lumière;TRUE
+3;44;点けます;つけます;tsukemasu;To turn on;Allumer;TRUE
+3;44;それから;それから;sorekara;And then;Ensuite;FALSE
+3;44;すぐ;すぐ;sugu;Immediately;Immédiatement;FALSE
+3;44;ていいですか;ていいですか;teiidesuka;Is it okay to...?;Est-ce que c'est bon de... ?;FALSE
