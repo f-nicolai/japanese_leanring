@@ -1055,3 +1055,56 @@
 3;44;それから;それから;sorekara;And then;Ensuite;FALSE
 3;44;すぐ;すぐ;sugu;Immediately;Immédiatement;FALSE
 3;44;ていいですか;ていいですか;teiidesuka;Is it okay to...?;Est-ce que c'est bon de... ?;FALSE
+3;45;枚;まい;mai;Counter for flat objects;Compteur pour objets plats;TRUE
+3;45;遊びます;あそびます;asobimasu;To play;Jouer;TRUE
+3;45;習います;ならいます;naraimasu;To learn;Apprendre;TRUE
+3;45;走ります;はしります;hashirimasu;To run;Courir;TRUE
+3;45;歌います;うたいます;utaimasu;To sing;Chanter;TRUE
+3;45;歌;うた;uta;Song;Chanson;TRUE
+3;45;映画;えいが;eiga;Movie;Film;TRUE
+3;45;泳ぎます;およぎます;oyogimasu;To swim;Nager;TRUE
+3;45;音楽;おんがく;ongaku;Music;Musique;TRUE
+3;45;聞きます;ききます;kikimasu;To listen;Écouter;TRUE
+3;45;描きます;かきます;kakimasu;To draw;Dessiner;TRUE
+3;45;書きます;かきます;kakimasu;To write;Écrire;TRUE
+3;45;絵;え;e;Picture;Image;TRUE
+3;45;写真;しゃしん;shashin;Photo;Photo;TRUE
+3;45;散歩;さんぽ;sanpo;Walk;Promenade;TRUE
+3;45;歩きます;あるきます;arukimasu;To walk;Marcher;TRUE
+3;45;撮ります;とります;torimasu;To take (a picture);Prendre (une photo);TRUE
+3;46;在宅;ざいたく;zaitaku;At home;À domicile;TRUE
+3;46;行ってらっしゃい;いってらっしゃい;itterasshai;Take care;À tout à l'heure;TRUE
+3;46;お帰りなさい;おかえりなさい;okaerinasai;Welcome back;Bon retour;TRUE
+3;46;親戚;しんせき;shinseki;Relative;Parenté;TRUE
+3;46;祖母;そぼ;sobo;Grandmother;Grand-mère;TRUE
+3;46;祖父;そふ;sofu;Grandfather;Grand-père;TRUE
+3;46;似ています;にています;niteimasu;Resemble;Ressemble;TRUE
+3;46;主人;しゅじん;shujin;Husband,owner;Mari,propriétaire;TRUE
+3;46;息子;むすこ;musuko;Son;Fils;TRUE
+3;46;娘;むすめ;musume;Daughter;Fille;TRUE
+3;46;お婆さん;おばあさん;obaasan;Old woman;Vieille femme;FALSE
+3;46;お爺さん;おじいさん;ojiisan;Old man;Vieil homme;FALSE
+3;46;おいくつ;おいくつ;oikutsu;How old (polite);Quel âge (poli);FALSE
+3;46;孫;まご;mago;Grandchild;Petit-enfant;TRUE
+3;46;奥さん;おくさん;okusan;Someone's wife;Épouse de quelqu'un (respectueux);TRUE
+3;46;妻;つま;tsuma;My wife (humble & neutral);Ma femme (humble & neutre);TRUE
+3;46;夫;おっと;otto;My husband (humble & neutral);Mon époux (humble & neutre);TRUE
+3;46;ご主人;ごしゅじん;goshujin;Someone's husband (respectful);Mari de quelqu'un (respectueux);TRUE
+3;46;父親;ちちおや;chichioya;Father (formal);Père (formel);TRUE
+3;46;母親;ははおや;hahaoya;Mother (formal);Mère (formel);TRUE
+3;46;伯母;おば;oba;Aunt;Tante;FALSE
+3;46;伯父;おじ;oji;Uncle;Oncle;FALSE
+3;46;ただいま;ただいま;tadaima;I'm back;Je suis rentré;FALSE
+3;47;飛行機;ひこうき;hikouki;Airplane;Avion;TRUE
+3;47;空港;くうこう;kuukou;Airport;Aéroport;TRUE
+3;47;駅;えき;eki;Station;Gare;TRUE
+3;47;遠い;とおい;tooi;Far;Loin;TRUE
+3;47;近い;ちかい;chikai;Close;Près;TRUE
+3;47;遅い;おそい;osoi;Slow;Lent;TRUE
+3;47;速い;はやい;hayai;Fast;Rapide;TRUE
+3;47;地下鉄;ちかてつ;chikatetsu;Subway;Métro;TRUE
+3;47;自転車;じてんしゃ;jitensha;Bicycle;Vélo;TRUE
+3;47;近くも遠くもない;ちかくもとおくもない;chikakumotookumonai;Neither close nor far;Ni proche ni loin;TRUE
+3;47;図;ず;zu;Diagram;Schéma;TRUE
+3;47;地図;ちず;chizu;Map;Carte;TRUE
+3;47;遠くに;とおくに;tookuni;Far away;Au loin;TRUE
