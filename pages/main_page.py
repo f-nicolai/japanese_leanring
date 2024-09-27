@@ -46,6 +46,14 @@ def render_main_page():
         if st.button("Exprimer désir & invitation", use_container_width=True):
             st.session_state['page'] = 'invitation'
             st.rerun()
+    with col8:
+        if st.button("Concaténer des verbes", use_container_width=True):
+            st.session_state['page'] = 'concat_verbs'
+            st.rerun()
+    with col9:
+        if st.button("Concaténer des adjectifs", use_container_width=True):
+            st.session_state['page'] = 'concat_adj'
+            st.rerun()
 
     st.write('\n')
     st.header('Resources:')

@@ -1,5 +1,6 @@
 import streamlit as st
-from pages import config_tab,lessons, translate_from_japanese, translate_to_japanese, resources, review_verbs, main_page
+from pages import config_tab, lessons, translate_from_japanese, translate_to_japanese, resources, review_verbs, \
+    main_page
 
 st.set_page_config(layout="wide")
 
@@ -20,5 +21,5 @@ elif st.session_state['page'] == 'review_verbs':
     review_verbs.render_page()
 elif st.session_state['page'] in ('show_words', 'show_verbs', 'show_counters'):
     resources.render_page(resource=st.session_state['page'])
-elif st.session_state['page'] in ('te_form', 'past_polite','adj_negation','invitation'):
+elif st.session_state['page'] in ('te_form', 'past_polite', 'adj_negation', 'invitation', 'concat_verbs', 'concat_adj'):
     lessons.render_page(resource=st.session_state['page'])

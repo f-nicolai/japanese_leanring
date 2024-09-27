@@ -31,6 +31,7 @@ def render_config_tab():
         st.radio("Language", LANGUAGES, key="config.language", on_change=update_verbs_direction)
         st.checkbox('Shuffle without replacement ?', key='config.random', value=True)
         st.checkbox('Show only known kanji ?', key='config.known_kanji_only', value=False)
+        st.checkbox('Focus group only ?', key='config.focus_group_only', value=False)
         # st.number_input('# of samples', value=10000, format="%d", key='config.n_samples')
 
 
@@ -50,10 +51,9 @@ def select_all_units_from_section(section: str):
             add_unit_from_without_replacement_dataframe(section=section, unit=int(unit))
 
     else:
-        for x in range(len(st.session_state.checkbox_values[section])):
-            for unit in st.session_state.checkbox_values[section].keys():
-                st.session_state.checkbox_values[section][unit] = False
-                remove_unit_from_without_replacement_dataframe(section=section, unit=int(unit))
+        for unit in st.session_state.checkbox_values[section].keys():
+            st.session_state.checkbox_values[section][unit] = False
+            remove_unit_from_without_replacement_dataframe(section=section, unit=int(unit))
 
 
 def update_config_filters(checkbox_id: str):
@@ -63,7 +63,8 @@ def update_config_filters(checkbox_id: str):
         add_unit_from_without_replacement_dataframe(section=section, unit=int(unit))
     else:
         st.session_state.filters[section].remove(int(unit))
-        st.session_state.checkbox_all[section] = False
+        st.session_state[f'config.{section}_all'] = False
+        st.session_state.checkbox_values[section][int(unit)] = False
         remove_unit_from_without_replacement_dataframe(section=section, unit=int(unit))
 
 
@@ -90,9 +91,11 @@ def initialize_internal_config():
                                                                     for x in config['section']}
     st.session_state.checkbox_all: dict[int, bool] = {x: False for x in config['section']}
     st.session_state['kanji_quizz.current_state'] = 'original'
+    st.session_state.focus_words: DataFrame = DataFrame(columns = ["section","unit","kanji","hiragana","romanji","english","french","known_kanji"])
     st.session_state.kanji_sample_without_replacement = DataFrame()
     st.session_state.verbs_sample_without_replacement = DataFrame()
     st.session_state.sample = DataFrame()
+    st.session_state.just_modified_to_focus_group = False
     st.session_state.verbs_direction = {
         'English': 'english',
         'Polite': 'polite',
@@ -111,14 +114,22 @@ def get_dataframe_filter(resource: str):
     else:
         raise NotImplementedError
 
-    filter = (source['section'].isnull())
-    for section, units in st.session_state.filters.items():
-        filter = filter | (
-                (source['section'] == section)
-                & source['unit'].isin(units)
-        )
-        if st.session_state['config.known_kanji_only'] and resource == 'words':
-            filter = filter & source['known_kanji']
+    if st.session_state['config.focus_group_only']:
+        indices = source[source['kanji'].isin(st.session_state.focus_words['kanji'])]['kanji'].drop_duplicates().index
+        filter = source.index.isin(indices)
+
+    else:
+        filter = (source['section'].isnull())
+        for section, units in st.session_state.filters.items():
+            filter = filter | (
+                    (source['section'] == section)
+                    & source['unit'].isin(units)
+            )
+
+            if st.session_state['config.known_kanji_only'] and resource == 'words':
+                filter = filter & source['known_kanji']
+
+
     return filter
 
 

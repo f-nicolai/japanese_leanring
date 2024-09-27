@@ -17,6 +17,10 @@ def render_page(resource:str):
         st.markdown(read_markdown_file(Path(__file__).parent.parent/'lessons/negations_adjectifs.md'),unsafe_allow_html=True)
     elif resource == 'invitation':
         st.markdown(read_markdown_file(Path(__file__).parent.parent/'lessons/expressing_desire_and_invitation.md'),unsafe_allow_html=True)
+    elif resource == 'concat_verbs':
+        st.markdown(read_markdown_file(Path(__file__).parent.parent/'lessons/connecter des verbes.md'),unsafe_allow_html=True)
+    elif resource == 'concat_adj':
+        st.markdown(read_markdown_file(Path(__file__).parent.parent/'lessons/connecter des adjectifs.md'),unsafe_allow_html=True)
 
     st.write('\n')
     if st.button("Back to Main Menu",key='lessons_back_2'):
