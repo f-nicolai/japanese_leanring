@@ -18,6 +18,7 @@ def create_back_and_next_buttons(add_focus_word_button: bool = False):
                 st.session_state['kanji_quizz.current_state'] = 'original'
             elif st.session_state['kanji_quizz.current_state'] == 'original':
                 st.session_state['kanji_quizz.current_state'] = 'translation'
+
     if add_focus_word_button:
         col3, col4 = st.columns(2)
         with col3:

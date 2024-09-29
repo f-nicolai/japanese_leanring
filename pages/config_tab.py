@@ -31,9 +31,23 @@ def render_config_tab():
         st.radio("Language", LANGUAGES, key="config.language", on_change=update_verbs_direction)
         st.checkbox('Shuffle without replacement ?', key='config.random', value=True)
         st.checkbox('Show only known kanji ?', key='config.known_kanji_only', value=False)
-        st.checkbox('Focus group only ?', key='config.focus_group_only', value=False)
+        st.checkbox(
+            'Focus group only ?',
+            key='config.focus_group_only',
+            value=False,
+            on_change=update_kanji_list,
+            kwargs={'value': f"config.focus_group_only"}
+        )
         # st.number_input('# of samples', value=10000, format="%d", key='config.n_samples')
 
+def update_kanji_list(value:bool):
+    if value:
+        st.session_state.kanji_sample_without_replacement = st.session_state.focus_words
+    else:
+        st.session_state.kanji_sample_without_replacement = DataFrame()
+        for section, units in st.session_state.filters.items():
+            for unit in units:
+                add_unit_from_without_replacement_dataframe(section=section, unit=unit)
 
 def update_verbs_direction():
     selected_language = st.session_state['config.language']
