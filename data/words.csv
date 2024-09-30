@@ -856,6 +856,7 @@
 3;46;伯母;おば;oba;Aunt;Tante;FALSE
 3;46;伯父;おじ;oji;Uncle;Oncle;FALSE
 3;46;ただいま;ただいま;tadaima;I'm back;Je suis rentré;FALSE
+3;47;手紙;てがみ;tegami;Letter;Lettre;TRUE
 3;47;飛行機;ひこうき;hikouki;Airplane;Avion;TRUE
 3;47;空港;くうこう;kuukou;Airport;Aéroport;TRUE
 3;47;駅;えき;eki;Station;Gare;TRUE
