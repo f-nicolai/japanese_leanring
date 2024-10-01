@@ -73,12 +73,12 @@ def select_all_units_from_section(section: str):
 def update_config_filters(checkbox_id: str):
     section, unit = checkbox_id.replace('config.', '').split('_')
     if st.session_state[checkbox_id]:
-        st.session_state.filters[section].append(int(unit))
+        st.session_state.filters[int(section)].append(int(unit))
         add_unit_from_without_replacement_dataframe(section=section, unit=int(unit))
     else:
-        st.session_state.filters[section].remove(int(unit))
+        st.session_state.filters[int(section)].remove(int(unit))
         st.session_state[f'config.{section}_all'] = False
-        st.session_state.checkbox_values[section][int(unit)] = False
+        st.session_state.checkbox_values[int(section)][int(unit)] = False
         remove_unit_from_without_replacement_dataframe(section=section, unit=int(unit))
 
 
