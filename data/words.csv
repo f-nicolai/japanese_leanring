@@ -903,3 +903,23 @@
 3;49;教えます;おしえます;oshiemasu;To teach;Enseigner;TRUE
 3;49;何か;なにか;nanika;Something;Quelque chose;TRUE
 3;49;食べながら;たべながら;tabenagara;While eating;En mangeant;TRUE
+3;50;悪い;わるい;warui;Bad;Mauvais;TRUE
+3;50;天気;てんき;tenki;Weather;Temps;TRUE
+3;50;晴れ;はれ;hare;Clear (weather);Beau (temps);TRUE
+3;50;晴れて;はれて;harete;Clear (weather);Devenir clair;TRUE
+3;50;曇り;くもり;kumori;Cloudy;Nuageux;TRUE
+3;50;降る;ふる;furu;To fall (rain, snow);Tomber (pluie, neige);TRUE
+3;50;空;そら;sora;Sky;Ciel;TRUE
+3;50;夕べ;ゆうべ;yuube;Last night;Hier soir;TRUE
+3;50;雪;ゆき;yuki;Snow;Neige;TRUE
+3;50;今朝;けさ;kesa;This morning;Ce matin;TRUE
+3;50;今晩;こんばん;konban;Tonight;Ce soir;TRUE
+3;50;明るい;あかるい;akarui;Bright;Clair;TRUE
+3;50;夕方;ゆうがた;yuugata;Evening;Soirée;TRUE
+3;50;暗い;くらい;kurai;Dark;Sombre;TRUE
+3;50;昼間;ひるま;hiruma;Daytime;Journée;TRUE
+3;50;弱い;よわい;yowai;Weak;Faible;TRUE
+3;50;風;かぜ;kaze;Wind;Vent;TRUE
+3;50;吹きます;ふきます;fukimasu;To blow;Souffler;TRUE
+3;50;強い;つよい;tsuyoi;Strong;Fort;TRUE
+3;50;降ります;ふります;furimasu;To fall (rain, snow);Tomber (pluie, neige);TRUE
