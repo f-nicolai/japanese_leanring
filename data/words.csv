@@ -923,3 +923,21 @@
 3;50;吹きます;ふきます;fukimasu;To blow;Souffler;TRUE
 3;50;強い;つよい;tsuyoi;Strong;Fort;TRUE
 3;50;降ります;ふります;furimasu;To fall (rain, snow);Tomber (pluie, neige);TRUE
+3;51;弁当;べんとう;bentou;Lunchbox;Boîte à déjeuner,TRUE
+3;51;全然;ぜんぜん;zenzen;Not at all;Pas du tout,TRUE
+3;51;全部で;ぜんぶで;zenbude;In total;En tout,TRUE
+3;51;果物;くだもの;kudamono;Fruit;Fruit,TRUE
+3;51;いかが;いかが;ikaga;How;Comment,FALSE
+3;51;夕飯;ゆうはん;yuuhan;Dinner;Dîner,TRUE
+3;51;多い;おおい;ooi;A lot;Beaucoup,TRUE
+3;51;砂糖;さとう;satou;Sugar;Sucre,TRUE
+3;51;塩;しお;shio;Salt;Sel,TRUE
+3;51;醤油;しょうゆ;shouyu;Soy sauce;Sauce soja,TRUE
+3;51;ミント;ミント;minto;Mint;Menthe,FALSE
+3;51;少ない;すくない;sukunai;Few (of something);Peu (de quelque chose),TRUE
+3;51;結構;けっこう;kekkou;Fine,quite;Bien,assez,plutôtno,TRUE
+3;51;酒;さけ;sake;Alcohol;Alcool,TRUE
+3;51;変;へん;hen;Strange;Étrange,TRUE
+3;51;紅茶;こうちゃ;koucha;Black tea;Thé noir,TRUE
+3;51;大変;たいへん;taihen;Terrible, very;Terrible, très,TRUE
+3;51;全く;まったく;mattaku;Completely;Complètement,TRUE
