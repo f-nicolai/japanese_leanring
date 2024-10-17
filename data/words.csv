@@ -941,3 +941,27 @@
 3;51;紅茶;こうちゃ;koucha;Black tea;Thé noir;TRUE
 3;51;大変;たいへん;taihen;Terrible, very;Terrible, très;TRUE
 3;51;全く;まったく;mattaku;Completely;Complètement;TRUE
+3;52;建物;たてもの;tatemono;Building;Bâtiment;TRUE
+3;52;入口;いりぐち;iriguchi;Entrance;Entrée;TRUE
+3;52;出口;でぐち;deguchi;Exit;Sortie;TRUE
+3;52;病院;びょういん;byouin;Hospital;Hôpital;TRUE
+3;52;銀行;ぎんこう;ginkou;Bank;Banque;TRUE
+3;52;店;みせ;mise;Shop;Magasin;TRUE
+3;52;道;みち;michi;Street,Road;Rue,route;TRUE
+3;52;出ます;でます;demasu;To leave;Sortir;TRUE
+3;52;入ります;はいります;hairimasu;To enter;Entrer;TRUE
+3;52;向こう;むこう;mukou;Over there;Là-bas;TRUE
+3;52;東;ひがし;higashi;East;Est;TRUE
+3;52;西;にし;nishi;West;Ouest;TRUE
+3;52;北;きた;kita;North;Nord;TRUE
+3;52;南;みなみ;minami;South;Sud;TRUE
+3;52;通り;とおり;toori;Street;Avenue;TRUE
+3;52;通ります;とおります;toorimasu;To pass;Passer;TRUE
+3;52;降ります;おります;orimasu;To get off (from vehicule);Descendre (d'un vehicule);TRUE
+3;52;始め;はじめ;hajime;Beginning;Début;FALSE
+3;52;のそばを;のそばを;nosobawo;Next to;Près de;FALSE
+3;52;北東;ほくとう;hokutou;Northeast;Nord-est;TRUE
+3;52;北西;ほくせい;hokusei;Northwest;Nord-ouest;TRUE
+3;52;南東;なんとう;nantou;Southeast;Sud-est;TRUE
+3;52;南西;なんせい;nansei;Southwest;Sud-ouest;TRUE
+3;52;料理店;りょうりてん;ryouriten;Restaurant;Restaurant;TRUE
