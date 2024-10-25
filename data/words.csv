@@ -885,7 +885,7 @@
 3;48;帽子;ぼうし;boshi;Hat;Chapeau;TRUE
 3;48;洗います;あらいます;araimasu;To wash;Laver;TRUE
 3;48;着ます;きます;kimasu;To wear (clothes);Porter (vêtements);TRUE
-3;48;パンツ;パンツ;pantsu;Underwear;Sous-vêtements;TRUE
+3;48;パンツ;パンツ;pantsu;Underwear;Sous-vêtements;FALSE
 3;48;黒い;くろい;kuroi;Black;Noir;TRUE
 3;48;目;め;me;Eye;Œil;TRUE
 3;49;公園;こうえん;kouen;Park;Parc;TRUE
@@ -980,3 +980,11 @@
 3;53;葡萄;ぶどう;budou;Grapes;Raisins;TRUE
 3;53;酸っぱい;すっぱい;suppai;Sour;Acide;FALSE
 3;53;塩っぱい;しょっぱい;shoppai;Salty;Salé;TRUE
+3;54;去年;きょねん;kyonen;Last year;L'année dernière;TRUE
+3;54;一昨年;おととし;ototoshi;The year before last;L'année avant la dernière;TRUE
+3;54;二か月;にかげつ;nikagetsu;Two months;Deux mois;TRUE
+3;54;おめでとう;おめでとう;omedetou;Congratulations;Félicitations;FALSE
+3;54;毎月;まいつき;maitsuki;Every month;Chaque mois;TRUE
+3;54;誕生;たんじょう;tanjou;Birth;Naissance;TRUE
+3;54;誕生日;たんじょうび;tanjoubi;Birthday;Anniversaire;TRUE
+3;54;出かけます;でかけます;dekakemasu;To go out;Sortir;TRUE
