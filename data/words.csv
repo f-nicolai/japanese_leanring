@@ -988,3 +988,33 @@
 3;54;誕生;たんじょう;tanjou;Birth;Naissance;TRUE
 3;54;誕生日;たんじょうび;tanjoubi;Birthday;Anniversaire;TRUE
 3;54;出かけます;でかけます;dekakemasu;To go out;Sortir;TRUE
+3;55;鞄;かばん;kaban;Bag;Sac;TRUE
+3;55;お金;おかね;okane;Money;Argent;TRUE
+3;55;花;はな;hana;Flower;Fleur;TRUE
+3;55;時計;とけい;toukei;Watch;Montre;TRUE
+3;55;腕;うで;ude;Arm;Bras;TRUE
+3;55;腕時計;うでどけい;udedoukei;Wristwatch;Montre-bracelet;TRUE
+3;55;財布;さいふ;saifu;Wallet;Portefeuille;TRUE
+3;55;荷物;にもつ;nimotsu;Luggage;Bagages;TRUE
+3;55;他;ほか;hoka;Other;Autre;TRUE
+3;55;他に何が欲しいですか;ほかになにがほしいですか;hokaninanigahoshiidesu;What else do you want?;Quoi d'autre désirez-vous ?;TRUE
+3;55;他に誰が来ますか;ほかにだれがきますか;hokanidaregakimasuka;Who else is coming?;Qui d'autre vient ?;TRUE
+3;55;色々;いろいろ;iroiro;Various;Divers;TRUE
+3;55;こんな;こんな;konna;Like this;Comme ça;FALSE
+3;55;物;もの;mono;Thing;Objet;TRUE
+3;55;他にもこんな物があります;ほかにもこんなものがあります;hokanimokonnamonogaarimasu;There are other things like this;Il y a aussi d'autres choses comme ça;TRUE
+3;55;軽い;かるい;karui;Light;Léger;TRUE
+3;55;重い;おもい;omoi;Heavy;Lourd;TRUE
+3;55;丈夫;じょうぶ;joubu;Sturdy;Solide;TRUE
+3;55;大切;たいせつ;taisetsu;Important;Important;TRUE
+3;55;大切にして;たいせつにして;taisetsunishite;Take care of it;Prends soin de cela;TRUE
+3;55;入れます;いれます;iremasu;To put in;Mettre dans;TRUE
+3;55;出します;だします;dashimasu;To take out;Sortir;TRUE
+3;55;にとって;にとって;nitotte;For (someone);Pour (quelqu’un);TRUE
+3;55;これは彼女にとって大切です;これはかのじょにとってたいせつです;korehakanojounitottetaisetsudesu;This is important to her;C'est important pour elle;TRUE
+3;55;持ちます;もちます;mochimasu;To hold;Tenir;TRUE
+3;55;持っています;もっています;motteimasu;To have;Avoir;TRUE
+3;55;持って来ます;もってきます;mottekimasu;To bring;Apporter;TRUE
+3;55;パン屋;ぱんや;panya;Bakery;Boulangerie;TRUE
+3;55;同じ;おなじ;onaji;Same;Identique;TRUE
+3;55;違う;ちがう;chigau;Different;Différent;TRUE
