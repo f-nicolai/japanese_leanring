@@ -1045,3 +1045,21 @@
 3;56;独身;どくしん;dokushin;Single;Célibataire;TRUE
 3;56;彼氏;かれし;kareshi;Boyfriend;Petit ami;TRUE
 3;56;恋人がいるの;こいびとがいるの;koibitohairuno;Has a lover;A un amoureux;TRUE
+3;57;寒い;さむい;samui;Cold;Froid;TRUE
+3;57;夜;よる;yoru;Night;Nuit;TRUE
+3;57;暖かい;あたたかい;atatakai;Warm;Chaud;TRUE
+3;57;差します;さします;sashimasu;To point/to hold up;Pointer/tenir;TRUE
+3;57;傘;かさ;kasa;Umbrella;Parapluie;TRUE
+3;57;暑い;あつい;atsui;Hot (weather);Chaud (météo);TRUE
+3;57;傘を差していいですか;かさをさしていいですか;kasawosashiteiidesuka;Is it okay to hold up the umbrella?;Est-ce que je peux ouvrir le parapluie?;TRUE
+3;57;しかし;しかし;shikashi;However;Cependant;FALSE
+3;57;進みます;すすみます;susumimasu;To proceed;Avancer;TRUE
+3;57;次;つぎ;tsugi;Next;Suivant;TRUE
+3;57;狭い;せまい;semai;Narrow;Étroit;TRUE
+3;57;涼しい;すずしい;suzushii;Cool;Frais;TRUE
+3;57;今日は暖かく明日は涼しいです;きょうはあたたかくあしたはすずしいです;kyouhaatatakuashitahasuzushiidesu;Today is warm, tomorrow is cool;Aujourd'hui il fait chaud, demain il fait frais;TRUE
+3;57;大きな窓を開け涼しい風を入れました;おおきなまどをあけすずしいかぜをいれました;ookinamadowoakesuzushiikazewoiremashita;I opened the big window and let in the cool breeze;J'ai ouvert la grande fenêtre et laissé entrer la brise fraîche;TRUE
+3;57;広い;ひろい;firoi;Spacious/Wide;Spacieux/large;TRUE
+3;57;曲がります;まがります;magarimasu;To turn;Tourner;TRUE
+3;57;角;かど;kado;Corner;Coin;TRUE
+3;57;どっち;どっち;docchi;Which (way)?;Lequel (chemin)?;FALSE
