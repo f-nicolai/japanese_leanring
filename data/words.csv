@@ -1063,3 +1063,25 @@
 3;57;曲がります;まがります;magarimasu;To turn;Tourner;TRUE
 3;57;角;かど;kado;Corner;Coin;TRUE
 3;57;どっち;どっち;docchi;Which (way)?;Lequel (chemin)?;FALSE
+3;58;春;はる;haru;Spring;Printemps;TRUE
+3;58;紫;むらさき;murasaki;Purple;Violet;TRUE
+3;58;緑;みどり;midori;Green;Vert;TRUE
+3;58;夏;なつ;natsu;Summer;Été;TRUE
+3;58;きつい;きつい;kitsui;Tight;Serré;FALSE
+3;58;冬;ふゆ;fuyu;Winter;Hiver;TRUE
+3;58;靴下;くつした;kutsushita;Socks;Chaussettes;TRUE
+3;58;灰色;はいいろ;haiiro;Gray;Gris;TRUE
+3;58;ゆるい;ゆるい;yurui;Loose;Lâche;FALSE
+3;58;組;くみ;kumi;Group;Groupe;TRUE
+3;58;手袋;てぶくろ;tebukuro;Gloves;Gants;TRUE
+3;58;秋;あき;aki;Autumn;Automne;TRUE
+3;58;早い;はやい;hayai;Early;Tôt;TRUE
+3;58;一台;いちだい;ichidai;One machine;Une machine;TRUE
+3;58;待ちます;まちます;machimasu;To wait;Attendre;TRUE
+3;58;携帯;けいたい;keitai;Mobile;Portable;TRUE
+3;58;勤めます;つとめます;tsutomemasu;To work (for a company, be employed);Travailler (pour une entreprise, être employé);TRUE
+3;58;消します;けします;keshimasu;To turn off;Éteindre;TRUE
+3;58;携帯電話;けいたいでんわ;keitaidenwa;Cell phone;Téléphone portable;TRUE
+3;58;ゆっくり;ゆっくり;yukkuri;Slowly;Lentement;FALSE
+3;58;ちょっと待ってください;ちょっとまってください;chotto matte kudasai;Please wait a moment;Veuillez attendre un instant;TRUE
+3;58;椅子に座って待ちます;いすにすわってまちます;isu ni suatte machimasu;I sit on a chair and wait;Je m'assois sur une chaise et j'attends;TRUE
