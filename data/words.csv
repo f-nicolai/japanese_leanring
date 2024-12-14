@@ -1086,3 +1086,22 @@
 3;58;ゆっくり;ゆっくり;yukkuri;Slowly;Lentement;FALSE
 3;58;ちょっと待ってください;ちょっとまってください;chotto matte kudasai;Please wait a moment;Veuillez attendre un instant;TRUE
 3;58;椅子に座って待ちます;いすにすわってまちます;isu ni suatte machimasu;I sit on a chair and wait;Je m'assois sur une chaise et j'attends;TRUE
+3;59;咲きます;さきます;sakimasu;To bloom;Fleurir;True
+3;59;登ります;のぼります;noborimasu;To climb;Grimper;True
+3;59;海;うみ;umi;Sea;Mer;True
+3;59;池;いけ;ike;Pond;Étang;True
+3;59;賑やか;にぎやか;nigiyaka;Lively;Animé;True
+3;59;飛ぶ;とぶ;tobu;To fly;Voler;True
+3;59;鳴きます;なきます;nakimasu;To make sounds (animals);Faire des sons (animaux);True
+3;59;匹;ひき;hiki;Counter for small animals;Compteur pour petits animaux;True
+3;59;動物;どうぶつ;doubutsu;Animal;Animal;True
+3;59;声;こえ;koe;Voice/Sound (of animals);Voix/Son (des animaux);True
+3;59;鹿;しか;shika;Deer;Cerf;True
+3;59;動物園;どうぶつえん;doubutsuen;Zoo;Zoo;True
+3;59;熊;くま;kuma;Bear;Ours;True
+3;59;静か;しずか;shizuka;Quiet;Calme;True
+3;59;上野;うえの;ueno;Ueno (place in Tokyo);Ueno (lieu à Tokyo);True
+3;59;牛;うし;cow;Cow;Vache;True
+3;59;狐;きつね;kitsune;Fox;Renard;FALSE
+3;59;鳩;はと;hato;Pigeon/Dove;Pigeon/Colombe;FALSE
+3;59;馬;うま;horse;Horse;Cheval;True
