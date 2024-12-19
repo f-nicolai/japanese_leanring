@@ -1105,3 +1105,24 @@
 3;59;狐;きつね;kitsune;Fox;Renard;FALSE
 3;59;鳩;はと;hato;Pigeon/Dove;Pigeon/Colombe;FALSE
 3;59;馬;うま;horse;Horse;Cheval;True
+3;60;始まります;はじまります;hajimarimasu;To begin;Commencer;TRUE
+3;60;宿題;しゅくだい;shukudai;Homework;Devoirs;TRUE
+3;60;授業;じゅぎょう;jugyou;Class;Cours;TRUE
+3;60;終わり;おわり;owari;End;Fin;TRUE
+3;60;終わる;おわる;owaru;To end;Finir;TRUE
+3;60;教科書;きょうかしょ;kyoukasho;Textbook;Manuel;TRUE
+3;60;こう;こう;kou;This way;Ainsi;FALSE
+3;60;難しい;むずかしい;muzukashii;Difficult;Difficile;TRUE
+3;60;易しい;やさしい;yasashii;Easy;Facile;TRUE
+3;60;意味;いみ;imi;Meaning;Sens;TRUE
+3;60;言葉;ことば;kotoba;Word;Mot;TRUE
+3;60;漢字;かんじ;kanji;Kanji;Kanji;TRUE
+3;60;覚える;おぼえる;oboeru;To remember;Mémoriser;TRUE
+3;60;いけません;いけません;ikemasen;Cannot;Ne peut pas;TRUE
+3;60;まだ家に帰ってはいけません;まだいえにかえってはいけません;mada ie ni kaette wa ikemasen;You cannot return home yet;Vous ne pouvez pas encore rentrer chez vous;TRUE
+3;60;辞書;じしょ;jisho;Dictionary;Dictionnaire;TRUE
+3;60;引きます;ひきます;hikimasu;To consult;Consulter;TRUE
+3;60;教えます;おしえます;oshiemasu;To teach;Enseigner;TRUE
+3;60;私はあなたに英語を教えて欲しいです;わたしはあなたにえいごはなしをおしえてほしいです;watashi wa anata ni eigo wo oshiete hoshii desu;I want you to teach me English;Je veux que tu m'apprennes l'anglais;TRUE
+3;60;漢字の意味を辞書で引きました;かんじのいみをじしょでひきました;kanji no imi wo jisho de hikimashita;I looked up the meaning of the kanji in a dictionary;J'ai consulté un dictionnaire pour le sens des kanji;TRUE
+
