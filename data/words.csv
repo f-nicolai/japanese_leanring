@@ -1125,4 +1125,17 @@
 3;60;教えます;おしえます;oshiemasu;To teach;Enseigner;TRUE
 3;60;私はあなたに英語を教えて欲しいです;わたしはあなたにえいごはなしをおしえてほしいです;watashi wa anata ni eigo wo oshiete hoshii desu;I want you to teach me English;Je veux que tu m'apprennes l'anglais;TRUE
 3;60;漢字の意味を辞書で引きました;かんじのいみをじしょでひきました;kanji no imi wo jisho de hikimashita;I looked up the meaning of the kanji in a dictionary;J'ai consulté un dictionnaire pour le sens des kanji;TRUE
-
+3;61;要ります;いります;irimasu;To need;Avoir besoin;TRUE
+3;61;お菓子;おかし;okashi;Sweets;Bonbons;TRUE
+3;61;少々;しょうしょう;shoushou;A little;Un peu;TRUE
+3;61;レジ袋;レジぶくろ;rejibukuro;Plastic bag;Sac plastique;TRUE
+3;61;袋;ふくろ;fukuro;Bag;Sac;TRUE
+3;61;温めます;あたためます;atatamemasu;To warm;Réchauffer;TRUE
+3;61;店内;てんない;tennai;In-store;En magasin;TRUE
+3;61;召し上がる;めしあがる;ashiagaru;To eat (polite);Manger (poli);TRUE
+3;61;持ち帰り;もちかえり;mochikaeri;Takeout;À emporter;TRUE
+3;61;宜しい;よろしい;yoroshii;Good (polite);Bien (poli);TRUE
+3;61;ここで召し上がりますか;ここでめしあがりますか;kokodeashiagarimasuka;Will you eat here?;Vous mangez ici ?;TRUE
+3;61;レシートは宜しいですか;レシートはよろしいですか;rejiitohayoroshiidesuka;Is the receipt okay?;Le reçu, ça va ?;TRUE
+3;61;窓を開けても宜しいですか;まどをあけてもよろしいですか;madowoaketemoyoroshiidesuka;May I open the window?;Puis-je ouvrir la fenêtre ?;TRUE
+3;61;唐揚げ;からあげ;karaage;Fried chicken;Poulet frit;TRUE
