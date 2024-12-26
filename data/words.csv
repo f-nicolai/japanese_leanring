@@ -1139,3 +1139,19 @@
 3;61;レシートは宜しいですか;レシートはよろしいですか;rejiitohayoroshiidesuka;Is the receipt okay?;Le reçu, ça va ?;TRUE
 3;61;窓を開けても宜しいですか;まどをあけてもよろしいですか;madowoaketemoyoroshiidesuka;May I open the window?;Puis-je ouvrir la fenêtre ?;TRUE
 3;61;唐揚げ;からあげ;karaage;Fried chicken;Poulet frit;TRUE
+3;62;知る;しる;shiru;To know;Savoir;TRUE
+3;62;それは今知りました;それはいましりました;sorehaimashirimashita;I just learned that;Je viens de l'apprendre;TRUE
+3;62;田中と呼んでください;たなかとよんでください;tanakatoyondekudasai;Please call me Tanaka;Veuillez m'appeler Tanaka;TRUE
+3;62;狐は何を言いますか;きつねはなにをいいますか;kitsunehananiwoiimasu ka;What does the fox say?;Que dit le renard ?;TRUE
+3;62;彼女は何と言っていましたか;かのじょはなんといっていましたか;kanojouhananitoitteimashitaka;What did she say?;Qu'est-ce qu'elle a dit ?;TRUE
+3;62;教室;きょうしつ;kyoushitsu;Classroom;Salle de classe;TRUE
+3;62;見せる;みせる;miseru;To show;Montrer;TRUE
+3;62;質問;しつもん;shitsumon;Question;Question;TRUE
+3;62;問題;もんだい;mondai;Problem;Problème;TRUE
+3;62;答える;こたえる;kotaeru;To answer;Répondre;TRUE
+3;62;定規;じょうぎ;jougi;Ruler;Règle;TRUE
+3;62;簡単;かんたん;kantan;Easy;Facile;TRUE
+3;62;度;ど;do;Degree;Degré;TRUE
+3;62;何度;なんど;nando;How many times;Combien de fois;TRUE
+3;62;もう一度言ってください;もういちどいってください;mouichidoittekudasai;Please say it again;Répétez, s'il vous plaît;TRUE
+3;62;鉛筆;えんぴつ;enpitsu;Pencil;Crayon;TRUE
