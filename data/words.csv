@@ -1155,3 +1155,53 @@
 3;62;何度;なんど;nando;How many times;Combien de fois;TRUE
 3;62;もう一度言ってください;もういちどいってください;mouichidoittekudasai;Please say it again;Répétez, s'il vous plaît;TRUE
 3;62;鉛筆;えんぴつ;enpitsu;Pencil;Crayon;TRUE
+3;63;楽しい;たのしい;tanoshii;Fun;Amusant;TRUE
+3;63;呼びます;よびます;yobimasu;To call;Appeler;TRUE
+3;63;面白い;おもしろい;omoshiroi;Interesting;Intéressant;TRUE
+3;63;授業が難しいから、家で勉強します;じゅぎょうがむずかしいから、いえでべんきょうします;jugyou ga muzukashii kara, ie de benkyou shimasu;Because class is difficult, I study at home;Parce que le cours est difficile, j'étudie à la maison;TRUE
+3;63;先生は授業を面白くします;せんせいはじゅぎょうをおもしろくします;sensei wa jugyou wo omoshiroku shimasu;The teacher makes the class interesting;Le professeur rend le cours intéressant;TRUE
+3;63;愛する;あいする;aisuru;To love;Aimer;TRUE
+3;63;怖い;こわい;kowai;Scary;Effrayant;TRUE
+3;63;疲れます;つかれます;tsukaremasu;To get tired;Être fatigué;TRUE
+3;63;この映画は怖くありませんでした;このえいがはこわくありませんでした;kono eiga wa kowaku arimasen deshita;This movie wasn’t scary;Ce film n'était pas effrayant;TRUE
+3;63;困って;こまって;komatte;In trouble;En difficulté;TRUE
+3;63;暇;ひま;hima;Free (time);Temps libre;TRUE
+3;63;嫌;いや;iya;Unpleasant;Désagréable;TRUE
+3;63;なぜ;なぜ;naze;Why;Pourquoi;TRUE
+3;63;悲しい;かなしい;kanashii;Sad;Triste;TRUE
+3;63;嬉しい;うれしい;ureshii;Happy;Heureux;TRUE
+3;63;気分;きぶん;kibun;Mood;Humeur;TRUE
+3;63;親切;しんせつ;shinshetsu;Kind;Gentil;TRUE
+3;63;気持ち;きもち;kimochi;Feeling;Sentiment;TRUE
+3;63;面白くない本は嫌です;おもしろくないほんはいやです;omoshirokunai hon wa iya desu;Uninteresting books are unpleasant;Les livres inintéressants sont désagréables;TRUE
+3;63;そのテストはなぜ難しいんですか;そのてすとはなぜむずかしいんですか;sono tesuto wa naze muzukashii n desu ka;Why is that test difficult?;Pourquoi ce test est-il difficile ?;TRUE
+3;63;たくさん仕事をして疲れました;たくさんしごとをしてつかれました;takusan shigoto wo shite tsukaremashita;I did a lot of work and got tired;J'ai beaucoup travaillé et je suis fatigué;TRUE
+3;63;いいんです;いいんです;ii n desu;It’s fine;C'est bon;TRUE
+3;63;この答えはどうして違うんですか;このこたえはどうしてちがうんですか;kono kotae wa doushite chigau n desu ka;Why is this answer different?;Pourquoi cette réponse est-elle différente ?;TRUE
+3;63;彼は悲しそうに私を見ました;かれはかなしそうにわたしをみました;kare wa kanashisou ni watashi wo mimashita;He looked at me sadly;Il m'a regardé tristement;TRUE
+3;64;町;まち;machi;Town;Ville;TRUE
+3;64;門;もん;mon;Gate;Porte;TRUE
+3;64;自動車;じどうしゃ;jidousha;Automobile;Voiture;TRUE
+3;64;図書館;としょかん;toshokan;Library;Bibliothèque;TRUE
+3;64;交番;こうばん;kouban;Police box;Poste de police;TRUE
+3;64;手洗い;てあらい;tearai;Handwashing;Lavabo;TRUE
+3;64;お手洗い;おてあらい;otearai;Restroom;Toilettes;TRUE
+3;64;玄関;げんかん;genkan;Entrance;Entrée;TRUE
+3;64;廊下;ろうか;roukan;Hallway;Couloir;TRUE
+3;64;戸;と;to;sliding door;Porte coulissante;TRUE
+3;64;階段;かいだん;kaidan;Stairs;Escalier;TRUE
+3;64;何も;なにも;nanimo;Nothing;Rien;TRUE
+3;64;誰にも言いません;だれにもいいません;darenimoiimasen;I won’t tell anyone;Je ne le dirai à personne;TRUE
+3;64;切符;きっぷ;kippu;Ticket;Billet;TRUE
+3;64;村;むら;mura;Village;Village;TRUE
+3;64;危ない;あぶない;abunai;Dangerous;Dangereux;TRUE
+3;64;所;ところ;tokoro;Place;Endroit;TRUE
+3;64;何でも;なんでも;nanidemo;Anything;Tout;TRUE
+3;64;僕は何でもいいよ;ぼくはなんでもいいよ;bokuhananidemoiiyo;Anything is fine with me;Tout me va;TRUE
+3;64;私はいつでもいいです;わたしはいつでもいいです;watashihaitsudemoiidesu;Anytime is fine with me;N'importe quand me va;TRUE
+3;64;メートル;メートル;meetoru;Meter;Mètre;FALSE
+3;64;止まります;とまります;tomarimasu;To stop;S'arrêter;TRUE
+3;64;橋;はし;hashi;Bridge;Pont;TRUE
+3;64;窓は全部閉まっていますか;まどはぜんぶしまっていますか;madohazenbushimatteimasuka;Are all the windows closed?;Est-ce que toutes les fenêtres sont fermées ?;TRUE
+3;64;この近く;このちかく;konochikaku;Near here;Près d'ici;TRUE
+3;64;運転手;うんてんしゅ;untenshu;Driver;Conducteur;TRUE
