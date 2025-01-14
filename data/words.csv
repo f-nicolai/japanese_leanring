@@ -1179,3 +1179,51 @@
 3;63;いいんです;いいんです;ii n desu;It’s fine;C'est bon;TRUE
 3;63;この答えはどうして違うんですか;このこたえはどうしてちがうんですか;kono kotae wa doushite chigau n desu ka;Why is this answer different?;Pourquoi cette réponse est-elle différente ?;TRUE
 3;63;彼は悲しそうに私を見ました;かれはかなしそうにわたしをみました;kare wa kanashisou ni watashi wo mimashita;He looked at me sadly;Il m'a regardé tristement;TRUE
+3;64;町;まち;machi;Town;Ville;TRUE
+3;64;門;もん;mon;Gate;Porte;TRUE
+3;64;自動車;じどうしゃ;jidousha;Automobile;Voiture;TRUE
+3;64;図書館;としょかん;toshokan;Library;Bibliothèque;TRUE
+3;64;交番;こうばん;kouban;Police box;Poste de police;TRUE
+3;64;手洗い;てあらい;tearai;Handwashing;Lavabo;TRUE
+3;64;お手洗い;おてあらい;otearai;Restroom;Toilettes;TRUE
+3;64;玄関;げんかん;genkan;Entrance;Entrée;TRUE
+3;64;廊下;ろうか;roukan;Hallway;Couloir;TRUE
+3;64;戸;と;to;sliding door;Porte coulissante;TRUE
+3;64;階段;かいだん;kaidan;Stairs;Escalier;TRUE
+3;64;何も;なにも;nanimo;Nothing;Rien;TRUE
+3;64;誰にも言いません;だれにもいいません;darenimoiimasen;I won’t tell anyone;Je ne le dirai à personne;TRUE
+3;64;切符;きっぷ;kippu;Ticket;Billet;TRUE
+3;64;村;むら;mura;Village;Village;TRUE
+3;64;危ない;あぶない;abunai;Dangerous;Dangereux;TRUE
+3;64;所;ところ;tokoro;Place;Endroit;TRUE
+3;64;何でも;なんでも;nanidemo;Anything;Tout;TRUE
+3;64;僕は何でもいいよ;ぼくはなんでもいいよ;bokuhananidemoiiyo;Anything is fine with me;Tout me va;TRUE
+3;64;私はいつでもいいです;わたしはいつでもいいです;watashihaitsudemoiidesu;Anytime is fine with me;N'importe quand me va;TRUE
+3;64;メートル;メートル;meetoru;Meter;Mètre;FALSE
+3;64;止まります;とまります;tomarimasu;To stop;S'arrêter;TRUE
+3;64;橋;はし;hashi;Bridge;Pont;TRUE
+3;64;窓は全部閉まっていますか;まどはぜんぶしまっていますか;madohazenbushimatteimasuka;Are all the windows closed?;Est-ce que toutes les fenêtres sont fermées ?;TRUE
+3;64;この近く;このちかく;konochikaku;Near here;Près d'ici;TRUE
+3;64;運転手;うんてんしゅ;untenshu;Driver;Conducteur;TRUE
+3;65;太い;ふとい;futoi;Thick (voluminous or round objects);Épais;TRUE
+3;65;細い;ほそい;hosoi;Thin (slim or narrow objects);Mince,fin,mince;TRUE
+3;65;細い道はゆっくり進みます;ほそいみちはゆっくりすすみます;hosoimachihayukkurisusumimasu;Thin roads move slowly;Les chemins étroits avancent lentement;TRUE
+3;65;薄い;うすい;usui;Thin (flat, colors, savors);Mince (épaisseur);TRUE
+3;65;厚い;あつい;atsui;Thick (solid objects, figured concepts);Épais (épaisseur);TRUE
+3;65;押します;おします;oshimasu;To push;Pousser;TRUE
+3;65;丸い;まるい;marui;Round;Rond;TRUE
+3;65;丸;まる;maru;Circle;Cercle;TRUE
+3;65;紙;かみ;kami;Paper;Papier;TRUE
+3;65;吸います;すいます;suimasu;To inhale/breathe in;Inspirer;TRUE
+3;65;鍵;かぎ;kagi;Key;Clé;TRUE
+3;65;無くします;なくします;nakushimasu;To lose;Perdre;TRUE
+3;65;置きます;おきます;okimasu;To put/place;Poser;TRUE
+3;65;石鹸;せっけん;sekken;Soap;Savon;TRUE
+3;65;今はそれを使っていますか;いまはそれをつかっていますか;imahasorewotsukatteimasuka;Are you using it now?;L'utilisez-vous maintenant ?;TRUE
+3;65;あなたの机を使ってすみません;あなたのつくえをつかってすみません;anatanotsukuewotsukattesumimasen;Sorry for using your desk;Désolé d'avoir utilisé votre bureau;TRUE
+3;65;切る;きる;kiru;To cut;Couper;TRUE
+3;65;パンをナイフで切ってください;ぱんをないふできってください;panwonaifudekittekudasai;Please cut the bread with a knife;Coupez le pain avec un couteau, s'il vous plaît;TRUE
+3;65;この紙を二つに切ってください;このかみをふたつにきってください;konokamiwofutatsunikittekudasai;Please cut this paper into two;Coupez ce papier en deux, s'il vous plaît;TRUE
+3;65;ここにカバンを置いてください;ここにかばんをおいてください;kokonikabanwooitkudasai;Please put the bag here;Mettez le sac ici, s'il vous plaît;TRUE
+3;65;忘れます;わすれます;wasuremasu;To forget;Oublier;TRUE
+3;65;箱;はこ;hako;Box;Boîte;TRUE

@@ -166,7 +166,6 @@
 3;60;覚える;覚えます;覚えて;おぼえます;oboemasu;to remember;mémoriser
 3;60;引く;引きます;引いて;ひきます;hikimasu;to consult;consulter
 3;60;教える;教えます;教えて;おしえます;oshiemasu;to teach;enseigner
-dictionary;polite;-te-form;hiragana;romanji;english;french
 3;61;要る;要ります;要って;いります;irimasu;to need;avoir besoin
 3;61;温める;温めます;温めて;あたためます;atatamemasu;to warm;réchauffer
 3;61;召し上がる;召し上がります;召し上がって;めしあがります;ashiagarimasu;to eat (polite);manger (poli)
@@ -178,3 +177,10 @@ dictionary;polite;-te-form;hiragana;romanji;english;french
 3;63;愛する;愛します;愛して;あいします;aisuru;to love;aimer
 3;63;疲れる;疲れます;疲れて;つかれます;tsukaremasu;to get tired;être fatigué
 3;63;困る;困ります;困って;こまります;komarimasu;to be in trouble;être en difficulté
+3;64;止まる;止まります;止まって;とまります;tomarimasu;to stop;s'arrêter
+3;65;押す;押します;押して;おします;oshimasu;to push;pousser
+3;65;吸う;吸います;吸って;すいます;suimasu;to inhale/breathe in;inspirer
+3;65;無くす;無くします;無くして;なくします;nakushimasu;to lose;perdre
+3;65;置く;置きます;置いて;おきます;okimasu;to put/place;poser
+3;65;切る;切ります;切って;きります;kirimasu;to cut;couper
+3;65;忘れる;忘れます;忘れて;わすれます;wasuremasu;to forget;oublier
