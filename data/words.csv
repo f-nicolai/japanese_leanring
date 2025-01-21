@@ -1227,3 +1227,15 @@
 3;65;ここにカバンを置いてください;ここにかばんをおいてください;kokonikabanwooitkudasai;Please put the bag here;Mettez le sac ici, s'il vous plaît;TRUE
 3;65;忘れます;わすれます;wasuremasu;To forget;Oublier;TRUE
 3;65;箱;はこ;hako;Box;Boîte;TRUE
+3;66;売ります;うります;urimasu;To sell;Vendre;TRUE
+3;66;この方が好きです;このほうがすきです;konohougasukidesu;I prefer this one;Je préfère celui-ci;TRUE
+3;66;静かなところの方がいいです;しずかなところのほうがいいです;shizukanatokoronohougaiidesu;A quiet place is better;Un endroit calme est mieux;TRUE
+3;66;今日は昨日より寒いです;きょうはきのうよりさむいです;kyouhakinouyorisamuidesu;Today is colder than yesterday;Aujourd'hui est plus froid qu'hier;TRUE
+3;66;いつも教室で一番前に座ります;いつもきょうしつでいちばんまえにすわります;itsumokyoushitsudeichibanmaenisurimasu;I always sit at the very front of the classroom;Je m'assois toujours au tout premier rang de la classe;TRUE
+3;66;今日のアパートは前のところより広いです;きょうのあぱーとはまえのところよりひろいです;kyounoapaatohamaenotokoroyorihiroidesu;Today's apartment is more spacious than the previous one;L'appartement d'aujourd'hui est plus spacieux que l'ancien;TRUE
+3;66;犬より猫の方が好きです;いぬよりねこのほうがすきです;inuyorinekonohougasukidesu;I prefer cats to dogs;Je préfère les chats aux chiens;TRUE
+3;66;豚肉;ぶたにく;butaniku;Pork;Porc;TRUE
+3;66;鶏肉;とりにく;toriniku;Chicken;Poulet;TRUE
+3;66;飴;あめ;ame;Hard candy;Bonbon dur;TRUE
+3;66;かなり;かなり;kanari;Quite;Assez;FALSE
+3;66;一番近いコンビはどこですか;いちばんちかいこんびはどこですか;ichiban chikai konbini wa doko desu ka;Where is the nearest convenience store?;Où est le konbini le plus proche ?;TRUE
