@@ -1205,11 +1205,11 @@
 3;64;窓は全部閉まっていますか;まどはぜんぶしまっていますか;madohazenbushimatteimasuka;Are all the windows closed?;Est-ce que toutes les fenêtres sont fermées ?;TRUE
 3;64;この近く;このちかく;konochikaku;Near here;Près d'ici;TRUE
 3;64;運転手;うんてんしゅ;untenshu;Driver;Conducteur;TRUE
-3;65;太い;ふとい;futoi;Thick (wide);Épais;TRUE
-3;65;細い;ほそい;hosoi;Thin (wide);Mince,fin,mince;TRUE
-3;65;細い道はゆっくり進みます;ほそいみちはゆっくりすすみます;hosoimachihayukkurisusumimasu;Thin roads move slowly;Les chemins étroits avancent lentement;TRUE
-3;65;薄い;うすい;usui;Thin (thickness);Mince (épaisseur);TRUE
-3;65;厚い;あつい;atsui;Thick (thickness);Épais (épaisseur);TRUE
+3;65;太い;ふとい;futoi;Thick (voluminous or round objects);Épais;TRUE
+3;65;細い;ほそい;hosoi;Thin (slim or narrow objects);Mince,fin,mince;TRUE
+3;65;細い道はゆっくり進みます;ほそいみちはゆっくりすすみます;hosoimachihayukkurisusumimasu;I go slowly on narrow roads;j'avance lentement sur les routes étroites;TRUE
+3;65;薄い;うすい;usui;Thin (flat, colors, savors);Mince (épaisseur);TRUE
+3;65;厚い;あつい;atsui;Thick (solid objects, figured concepts);Épais (épaisseur);TRUE
 3;65;押します;おします;oshimasu;To push;Pousser;TRUE
 3;65;丸い;まるい;marui;Round;Rond;TRUE
 3;65;丸;まる;maru;Circle;Cercle;TRUE
