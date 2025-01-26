@@ -1239,3 +1239,32 @@
 3;66;飴;あめ;ame;Hard candy;Bonbon dur;TRUE
 3;66;かなり;かなり;kanari;Quite;Assez;FALSE
 3;66;一番近いコンビはどこですか;いちばんちかいこんびはどこですか;ichiban chikai konbini wa doko desu ka;Where is the nearest convenience store?;Où est le konbini le plus proche ?;TRUE
+3;66;彼は僕より四つ上です;かれはぼくよりよっつうえです;kare wa boku yori yottsu ue desu;He is four years older than me;Il est de quatre ans mon aîné;TRUE
+3;66;払います;はらいます;haraimasu;To pay;Payer;TRUE
+3;66;もうちょっと安いのはありますか;もうちょっとやすいのはありますか;mouchotto yasui no wa arimasuka;Is there a little cheaper one?;Est-ce qu'il y a quelque chose d'un peu moins cher ?;TRUE
+3;66;鶏肉料理が一番好きです;とりにくりょうりがいちばんすきです;toriniku ryouri ga ichiban suki desu;I like chicken dishes the most;Les plats de poulet sont mes préférés;TRUE
+3;67;締めます;しめます;shimemasu;To tie/fasten;Attacher;TRUE
+3;67;制服;せいふく;seifuku;Uniform;Uniforme;TRUE
+3;67;このパーティーではネクタイを締めてください;このパーティーではネクタイをしめてください;kono paatii de wa nekutai wo shimete kudasai;At this party, please wear a tie;À cette fête, portez une cravate s'il vous plaît;TRUE
+3;67;半袖;はんそで;hansode;Short sleeves;Manches courtes;TRUE
+3;67;袖;そで;sode;Sleeve;Manche;TRUE
+3;67;革;かわ;kawa;Leather;Cuir;TRUE
+3;67;革;かわ;kawa;Sash;Ceinture;TRUE
+3;67;背;せ;se;Back/height;Dos/taille;TRUE
+3;67;背広;せびろ;sebiro;Business suit;Costume;TRUE
+3;67;ぴったり;ぴったり;pittari;Perfectly fitting;Parfaitement ajusté;FALSE
+3;67;窓はぴったり閉まっていました;まどはぴったりしまっていました;mado wa pittari shimatte imashita;The window was tightly closed;La fenêtre était parfaitement fermée;TRUE
+3;67;浴衣;ゆかた;yukata;Yukata;Yukata;TRUE
+3;67;着;ちゃく;chaku;Counter for clothes;Compteur pour vêtements;TRUE
+3;67;浴衣を四着持っています;ゆかたをよんちゃくもっています;yukata wo yonchaku motteimasu;I have four yukatas;J'ai quatre yukatas;TRUE
+3;67;その靴はこの着イスカートにぴったりです;そのくつはこのちゃくいすかーとにぴったりです;sono kutsu wa kono chaku isukaato ni pittari desu;These shoes perfectly match this skirt;Ces chaussures vont parfaitement avec cette jupe;TRUE
+3;67;指;ゆび;yubi;Finger;Doigt;TRUE
+3;67;外しました;はずしました;hazushimashita;Unfastened / took off / removed;A enlevé/défait;TRUE
+3;67;彼はシャツのボタンを外しました;かれはしゃつのぼたんをはずしました;kare wa shatsu no botan wo hazushimashita;He unbuttoned his shirt;Il a déboutonné sa chemise;TRUE
+3;67;外します;はずします;hazushimasu;To unfasten/remove;Enlever/défaire;TRUE
+3;67;彼女はダイヤモンドの指輪をはめていました;かのじょはだいやもんどのゆびわをはめていました;kanojo wa daiyamondo no yubiwa wo hamete imashita;She was wearing a diamond ring;Elle portait une bague en diamant;TRUE
+3;67;はめます;はめます;hamemasu;To wear (rings);Porter (des bagues);TRUE
+3;67;洋服;ようふく;youfuku;Western clothes;Vêtements occidentaux;TRUE
+3;67;上着;うわぎ;uwagi;Jacket/Coat;Veste/Manteau;TRUE
+3;67;洋服を全部洗濯しました;ようふくをぜんぶせんたくしました;youfuku wo zenbu sentaku shimashita;I washed all the clothes;J'ai lavé tous les vêtements;TRUE
+3;67;この帽子は私にぴったりです;このぼうしはわたしにぴったりです;kono boushi wa watashi ni pittari desu;This hat fits me perfectly;Ce chapeau me va parfaitement;TRUE
