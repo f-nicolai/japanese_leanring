@@ -1338,3 +1338,35 @@
 3;69;先生に宿題を渡します;せんせいにしゅくだいをわたします;sensei ni shukudai wo watashimasu;I will hand the homework to the teacher;Je remettrai les devoirs au professeur
 3;69;教科書を買うのが好きなの？;きょうかしょをかうのがすきなの？;kyoukashou wo kau no ga sukina no ?;Do you like buying textbooks?;Aimes-tu acheter des manuels scolaires ?
 3;69;飲んでいるのですか;のんでいるのですか;nondeiru no desu ka;Are you drinking?;Es-tu en train de boire ?
+3;70;駅の道を知っている;えきのみちをしっている;eki no michi wo shitteiru;Know the way to the station;Connaître le chemin de la gare;TRUE
+3;70;足;あし;ashi;Foot/Leg;Pied/Jambe;TRUE
+3;70;痛い;いたい;itai;Painful;Douloureux;TRUE
+3;70;風邪;かぜ;kaze;Cold (illness);Rhume;TRUE
+3;70;風邪だと思います;かぜだとおもいます;kaze da to omoimasu;I think it's a cold;Je pense que c'est un rhume;TRUE
+3;70;頭;あたま;atama;Head;Tête;TRUE
+3;70;体;からだ;karada;Body;Corps;TRUE
+3;70;医者;いしゃ;isha;Doctor;Médecin;TRUE
+3;70;薬;くすり;kusuri;Medicine;Médicament;TRUE
+3;70;背;せ;se;Height/Back;Taille/Dos;TRUE
+3;70;タバコは体に悪い;たばこはからだにわるい;tabako wa karada ni warui;Smoking is bad for the body;Fumer est mauvais pour le corps;TRUE
+3;70;鼻;はな;hana;Nose;Nez;TRUE
+3;70;犬は鼻がいいです;いぬははながいいです;inu ha hana ga ii desu;Dogs have a good sense of smell;Les chiens ont un bon odorat;TRUE
+3;70;病気;びょうき;byouki;Illness;Maladie;TRUE
+3;70;顔;かお;kao;Face;Visage;TRUE
+3;70;歯;は;ha;Tooth;Dent;TRUE
+3;70;磨く;みがく;migaku;To brush/Polish;Brosser/Polir;TRUE
+3;70;髪;かみ;kami;Hair;Cheveux;TRUE
+3;70;耳;みみ;mimi;Ear;Oreille;TRUE
+3;70;昨日髪を切りました;きのうかみをきりました;kinou kami wo kirimashita;I cut my hair yesterday;J'ai coupé mes cheveux hier;TRUE
+3;70;歯をちゃんと磨いていますか;はをちゃんとみがいていますか;ha wo chanto migaiteimasu ka;Are you properly brushing your teeth?;Te brosses-tu correctement les dents ?;TRUE
+3;70;痩せます;やせます;yasemasu;To lose weight;Maigrir;TRUE
+3;70;眼鏡;めがね;megane;Glasses;Lunettes;TRUE
+3;70;背中;せなか;senaka;Back;Dos;TRUE
+3;70;背中をまっすぐにしてください;せなかをまっすぐにしてください;senaka wo massugu ni shite kudasai;Please straighten your back;Redressez votre dos, s'il vous plaît;TRUE
+3;70;運動;うんどう;undou;Exercise;Exercice;TRUE
+3;70;彼女は毎朝仕事に行く前に運動する;かのじょはまいあさしごとにいくまえにうんどうする;kanojou ha maiasa shigoto ni iku mae ni undou suru;She exercises every morning before going to work;Elle fait de l'exercice tous les matins avant d'aller au travail;TRUE
+3;70;10年前はもっと太っていました;じゅうねんまえはもっとふとっていました;juu nen mae ha motto futtimashita;10 years ago, I was heavier;Il y a 10 ans, j'étais plus gros(se);TRUE
+3;70;痩せる;やせる;yaseru;To lose weight;Maigrir;TRUE
+3;70;太る;ふとる;futoru;To gain weight;Grossir;TRUE
+3;70;鼻水;はなみず;hanamizu;Runny nose;Écoulement nasal;TRUE
+3;70;たくさん鼻水が出ます;たくさんはなみずがでます;takusan hanamizu ga demasu;I have a lot of runny nose;J'ai beaucoup d'écoulement nasal;TRUE
