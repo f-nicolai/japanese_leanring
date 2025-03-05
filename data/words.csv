@@ -1370,3 +1370,38 @@
 3;70;太る;ふとる;futoru;To gain weight;Grossir;TRUE
 3;70;鼻水;はなみず;hanamizu;Runny nose;Écoulement nasal;TRUE
 3;70;たくさん鼻水が出ます;たくさんはなみずがでます;takusan hanamizu ga demasu;I have a lot of runny nose;J'ai beaucoup d'écoulement nasal;TRUE
+3;71;国;くに;kuni;Country;Pays;True
+3;71;本当の事;ほんとうのこと;hontou no koto;The truth;La vérité;True
+3;71;本当の事を言って;ほんとうのことをいって;hontou no koto wo itte;Tell the truth;Dis la vérité;True
+3;71;雨を見た事があるの;あめをみたことがあるの;ame wo mita koto ga aru no;Have you ever seen the rain?;As-tu déjà vu la pluie ?;True
+3;71;このアニメは見た事があります;このアニメはみたことがあります;kono anime ha mita koto ga arimasu;I have seen this anime;J'ai vu cet anime;True
+3;71;私はたくさんの国に友達がいる;わたしはたくさんのくににともだちがいる;watashi ha takusan no kuni ni tomodachi ga iru;I have many friends in different countries;J'ai beaucoup d'amis dans différents pays;True
+3;71;私は外国語を勉強するのが好きなんです;わたしはがいこくごをべんきょうするのがすきなんです;watashi ha gaikokugo wo benkyou suru no ga sukinan desu;I like studying foreign languages;J'aime étudier les langues étrangères;True
+3;71;便利;べんり;benri;Convenient;Pratique;True
+3;71;お国はどちらですか;おくにはどちらですか;o kuni ha dochira desu ka;Where are you from?;D'où venez-vous ?;True
+3;71;旅館;りょかん;ryokan;Japanese inn;Auberge japonaise;True
+3;71;もう歩きたくありません;もうあるきたくありません;mou arukitaku arimasen;I don't want to walk anymore;Je ne veux plus marcher;True
+3;71;つもり;つもり;tsumori;Intention;Intention;True
+3;71;家にいるつもりです;いえにいるつもりです;ie ni iru tsumori desu;I intend to stay at home;J'ai l'intention de rester à la maison;True
+3;71;この本はいいですが、長いです;このほんはいいですが、ながいです;kono hon ha ii desu ga, nagai desu;This book is good, but it's long;Ce livre est bien, mais il est long;True
+3;71;漢字の勉強は大変ですが、とても楽しいです;かんじのべんきょうはたいへんですが、とてもたのしいです;kanji no benkyou ha taihen desu ga, totemo tanoshii desu;Studying kanji is difficult, but very fun;Étudier les kanji est difficile, mais très amusant;True
+3;71;この旅館は綺麗だが、高い;このりょかんはきれいだが、たかい;kono ryokan ha kireida ga, takai;This ryokan is beautiful, but expensive;Cette auberge est jolie, mais chère;True
+3;71;この旅館に行った事がありますか;このりょかんにいったことがありますか;kono ryokan ni ittakoto ga arimasu ka;Have you ever been to this ryokan?;Êtes-vous déjà allé dans cette auberge ?;True
+3;71;後でやります;あとでやります;ato de yarimasu;I'll do it later;Je le ferai plus tard;True
+3;71;また後で来ましょう;またあとできましょう;mata ato de kimashou;Let's come again later;Revenons plus tard;True
+3;71;映画を見た後で家へ帰ります;えいがをみたあとでいえへかえります;eiga wo mita ato de ie he kaerimasu;After watching the movie, I'll go home;Après avoir vu le film, je rentrerai chez moi;True
+3;71;韓国に行きたかった;かんこくにいきたかった;kankoku ni ikitakatta;I wanted to go to Korea;Je voulais aller en Corée;True
+3;71;週末はテレビを見たり買い物に行ったりします;しゅうまつはテレビをみたりかいものにいったりします;shuumatsu ha telebi wo mitari kaimono ni iittarishimasu;On weekends, I watch TV and go shopping;Le week-end, je regarde la télé et je fais du shopping;True
+3;71;チケットを買いたかったです;チケットをかいたかったです;chiketto wo kaitakatta desu;I wanted to buy a ticket;Je voulais acheter un billet;True
+3;71;夏はだんだん暑くなります;なつはだんだんあつくなります;natsu ha dandan atsuku narimasu;In summer, it gradually gets hotter;En été, il fait de plus en plus chaud;True
+3;71;強くなりたい;つよくなりたい;tsuyoku naritai;I want to become stronger;Je veux devenir plus fort;True
+3;71;コンビニは便利で安い;コンビニはべんりでやすい;konbini ha benri de yasui;Convenience stores are convenient and cheap;Les konbinis sont pratiques et bon marché;True
+3;71;彼女の家は大きくて高い;かのじょのいえはおおきくてたかい;kanojo no ie ha ookikute takai;Her house is big and expensive;Sa maison est grande et chère;True
+3;71;私は寝るのが好きで、走るのが大好きです;わたしはねるのがすきで、はしるのがだいすきです;watashi ha nero suki de, hashiru no ga daisukidesu;I like sleeping, and I love running;J'aime dormir et j'adore courir;True
+3;71;一周;いっしゅう;isshuu;Go around;Tour complet;True
+3;71;夏休みに海外旅行に出かけるつもりです;なつやすみにかいがいりょこうにでかけるつもりです;natsu yasumi ni kaigai ryokou ni dekakeru tsumori desu;I plan to go on an overseas trip during summer vacation;Je prévois de partir en voyage à l'étranger pendant les vacances d'été;True
+3;71;僕は日本を一周したいです;ぼくはにほんをいっしゅうしたいです;boku ha nihon wo isshuu shitai desu;I want to travel around Japan;Je veux faire le tour du Japon;True
+3;71;この辺に映画館はありますか;このへんにえいがかんはありますか;kono hen ni eigakan ha arimasu ka;Is there a movie theater around here?;Y a-t-il un cinéma dans le coin ?;True
+3;71;辺;へん;hen;Vicinity;Environs;True
+3;71;辺り;あたり;atari;Vicinity;Environs;True
+3;71;事;こと;koto;Thing (abstract);Chose (abstraite);True
