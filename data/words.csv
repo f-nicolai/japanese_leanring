@@ -1436,3 +1436,47 @@
 3;72;休んだ方がいいです;やすんだほうがいいです;yasunda hou ga ii desu;You should take a rest;Tu devrais te reposer;TRUE
 3;72;まだ食べていない;まだたべていない;mada tabeteinai;I haven't eaten yet;Je n’ai pas encore mangé;TRUE
 3;72;それは多すぎます;それはおおすぎます;sore wa oo sugimasu;That’s too much;C'est trop;TRUE
+3;73;貼る;はる;haru;To stick/To paste;Coller;TRUE
+3;73;郵便局;ゆうびんきょく;yuubinkyouku;Post office;Bureau de poste;TRUE
+3;73;郵便;ゆうびん;yuubin;Mail;Courrier;TRUE
+3;73;誕生日;たんじょうび;tanjoubi;Birthday;Anniversaire;TRUE
+3;73;切手;きって;kitte;Stamp;Timbre;TRUE
+3;73;送る;おくる;okuru;To send;Envoyer;TRUE
+3;73;千円かかる;せんえんかかる;senen kakaru;Costs 1000 yen;Coûte 1000 yens;TRUE
+3;73;切手を書いたいんですが;きってをかいたいんですが;kitte wo kaitain desu ga;I would like to buy a stamp;Je voudrais acheter un timbre;TRUE
+3;73;東京駅にいたいんですが;とうきょうえきにいたいんですが;toukyou eki ni itain desu ga;I would like to go to Tokyo Station;Je voudrais aller à la gare de Tokyo;TRUE
+3;73;手紙を送りたいのですが;てがみをおくりたいのですが;tegami wo okuritainodesuga;I would like to send a letter;Je voudrais envoyer une lettre;TRUE
+3;73;葉書;はがき;hagaki;Postcard;Carte postale;TRUE
+3;73;封筒;ふうとう;fuutou;Envelope;Enveloppe;TRUE
+3;73;包み;つつみ;tsutsumi;Package;Paquet;TRUE
+3;73;小包;こづつみ;kodutsumi;Parcel;Colis;TRUE
+3;73;中身;なかみ;nakami;Contents;Contenu;TRUE
+3;73;独身;どくしん;dokushin;Single (not married);Célibataire;TRUE
+3;73;鞄の中身は何ですか;かばんのなかみはなんですか;kaban no nakami wa nan desu ka;What is inside the bag?;Que contient le sac ?;TRUE
+3;73;包みの中身を見せてください;つつみのなかみをみせてください;tsutsumi no nakami wo misete kudasai;Please show me the contents of the package.;Montrez-moi le contenu du paquet, s'il vous plaît;TRUE
+3;73;ポスト;ポスト;posuto;Mailbox;Boîte aux lettres;TRUE
+3;73;住所;じゅうしょ;juusho;Address;Adresse;TRUE
+3;73;通知する;つうちする;tsuuchi suru;To notify;Notifier;TRUE
+3;73;届ける;とどける;todokeru;To deliver;Livrer;TRUE
+3;73;この花を母に届ける;このはなをははにとどける;kono hana wo haha ni todokeru;I will deliver these flowers to my mother.;Je vais livrer ces fleurs à ma mère;TRUE
+3;73;航空便;こうくうびん;koukuubin;Airmail;Courrier aérien;TRUE
+3;73;船便;ふなびん;funabin;Surface mail (by ship);Courrier maritime;TRUE
+3;73;船;ふね;fune;Boat;Bateau;TRUE
+3;73;変更;へんこう;henkou;Change;Changement;TRUE
+3;73;先月住所を変更した;せんげつじゅうしょをへんこうした;sengestu juusho wo henkou shita;I changed my address last month;J'ai changé d'adresse le mois dernier;TRUE
+3;73;二人の子供を大学まで出すのは大変だった;ふたりのこどもをだいがくまでだすのはたいへんだった;futari no kodomo wo daigaku made dasu no wa taihen datta;It was difficult to send both children to university;Envoyer les deux enfants à l'université était difficile;TRUE
+3;73;出す;だす;dasu;To send/To put out;Envoyer/Sortir;TRUE
+3;73;彼の住所が分かりますか;かれのじゅうしょがわかりますか;kareno juusho ga wakarimasu ka;Do you know his address?;Connaissez-vous son adresse ?;TRUE
+3;73;配達;はいたつ;haitatsu;Delivery;Livraison;TRUE
+3;73;お宅;おたく;otaku;Your house (polite);Votre domicile;TRUE
+3;73;お宅に配達物です;おたくにはいたつものです;otaku ni haitatsu mono desu;This is a delivery for your house;C'est une livraison pour votre domicile;TRUE
+3;73;両親からの手紙が届いた;りょうしんからのてがみがとどいた;ryoushin kara no tegami ga todoita;A letter from my parents has arrived;Une lettre de mes parents est arrivée;TRUE
+3;73;書留;かきとめ;kakitome;Registered mail;Courrier recommandé;TRUE
+3;73;書き留め;かきとめ;kakitome;To write down;Écrire;TRUE
+3;73;彼女は新聞配達をしています;かのじょはしんぶんはいたつをしています;kanojo ha shinbun haitatsu wo shiteimasu;She delivers newspapers;Elle distribue des journaux;TRUE
+3;73;荷物が届くには三日かかる;にもつがとどくにはみっかかかる;nimotsu ga todoku ni wa mikka kakaru;It takes three days for the package to arrive;Le colis met trois jours à arriver;TRUE
+3;73;一番上の棚に手が届きますか;いちばんうえのたなにてがとどきますか;ichiban ue no tana ni te ga todokimasu ka;Can you reach the top shelf?;Pouvez-vous atteindre l'étagère du haut ?;TRUE
+3;73;郵便局はもう閉まっています;ゆうびんきょくはもうしまっています;yuubinkyoku ha mou shimatteimasu;The post office is already closed;Le bureau de poste est déjà fermé;TRUE
+3;73;このドアは鍵がかかっている;このドアはかぎがかかっている;kono doa ha kagi ga kakatteiru;This door is locked;Cette porte est verrouillée;TRUE
+3;73;今日は郵便が来るのが遅い;きょうはゆうびんがくるのがおそい;kyou ha yuubin ga kuru no ga osoi;The mail is late today;Le courrier arrive tard aujourd’hui;TRUE
+3;73;今朝は郵便が少なかった;けさはゆうびんがすくなかった;kesa ha yuubin ga sukunakatta;There was little mail this morning;Il y avait peu de courrier ce matin;TRUE
