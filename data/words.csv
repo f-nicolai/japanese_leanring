@@ -1480,3 +1480,19 @@
 3;73;このドアは鍵がかかっている;このドアはかぎがかかっている;kono doa ha kagi ga kakatteiru;This door is locked;Cette porte est verrouillée;TRUE
 3;73;今日は郵便が来るのが遅い;きょうはゆうびんがくるのがおそい;kyou ha yuubin ga kuru no ga osoi;The mail is late today;Le courrier arrive tard aujourd’hui;TRUE
 3;73;今朝は郵便が少なかった;けさはゆうびんがすくなかった;kesa ha yuubin ga sukunakatta;There was little mail this morning;Il y avait peu de courrier ce matin;TRUE
+3;74;初心者;ししんしゃ;shishinsha;Beginner;Débutant;TRUE
+3;74;オタク;オタク;otaku;Geek / Nerd;Otaku / Geek;TRUE
+3;74;伝説;でんせつ;densetsu;Legend;Légende;TRUE
+3;74;倒します;たおします;taosu;To defeat;Vaincre;TRUE
+3;74;得意;とくい;tokui;Good at;Fort en;TRUE
+3;74;勝ちます;かちます;katsu;To win;Gagner;TRUE
+3;74;負けます;まけます;makeru;To lose;Perdre;TRUE
+3;74;試合;しあい;shiai;Match;Match;TRUE
+3;74;僕は英語が得意ではない;ぼくはえいごがとくいではない;boku ha eigo ga tokui de wa nai;I'm not good at English;Je ne suis pas bon en anglais;TRUE
+3;74;このボスのレベルは高すぎる;このボスのレベルはたかすぎる;kono bosu no reberu ha takasugiru;This boss's level is too high;Le niveau de ce boss est trop élevé;TRUE
+3;74;彼の日本語のレベルはまだ低いです;かれのにほんごのレベルはまだひくいです;kare no nihongo no reberu ha mada hikui desu;His Japanese level is still low;Son niveau de japonais est encore faible;TRUE
+3;74;日本のチームは試合に勝ちました;にほんのチームはしあいにかちました;nihon no chiimu ha shiai ni kachimashita;The Japanese team won the match;L'équipe japonaise a gagné le match;TRUE
+3;74;苦手;にがて;nigate;Bad at;Faible en;TRUE
+3;74;最初;さいしょ;saisho;First / At first;Au début;TRUE
+3;74;ゲームを最初から見ていた;げーむをさいしょからみていた;geemu wo saisho kara miteita;I was watching the game from the beginning;Je regardais le jeu depuis le début;TRUE
+3;74;田中先生は最初に来ました;たなかせんせいはさいしょにきました;tanaka sensei ha saisho ni kimashita;Mr. Tanaka came first;Le professeur Tanaka est arrivé en premier;TRUE
