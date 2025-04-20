@@ -1538,3 +1538,33 @@
 3;75;お腹が減った;おなかがへった;onakagahetta;I'm hungry;J'ai faim;TRUE
 3;75;コンサートの集まりは悪かったです;こんさーとのあつまりはわるかったです;konsaato no atsumari ha warukattadesu;The concert had poor attendance;Le concert était peu fréquenté;TRUE
 3;75;こんな場所に行ったことがない;こんなばしょにいったことがない;konna bashou ni itta koto ga nai;I’ve never been to a place like this;Je ne suis jamais allé à un endroit comme celui-ci;TRUE
+3;76;選手;せんしゅ;senshu;Athlete;Athlète;TRUE
+3;76;水泳;すいえい;suiei;Swimming;Natation;TRUE
+3;76;陸上;りくじょう;rikujou;Track and field;Athlétisme;TRUE
+3;76;オリンピック;オリンピック;orinpikku;Olympics;Jeux olympiques;TRUE
+3;76;オリンピックに出ます;オリンピックにでます;orinpikku ni demasu;To participate in the Olympics;Participer aux Jeux olympiques;TRUE
+3;76;体操;たいそう;taisou;Gymnastics;Gymnastique;TRUE
+3;76;体操をやっています;たいそうをやっています;taisou wo yatteimasu;Doing gymnastics;Faire de la gymnastique;TRUE
+3;76;体操を見るのが好きです;たいそうをみるのがすきです;taisou wo miru no ga suki desu;I like watching gymnastics;J’aime regarder la gymnastique;TRUE
+3;76;泳ぐ前に体操をしてください;およぐまえにたいそうをしてください;oyogu mae ni taisou wo shite kudasai;Please warm up before swimming;Faites de la gymnastique avant de nager;TRUE
+3;76;オリンピックを楽しみにしています;オリンピックをたのしみにしています;orinpikku wo tanoshimi ni shiteiruno;Looking forward to the Olympics;J’ai hâte aux Jeux olympiques;TRUE
+3;76;柔道;じゅうどう;juudou;Judo;Judo;TRUE
+3;76;柔道を練習しています;じゅうどうをれんしゅうしています;juudou wo renshuu shiteimasu;Practicing judo;Je m'entraîne au judo;TRUE
+3;76;種目;しゅもく;shumoku;Event/Discipline;Discipline;TRUE
+3;76;この選手は三種目に出ます;このせんしゅはさんしゅもくにでます;kono senshu ha san shumoku ni demasu;This athlete participates in three events;Cet athlète participe à trois disciplines;TRUE
+3;76;会場;かいじょう;kaijou;Venue;Lieu (événement);TRUE
+3;76;卓球;たっきゅう;takkyuu;Table tennis;Tennis de table;TRUE
+3;76;動かないでください;うごかないでください;ugokanaide kudasai;Please don't move;Ne bougez pas;TRUE
+3;76;上手い;うまい;umai;Skilled;Doué;TRUE
+3;76;空手;からて;karate;karate;Karaté;TRUE
+3;76;選手は空手の試合で負けた;せんしゅはからてのしあいでまけた;senshu ha karate no shiai de maketa;The athlete lost the karate match;L’athlète a perdu le match de karaté;TRUE
+3;76;彼は背が低いですが、バスケットボールが上手いです;かれはせがひくいですが、ばすけっとぼーるがうまいです;kare ha se ga hikui desu ga, baskettobooru ga umai desu;He's short, but good at basketball;Il est petit, mais bon au basket;TRUE
+3;76;この電車は電気で動きます;このでんしゃはでんきでうごきます;kono densha ha denki de ugokimasu;This train runs on electricity;Ce train fonctionne à l’électricité;TRUE
+3;76;金;きん;kin;Gold;Or;TRUE
+3;76;金属;きんぞく;kinzoku;Metal;Métal;TRUE
+3;76;金は銀より重い;きんはぎんよりおもい;kin ha gin yori omoi;Gold is heavier than silver;L’or est plus lourd que l’argent;TRUE
+3;76;この机は木でできている;このつくえはきでできている;kono tsukue ha ki de dekiteiru;This desk is made of wood;Ce bureau est en bois;TRUE
+3;76;銅;どう;dou;Copper;Cuivre;TRUE
+3;76;銅メダルを見せてください;どうめだるをみせてください;dou medaru wo misete kudasai;Please show me the bronze medal;Montrez-moi la médaille de bronze;TRUE
+3;76;彼は銅メダルを取りました;かれはどうめだるをとりました;kare ha dou medaru wo torimashita;He got a bronze medal;Il a obtenu une médaille de bronze;TRUE
+3;76;彼は金でメダルを作りました;かれはきんでめだるをつくりました;kare ha kin de medaru wo tsukurimashita;He made a medal out of gold;Il a fabriqué une médaille en or;TRUE
