@@ -1568,3 +1568,38 @@
 3;76;銅メダルを見せてください;どうめだるをみせてください;dou medaru wo misete kudasai;Please show me the bronze medal;Montrez-moi la médaille de bronze;TRUE
 3;76;彼は銅メダルを取りました;かれはどうめだるをとりました;kare ha dou medaru wo torimashita;He got a bronze medal;Il a obtenu une médaille de bronze;TRUE
 3;76;彼は金でメダルを作りました;かれはきんでめだるをつくりました;kare ha kin de medaru wo tsukurimashita;He made a medal out of gold;Il a fabriqué une médaille en or;TRUE
+3;77;早くに何か動いている物がある;はやくになにかうごいているものがある;hayaku ni nanika ugoiteiru mono ga aru;Something is moving quickly;Quelque chose bouge rapidement;TRUE
+3;77;何か;なにか;nanika;Something;Quelque chose;TRUE
+3;77;何も;なにも;nanimo;Nothing;Rien;TRUE
+3;77;行けます;いけます;ikemasu;Can go;Pouvoir aller;TRUE
+3;77;音;おと;oto;Sound;Son;TRUE
+3;77;音が大きい;おとがおおきい;oto ga ookii;The sound is loud;Le son est fort;TRUE
+3;77;動けますか;うごけますか;ugokemasu ka;Can (you) move?;Pouvez-vous bouger ?;TRUE
+3;77;会えます;あえます;aemasu;Can meet;Pouvoir rencontrer;TRUE
+3;77;金曜日に会えますか;きんようびにあえますか;kinyoubi ni aemasu ka;Can (we) meet on Friday?;Peut-on se voir vendredi ?;TRUE
+3;77;ここから何も見えない;ここからなにもみえない;koko kara nanimo mienai;Can't see anything from here;On ne voit rien d'ici;TRUE
+3;77;彼は怖くて動けなかった;かれはこわくてうごけなかった;kare wa kowakute ugokenakatta;He was too scared to move;Il était trop effrayé pour bouger;TRUE
+3;77;鳥の声が聞こえませんでした;とりのこえがきこえませんでした;tori no koe ga kikoemasen deshita;Couldn't hear the birds;Je n'entendais pas les oiseaux;TRUE
+3;77;切符はどこで買えますか;きっぷはどこでかえますか;kippu wa doko de kaemasu ka;Where can I buy a ticket?;Où puis-je acheter un billet ?;TRUE
+3;77;彼は若く見えますね;かれはわかくみえますね;kare wa wakaku miesmasu ne;He looks young, doesn't he?;Il a l'air jeune, non ?;TRUE
+3;77;飛行機の音が聞こえた;ひこうきのおとがきこえた;hikouki no oto ga kikoeta;I heard the airplane;J'ai entendu l'avion;TRUE
+3;77;カードで払います;かーどではらいます;kaado de haraimasu;I will pay by card;Je vais payer par carte;TRUE
+3;77;肉が食べられません;にくがたべられません;niku ga taberaremasen;Can't eat meat;Je ne peux pas manger de viande;TRUE
+3;77;彼女の鳥は飛べない;かのじょのとりはとべない;kanojo no tori wa tobenai;Her bird can't fly;Son oiseau ne peut pas voler;TRUE
+3;77;ダニエルはお箸が使えない;だにえるはおはしがつかえない;danieru wa o hashi ga tsukaenai;Daniel can't use chopsticks;Daniel ne peut pas utiliser les baguettes;TRUE
+3;77;この飛行機はカナダへ飛べる;このひこうきはかなだへとべる;kono hikouki wa kanada e toberu;This airplane can fly to Canada;Cet avion peut aller au Canada;TRUE
+3;77;信じる;しんじる;shinjiru;To believe;Croire;TRUE
+3;77;信じられない;しんじられない;shinjirarenai;Can't believe;Je n'arrive pas à croire;TRUE
+3;77;何を使えますか;なにをつかえますか;nani wo tsukaremasu ka;What can (you) use?;Que pouvez-vous utiliser ?;TRUE
+3;77;彼女が言ったことを覚えていますか;かのじょがいったことをおぼえていますか;kanojo ga itta koto wo oboeteimasu ka;Do you remember what she said?;Vous souvenez-vous de ce qu'elle a dit ?;TRUE
+3;77;話を信じられませんでした;はなしをしんじられませんでした;hanashi wo shinjiraremasendeshita;Couldn't believe the story;Je n'ai pas pu croire l'histoire;TRUE
+3;77;彼女の言うことは分かれません;かのじょのいうことはわかれません;kanojo no iu koto wa wakaremasen;I can't understand what she says;Je ne comprends pas ce qu'elle dit;TRUE
+3;77;彼の言うことは信じられない;かれのいうことはしんじられない;kare no iu koto wa shinjirarenai;Can't believe what he says;Je ne peux pas croire ce qu'il dit;TRUE
+3;77;誰にも;だれにも;darenimo;To no one;À personne;TRUE
+3;77;誰にも言わないで;だれにもいわないで;darenimo iwanaide;Don't tell anyone;Ne le dis à personne;TRUE
+3;77;直す;なおす;naosu;To fix;Réparer;TRUE
+3;77;飴;あめ;ame;Candy;Bonbon;TRUE
+3;77;踊る;おどる;odoru;To dance;Danser;TRUE
+3;77;これを直すことができますか;これをなおすことができますか;kore wo naosu koto ga dekimasu ka;Can (you) fix this?;Peux-tu réparer ça ?;TRUE
+3;77;テレビを直すことができません;てれびをなおすことができません;terebi wo naosu koto ga dekimasen;Can't fix the TV;Je ne peux pas réparer la télévision;TRUE
+3;77;どんな音が聞こえましたか;どんなおとがきこえましたか;donna oto ga kikoemashitaka;What kind of sound did (you) hear?;Quel genre de son as-tu entendu ?;TRUE
