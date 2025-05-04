@@ -1603,3 +1603,62 @@
 3;77;これを直すことができますか;これをなおすことができますか;kore wo naosu koto ga dekimasu ka;Can (you) fix this?;Peux-tu réparer ça ?;TRUE
 3;77;テレビを直すことができません;てれびをなおすことができません;terebi wo naosu koto ga dekimasen;Can't fix the TV;Je ne peux pas réparer la télévision;TRUE
 3;77;どんな音が聞こえましたか;どんなおとがきこえましたか;donna oto ga kikoemashitaka;What kind of sound did (you) hear?;Quel genre de son as-tu entendu ?;TRUE
+3;78;君;きみ;kimi;You (informal);Toi;TRUE
+3;78;珍しい;めずらしい;mezurashii;Rare;Rare;TRUE
+3;78;プレゼント;プレゼント;purezento;Present;Cadeau;TRUE
+3;78;君は一つじゃない;きみはひとつじゃない;kimi wa hitotsu janai;You are not alone;Tu n'es pas seul;TRUE
+3;78;ここが君たちの新しい家だ;ここがきみたちのあたらしいいえだ;koko ga kimitachi no atarashii ie da;This is your new home;Voici votre nouvelle maison;TRUE
+3;78;為;ため;tame;For (the sake of);Pour;TRUE
+3;78;これはみんなのための映画です;これはみんなのためのえいがです;kore wa minna no tame no eiga desu;This is a movie for everyone;Ceci est un film pour tout le monde;TRUE
+3;78;君の気持ちを知りたい;きみのきもちをしりたい;kimi no kimochi wo shiritai;I want to know your feelings;Je veux connaître tes sentiments;TRUE
+3;78;兄に珍しい本を買ってあげました;あににめずらしいほんをかってあげました;ani ni mezurashii hon wo katte agemashita;I bought a rare book for my older brother;J'ai acheté un livre rare pour mon grand frère;TRUE
+3;78;妻のために犬の散歩をしてあげました;つまのためにいぬのさんぽをしてあげました;tsuma no tame ni inu no sanpou wo shite agemashita;I walked the dog for my wife;J'ai promené le chien pour ma femme;TRUE
+3;78;外国人のためのいい辞書がありません;がいこくじんのためのいいじしょがありません;gaikokujin no tame no ii jishou ga arimasen;There isn't a good dictionary for foreigners;Il n’y a pas de bon dictionnaire pour les étrangers;TRUE
+3;78;もう少し取ってあげましょう;もうすこしとってあげましょう;mou sukoshi totte agemashou;Let me get a little more for you;Je vais t'en prendre un peu plus;TRUE
+3;78;探す;さがす;sagasu;To search;Chercher;TRUE
+3;78;駅を探しているんですが;えきをさがしているんですが;eki wo sagashiteirun desu ga;I'm looking for the station;Je cherche la gare;TRUE
+3;78;これは探していたものです;これはさがしていたものです;kore wa sagashiteita mono desu;This was the thing I was looking for;C’était la chose que je cherchais;TRUE
+3;78;子供に本を読んでやった;こどもにほんをよんでやった;kodomo ni hon wo yondeyatta;I read a book to my child;J’ai lu un livre à mon enfant;TRUE
+3;78;息子に自転車を買ってやった;むすこにじてんしゃをかってやった;musuko ni jitensha wo katte yatta;I bought a bicycle for my son;J’ai acheté un vélo pour mon fils;TRUE
+3;78;牛乳を買ってくれてありがとう;ぎゅうにゅうをかってくれてありがとう;gyuunyuu wo katte kurete arigatou;Thank you for buying me milk;Merci de m’avoir acheté du lait;TRUE
+3;78;手伝ってくれる;てつだってくれる;tetsudatte kureru;Will you help me?;Tu peux m’aider ?;TRUE
+3;78;娘は私の車を洗ってくれた;むすめはわたしのくるまをあらってくれた;musume ha watashi no kuruma wo aratte kureta;My daughter washed my car for me;Ma fille a lavé ma voiture;TRUE
+3;78;すごい;すごい;sugoi;Amazing;Incroyable;FALSE
+3;78;必要;ひつよう;hitsuyou;Necessary;Nécessaire;TRUE
+3;78;この本は授業に必要です;このほんはじゅぎょうにひつようです;kono hon ha jugyou ni hitsuyou desu;This book is necessary for class;Ce livre est nécessaire pour le cours;TRUE
+3;78;これはまだ必要なの;これはまだひつようなの;kore wa mada hitsuyou na no;Do you still need this?;Est-ce que t'as encore besoin de ça ?;TRUE
+3;78;けど;けど;kedo;But;Mais;TRUE
+3;78;水が欲しいんだけど;みずがほしいんだけど;mizu ga hoshiin da kedo;I would like some water;Je voudrais de l'eau;TRUE
+3;78;コーヒーが欲しいんだけど;コーヒーがほしいんだけど;ko-hi- ga hoshiin da kedo;I would like some coffee;Je voudrais du café;TRUE
+3;78;この車は古いんだけど結構よく走ります;このくるまはふるいんだけどけっこうよくはしります;kono kuruma ha furui n da kedo kekkou yoku hashirimasu;This car is old but runs well;Cette voiture est vieille, mais elle roule bien;TRUE
+3;78;発音;はつおん;hatsuon;Pronunciation;Prononciation;TRUE
+3;78;この言葉の発音は難しい;このことばのはつおんはむずかしい;kono kotoba no hatsuon ha muzukashii;The pronunciation of this word is difficult;La prononciation de ce mot est difficile;TRUE
+3;78;起こす;おこす;okosu;To wake (someone) up;Réveiller;TRUE
+3;78;もらい;もらい;morai;Receiving;Recevoir;TRUE
+3;78;あなたに日本語を教えてもらいたい;あなたににほんごをおしえてもらいたい;anata ni nihongo wo oshiete moraitai;I want you to teach me Japanese;Je veux que tu m’enseignes le japonais;TRUE
+3;78;母に毎朝起こしてもらいます;ははにまいあさおこしてもらいます;haha ni maiasa okoshite moraimasu;My mother wakes me up every morning;Ma mère me réveille chaque matin;TRUE
+3;78;昨日髪を切ってもらった;きのうかみをきってもらった;kinou kami wo kitte moratta;I got my hair cut yesterday;Je me suis fait couper les cheveux hier;TRUE
+3;78;そんなことない;そんなことない;sonna koto nai;That’s not true;Ce n’est pas vrai;TRUE
+3;78;返すのは明日でもいいです;かえすのはあしたでもいいです;kaesu no ha ashita demo ii desu;It's okay to return it tomorrow;Tu peux le rendre demain;TRUE
+3;78;病院に行かなくてもいいです;びょういんにいかなくてもいいです;byouin ni ikanakute mo ii desu;You don't have to go to the hospital;Pas besoin d'aller à l'hôpital;TRUE
+3;78;図書館に行かなくてもいいですか;としょかんにいかなくてもいいですか;toshokan ni ikanakute mo ii desu ka;Is it okay if I don’t go to the library?;Est-ce que je peux ne pas aller à la bibliothèque ?;TRUE
+3;78;あんなコートを買わなくてもいいです;あんなこーとをかわなくてもいいです;anna kooto wo kawanakute mo ii desu;You don't have to buy a coat like that;Pas besoin d’acheter ce genre de manteau;TRUE
+3;78;あんな袋はいりません;あんなふくろはいりません;anna fukuro ha irimasen;I don’t need that kind of bag;Je n’ai pas besoin de ce genre de sac;TRUE
+3;78;なぜそんなに悲しいの;なぜそんなにかなしいの;naze sonna ni kanashii no;Why are you so sad?;Pourquoi es-tu si triste ?;TRUE
+3;78;もう少しは優しくして;もうすこしはやさしくして;mou sukoshi ha yasashikushite;Be a little kinder;Sois un peu plus gentil;TRUE
+3;78;配達してもらえませんか;はいたつしてもらえませんか;haitatsu shite moraemasen ka;Could you deliver it (to me)?;Est-ce que je peux me le faire livrer ?;TRUE
+3;78;それを見せてもらえませんか;それをみせてもらえませんか;sore wo misete moraemasenka;Can you show me that?;Tu peux me montrer ça ?;TRUE
+3;78;どこか;どこか;dokoka;Somewhere;Quelque part;FALSE
+3;78;ホテルはどこか知っていますか;ほてるはどこかしっていますか;hotelu wa dokoka shitteimasuka;Do you know where the hotel is?;Tu sais où est l’hôtel ?;TRUE
+3;78;それで;それで;sorede;Then (so);Alors;FALSE
+3;78;そして;そして;soshite;And then;Et ensuite;FALSE
+3;78;だから;だから;dakara;Therefore;Donc;FALSE
+3;78;それとも;それとも;soretomo;Or (in questions);Ou bien;FALSE
+3;78;それで医者は何を言いましたか;それでいしゃはなにをいいましたか;sorede isha wa nani wo iimashita ka;So what did the doctor say?;Alors, qu’a dit le médecin ?;TRUE
+3;78;だからパーティーに行きませんでしたか;だからぱーてぃーにいきませんでしたか;dakara paatii ni ikimasendeshita ka;Is that why you didn’t go to the party?;C’est pour ça que tu n’es pas allé à la fête ?;TRUE
+3;78;それは君のビールですか、それとも弟のビールですか;それはきみのびーるですか、それともおとうとのびーるですか;sore ha kimi no biiru desu ka, soretomo otouto no biiru desu ka;Is that your beer or my younger brother’s?;C’est ta bière ou celle de ton frère ?;TRUE
+3;78;彼女は優しい人だと思いました;かのじょはやさしいひとだとおもいました;kanojo ha yasashii hito da to omoimashita;I thought she was a kind person;Je pensais qu’elle était gentille;TRUE
+3;78;あの人は誰か知っていますか;あのひとはだれかしっていますか;ano hito ha dareka shitteimasu ka;Do you know who that person is?;Tu sais qui est cette personne ?;TRUE
+3;78;お金を少し借りてもいいですか;おかねをすこしかりてもいいですか;okane wo sukoshi karite mo ii desu ka;Can I borrow some money?;Je peux emprunter un peu d’argent ?;TRUE
+3;78;すごい嬉しい;すごいうれしい;sugoi ureshii;Very happy;Très content;TRUE
+3;78;新しい靴は黒がいい、それとも茶色;あたらしいくつはくろがいい、それともちやいろ;atarashii kutsu ha kuro ga ii, soretomo chairo;Do you prefer the new shoes in black or brown?;Tu préfères les chaussures neuves en noir ou en marron ?;TRUE
