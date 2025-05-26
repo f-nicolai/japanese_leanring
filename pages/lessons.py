@@ -21,6 +21,15 @@ def render_page(resource:str):
         st.markdown(read_markdown_file(Path(__file__).parent.parent/'lessons/connecter des verbes.md'),unsafe_allow_html=True)
     elif resource == 'concat_adj':
         st.markdown(read_markdown_file(Path(__file__).parent.parent/'lessons/connecter des adjectifs.md'),unsafe_allow_html=True)
+    elif resource == 'nano_noda':
+        st.markdown(read_markdown_file(Path(__file__).parent.parent/'lessons/nano_noda.md'),unsafe_allow_html=True)
+    elif resource == 'cond_capacity':
+        st.markdown(read_markdown_file(Path(__file__).parent.parent/'lessons/conditionnel_capacite.md'),unsafe_allow_html=True)
+    elif resource == 'from_to':
+        st.markdown(read_markdown_file(Path(__file__).parent.parent/'lessons/action_from_to_someone.md'),unsafe_allow_html=True)
+    elif resource == 'cheat_sheet':
+        st.markdown(read_markdown_file(Path(__file__).parent.parent/'lessons/cheat_sheet.md'),unsafe_allow_html=True)
+
 
     st.write('\n')
     if st.button("Back to Main Menu",key='lessons_back_2'):

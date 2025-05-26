@@ -55,19 +55,39 @@ def render_main_page():
             st.session_state['page'] = 'concat_adj'
             st.rerun()
 
+    col10, col11, col12 = st.columns(3)
+    with col10:
+        if st.button("Forme のだ et なの", use_container_width=True):
+            st.session_state['page'] = 'nano_noda'
+            st.rerun()
+    with col11:
+        if st.button("Mettre au conditionnel", use_container_width=True):
+            st.session_state['page'] = 'cond_capacity'
+            st.rerun()
+    with col12:
+        if st.button("Action faite pour quelqu’un", use_container_width=True):
+            st.session_state['page'] = 'from_to'
+            st.rerun()
+
+    col13, col14, col15 = st.columns(3)
+    with col13:
+        if st.button("Cheat sheet", use_container_width=True):
+            st.session_state['page'] = 'cheat_sheet'
+            st.rerun()
+
     st.write('\n')
     st.header('Resources:')
-    col10, col11, col12 = st.columns(3)
+    col16, col17, col18 = st.columns(3)
 
-    with col10:
+    with col16:
         if st.button('Words list',use_container_width=True):
             st.session_state['page'] = 'show_words'
             st.rerun()
-    with col11:
+    with col17:
         if st.button('Verbs',use_container_width=True):
             st.session_state['page'] = 'show_verbs'
             st.rerun()
-    with col12:
+    with col18:
         if st.button('All counters',use_container_width=True):
             st.session_state['page'] = 'show_counters'
             st.rerun()
