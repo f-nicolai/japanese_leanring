@@ -1662,3 +1662,43 @@
 3;78;お金を少し借りてもいいですか;おかねをすこしかりてもいいですか;okane wo sukoshi karite mo ii desu ka;Can I borrow some money?;Je peux emprunter un peu d’argent ?;TRUE
 3;78;すごい嬉しい;すごいうれしい;sugoi ureshii;Very happy;Très content;TRUE
 3;78;新しい靴は黒がいい、それとも茶色;あたらしいくつはくろがいい、それともちやいろ;atarashii kutsu ha kuro ga ii, soretomo chairo;Do you prefer the new shoes in black or brown?;Tu préfères les chaussures neuves en noir ou en marron ?;TRUE
+3;79;池袋に店を開いた;いけぶくろにみせをひらいた;ikebukuronimisewohiraita;I opened a store in Ikebukuro;J'ai ouvert un magasin à Ikebukuro;TRUE
+3;79;暗証番号を押してください;あんしょうばんごうをおしてください;anshoubangouwooshitekudasai;Please press the PIN code;Veuillez entrer le code secret;TRUE
+3;79;口座;こうざ;kouza;Bank account;Compte bancaire;TRUE
+3;79;口座を開きたいんですが;こうざをひらきたいんですが;kozawohirakitaindesuga;I would like to open an account;Je voudrais ouvrir un compte;TRUE
+3;79;教科書を閉じてください;きょうかしょをとじてください;kyoukashowotojitekudasai;Please close the textbook;Veuillez fermer le manuel;TRUE
+3;79;毎月一万円を銀行に預金します;まいつきいちまんえんをぎんこうによきんします;maitsukiichimanenwoginkouniyookinshimasu;I deposit 10,000 yen monthly in the bank;Je dépose 10 000 yens chaque mois à la banque;TRUE
+3;79;彼はお金を引き出しに銀行へ行った;かれはおかねをひきだしにぎんこうへいった;karehaokanewohikidashiniginkouheitta;He went to the bank to withdraw money;Il est allé à la banque retirer de l'argent;TRUE
+3;79;私は読んでいた本を閉じました;わたしはよんでいたほんをとじました;watashihayondeitahonwotojimashita;I closed the book I was reading;J’ai fermé le livre que je lisais;TRUE
+3;79;銀行口座を閉じたいのですが;ぎんこうこうざをとじたいのですが;ginkoukouzawotojitainodesuga;I would like to close my bank account;Je voudrais fermer mon compte bancaire;TRUE
+3;79;彼はドアを押したが開かなかった;かれはどあをおしたがひらかなかった;karehadoawooshitagahirakanakatta;He pushed the door but it didn’t open;Il a poussé la porte mais elle ne s'est pas ouverte;TRUE
+3;79;残高;ざんだか;zandaka;Account balance;Solde;TRUE
+3;79;私は残高を全部引き出した;ざんだかをぜんぶひきだした;zandakawozenbuhikidashita;I withdrew the full balance;J'ai retiré tout le solde;TRUE
+3;79;残高を教えてくれますか;ざんだかをおしえてくれますか;zendakawooshietekuremasuka;Can you tell me the full balance?;Pouvez-vous me donner le solde total ?;TRUE
+3;79;私の預金残高を知りたいのですが;わたしのよきんざんだかをしりたいのですが;watashinoyokinzendakawoshiritainodesuga;I’d like to know my deposit balance;Je voudrais connaître le solde de mon compte;TRUE
+3;79;金持ち;かねもち;kanemochi;Rich person;Riche;TRUE
+3;79;の上に;のうえに;no ue ni;On top of;Sur / au-dessus de;TRUE
+3;79;彼は金持ち、の上に優しい;かれはかねもち、のうえにやさしい;karehakanemochinoueniyasashii;He is rich, and on top of that, kind;Il est riche, et en plus de cela, gentil;TRUE
+3;79;会計士;かいけいし;kaikeishi;Accountant;Comptable;TRUE
+3;79;用紙;ようし;youshi;Form;Formulaire;TRUE
+3;79;記入;きにゅう;kinyuu;Entry/Filling in;Remplir;TRUE
+3;79;用紙に名前と住所を記入した;ようしになまえとじゅうしょをきにゅうした;youshininamaetojuushowokinyuushita;I filled name and address on the form;J'ai rempli le nom et l’adresse sur le formulaire;TRUE
+3;79;支払います;しはらいます;shiharaimasu;To pay;Payer;TRUE
+3;79;署名;しょめい;shomei;Signature;Signature;TRUE
+3;79;暗証;あんしょう;anshou;PIN code;Code secret;TRUE
+3;79;現金;げんきん;genkin;Cash;Argent liquide;TRUE
+3;79;小切手;こぎって;kogitte;Cheque;Chèque;TRUE
+3;79;母は小切手に署名した;はははこぎってにしょめいした;hahahakogittenishomeishita;My mother signed the cheque;Ma mère a signé le chèque;TRUE
+3;79;下に署名してください;したにしょめいしてください;shitanishomeishitekudasai;Please sign below;Veuillez signer en bas;TRUE
+3;79;小切手を現金してください;こぎってをげんきんしてください;kogittewogenkinshitekudasai;Please cash the cheque;Veuillez encaisser le chèque;TRUE
+3;79;小切手で支払ってもいいですか;こぎってでしはらってもいいですか;kogittedeshiharattemoiidesuka;Can I pay by cheque?;Puis-je payer par chèque ?;TRUE
+3;79;両替;りょうがえ;ryougae;Currency exchange;Change de devises;TRUE
+3;79;ドル;ドル;doru;Dollar;Dollar;TRUE
+3;79;領収書;りょうしゅうしょ;ryoushuusho;Receipt;Reçu;TRUE
+3;79;別々に払いましょう;べつべつにはらいましょう;betsubetsuniharaimashou;Let’s pay separately;Payons séparément;TRUE
+3;79;お釣り;おつり;otsuri;Change;Monnaie;TRUE
+3;79;お釣りが違いますよ;おつりがちがいますよ;otsurigachigaimasuyo;The change is incorrect;La monnaie est incorrecte;TRUE
+3;79;レジの人は彼女にお釣りを渡した;れじのひとはかのじょにおつりをわたした;rejinohitohakanojoniotsuriwowatashita;The cashier gave her the change;La caissière lui a donné la monnaie;TRUE
+3;79;銀行でドルを円に両替した;ぎんこうでどるをえんにりょうがえした;ginkoudedoruwoenniryougaeshita;I exchanged dollars for yen at the bank;J'ai échangé des dollars en yens à la banque;TRUE
+3;79;今日は忙しいので行けません;きょうはいそがしいのでいけません;kyouhaisogashiinodeikemasen;I’m busy today so I can’t go;Je suis occupé aujourd’hui donc je ne peux pas y aller;TRUE
+3;79;一緒に来てくれないの;いっしょにきてくれないの;isshounikutekurenaino;Won’t you come with me?;Tu ne viens pas avec moi ?;TRUE
