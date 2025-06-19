@@ -1702,3 +1702,48 @@
 3;79;銀行でドルを円に両替した;ぎんこうでどるをえんにりょうがえした;ginkoudedoruwoenniryougaeshita;I exchanged dollars for yen at the bank;J'ai échangé des dollars en yens à la banque;TRUE
 3;79;今日は忙しいので行けません;きょうはいそがしいのでいけません;kyouhaisogashiinodeikemasen;I’m busy today so I can’t go;Je suis occupé aujourd’hui donc je ne peux pas y aller;TRUE
 3;79;一緒に来てくれないの;いっしょにきてくれないの;isshounikutekurenaino;Won’t you come with me?;Tu ne viens pas avec moi ?;TRUE
+3;80;光る;ひかる;hikaru;To shine;Briller;TRUE
+3;80;太陽;たいよう;taiyou;Sun;Soleil;TRUE
+3;80;月;つき;tsuki;Moon;Lune;TRUE
+3;80;月が光っている;つきがひかっている;tsuki ga hikatteiru;The moon is shining;La lune brille;TRUE
+3;80;あそこの空気は汚なかったです;あそこのくうきはきたなかったです;asoko no kuuki ha kitanakattadesu;The air over there was dirty;L’air là-bas était sale;TRUE
+3;80;浜辺;はまべ;hamabe;Beach;Plage;TRUE
+3;80;湖;みずうみ;mizuumi;Lake;Lac;TRUE
+3;80;島;しま;shima;Island;Île;TRUE
+3;80;島々;しまじま;shimajima;Islands;Îles;TRUE
+3;80;葉;は;ha;Leaf;Feuille;TRUE
+3;80;あの国には多くの浜辺がある;あのくににはおおくのはまべがある;ano kuni ni ha ooku no hamabe ga aru;That country has many beaches;Ce pays a de nombreuses plages;TRUE
+3;80;濡れる;ぬれる;nureru;To get wet;Être mouillé;TRUE
+3;80;森;もり;mori;Forest;Forêt;TRUE
+3;80;草;くさ;kusa;Grass;Herbe;TRUE
+3;80;雨で濡れていた;あめでぬれていた;ame de nureteita;I was wet from the rain;J’ai été mouillé par la pluie;TRUE
+3;80;木は雨で濡れている;きはあめでぬれている;ki ha ame de nureteiru;The tree is wet from the rain;L’arbre est mouillé par la pluie;TRUE
+3;80;乾く;かわく;kawaku;To dry;Sécher;TRUE
+3;80;深い;ふかい;fukai;Deep;Profond;TRUE
+3;80;浅い;あさい;asai;Shallow;Peu profond;TRUE
+3;80;口は乾いている;くちはかわいている;kuchi ha kawaiteiru;My mouth is dry;Ma bouche est sèche;TRUE
+3;80;言葉は生き物です;ことばはいきものです;kotobahaikimonodesu;Language is a living thing;Le langage est un être vivant;TRUE
+3;80;生き物;いきもの;ikimono;Living thing;Être vivant;TRUE
+3;80;水は浅かったですか;みずはあさかったですか;mizu ha asakattadesuka;Was the water shallow?;L’eau était-elle peu profonde ?;TRUE
+3;80;この池は泳ぐには浅すぎます;このいけはおよぐにはあさすぎます;kono ike ha oyogu ni ha asasugimasu;This pond is too shallow to swim in;Cet étang est trop peu profond pour nager;TRUE
+3;80;この言葉には深い意味がある;このことばにはふかいいみがある;kono kotoba ni ha fukai imi ga aru;This word has deep meaning;Ce mot a une signification profonde;TRUE
+3;80;氷;こおり;koori;Ice;Glace;TRUE
+3;80;ここは氷が薄い;ここはこおりがうすい;koko ha koori ga usui;The ice is thin here;La glace est mince ici;TRUE
+3;80;光;ひかり;hikari;Light;Lumière;TRUE
+3;80;明るい光を見た;あかるいひかりをみた;akarui hikari wo mita;I saw a bright light;J’ai vu une lumière brillante;TRUE
+3;80;石;いし;ishi;Stone;Caillou;TRUE
+3;80;火;ひ;hi;Fire;Feu;TRUE
+3;80;まだ食べられます;まだたべられます;mada taberaremasu;I can still eat;Je peux encore  manger;TRUE
+3;80;動物は火が怖い;どうぶつはひがこわい;doubutsu ha hi ga kowai;Animals are afraid of fire;Les animaux ont peur du feu;TRUE
+3;80;大きな波を見ましたか;おおきななみをみましたか;ookina nami wo mimashitaka;Did you see the big wave?;As-tu vu la grande vague ?;TRUE
+3;80;川に石を投げた;かわにいしをなげた;kawa ni ishi wo nageta;Threw a stone into the river;J’ai jeté un caillou dans la rivière;TRUE
+3;80;波;なみ;nami;Wave;Vague;TRUE
+3;80;庭に多くの石がある;にわにおおくのいしがある;niwa ni ooku no ishi ga aru;There are many stones in the garden;Il y a beaucoup de cailloux dans le jardin;TRUE
+3;80;家は石でできている;いえはいしでできている;iie ha ishi de dekiteiru;The house is made of stone;La maison est faite de pierre;TRUE
+3;80;富士山;ふじさん;fujisan;Mount Fuji;Mont Fuji;TRUE
+3;80;釣る;つる;tsuru;To fish;Pêcher;TRUE
+3;80;両親を見つけました;りょうしんをみつけました;ryoushin wo mitsukemashita;I found my parents;J’ai retrouvé mes parents;TRUE
+3;80;大きな魚を釣りました;おおきなさかなをつりました;ookina sakana wo tsurimashita;I caught a big fish;J’ai pêché un gros poisson;TRUE
+3;80;富士山を見たことがない;ふじさんをみたことがない;fujisan wo mitakoto ga nai;I have never seen Mt. Fuji;Je n’ai jamais vu le mont Fuji;TRUE
+3;80;富士山にいつ登りましたか;ふじさんにいつのぼりましたか;fujisan ni itsu noborimashitaka;When did you climb Mt. Fuji?;Quand as-tu grimpé le mont Fuji ?;TRUE
+3;80;どこで見つけたのですか;どこでみつけたのですか;doko de mitsuketa no desu ka;Where did you find it?;Où l’as-tu trouvé ?;TRUE
