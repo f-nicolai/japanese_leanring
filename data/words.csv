@@ -1747,3 +1747,64 @@
 3;80;富士山を見たことがない;ふじさんをみたことがない;fujisan wo mitakoto ga nai;I have never seen Mt. Fuji;Je n’ai jamais vu le mont Fuji;TRUE
 3;80;富士山にいつ登りましたか;ふじさんにいつのぼりましたか;fujisan ni itsu noborimashitaka;When did you climb Mt. Fuji?;Quand as-tu grimpé le mont Fuji ?;TRUE
 3;80;どこで見つけたのですか;どこでみつけたのですか;doko de mitsuketa no desu ka;Where did you find it?;Où l’as-tu trouvé ?;TRUE
+3;81;道具;どうぐ;dougu;Tool;Outil;TRUE
+3;81;小説;しょうせつ;shousetsu;Novel;Roman;TRUE
+3;81;にくい;にくい;nikui;Difficult (to...);Difficile (à...);TRUE
+3;81;あの道具は使いにくいです;あのどうぐはつかいにくいです;anodouguhasukainikuidesu;That tool is hard to use;Cet outil est difficile à utiliser;TRUE
+3;81;すみませんがこの肉は食べにくいです;すみませんがこのにくはたべにくいです;sumimasengakononikihatabenikuidesu;Sorry, this meat is hard to eat;Désolé, cette viande est difficile à manger;TRUE
+3;81;うちの台所は使いやすいです;うちのだいどころはつかいやすいです;uchinodaidokorohatsukaiyasuidesu;Our kitchen is easy to use;Notre cuisine est facile à utiliser;TRUE
+3;81;そのサンドイッチは食べにくかったです;そのサンドイッチはたべにくかったです;sonosandoicchihatabenikukattadesu;That sandwich was hard to eat;Ce sandwich était difficile à manger;TRUE
+3;81;あの小説は書きやすかったですか;あのしょうせつはかきやすかったですか;anoshousetsuhakakiyasukattadesuka;Was that novel easy to write?;Ce roman était-il facile à écrire ?;TRUE
+3;81;サラダは作りやすくなかったです;サラダはつくりやすくなかったです;saradahatsukuriyasukunakattadesu;The salad was not easy to make;La salade n'était pas facile à préparer;TRUE
+3;81;どういう;どういう;douiu;What kind of...;Quel genre de...;TRUE
+3;81;どういうこと;どういうこと;douiukoto;What do you mean?;Qu'est-ce que cela veut dire ?;TRUE
+3;81;ピカピカ;ピカピカ;pikapika;Shiny;Brillant;TRUE
+3;81;車はピカピカにしました;くるまはぴかぴかにしました;kurumahapikapikanishimashita;I made the car shiny;J'ai fait briller la voiture;TRUE
+3;81;彼女の車はいつもピカピカに磨いてある;かのじょのくるまはいつもぴかぴかにみがいてある;kanojonokurumahaitsumipikapikanimigaitearu;Her car is always polished;Sa voiture est toujours bien polie;TRUE
+3;81;十分;じゅうぶん;jubun;Enough;Suffisant;TRUE
+3;81;時間が十分ありませんでした;じかんがじゅうぶんありませんでした;jikangajubunarimasendeshita;There wasn’t enough time;Il n'y avait pas assez de temps;TRUE
+3;81;両方;りょうほう;ryouhou;Both;Les deux;TRUE
+3;81;こういう;こういう;kouiu;Like this;De ce genre;TRUE
+3;81;こういうの;こういうの;kouiuno;Things like this;Des choses comme ça;TRUE
+3;81;自転車を直すのに一万円かかった;じてんしゃをなおすのにいちまんえんかかった;jitenshawonaosunoniichimanenkakatta;It cost 10,000 yen to fix the bike;Cela a coûté 10 000 yens pour réparer le vélo;TRUE
+3;81;この車を買うのに十分なお金を持っていますか;このくるまをかうのにじゅうぶんなおかねをもっていますか;konokurumawokaunonijubunnaokanewomotteimasuka;Do you have enough money to buy this car?;As-tu assez d'argent pour acheter cette voiture ?;TRUE
+3;81;電車に乗るのに十分な時間があります;でんしゃにのるのにじゅうぶんなじかんがあります;denshaninorunonijubunnajikangaarimasu;There’s enough time to take the train;Il y a assez de temps pour prendre le train;TRUE
+3;81;仕方;しかた;shikata;Way/method;Façon/méthode;TRUE
+3;81;仕方がない;しかたがない;shikataganai;It can't be helped;On n'y peut rien;TRUE
+3;81;料理の仕方が分かりません;りょうりのしかたがわかりません;ryourinoshikatagawakarimasen;I don't know how to cook;Je ne sais pas comment cuisiner;TRUE
+3;81;電話の使い方を知りません;でんわのつかいかたをしりません;denwanotsukaikatawoshirimasen;I don’t know how to use the phone;Je ne sais pas comment utiliser le téléphone;TRUE
+3;81;この道具の使い方を知っていますか;このどうぐのつかいかたをしっていますか;konodouganotsukaikatawoshitteimasuka;Do you know how to use this tool?;Tu sais comment utiliser cet outil ?;TRUE
+3;81;学校までの行き方は知っています;がっこうまでのいきかたはしっています;gakkoumadenoikikatahashitteimasu;I know how to get to school;Je connais le chemin de l’école;TRUE
+3;81;駅までの行き方を教えてください;えきまでのいきかたをおしえてください;ekimadenoikikatawooshietekudasai;Please tell me how to get to the station;Indique-moi comment aller à la gare;TRUE
+3;81;この漢字の読み方を知っています;このかんじのよみかたをしっています;konokanjononomikatawoshitteimasu;I know how to read this kanji;Je sais comment lire ce kanji;TRUE
+3;81;彼は仕事の仕方にすぐ覚えました;かれはしごとのしかたにすぐおぼえました;karehashigotonoshikatanisuguoboemashita;He quickly learned how to work;Il a vite appris à travailler;TRUE
+3;81;食べてみましたか;たべてみましたか;tabetemimashitaka;Did you try eating it?;Tu as essayé de le manger ?;TRUE
+3;81;魚を食べてみましたか;さかなをたべてみましたか;sakanawotabetemimashitaka;Did you try eating the fish?;Tu as goûté le poisson ?;TRUE
+3;81;彼に泳ぎ方を教えてみた;かれにおよぎかたをおしえてみた;karenioyogikatawooshietemita;I tried teaching him how to swim;J’ai essayé de lui apprendre à nager;TRUE
+3;81;彼女と話してみる;かのじょとはなしてみる;kanojothanashitemiru;I will try to speak with her;Je vais essaye de lui parler;TRUE
+3;81;入場;にゅうじょう;nyuujou;Entrance (entry);Entrée;TRUE
+3;81;入場料;にゅうじょうりょう;nyuujouryou;Admission fee;Frais d'entrée;TRUE
+3;81;無理;むり;muri;Impossible;Impossible;TRUE
+3;81;無料;むりょう;muryou;Free (of charge);Gratuit;TRUE
+3;81;この雑誌は無理です;このざっしはむりです;konozasshihamuridesu;This magazine is too difficult;Ce magazine est trop difficile;TRUE
+3;81;料金;りょうきん;ryoukin;Fee/charge;Tarif;TRUE
+3;81;タクシー料金は高い;たくしーりょうきんはたかい;taskushiiryoushihatakai;Taxi fare is expensive;Les frais de taxi sont élevés;TRUE
+3;81;おかげ;おかげ;okage;Thanks to...;Grâce à...;TRUE
+3;81;君のおかげで楽しかったです;きみのおかげでたのしかったです;kiminoikagedetanoshikattadesu;It was fun thanks to you;C’était amusant grâce à toi;TRUE
+3;81;君のおかげで仕事は面白かったです;きみのおかげでしごとはおもしろかったです;kiminoikagedeshigotohaomoshirokattadesu;Work was fun thanks to you;Le travail était intéressant grâce à toi;TRUE
+3;81;いただき;いただき;itadaki;Receive (humble);Recevoir (humble);TRUE
+3;81;8時に食べていただきたいんですが;はちじにたべていただきたいんですが;hachijinitabeteitadakitaindesuga;I’d like you to eat at 8 o'clock;J’aimerais que tu manges à 8h;TRUE
+3;81;窓を開けていただきたいんですが;まどをあけていただきたいんですが;madowoaketeitadakitaindesuga;I’d like you to open the window;J’aimerais que tu ouvres la fenêtre;TRUE
+3;81;犬の散歩していただきたいんですが;いぬのさんぽしていただきたいんですが;inunosanposhiteitadakitaindesuga;I’d like you to walk the dog;J’aimerais que tu promènes le chien;TRUE
+3;81;有料;ゆうりょう;yuuryou;Not free (charged);Payant;TRUE
+3;81;このトイレは有料です;このといれはゆうりょうです;konotoirehayuuryoudesu;This toilet requires payment;Ces toilettes sont payantes;TRUE
+3;81;ビールかワインをください;ビールかワインをください;biirukawainwokudasai;Beer or wine, please;Une bière ou du vin, s'il vous plaît;TRUE
+3;81;家に届けていただけますか;いえにとどけていただけますか;iienitodoketeitadakemasuka;Could you deliver it to my house?;Pouvez-vous le livrer chez moi ?;TRUE
+3;81;火を貸していただけませんか;ひをかしていただけませんか;hiwokashiteitadakemasenka;Can you lend me a lighter?;Pourriez-vous me prêter du feu ?;TRUE
+3;81;紅茶かコーヒーはいかがですか;こうちゃかこーひーはいかがですか;kouchakakoohiihaikagadesuka;Would you like tea or coffee?;Souhaitez-vous du thé ou du café ?;TRUE
+3;81;この言葉をしていただけませんか;このことばをしていただけませんか;konokotobashiteitadakemasenka;Could you say this word?;Pouvez-vous dire ce mot ?;TRUE
+3;81;すみませんお水をもう少しいただけますか;すみませんおみずをもうすこしいただけますか;sumimasenomizuwomousukoshiitadakemasuka;Could I have a little more water, please?;Puis-je avoir un peu plus d'eau, s'il vous plaît ?;TRUE
+3;81;切符がないのでご入場いただけません;きっぷがないのでごにゅうじょういただけません;kippu ga nai node go-nyūjō itadakemasen;You cannot enter without a ticket;Vous ne pouvez pas entrer sans billet;TRUE
+3;81;彼女はピカピカなグラスで水飲んでいた;かのじょはぴかぴかなグラスでみずのんでいた;kanojo wa pikapika na gurasu de mizu nonde ita;She was drinking water from a shiny glass;Elle buvait de l’eau dans un verre brillant;TRUE
+3;81;彼はこういうのがうまいのです;かれはこういうのがうまいのです;kare wa kou iu no ga umai no desu;He’s good at this kind of thing;Il est doué pour ce genre de choses;TRUE
+3;81;僕はこういう音楽が好きじゃない;ぼくはこういうおんがくがすきじゃない;boku wa kou iu ongaku ga suki janai;I don't like this kind of music;Je n’aime pas ce genre de musique;TRUE
