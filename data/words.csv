@@ -1808,3 +1808,65 @@
 3;81;彼女はピカピカなグラスで水飲んでいた;かのじょはぴかぴかなグラスでみずのんでいた;kanojo wa pikapika na gurasu de mizu nonde ita;She was drinking water from a shiny glass;Elle buvait de l’eau dans un verre brillant;TRUE
 3;81;彼はこういうのがうまいのです;かれはこういうのがうまいのです;kare wa kou iu no ga umai no desu;He’s good at this kind of thing;Il est doué pour ce genre de choses;TRUE
 3;81;僕はこういう音楽が好きじゃない;ぼくはこういうおんがくがすきじゃない;boku wa kou iu ongaku ga suki janai;I don't like this kind of music;Je n’aime pas ce genre de musique;TRUE
+3;82;和食;わしょく;washoku;Japanese food;Cuisine japonaise;TRUE
+3;82;注文;ちゅうもん;chuumon;Order;Commande;TRUE
+3;82;何を注文しましたか;なにをちゅうもんしましたか;naniwochuumonshimashitaka;What did you order?;Qu'avez-vous commandé ?;TRUE
+3;82;注文用紙に記入しましたか;ちゅうもんようしにきにゅうしましたか;chuumonyoushinikinyuushimashitaka;Did you fill out the order form?;Avez-vous rempli le bon de commande ?;TRUE
+3;82;苦い;にがい;nigai;bitter;amer;TRUE
+3;82;ご注文はよろしいですか;ごちゅうもんはよろしいですか;gochuumonhayoroshiidesuka;Is your order ready?;Votre commande est-elle prête ?;TRUE
+3;82;ビールは苦いのであまり飲みません;ビールはにがいのであまりのみません;biiruhanigainodeamarinomimasen;Beer is bitter so I don’t drink much;La bière est amère donc je n’en bois pas beaucoup;TRUE
+3;82;濃い;こい;koi;Strong/concentrated;Fort / concentré;TRUE
+3;82;味;あじ;aji;Flavor;Goût;TRUE
+3;82;味は少し薄いです;あじはすこしうすいです;ajihasukoshiusuidesu;The flavor is a bit weak;Le goût est un peu fade;TRUE
+3;82;なし;なし;nashi;Without;Sans;TRUE
+3;82;紅茶を砂糖なしでください;こうちゃをさとうなしでください;kochawosattounashidekudasai;Tea without sugar please;Du thé sans sucre s'il vous plaît;TRUE
+3;82;味噌;みそ;miso;Miso;Miso;TRUE
+3;82;汁;しる;shiru;Soup;Soupe;TRUE
+3;82;味噌汁;みそしる;misoshiru;Miso soup;Soupe miso;TRUE
+3;82;今日の味噌汁は味が薄いです;きょうのみそしるはあじがうすいです;kyounomisoshiruhaajigausuidesu;Today's miso soup is weak in taste;La soupe miso d'aujourd'hui est fade;TRUE
+3;82;味噌汁を注文しました;みそしるをちゅうもんしました;misoshiruwochuumonshimashita;I ordered miso soup;J’ai commandé une soupe miso;TRUE
+3;82;このコーヒーは私には濃すぎます;このこーひーはわたしにはこすぎます;konokoohiihawatashinihakoisugimasu;This coffee is too strong for me;Ce café est trop fort pour moi;TRUE
+3;82;残る;のこる;nokoru;To remain;Rester;TRUE
+3;82;残す;のこす;nokosu;To leave (behind);Laisser;TRUE
+3;82;量;りょう;ryou;Quantity;Quantité;TRUE
+3;82;彼女と食事した;かのじょとしょくじした;kanojotoshokujishita;I had a meal with her;J’ai mangé avec elle;TRUE
+3;82;食事;しょくじ;shokuji;Meal;Repas;TRUE
+3;82;今から食事に行くけど、一緒にどうですか;いまからしょくじにいくけど、いっしょにどうですか;imakarashokujiniikukedo,isshounidoudesuka;I'm going to eat now, want to come?;Je vais manger maintenant, tu veux venir ?;TRUE
+3;82;ここで一番安い食事は20ドルです;ここでいちばんやすいしょくじはにじゅうどるです;kokodeichibanyasuishokujihanijuudorudesu;The cheapest meal here is $20;Le repas le moins cher ici est à 20 dollars;TRUE
+3;82;ラーメンは量が少ないです;らーめんはりょうがすくないです;raamenharyougasukunaidesu;The ramen portion is small;La portion de ramen est petite;TRUE
+3;82;食べ物の質が良くなりました;たべもののしつがよくなりました;tabemononoshitsugayokunarimashita;The quality of food has improved;La qualité de la nourriture s’est améliorée;TRUE
+3;82;質;しつ;shitsu;Quality;Qualité;TRUE
+3;82;あそこのレストランは料理の質がいい;あそこのれすとらんはりょうりのしつがいい;asokonoresutoranharyourinoshitsugaii;The food quality there is good;La qualité de la nourriture là-bas est bonne;TRUE
+3;82;ラーメンをたくさん残しましたか;らーめんをたくさんのこしましたか;raamenwotakusannokoshimashitaka;Did you leave a lot of ramen?;As-tu laissé beaucoup de ramen ?;TRUE
+3;82;量より質の方が大切です;りょうよりしつのほうがたいせつです;ryou yori shitsu no hou ga taisetsu desu;Quality is more important than quantity;La qualité est plus importante que la quantité;TRUE
+3;82;私たちは彼女に少しケーキを残した;わたしたちはかのじょにすこしけーきをのこした;watshitatchihakanojonisukoshikeekiwonokoshita;We left her some cake;Nous lui avons laissé un peu de gâteau;TRUE
+3;82;お湯;おゆ;oyu;Hot water;Eau chaude;TRUE
+3;82;一杯;いっぱい;ippai;Full / A lot;Plein / Beaucoup;TRUE
+3;82;お腹が一杯ですか;おなかがいっぱいですか;onakagaippaidesuka;Are you full?;Tu as bien mangé ?;TRUE
+3;82;レストランは人で一杯だった;れすとらんはひとでいっぱいだった;resutoranhahitodeippaidatta;The restaurant was full of people;Le restaurant était plein;TRUE
+3;82;いらっしゃい;いらっしゃい;irasshai;Welcome;Bienvenue;TRUE
+3;82;中山先生はいらっしゃいますか;なかやませんせいはいらっしゃいますか;nakayamasenseihairasshaimasuka;Is Prof. Nakayama here?;Est-ce que le professeur Nakayama est là ?;TRUE
+3;82;村の広場は人で一杯だった;むらのひろばはひとでいっぱいだった;muranohirobahahitodeippaidatta;The village square was full of people;La place du village était pleine;TRUE
+3;82;お客様;おきゃくさま;okyakusama;Guest / Customer;Client;TRUE
+3;82;様;さま;sama;Mr./Ms. (honorific);Monsieur/Madame (honorifique);TRUE
+3;82;客;きゃく;kyaku;Customer / Guest;Client;TRUE
+3;82;田中様、一緒に食事しませんか;たなかさま、いっしょにしょくじしませんか;tanakasamaisshounishokujishimasenka;Mr. Tanaka, shall we eat together?;Monsieur Tanaka, on mange ensemble ?;TRUE
+3;82;このレストランの客が少ない;このれすとらんのきゃくがすくない;konoresutaurannokyakugasukunai;There are few customers in this restaurant;Il y a peu de clients dans ce restaurant;TRUE
+3;82;客はみんな帰りました;きゃくはみんなかえりました;kyakuhaminnakaerimashita;All the guests left;Tous les clients sont partis;TRUE
+3;82;お勧め;おすすめ;osusume;Recommendation;Recommandation;TRUE
+3;82;予約;よやく;yoyaku;Reservation;Réservation;TRUE
+3;82;焼く;やく;yaku;To grill / To bake;Griller / Cuire;TRUE
+3;82;予約しています;よやくしています;yoyakushiteimasu;I have a reservation;J’ai une réservation;TRUE
+3;82;7時半に予約しています;しちじはんによやくしています;shichijihanniyoyakushiteimasu;I have a reservation at 7:30;J’ai réservé pour 7h30;TRUE
+3;82;早くホテルを予約したほうがいいです;はやくほてるをよやくしたほうがいいです;hayakuhoteruwoyoyakushitahougaiidesu;You should book a hotel early;Il vaut mieux réserver l’hôtel tôt;TRUE
+3;82;お勧めは何ですか;おすすめはなんですか;osusumehanandesuka;What do you recommend?;Que recommandez-vous ?;TRUE
+3;82;お勧めはどれですか;おすすめはどれですか;osusumehadoredesuka;Which one do you recommend?;Lequel recommandez-vous ?;TRUE
+3;82;決まる;きまる;kimaru;To be decided;Être décidé;TRUE
+3;82;もう決まりました;もうきまりました;moukimarimashita;Already decided;C’est déjà décidé;TRUE
+3;82;ベジタリアン;ベジタリアン;bejitarian;Vegetarian;Végétarien;TRUE
+3;82;冷蔵庫に入っています;れいぞうこにはいっています;reizokonihaitteimasu;It’s in the fridge;C’est dans le frigo;TRUE
+3;82;中に入ってもいいですか;なかにはいってもいいですか;nakanihaittemoiidesuka;Can I go inside?;Puis-je entrer ?;TRUE
+3;82;これは豚肉が入っていますか;これはぶたにくがはいっていますか;korehabutanikugahaitteimasuka;Does this contain pork?;Est-ce que ça contient du porc ?;TRUE
+3;82;ご注文はお決まりですか;ごちゅうもんはおきまりですか;gochuumonhaokimaridesuka;Have you decided your order?;Avez-vous choisi votre commande ?;TRUE
+3;82;ベジタリアンです。これは肉が入っていますか;べじたりあんです。これはにくがはいっていますか;bejitariandesukorehanikugahaitteimasuka;I'm vegetarian. Does this have meat?;Je suis végétarien. Est-ce qu’il y a de la viande ?;TRUE
+3;82;この料理は卵が入っていますか;このりょうりはたまごがはいっていますか;konoryourihatamagogahaitteimasuka;Does this dish contain eggs?;Ce plat contient-il des œufs ?;TRUE
