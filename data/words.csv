@@ -1870,3 +1870,53 @@
 3;82;ご注文はお決まりですか;ごちゅうもんはおきまりですか;gochuumonhaokimaridesuka;Have you decided your order?;Avez-vous choisi votre commande ?;TRUE
 3;82;ベジタリアンです。これは肉が入っていますか;べじたりあんです。これはにくがはいっていますか;bejitariandesukorehanikugahaitteimasuka;I'm vegetarian. Does this have meat?;Je suis végétarien. Est-ce qu’il y a de la viande ?;TRUE
 3;82;この料理は卵が入っていますか;このりょうりはたまごがはいっていますか;konoryourihatamagogahaitteimasuka;Does this dish contain eggs?;Ce plat contient-il des œufs ?;TRUE
+3;83;植物;しょくぶつ;shokubutsu;Plant;Plante;TRUE
+3;83;人間;にんげん;ningen;Human;Humain;TRUE
+3;83;地球;ちきゅう;chikyuu;Earth;Terre;TRUE
+3;83;地球は丸い;ちきゅうはまるい;chikyuu ha marui;The Earth is round;La Terre est ronde;TRUE
+3;83;太陽は地球からとても遠いです;たいようはちきゅうからとてもとおいです;taiyou ha chikyuu kara totemo tooi desu;The Sun is very far from the Earth;Le Soleil est très loin de la Terre;TRUE
+3;83;植えます;うえます;ueru;To plant;Planter;TRUE
+3;83;庭に木を植えた;にわにきをうえた;niwa ni ki wo ueta;I planted a tree in the garden;J'ai planté un arbre dans le jardin;TRUE
+3;83;月には植物がない;つきにはしょくぶつがない;tsuki ni wa shokubutsu ga nai;There are no plants on the Moon;Il n'y a pas de plantes sur la Lune;TRUE
+3;83;生き物;いきもの;seikimono;Living thing;Être vivant;TRUE
+3;83;庭に植物を二つ植えた;にわにしょくぶつをふたつうえた;niwa ni shokubutsu wo futatsu ueta;I planted two plants in the garden;J'ai planté deux plantes dans le jardin;TRUE
+3;83;祖父は九十歳まで生きた;そふはきゅうじゅっさいまでいきた;sofu ha kyuujuusai made ikita;Grandfather lived to 90;Mon grand-père a vécu jusqu’à 90 ans;TRUE
+3;83;君たちはどう生きるか;きみたちはどういきるか;kimitachi ha dou ikiruka;How will you live?;Comment allez-vous vivre ?;TRUE
+3;83;まだ生きています;まだいきています;mada ikiteimasu;Still alive;Toujours en vie;TRUE
+3;83;どういう人間になりたいですか;どういうにんげんになりたいですか;douiu ningen ni naritai desu ka;What kind of person do you want to become?;Quel genre de personne veux-tu devenir ?;TRUE
+3;83;彼が月へ行った最初の人間だ;かれがつきへいったさいしょのにんげんだ;kare ga tsuki he itta saisho no ningen da;He is the first person to go to the Moon;C'est le premier homme à être allé sur la Lune;TRUE
+3;83;環境;かんきょう;kankyou;Environment;Environnement;TRUE
+3;83;自然;しぜん;shizen;Nature;Nature;TRUE
+3;83;あの村は自然が少ない;あのむらはしぜんがすくない;anomura ha shizen ga sukunai;That village has little nature;Ce village a peu de nature;TRUE
+3;83;すべて;すべて;subete;Everything;Tout;TRUE
+3;83;あなたは私のすべてです;あなたはわたしのすべてです;anata ha watashi no subete desu;You are my everything;Tu es tout pour moi;TRUE
+3;83;光るものすべて金ではない;ひかるものすべてきんではない;hikarumono subete kin dewa nai;Not all that glitters is gold;Tout ce qui brille n’est pas or;TRUE
+3;83;すべての葉が赤や黄色になった;すべてのはがあかやきいろになった;subete no ha ga aka ya kiiro ni natta;All leaves turned red or yellow;Toutes les feuilles sont devenues rouges ou jaunes;TRUE
+3;83;この町は環境問題がある;このまちはかんきょうもんだいがある;kono machi ha kankyou mondai ga aru;This town has environmental problems;Cette ville a des problèmes environnementaux;TRUE
+3;83;今日はすべてうまくいった;きょうはすべてうまくいった;kyou ha subete umaku itta;Everything went well today;Aujourd'hui tout s'est bien passé;TRUE
+3;83;汚染;おせん;osen;Pollution;Pollution;TRUE
+3;83;その会社は川を汚染しています;そのかいしゃはかわをおせんしています;sono kaisha ha kawa wo osen shiteimasu;That company is polluting the river;Cette entreprise pollue la rivière;TRUE
+3;83;環境を汚染する会社がある;かんきょうをおせんするかいしゃがある;kankyou wo osen suru kaisha ga aru;There is a company polluting the environment;Il existe une entreprise qui pollue l'environnement;TRUE
+3;83;人間は自然を汚染しています;にんげんはしぜんをおせんしています;ningen ha shizen wo osen shiteimasu;Humans are polluting nature;Les humains polluent la nature;TRUE
+3;83;一頭;いっとう;ittou;One (large animal);Une tête (grand animal);TRUE
+3;83;飼う;かう;kau;To keep (a pet);Garder (un animal);TRUE
+3;83;オオカミ;おおかみ;ookami;Wolf;Loup;TRUE
+3;83;ウサギ;うさぎ;usagi;Rabbit;Lapin;TRUE
+3;83;ゾウ;ぞう;zou;Elephant;Éléphant;TRUE
+3;83;兎を二羽飼っています;うさぎをにわかっています;usagi wo niwa katteimasu;I am keeping two rabbits;Je garde deux lapins;TRUE
+3;83;馬が二頭います;うまがにとういます;uma ga nitou imasu;There are two horses;Il y a deux chevaux;TRUE
+3;83;巨大;きょだい;kyodai;Giant;Géant;TRUE
+3;83;虫;むし;mushi;Insect;Insecte;TRUE
+3;83;ネズミ;ねずみ;nezumi;Mouse;Souris;TRUE
+3;83;妹は虫がうるさいと思います;いもうとはむしがうるさいとおもいます;imouto ha mushi ga urusai to omoimasu;My sister thinks insects are noisy;Ma sœur trouve que les insectes sont bruyants;TRUE
+3;83;ハチ;はち;hachi;Bee;Abeille;TRUE
+3;83;蜂が八匹いる;はちがはっぴきいる;hachi ga happiki iru;There are eight bees;Il y a huit abeilles;TRUE
+3;83;象は巨大な動物です;ぞうはきょだいなどうぶつです;zou ha kyodaina doubutsu desu;The elephant is a giant animal;L'éléphant est un animal géant;TRUE
+3;83;殺す;ころす;korosu;To kill;Tuer;TRUE
+3;83;鶏;にはとり;niwatori;Chicken;Poulet;TRUE
+3;83;野生動物;やせいどうぶつ;yaseidoubutsu;Wild animal;Animal sauvage;TRUE
+3;83;死ぬ;しぬ;shinu;To die;Mourir;TRUE
+3;83;彼は二百年前に九十歳で死んだ;かれはにひゃくねんまえにきゅうじゅっさいでしんだ;kare ha nihyakunen mae ni kyuujuusai de shinda;He died 200 years ago at 90;Il est mort il y a 200 ans à 90 ans;TRUE
+3;83;人間は死ぬものだ;にんげんはしぬものだ;ningen ha shinu mono da;Humans are mortal;Les humains sont mortels;TRUE
+3;83;動物を殺すのが嫌です;どうぶつをころすのがいやです;doubutsu wo korosu no ga iya desu;I hate killing animals;Je déteste tuer des animaux;TRUE
+3;83;これは生きるか死ぬかの問題です;これはいきるかしぬかのもんだいです;kore ha ikiru ka shinu ka no mondai desu;It’s a matter of life or death;C'est une question de vie ou de mort;TRUE
