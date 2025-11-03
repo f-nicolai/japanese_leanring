@@ -382,7 +382,7 @@
 3;17;お客さん;おきゃくさん;okyakusan;Customer;Client;FALSE
 3;17;クーポン;クーポン;kuupon;Coupon;Coupon;FALSE
 3;17;レビュー;レビュー;rebyuu;Review;Critique;FALSE
-3;17;必ず;かならず;kanarazu;Surely;Sûrement;FALSE
+3;17;必ず;かならず;kanarazu;Surely;Sûrement;TRUE
 3;17;スタッフ;スタッフ;sutaffu;Staff;Personnel;FALSE
 3;18;今週末;こんしゅうまつ;konshuumatsu;This weekend;Ce week-end;FALSE
 3;18;北;きた;kita;North;Nord;TRUE
@@ -1119,12 +1119,12 @@
 3;60;漢字;かんじ;kanji;Kanji;Kanji;TRUE
 3;60;覚える;おぼえる;oboeru;To remember;Mémoriser;TRUE
 3;60;いけません;いけません;ikemasen;Cannot;Ne peut pas;TRUE
-3;60;まだ家に帰ってはいけません;まだいえにかえってはいけません;mada ie ni kaette wa ikemasen;You cannot return home yet;Vous ne pouvez pas encore rentrer chez vous;TRUE
+3;60;まだ家に帰ってはいけません;まだいえにかえってはいけません;mada ie ni kaette wa ikemasen;You cannot return home yet;Vous ne pouvez pas encore rentrer chez vous;FALSE
 3;60;辞書;じしょ;jisho;Dictionary;Dictionnaire;TRUE
 3;60;引きます;ひきます;hikimasu;To consult;Consulter;TRUE
 3;60;教えます;おしえます;oshiemasu;To teach;Enseigner;TRUE
-3;60;私はあなたに英語を教えて欲しいです;わたしはあなたにえいごはなしをおしえてほしいです;watashi wa anata ni eigo wo oshiete hoshii desu;I want you to teach me English;Je veux que tu m'apprennes l'anglais;TRUE
-3;60;漢字の意味を辞書で引きました;かんじのいみをじしょでひきました;kanji no imi wo jisho de hikimashita;I looked up the meaning of the kanji in a dictionary;J'ai consulté un dictionnaire pour le sens des kanji;TRUE
+3;60;私はあなたに英語を教えて欲しいです;わたしはあなたにえいごはなしをおしえてほしいです;watashi wa anata ni eigo wo oshiete hoshii desu;I want you to teach me English;Je veux que tu m'apprennes l'anglais;FALSE
+3;60;漢字の意味を辞書で引きました;かんじのいみをじしょでひきました;kanji no imi wo jisho de hikimashita;I looked up the meaning of the kanji in a dictionary;J'ai consulté un dictionnaire pour le sens des kanji;FALSE
 3;61;要ります;いります;irimasu;To need;Avoir besoin;TRUE
 3;61;お菓子;おかし;okashi;Sweets;Bonbons;TRUE
 3;61;少々;しょうしょう;shoushou;A little;Un peu;TRUE
@@ -1135,15 +1135,15 @@
 3;61;召し上がる;めしあがる;ashiagaru;To eat (polite);Manger (poli);TRUE
 3;61;持ち帰り;もちかえり;mochikaeri;Takeout;À emporter;TRUE
 3;61;宜しい;よろしい;yoroshii;Good (polite);Bien (poli);TRUE
-3;61;ここで召し上がりますか;ここでめしあがりますか;kokodeashiagarimasuka;Will you eat here?;Vous mangez ici ?;TRUE
-3;61;レシートは宜しいですか;レシートはよろしいですか;rejiitohayoroshiidesuka;Is the receipt okay?;Le reçu, ça va ?;TRUE
-3;61;窓を開けても宜しいですか;まどをあけてもよろしいですか;madowoaketemoyoroshiidesuka;May I open the window?;Puis-je ouvrir la fenêtre ?;TRUE
+3;61;ここで召し上がりますか;ここでめしあがりますか;kokodeashiagarimasuka;Will you eat here?;Vous mangez ici ?;FALSE
+3;61;レシートは宜しいですか;レシートはよろしいですか;rejiitohayoroshiidesuka;Is the receipt okay?;Le reçu, ça va ?;FALSE
+3;61;窓を開けても宜しいですか;まどをあけてもよろしいですか;madowoaketemoyoroshiidesuka;May I open the window?;Puis-je ouvrir la fenêtre ?;FALSE
 3;61;唐揚げ;からあげ;karaage;Fried chicken;Poulet frit;TRUE
 3;62;知る;しる;shiru;To know;Savoir;TRUE
-3;62;それは今知りました;それはいましりました;sorehaimashirimashita;I just learned that;Je viens de l'apprendre;TRUE
-3;62;田中と呼んでください;たなかとよんでください;tanakatoyondekudasai;Please call me Tanaka;Veuillez m'appeler Tanaka;TRUE
-3;62;狐は何を言いますか;きつねはなにをいいますか;kitsunehananiwoiimasu ka;What does the fox say?;Que dit le renard ?;TRUE
-3;62;彼女は何と言っていましたか;かのじょはなんといっていましたか;kanojouhananitoitteimashitaka;What did she say?;Qu'est-ce qu'elle a dit ?;TRUE
+3;62;それは今知りました;それはいましりました;sorehaimashirimashita;I just learned that;Je viens de l'apprendre;FALSE
+3;62;田中と呼んでください;たなかとよんでください;tanakatoyondekudasai;Please call me Tanaka;Veuillez m'appeler Tanaka;FALSE
+3;62;狐は何を言いますか;きつねはなにをいいますか;kitsunehananiwoiimasu ka;What does the fox say?;Que dit le renard ?;FALSE
+3;62;彼女は何と言っていましたか;かのじょはなんといっていましたか;kanojouhananitoitteimashitaka;What did she say?;Qu'est-ce qu'elle a dit ?;FALSE
 3;62;教室;きょうしつ;kyoushitsu;Classroom;Salle de classe;TRUE
 3;62;見せる;みせる;miseru;To show;Montrer;TRUE
 3;62;質問;しつもん;shitsumon;Question;Question;TRUE
@@ -1153,17 +1153,17 @@
 3;62;簡単;かんたん;kantan;Easy;Facile;TRUE
 3;62;度;ど;do;Degree;Degré;TRUE
 3;62;何度;なんど;nando;How many times;Combien de fois;TRUE
-3;62;もう一度言ってください;もういちどいってください;mouichidoittekudasai;Please say it again;Répétez, s'il vous plaît;TRUE
+3;62;もう一度言ってください;もういちどいってください;mouichidoittekudasai;Please say it again;Répétez, s'il vous plaît;FALSE
 3;62;鉛筆;えんぴつ;enpitsu;Pencil;Crayon;TRUE
 3;63;楽しい;たのしい;tanoshii;Fun;Amusant;TRUE
 3;63;呼びます;よびます;yobimasu;To call;Appeler;TRUE
 3;63;面白い;おもしろい;omoshiroi;Interesting;Intéressant;TRUE
-3;63;授業が難しいから、家で勉強します;じゅぎょうがむずかしいから、いえでべんきょうします;jugyou ga muzukashii kara, ie de benkyou shimasu;Because class is difficult, I study at home;Parce que le cours est difficile, j'étudie à la maison;TRUE
-3;63;先生は授業を面白くします;せんせいはじゅぎょうをおもしろくします;sensei wa jugyou wo omoshiroku shimasu;The teacher makes the class interesting;Le professeur rend le cours intéressant;TRUE
+3;63;授業が難しいから、家で勉強します;じゅぎょうがむずかしいから、いえでべんきょうします;jugyou ga muzukashii kara, ie de benkyou shimasu;Because class is difficult, I study at home;Parce que le cours est difficile, j'étudie à la maison;FALSE
+3;63;先生は授業を面白くします;せんせいはじゅぎょうをおもしろくします;sensei wa jugyou wo omoshiroku shimasu;The teacher makes the class interesting;Le professeur rend le cours intéressant;FALSE
 3;63;愛する;あいする;aisuru;To love;Aimer;TRUE
 3;63;怖い;こわい;kowai;Scary;Effrayant;TRUE
 3;63;疲れます;つかれます;tsukaremasu;To get tired;Être fatigué;TRUE
-3;63;この映画は怖くありませんでした;このえいがはこわくありませんでした;kono eiga wa kowaku arimasen deshita;This movie wasn’t scary;Ce film n'était pas effrayant;TRUE
+3;63;この映画は怖くありませんでした;このえいがはこわくありませんでした;kono eiga wa kowaku arimasen deshita;This movie wasn’t scary;Ce film n'était pas effrayant;FALSE
 3;63;困って;こまって;komatte;In trouble;En difficulté;TRUE
 3;63;暇;ひま;hima;Free (time);Temps libre;TRUE
 3;63;嫌;いや;iya;Unpleasant;Désagréable;TRUE
@@ -1173,12 +1173,12 @@
 3;63;気分;きぶん;kibun;Mood;Humeur;TRUE
 3;63;親切;しんせつ;shinshetsu;Kind;Gentil;TRUE
 3;63;気持ち;きもち;kimochi;Feeling;Sentiment;TRUE
-3;63;面白くない本は嫌です;おもしろくないほんはいやです;omoshirokunai hon wa iya desu;Uninteresting books are unpleasant;Les livres inintéressants sont désagréables;TRUE
-3;63;そのテストはなぜ難しいんですか;そのてすとはなぜむずかしいんですか;sono tesuto wa naze muzukashii n desu ka;Why is that test difficult?;Pourquoi ce test est-il difficile ?;TRUE
-3;63;たくさん仕事をして疲れました;たくさんしごとをしてつかれました;takusan shigoto wo shite tsukaremashita;I did a lot of work and got tired;J'ai beaucoup travaillé et je suis fatigué;TRUE
-3;63;いいんです;いいんです;ii n desu;It’s fine;C'est bon;TRUE
-3;63;この答えはどうして違うんですか;このこたえはどうしてちがうんですか;kono kotae wa doushite chigau n desu ka;Why is this answer different?;Pourquoi cette réponse est-elle différente ?;TRUE
-3;63;彼は悲しそうに私を見ました;かれはかなしそうにわたしをみました;kare wa kanashisou ni watashi wo mimashita;He looked at me sadly;Il m'a regardé tristement;TRUE
+3;63;面白くない本は嫌です;おもしろくないほんはいやです;omoshirokunai hon wa iya desu;Uninteresting books are unpleasant;Les livres inintéressants sont désagréables;FALSE
+3;63;そのテストはなぜ難しいんですか;そのてすとはなぜむずかしいんですか;sono tesuto wa naze muzukashii n desu ka;Why is that test difficult?;Pourquoi ce test est-il difficile ?;FALSE
+3;63;たくさん仕事をして疲れました;たくさんしごとをしてつかれました;takusan shigoto wo shite tsukaremashita;I did a lot of work and got tired;J'ai beaucoup travaillé et je suis fatigué;FALSE
+3;63;いいんです;いいんです;ii n desu;It’s fine;C'est bon;FALSE
+3;63;この答えはどうして違うんですか;このこたえはどうしてちがうんですか;kono kotae wa doushite chigau n desu ka;Why is this answer different?;Pourquoi cette réponse est-elle différente ?;FALSE
+3;63;彼は悲しそうに私を見ました;かれはかなしそうにわたしをみました;kare wa kanashisou ni watashi wo mimashita;He looked at me sadly;Il m'a regardé tristement;FALSE
 3;64;町;まち;machi;Town;Ville;TRUE
 3;64;門;もん;mon;Gate;Porte;TRUE
 3;64;自動車;じどうしゃ;jidousha;Automobile;Voiture;TRUE
@@ -1191,23 +1191,23 @@
 3;64;戸;と;to;sliding door;Porte coulissante;TRUE
 3;64;階段;かいだん;kaidan;Stairs;Escalier;TRUE
 3;64;何も;なにも;nanimo;Nothing;Rien;TRUE
-3;64;誰にも言いません;だれにもいいません;darenimoiimasen;I won’t tell anyone;Je ne le dirai à personne;TRUE
+3;64;誰にも言いません;だれにもいいません;darenimoiimasen;I won’t tell anyone;Je ne le dirai à personne;FALSE
 3;64;切符;きっぷ;kippu;Ticket;Billet;TRUE
 3;64;村;むら;mura;Village;Village;TRUE
 3;64;危ない;あぶない;abunai;Dangerous;Dangereux;TRUE
 3;64;所;ところ;tokoro;Place;Endroit;TRUE
 3;64;何でも;なんでも;nanidemo;Anything;Tout;TRUE
-3;64;僕は何でもいいよ;ぼくはなんでもいいよ;bokuhananidemoiiyo;Anything is fine with me;Tout me va;TRUE
-3;64;私はいつでもいいです;わたしはいつでもいいです;watashihaitsudemoiidesu;Anytime is fine with me;N'importe quand me va;TRUE
+3;64;僕は何でもいいよ;ぼくはなんでもいいよ;bokuhananidemoiiyo;Anything is fine with me;Tout me va;FALSE
+3;64;私はいつでもいいです;わたしはいつでもいいです;watashihaitsudemoiidesu;Anytime is fine with me;N'importe quand me va;FALSE
 3;64;メートル;メートル;meetoru;Meter;Mètre;FALSE
 3;64;止まります;とまります;tomarimasu;To stop;S'arrêter;TRUE
 3;64;橋;はし;hashi;Bridge;Pont;TRUE
-3;64;窓は全部閉まっていますか;まどはぜんぶしまっていますか;madohazenbushimatteimasuka;Are all the windows closed?;Est-ce que toutes les fenêtres sont fermées ?;TRUE
+3;64;窓は全部閉まっていますか;まどはぜんぶしまっていますか;madohazenbushimatteimasuka;Are all the windows closed?;Est-ce que toutes les fenêtres sont fermées ?;FALSE
 3;64;この近く;このちかく;konochikaku;Near here;Près d'ici;TRUE
 3;64;運転手;うんてんしゅ;untenshu;Driver;Conducteur;TRUE
 3;65;太い;ふとい;futoi;Thick (voluminous or round objects);Épais;TRUE
 3;65;細い;ほそい;hosoi;Thin (slim or narrow objects);Mince,fin,mince;TRUE
-3;65;細い道はゆっくり進みます;ほそいみちはゆっくりすすみます;hosoimachihayukkurisusumimasu;I go slowly on narrow roads;j'avance lentement sur les routes étroites;TRUE
+3;65;細い道はゆっくり進みます;ほそいみちはゆっくりすすみます;hosoimachihayukkurisusumimasu;I go slowly on narrow roads;j'avance lentement sur les routes étroites;FALSE
 3;65;薄い;うすい;usui;Thin (flat, colors, savors);Mince (épaisseur);TRUE
 3;65;厚い;あつい;atsui;Thick (solid objects, figured concepts);Épais (épaisseur);TRUE
 3;65;押します;おします;oshimasu;To push;Pousser;TRUE
@@ -1219,33 +1219,33 @@
 3;65;無くします;なくします;nakushimasu;To lose;Perdre;TRUE
 3;65;置きます;おきます;okimasu;To put/place;Poser;TRUE
 3;65;石鹸;せっけん;sekken;Soap;Savon;TRUE
-3;65;今はそれを使っていますか;いまはそれをつかっていますか;imahasorewotsukatteimasuka;Are you using it now?;L'utilisez-vous maintenant ?;TRUE
-3;65;あなたの机を使ってすみません;あなたのつくえをつかってすみません;anatanotsukuewotsukattesumimasen;Sorry for using your desk;Désolé d'avoir utilisé votre bureau;TRUE
+3;65;今はそれを使っていますか;いまはそれをつかっていますか;imahasorewotsukatteimasuka;Are you using it now?;L'utilisez-vous maintenant ?;FALSE
+3;65;あなたの机を使ってすみません;あなたのつくえをつかってすみません;anatanotsukuewotsukattesumimasen;Sorry for using your desk;Désolé d'avoir utilisé votre bureau;FALSE
 3;65;切る;きる;kiru;To cut;Couper;TRUE
-3;65;パンをナイフで切ってください;ぱんをないふできってください;panwonaifudekittekudasai;Please cut the bread with a knife;Coupez le pain avec un couteau, s'il vous plaît;TRUE
-3;65;この紙を二つに切ってください;このかみをふたつにきってください;konokamiwofutatsunikittekudasai;Please cut this paper into two;Coupez ce papier en deux, s'il vous plaît;TRUE
-3;65;ここにカバンを置いてください;ここにかばんをおいてください;kokonikabanwooitkudasai;Please put the bag here;Mettez le sac ici, s'il vous plaît;TRUE
+3;65;パンをナイフで切ってください;ぱんをないふできってください;panwonaifudekittekudasai;Please cut the bread with a knife;Coupez le pain avec un couteau, s'il vous plaît;FALSE
+3;65;この紙を二つに切ってください;このかみをふたつにきってください;konokamiwofutatsunikittekudasai;Please cut this paper into two;Coupez ce papier en deux, s'il vous plaît;FALSE
+3;65;ここにカバンを置いてください;ここにかばんをおいてください;kokonikabanwooitkudasai;Please put the bag here;Mettez le sac ici, s'il vous plaît;FALSE
 3;65;忘れます;わすれます;wasuremasu;To forget;Oublier;TRUE
 3;65;箱;はこ;hako;Box;Boîte;TRUE
 3;66;売ります;うります;urimasu;To sell;Vendre;TRUE
-3;66;この方が好きです;このほうがすきです;konohougasukidesu;I prefer this one;Je préfère celui-ci;TRUE
-3;66;静かなところの方がいいです;しずかなところのほうがいいです;shizukanatokoronohougaiidesu;A quiet place is better;Un endroit calme est mieux;TRUE
-3;66;今日は昨日より寒いです;きょうはきのうよりさむいです;kyouhakinouyorisamuidesu;Today is colder than yesterday;Aujourd'hui est plus froid qu'hier;TRUE
-3;66;いつも教室で一番前に座ります;いつもきょうしつでいちばんまえにすわります;itsumokyoushitsudeichibanmaenisurimasu;I always sit at the very front of the classroom;Je m'assois toujours au tout premier rang de la classe;TRUE
-3;66;今日のアパートは前のところより広いです;きょうのあぱーとはまえのところよりひろいです;kyounoapaatohamaenotokoroyorihiroidesu;Today's apartment is more spacious than the previous one;L'appartement d'aujourd'hui est plus spacieux que l'ancien;TRUE
-3;66;犬より猫の方が好きです;いぬよりねこのほうがすきです;inuyorinekonohougasukidesu;I prefer cats to dogs;Je préfère les chats aux chiens;TRUE
+3;66;この方が好きです;このほうがすきです;konohougasukidesu;I prefer this one;Je préfère celui-ci;FALSE
+3;66;静かなところの方がいいです;しずかなところのほうがいいです;shizukanatokoronohougaiidesu;A quiet place is better;Un endroit calme est mieux;FALSE
+3;66;今日は昨日より寒いです;きょうはきのうよりさむいです;kyouhakinouyorisamuidesu;Today is colder than yesterday;Aujourd'hui est plus froid qu'hier;FALSE
+3;66;いつも教室で一番前に座ります;いつもきょうしつでいちばんまえにすわります;itsumokyoushitsudeichibanmaenisurimasu;I always sit at the very front of the classroom;Je m'assois toujours au tout premier rang de la classe;FALSE
+3;66;今日のアパートは前のところより広いです;きょうのあぱーとはまえのところよりひろいです;kyounoapaatohamaenotokoroyorihiroidesu;Today's apartment is more spacious than the previous one;L'appartement d'aujourd'hui est plus spacieux que l'ancien;FALSE
+3;66;犬より猫の方が好きです;いぬよりねこのほうがすきです;inuyorinekonohougasukidesu;I prefer cats to dogs;Je préfère les chats aux chiens;FALSE
 3;66;豚肉;ぶたにく;butaniku;Pork;Porc;TRUE
 3;66;鶏肉;とりにく;toriniku;Chicken;Poulet;TRUE
 3;66;飴;あめ;ame;Hard candy;Bonbon dur;TRUE
 3;66;かなり;かなり;kanari;Quite;Assez;FALSE
-3;66;一番近いコンビはどこですか;いちばんちかいこんびはどこですか;ichiban chikai konbini wa doko desu ka;Where is the nearest convenience store?;Où est le konbini le plus proche ?;TRUE
-3;66;彼は僕より四つ上です;かれはぼくよりよっつうえです;kare wa boku yori yottsu ue desu;He is four years older than me;Il est de quatre ans mon aîné;TRUE
+3;66;一番近いコンビはどこですか;いちばんちかいこんびはどこですか;ichiban chikai konbini wa doko desu ka;Where is the nearest convenience store?;Où est le konbini le plus proche ?;FALSE
+3;66;彼は僕より四つ上です;かれはぼくよりよっつうえです;kare wa boku yori yottsu ue desu;He is four years older than me;Il est de quatre ans mon aîné;FALSE
 3;66;払います;はらいます;haraimasu;To pay;Payer;TRUE
-3;66;もうちょっと安いのはありますか;もうちょっとやすいのはありますか;mouchotto yasui no wa arimasuka;Is there a little cheaper one?;Est-ce qu'il y a quelque chose d'un peu moins cher ?;TRUE
-3;66;鶏肉料理が一番好きです;とりにくりょうりがいちばんすきです;toriniku ryouri ga ichiban suki desu;I like chicken dishes the most;Les plats de poulet sont mes préférés;TRUE
+3;66;もうちょっと安いのはありますか;もうちょっとやすいのはありますか;mouchotto yasui no wa arimasuka;Is there a little cheaper one?;Est-ce qu'il y a quelque chose d'un peu moins cher ?;FALSE
+3;66;鶏肉料理が一番好きです;とりにくりょうりがいちばんすきです;toriniku ryouri ga ichiban suki desu;I like chicken dishes the most;Les plats de poulet sont mes préférés;FALSE
 3;67;締めます;しめます;shimemasu;To tie/fasten;Attacher;TRUE
 3;67;制服;せいふく;seifuku;Uniform;Uniforme;TRUE
-3;67;このパーティーではネクタイを締めてください;このパーティーではネクタイをしめてください;kono paatii de wa nekutai wo shimete kudasai;At this party, please wear a tie;À cette fête, portez une cravate s'il vous plaît;TRUE
+3;67;このパーティーではネクタイを締めてください;このパーティーではネクタイをしめてください;kono paatii de wa nekutai wo shimete kudasai;At this party, please wear a tie;À cette fête, portez une cravate s'il vous plaît;FALSE
 3;67;半袖;はんそで;hansode;Short sleeves;Manches courtes;TRUE
 3;67;袖;そで;sode;Sleeve;Manche;TRUE
 3;67;革;かわ;kawa;Leather;Cuir;TRUE
@@ -1253,233 +1253,233 @@
 3;67;背;せ;se;Back/height;Dos/taille;TRUE
 3;67;背広;せびろ;sebiro;Business suit;Costume;TRUE
 3;67;ぴったり;ぴったり;pittari;Perfectly fitting;Parfaitement ajusté;FALSE
-3;67;窓はぴったり閉まっていました;まどはぴったりしまっていました;mado wa pittari shimatte imashita;The window was tightly closed;La fenêtre était parfaitement fermée;TRUE
+3;67;窓はぴったり閉まっていました;まどはぴったりしまっていました;mado wa pittari shimatte imashita;The window was tightly closed;La fenêtre était parfaitement fermée;FALSE
 3;67;浴衣;ゆかた;yukata;Yukata;Yukata;TRUE
 3;67;着;ちゃく;chaku;Counter for clothes;Compteur pour vêtements;TRUE
-3;67;浴衣を四着持っています;ゆかたをよんちゃくもっています;yukata wo yonchaku motteimasu;I have four yukatas;J'ai quatre yukatas;TRUE
-3;67;その靴はこの着イスカートにぴったりです;そのくつはこのちゃくいすかーとにぴったりです;sono kutsu wa kono chaku isukaato ni pittari desu;These shoes perfectly match this skirt;Ces chaussures vont parfaitement avec cette jupe;TRUE
+3;67;浴衣を四着持っています;ゆかたをよんちゃくもっています;yukata wo yonchaku motteimasu;I have four yukatas;J'ai quatre yukatas;FALSE
+3;67;その靴はこの着イスカートにぴったりです;そのくつはこのちゃくいすかーとにぴったりです;sono kutsu wa kono chaku isukaato ni pittari desu;These shoes perfectly match this skirt;Ces chaussures vont parfaitement avec cette jupe;FALSE
 3;67;指;ゆび;yubi;Finger;Doigt;TRUE
 3;67;短い;みじかい;mijikai;Short;Court;TRUE
 3;67;着物;きもの;kimono;Kimono;Kimono;TRUE
 3;67;外しました;はずしました;hazushimashita;Unfastened / took off / removed;A enlevé/défait;TRUE
-3;67;彼はシャツのボタンを外しました;かれはしゃつのぼたんをはずしました;kare wa shatsu no botan wo hazushimashita;He unbuttoned his shirt;Il a déboutonné sa chemise;TRUE
+3;67;彼はシャツのボタンを外しました;かれはしゃつのぼたんをはずしました;kare wa shatsu no botan wo hazushimashita;He unbuttoned his shirt;Il a déboutonné sa chemise;FALSE
 3;67;外します;はずします;hazushimasu;To unfasten/remove;Enlever/défaire;TRUE
-3;67;彼女はダイヤモンドの指輪をはめていました;かのじょはだいやもんどのゆびわをはめていました;kanojo wa daiyamondo no yubiwa wo hamete imashita;She was wearing a diamond ring;Elle portait une bague en diamant;TRUE
+3;67;彼女はダイヤモンドの指輪をはめていました;かのじょはだいやもんどのゆびわをはめていました;kanojo wa daiyamondo no yubiwa wo hamete imashita;She was wearing a diamond ring;Elle portait une bague en diamant;FALSE
 3;67;はめます;はめます;hamemasu;To wear (rings);Porter (des bagues);TRUE
 3;67;洋服;ようふく;youfuku;Western clothes;Vêtements occidentaux;TRUE
 3;67;上着;うわぎ;uwagi;Jacket/Coat;Veste/Manteau;TRUE
-3;67;洋服を全部洗濯しました;ようふくをぜんぶせんたくしました;youfuku wo zenbu sentaku shimashita;I washed all the clothes;J'ai lavé tous les vêtements;TRUE
-3;67;この帽子は私にぴったりです;このぼうしはわたしにぴったりです;kono boushi wa watashi ni pittari desu;This hat fits me perfectly;Ce chapeau me va parfaitement;TRUE
+3;67;洋服を全部洗濯しました;ようふくをぜんぶせんたくしました;youfuku wo zenbu sentaku shimashita;I washed all the clothes;J'ai lavé tous les vêtements;FALSE
+3;67;この帽子は私にぴったりです;このぼうしはわたしにぴったりです;kono boushi wa watashi ni pittari desu;This hat fits me perfectly;Ce chapeau me va parfaitement;FALSE
 3;68;木々;きぎ;kigi;Trees;Arbres;TRUE
 3;68;番号;ばんごう;bangou;Number;Numéro;TRUE
 3;68;大丈夫;だいじょうぶ;daijoubu;Alright;D'accord;TRUE
-3;68;誰が結婚するんですか;だれがけっこんするんですか;dare ga kekkon surun desu ka;Who is getting married?;Qui se marie ?;TRUE
-3;68;妹は友達とサッカーをするのが一番好きです;いもうとはともだちとサッカーをするのがいちばんすきです;imouto ha tomodachi to sakkaa wo suru no ga ichi ban suki desu;My younger sister likes playing soccer with her friends the most.;Ma petite sœur aime le plus jouer au football avec ses amis.;TRUE
-3;68;彼女はバスケットボールをするのが好きです;かのじょはバスケットボールをするのがすきです;kanojou ha basuketto booru wo suru no ga suki desu;She likes playing basketball.;Elle aime jouer au basketball.;TRUE
+3;68;誰が結婚するんですか;だれがけっこんするんですか;dare ga kekkon surun desu ka;Who is getting married?;Qui se marie ?;FALSE
+3;68;妹は友達とサッカーをするのが一番好きです;いもうとはともだちとサッカーをするのがいちばんすきです;imouto ha tomodachi to sakkaa wo suru no ga ichi ban suki desu;My younger sister likes playing soccer with her friends the most.;Ma petite sœur aime le plus jouer au football avec ses amis.;FALSE
+3;68;彼女はバスケットボールをするのが好きです;かのじょはバスケットボールをするのがすきです;kanojou ha basuketto booru wo suru no ga suki desu;She likes playing basketball.;Elle aime jouer au basketball.;FALSE
 3;68;下手;へた;heta;Unskillful;Maladroit;TRUE
-3;68;彼の字が下手です;かれのじがへたです;kare no ji ga heta desu;His handwriting is bad.;Son écriture est mauvaise.;TRUE
-3;68;仕事に行く時間です;しごとにいくじかんです;shigoto ni iku jikan desu;It's time to go to work.;C'est l'heure d'aller travailler.;TRUE
+3;68;彼の字が下手です;かれのじがへたです;kare no ji ga heta desu;His handwriting is bad.;Son écriture est mauvaise.;FALSE
+3;68;仕事に行く時間です;しごとにいくじかんです;shigoto ni iku jikan desu;It's time to go to work.;C'est l'heure d'aller travailler.;FALSE
 3;68;走る;はしる;hashiru;To run;Courir;TRUE
 3;68;泳ぐ;およぐ;oyogu;To swim;Nager;TRUE
-3;68;泳ぐのが下手ですから、たくさん練習します;およぐのがへたですから、たくさんれんしゅうします;oyogu no ga heta desu kara, takusan renshuu shimasu;Because I'm bad at swimming, I will practice a lot.;Comme je nage mal, je vais m'entraîner beaucoup.;TRUE
+3;68;泳ぐのが下手ですから、たくさん練習します;およぐのがへたですから、たくさんれんしゅうします;oyogu no ga heta desu kara, takusan renshuu shimasu;Because I'm bad at swimming, I will practice a lot.;Comme je nage mal, je vais m'entraîner beaucoup.;FALSE
 3;68;野球;やきゅう;yakyuu;Baseball;Baseball;TRUE
-3;68;行くの時間だ;いくのじかんだ;iku no jikan da;It's time to go.;C'est l'heure d'y aller.;TRUE
-3;68;今日は学校が休みだと思います;きょうはがっこうがやすみだとおもいます;kyou ha gakkou ga yasumi da to omoimasu;I think school is off today.;Je pense que l'école est fermée aujourd'hui.;TRUE
+3;68;行くの時間だ;いくのじかんだ;iku no jikan da;It's time to go.;C'est l'heure d'y aller.;FALSE
+3;68;今日は学校が休みだと思います;きょうはがっこうがやすみだとおもいます;kyou ha gakkou ga yasumi da to omoimasu;I think school is off today.;Je pense que l'école est fermée aujourd'hui.;FALSE
 3;68;漫画;まんが;manga;Manga;Manga;TRUE
 3;68;取る;とる;toru;To take;Prendre;TRUE
 3;68;弾く;ひく;hiku;To play (an instrument);Jouer (d'un instrument);TRUE
-3;68;どう思いますか;どうおもいますか;dou omoimasu ka;What do you think?;Qu'en pensez-vous ?;TRUE
+3;68;どう思いますか;どうおもいますか;dou omoimasu ka;What do you think?;Qu'en pensez-vous ?;FALSE
 3;68;投げる;なげる;nageru;To throw;Lancer;TRUE
 3;68;頼む;たのむ;tanomu;To ask;Demander;TRUE
 3;68;蹴ります;けります;kerimasu;To kick;Donner un coup de pied;TRUE
 3;68;多分;たぶん;tabun;Maybe;Peut-être;TRUE
-3;68;母に掃除をしてと頼みました;ははにそうじをしてとたのみました;haha ni souji wo shite to tanomimashita;I asked my mother to clean.;J'ai demandé à ma mère de faire le ménage.;TRUE
-3;68;エリカは学校に来ると思います;えりかはがっこうにくるとおもいます;erika wa gakkou ni kuru to omoimasu;I think Erika will come to school.;Je pense qu'Erika viendra à l'école.;TRUE
-3;68;そのテストは多分簡単だと思います;そのテストはたぶんかんたんだとおもいます;so no testo ha tabun kantanda to omoimasu;I think that test is probably easy.;Je pense que ce test est probablement facile.;TRUE
-3;68;愛とは何ですか;あいとはなんですか;ai to ha nan desu ka;What is love?;Qu'est-ce que l'amour ?;TRUE
-3;69;冷蔵庫で大丈夫は1時間です;れいぞうこでだいじょうぶはいちじかんです;reizōko de daijoubu wa ichi jikan desu;It's okay in the fridge for one hour;C'est bon dans le frigo pendant une heure
-3;69;これを取って;これをとって;kore wo totte;Take this;Prends ça
-3;69;お金を取らないでください;おかねをとらないでください;okane wo toranaide kudasai;Please don't take money;Ne prenez pas d'argent s'il vous plaît
-3;69;そのお店に行かないでください;そのおみせにいかないでください;sono omise ni ikanaide kudasai;Please don't go to that shop;Ne va pas dans ce magasin s'il te plaît
-3;69;下を見ないで;したをみないで;shita wo minaide;Don't look down;Ne regarde pas en bas
-3;69;彼女はノートを取るのが速いです;かのじょはのーとをとるのがはやいです;kanojo wa nōto wo toru no ga hayai desu;She is quick at taking notes;Elle prend des notes rapidement
-3;69;文;ぶん;bun;Sentence;Phrase
-3;69;文章;ぶんしょう;bunshou;Text;Texte
-3;69;作文;さくぶん;sakubun;Essay;Rédaction
-3;69;カレンダー;カレンダー;karendā;Calendar;Calendrier
-3;69;そうなんだ;そうなんだ;sou nan da;I see (casual);Ah d'accord (familier)
-3;69;そうなんですよ;そうなんですよ;sou nan desu yo;I see (polite);Ah d'accord (poli)
-3;69;作文を書くのが宿題です;さくぶんをかくのがしゅくだいです;sakubun wo kaku no ga shukudai desu;Writing an essay is the homework;Écrire une rédaction est le devoir
-3;69;雑誌;ざっし;zasshi;Magazine;Magazine
-3;69;返す;かえす;kaesu;To return (something);Rendre
-3;69;並ぶ;ならぶ;narabu;To line up;S'aligner
-3;69;まだ本を返さないでください;まだほんをかえさないでください;mada hon wo kaesanaide kudasai;Please don't return the book yet;Ne rends pas encore le livre s'il te plaît
-3;69;貸す;かす;kasu;To lend;Prêter
-3;69;借りる;かりる;kariru;To borrow;Emprunter
-3;69;友達からペンを借りてください;ともだちからぺんをかりてください;tomodachi kara pen wo karite kudasai;Please borrow a pen from a friend;Emprunte un stylo à un ami s'il te plaît
-3;69;図書館から新しい本を借りて読みました;としょかんからあたらしいほんをかりてよみました;toshokan kara atarashii hon wo karite yomimashita;I borrowed and read a new book from the library;J'ai emprunté et lu un nouveau livre de la bibliothèque
-3;69;他の人にお金を貸さないでください;ほかのひとにおかねをかさないでください;hoka no hito ni okane wo kasanaide kudasai;Please don't lend money to others;Ne prête pas d'argent aux autres s'il te plaît
-3;69;トイレを貸してください;トイレをかしてください;toire wo kashite kudasai;Please lend me the toilet (let me use the restroom);Puis-je utiliser les toilettes s'il vous plaît ?
-3;69;愛してる;あいしてる;aishiteru;I love you;Je t'aime
-3;69;どこ行くの;どこいくの;doko iku no;Where are you going?;Où vas-tu ?
-3;69;食べていない;たべていない;tabeteinai;I'm not eating;Je ne suis pas entrain de manger
-3;69;いつでも来てね;いつでもきてね;itsudemo kite ne;Come anytime;Viens quand tu veux
-3;69;いつもそばにいる;いつもそばにいる;itsumo soba ni iru;I'm always by your side;Je suis toujours à tes côtés
-3;69;何を見ているの;なにをみているの;nani wo miteiru no;What are you looking at?;Que regardes-tu ?
-3;69;あなたは誰に来てほしいですか;あなたはだれにきてほしいですか;anata wa dare ni kite hoshii desu ka;Who do you want to come?;Qui veux-tu voir venir ?
-3;69;ちゃんとやってください;ちゃんとやってください;chanto yatte kudasai;Please do it properly;Fais-le correctement s'il te plaît
-3;69;カナダのパスポートを持っている;カナダのパスポートをもっている;kanada no pasupōto wo motteiru;I have a Canadian passport;J'ai un passeport canadien
-3;69;今日はサッカーをやると思います;きょうはサッカーをやるとおもいます;kyou wa sakka wo yaru to omoimasu;I think I'll play soccer today;Je pense jouer au foot aujourd’hui
-3;69;渡す;わたす;watasu;To hand over;Remettre
-3;69;綺麗なの？;きれいなの？;kireina no ?;Is it pretty?;C'est joli ?
-3;69;鉛筆があるの？;えんぴつがあるの？;enpitsu ga aru no ?;Do you have a pencil?;As-tu un crayon ?
-3;69;何か書くものある？;なにかかくものある？;nani ka kaku mono aru ?;Do you have something to write with?;As-tu quelque chose pour écrire ?
-3;69;父は歩くのが速い;ちちはあるくのがはやい;chichi wa aruku no ga hayai;My father walks fast;Mon père marche vite
-3;69;先生に宿題を渡します;せんせいにしゅくだいをわたします;sensei ni shukudai wo watashimasu;I will hand the homework to the teacher;Je remettrai les devoirs au professeur
-3;69;教科書を買うのが好きなの？;きょうかしょをかうのがすきなの？;kyoukashou wo kau no ga sukina no ?;Do you like buying textbooks?;Aimes-tu acheter des manuels scolaires ?
-3;69;飲んでいるのですか;のんでいるのですか;nondeiru no desu ka;Are you drinking?;Es-tu en train de boire ?
-3;70;駅の道を知っている;えきのみちをしっている;eki no michi wo shitteiru;Know the way to the station;Connaître le chemin de la gare;TRUE
+3;68;母に掃除をしてと頼みました;ははにそうじをしてとたのみました;haha ni souji wo shite to tanomimashita;I asked my mother to clean.;J'ai demandé à ma mère de faire le ménage.;FALSE
+3;68;エリカは学校に来ると思います;えりかはがっこうにくるとおもいます;erika wa gakkou ni kuru to omoimasu;I think Erika will come to school.;Je pense qu'Erika viendra à l'école.;FALSE
+3;68;そのテストは多分簡単だと思います;そのテストはたぶんかんたんだとおもいます;so no testo ha tabun kantanda to omoimasu;I think that test is probably easy.;Je pense que ce test est probablement facile.;FALSE
+3;68;愛とは何ですか;あいとはなんですか;ai to ha nan desu ka;What is love?;Qu'est-ce que l'amour ?;FALSE
+3;69;冷蔵庫で大丈夫は1時間です;れいぞうこでだいじょうぶはいちじかんです;reizōko de daijoubu wa ichi jikan desu;It's okay in the fridge for one hour;C'est bon dans le frigo pendant une heure;FALSE
+3;69;これを取って;これをとって;kore wo totte;Take this;Prends ça;TRUE
+3;69;お金を取らないでください;おかねをとらないでください;okane wo toranaide kudasai;Please don't take money;Ne prenez pas d'argent s'il vous plaît;TRUE
+3;69;そのお店に行かないでください;そのおみせにいかないでください;sono omise ni ikanaide kudasai;Please don't go to that shop;Ne va pas dans ce magasin s'il te plaît;TRUE
+3;69;下を見ないで;したをみないで;shita wo minaide;Don't look down;Ne regarde pas en bas;TRUE
+3;69;彼女はノートを取るのが速いです;かのじょはのーとをとるのがはやいです;kanojo wa nōto wo toru no ga hayai desu;She is quick at taking notes;Elle prend des notes rapidement;FALSE
+3;69;文;ぶん;bun;Sentence;Phrase;TRUE
+3;69;文章;ぶんしょう;bunshou;Text;Texte;TRUE
+3;69;作文;さくぶん;sakubun;Essay;Rédaction;TRUE
+3;69;カレンダー;カレンダー;karendā;Calendar;Calendrier;TRUE
+3;69;そうなんだ;そうなんだ;sou nan da;I see (casual);Ah d'accord (familier);FALSE
+3;69;そうなんですよ;そうなんですよ;sou nan desu yo;I see (polite);Ah d'accord (poli);FALSE
+3;69;作文を書くのが宿題です;さくぶんをかくのがしゅくだいです;sakubun wo kaku no ga shukudai desu;Writing an essay is the homework;Écrire une rédaction est le devoir;FALSE
+3;69;雑誌;ざっし;zasshi;Magazine;Magazine;TRUE
+3;69;返す;かえす;kaesu;To return (something);Rendre;TRUE
+3;69;並ぶ;ならぶ;narabu;To line up;S'aligner;TRUE
+3;69;まだ本を返さないでください;まだほんをかえさないでください;mada hon wo kaesanaide kudasai;Please don't return the book yet;Ne rends pas encore le livre s'il te plaît;FALSE
+3;69;貸す;かす;kasu;To lend;Prêter;TRUE
+3;69;借りる;かりる;kariru;To borrow;Emprunter;TRUE
+3;69;友達からペンを借りてください;ともだちからぺんをかりてください;tomodachi kara pen wo karite kudasai;Please borrow a pen from a friend;Emprunte un stylo à un ami s'il te plaît;FALSE
+3;69;図書館から新しい本を借りて読みました;としょかんからあたらしいほんをかりてよみました;toshokan kara atarashii hon wo karite yomimashita;I borrowed and read a new book from the library;J'ai emprunté et lu un nouveau livre de la bibliothèque;TRUE
+3;69;他の人にお金を貸さないでください;ほかのひとにおかねをかさないでください;hoka no hito ni okane wo kasanaide kudasai;Please don't lend money to others;Ne prête pas d'argent aux autres s'il te plaît;TRUE
+3;69;トイレを貸してください;トイレをかしてください;toire wo kashite kudasai;Please lend me the toilet (let me use the restroom);Puis-je utiliser les toilettes s'il vous plaît ?;TRUE
+3;69;愛してる;あいしてる;aishiteru;I love you;Je t'aime;TRUE
+3;69;どこ行くの;どこいくの;doko iku no;Where are you going?;Où vas-tu ?;TRUE
+3;69;食べていない;たべていない;tabeteinai;I'm not eating;Je ne suis pas entrain de manger;TRUE
+3;69;いつでも来てね;いつでもきてね;itsudemo kite ne;Come anytime;Viens quand tu veux;TRUE
+3;69;いつもそばにいる;いつもそばにいる;itsumo soba ni iru;I'm always by your side;Je suis toujours à tes côtés;TRUE
+3;69;何を見ているの;なにをみているの;nani wo miteiru no;What are you looking at?;Que regardes-tu ?;TRUE
+3;69;あなたは誰に来てほしいですか;あなたはだれにきてほしいですか;anata wa dare ni kite hoshii desu ka;Who do you want to come?;Qui veux-tu voir venir ?;TRUE
+3;69;ちゃんとやってください;ちゃんとやってください;chanto yatte kudasai;Please do it properly;Fais-le correctement s'il te plaît;TRUE
+3;69;カナダのパスポートを持っている;カナダのパスポートをもっている;kanada no pasupōto wo motteiru;I have a Canadian passport;J'ai un passeport canadien;TRUE
+3;69;今日はサッカーをやると思います;きょうはサッカーをやるとおもいます;kyou wa sakka wo yaru to omoimasu;I think I'll play soccer today;Je pense jouer au foot aujourd’hui;FALSE
+3;69;渡す;わたす;watasu;To hand over;Remettre;TRUE
+3;69;綺麗なの？;きれいなの？;kireina no ?;Is it pretty?;C'est joli ?;FALSE
+3;69;鉛筆があるの？;えんぴつがあるの？;enpitsu ga aru no ?;Do you have a pencil?;As-tu un crayon ?;FALSE
+3;69;何か書くものある？;なにかかくものある？;nani ka kaku mono aru ?;Do you have something to write with?;As-tu quelque chose pour écrire ?;FALSE
+3;69;父は歩くのが速い;ちちはあるくのがはやい;chichi wa aruku no ga hayai;My father walks fast;Mon père marche vite;FALSE
+3;69;先生に宿題を渡します;せんせいにしゅくだいをわたします;sensei ni shukudai wo watashimasu;I will hand the homework to the teacher;Je remettrai les devoirs au professeur;FALSE
+3;69;教科書を買うのが好きなの？;きょうかしょをかうのがすきなの？;kyoukashou wo kau no ga sukina no ?;Do you like buying textbooks?;Aimes-tu acheter des manuels scolaires ?;FALSE
+3;69;飲んでいるのですか;のんでいるのですか;nondeiru no desu ka;Are you drinking?;Es-tu en train de boire ?;FALSE
+3;70;駅の道を知っている;えきのみちをしっている;eki no michi wo shitteiru;Know the way to the station;Connaître le chemin de la gare;FALSE
 3;70;足;あし;ashi;Foot/Leg;Pied/Jambe;TRUE
 3;70;痛い;いたい;itai;Painful;Douloureux;TRUE
 3;70;風邪;かぜ;kaze;Cold (illness);Rhume;TRUE
-3;70;風邪だと思います;かぜだとおもいます;kaze da to omoimasu;I think it's a cold;Je pense que c'est un rhume;TRUE
+3;70;風邪だと思います;かぜだとおもいます;kaze da to omoimasu;I think it's a cold;Je pense que c'est un rhume;FALSE
 3;70;頭;あたま;atama;Head;Tête;TRUE
 3;70;体;からだ;karada;Body;Corps;TRUE
 3;70;医者;いしゃ;isha;Doctor;Médecin;TRUE
 3;70;薬;くすり;kusuri;Medicine;Médicament;TRUE
 3;70;背;せ;se;Height/Back;Taille/Dos;TRUE
-3;70;タバコは体に悪い;たばこはからだにわるい;tabako wa karada ni warui;Smoking is bad for the body;Fumer est mauvais pour le corps;TRUE
+3;70;タバコは体に悪い;たばこはからだにわるい;tabako wa karada ni warui;Smoking is bad for the body;Fumer est mauvais pour le corps;FALSE
 3;70;鼻;はな;hana;Nose;Nez;TRUE
-3;70;犬は鼻がいいです;いぬははながいいです;inu ha hana ga ii desu;Dogs have a good sense of smell;Les chiens ont un bon odorat;TRUE
+3;70;犬は鼻がいいです;いぬははながいいです;inu ha hana ga ii desu;Dogs have a good sense of smell;Les chiens ont un bon odorat;FALSE
 3;70;病気;びょうき;byouki;Illness;Maladie;TRUE
 3;70;顔;かお;kao;Face;Visage;TRUE
 3;70;歯;は;ha;Tooth;Dent;TRUE
 3;70;磨く;みがく;migaku;To brush/Polish;Brosser/Polir;TRUE
 3;70;髪;かみ;kami;Hair;Cheveux;TRUE
 3;70;耳;みみ;mimi;Ear;Oreille;TRUE
-3;70;昨日髪を切りました;きのうかみをきりました;kinou kami wo kirimashita;I cut my hair yesterday;J'ai coupé mes cheveux hier;TRUE
-3;70;歯をちゃんと磨いていますか;はをちゃんとみがいていますか;ha wo chanto migaiteimasu ka;Are you properly brushing your teeth?;Te brosses-tu correctement les dents ?;TRUE
+3;70;昨日髪を切りました;きのうかみをきりました;kinou kami wo kirimashita;I cut my hair yesterday;J'ai coupé mes cheveux hier;FALSE
+3;70;歯をちゃんと磨いていますか;はをちゃんとみがいていますか;ha wo chanto migaiteimasu ka;Are you properly brushing your teeth?;Te brosses-tu correctement les dents ?;FALSE
 3;70;痩せます;やせます;yasemasu;To lose weight;Maigrir;TRUE
 3;70;眼鏡;めがね;megane;Glasses;Lunettes;TRUE
 3;70;背中;せなか;senaka;Back;Dos;TRUE
-3;70;背中をまっすぐにしてください;せなかをまっすぐにしてください;senaka wo massugu ni shite kudasai;Please straighten your back;Redressez votre dos, s'il vous plaît;TRUE
+3;70;背中をまっすぐにしてください;せなかをまっすぐにしてください;senaka wo massugu ni shite kudasai;Please straighten your back;Redressez votre dos, s'il vous plaît;FALSE
 3;70;運動;うんどう;undou;Exercise;Exercice;TRUE
-3;70;彼女は毎朝仕事に行く前に運動する;かのじょはまいあさしごとにいくまえにうんどうする;kanojou ha maiasa shigoto ni iku mae ni undou suru;She exercises every morning before going to work;Elle fait de l'exercice tous les matins avant d'aller au travail;TRUE
-3;70;10年前はもっと太っていました;じゅうねんまえはもっとふとっていました;juu nen mae ha motto futtimashita;10 years ago, I was heavier;Il y a 10 ans, j'étais plus gros(se);TRUE
+3;70;彼女は毎朝仕事に行く前に運動する;かのじょはまいあさしごとにいくまえにうんどうする;kanojou ha maiasa shigoto ni iku mae ni undou suru;She exercises every morning before going to work;Elle fait de l'exercice tous les matins avant d'aller au travail;FALSE
+3;70;10年前はもっと太っていました;じゅうねんまえはもっとふとっていました;juu nen mae ha motto futtimashita;10 years ago, I was heavier;Il y a 10 ans, j'étais plus gros(se);FALSE
 3;70;痩せる;やせる;yaseru;To lose weight;Maigrir;TRUE
 3;70;太る;ふとる;futoru;To gain weight;Grossir;TRUE
 3;70;鼻水;はなみず;hanamizu;Runny nose;Écoulement nasal;TRUE
-3;70;たくさん鼻水が出ます;たくさんはなみずがでます;takusan hanamizu ga demasu;I have a lot of runny nose;J'ai beaucoup d'écoulement nasal;TRUE
+3;70;たくさん鼻水が出ます;たくさんはなみずがでます;takusan hanamizu ga demasu;I have a lot of runny nose;J'ai beaucoup d'écoulement nasal;FALSE
 3;71;国;くに;kuni;Country;Pays;True
 3;71;本当の事;ほんとうのこと;hontou no koto;The truth;La vérité;True
-3;71;本当の事を言って;ほんとうのことをいって;hontou no koto wo itte;Tell the truth;Dis la vérité;True
-3;71;雨を見た事があるの;あめをみたことがあるの;ame wo mita koto ga aru no;Have you ever seen the rain?;As-tu déjà vu la pluie ?;True
-3;71;このアニメは見た事があります;このアニメはみたことがあります;kono anime ha mita koto ga arimasu;I have seen this anime;J'ai vu cet anime;True
-3;71;私はたくさんの国に友達がいる;わたしはたくさんのくににともだちがいる;watashi ha takusan no kuni ni tomodachi ga iru;I have many friends in different countries;J'ai beaucoup d'amis dans différents pays;True
-3;71;私は外国語を勉強するのが好きなんです;わたしはがいこくごをべんきょうするのがすきなんです;watashi ha gaikokugo wo benkyou suru no ga sukinan desu;I like studying foreign languages;J'aime étudier les langues étrangères;True
+3;71;本当の事を言って;ほんとうのことをいって;hontou no koto wo itte;Tell the truth;Dis la vérité;FALSE
+3;71;雨を見た事があるの;あめをみたことがあるの;ame wo mita koto ga aru no;Have you ever seen the rain?;As-tu déjà vu la pluie ?;FALSE
+3;71;このアニメは見た事があります;このアニメはみたことがあります;kono anime ha mita koto ga arimasu;I have seen this anime;J'ai vu cet anime;FALSE
+3;71;私はたくさんの国に友達がいる;わたしはたくさんのくににともだちがいる;watashi ha takusan no kuni ni tomodachi ga iru;I have many friends in different countries;J'ai beaucoup d'amis dans différents pays;FALSE
+3;71;私は外国語を勉強するのが好きなんです;わたしはがいこくごをべんきょうするのがすきなんです;watashi ha gaikokugo wo benkyou suru no ga sukinan desu;I like studying foreign languages;J'aime étudier les langues étrangères;FALSE
 3;71;便利;べんり;benri;Convenient;Pratique;True
-3;71;お国はどちらですか;おくにはどちらですか;o kuni ha dochira desu ka;Where are you from?;D'où venez-vous ?;True
+3;71;お国はどちらですか;おくにはどちらですか;o kuni ha dochira desu ka;Where are you from?;D'où venez-vous ?;FALSE
 3;71;旅館;りょかん;ryokan;Japanese inn;Auberge japonaise;True
-3;71;もう歩きたくありません;もうあるきたくありません;mou arukitaku arimasen;I don't want to walk anymore;Je ne veux plus marcher;True
+3;71;もう歩きたくありません;もうあるきたくありません;mou arukitaku arimasen;I don't want to walk anymore;Je ne veux plus marcher;FALSE
 3;71;つもり;つもり;tsumori;Intention;Intention;True
-3;71;家にいるつもりです;いえにいるつもりです;ie ni iru tsumori desu;I intend to stay at home;J'ai l'intention de rester à la maison;True
-3;71;この本はいいですが、長いです;このほんはいいですが、ながいです;kono hon ha ii desu ga, nagai desu;This book is good, but it's long;Ce livre est bien, mais il est long;True
-3;71;漢字の勉強は大変ですが、とても楽しいです;かんじのべんきょうはたいへんですが、とてもたのしいです;kanji no benkyou ha taihen desu ga, totemo tanoshii desu;Studying kanji is difficult, but very fun;Étudier les kanji est difficile, mais très amusant;True
-3;71;この旅館は綺麗だが、高い;このりょかんはきれいだが、たかい;kono ryokan ha kireida ga, takai;This ryokan is beautiful, but expensive;Cette auberge est jolie, mais chère;True
-3;71;この旅館に行った事がありますか;このりょかんにいったことがありますか;kono ryokan ni ittakoto ga arimasu ka;Have you ever been to this ryokan?;Êtes-vous déjà allé dans cette auberge ?;True
-3;71;後でやります;あとでやります;ato de yarimasu;I'll do it later;Je le ferai plus tard;True
-3;71;また後で来ましょう;またあとできましょう;mata ato de kimashou;Let's come again later;Revenons plus tard;True
-3;71;映画を見た後で家へ帰ります;えいがをみたあとでいえへかえります;eiga wo mita ato de ie he kaerimasu;After watching the movie, I'll go home;Après avoir vu le film, je rentrerai chez moi;True
-3;71;韓国に行きたかった;かんこくにいきたかった;kankoku ni ikitakatta;I wanted to go to Korea;Je voulais aller en Corée;True
-3;71;週末はテレビを見たり買い物に行ったりします;しゅうまつはテレビをみたりかいものにいったりします;shuumatsu ha telebi wo mitari kaimono ni iittarishimasu;On weekends, I watch TV and go shopping;Le week-end, je regarde la télé et je fais du shopping;True
-3;71;チケットを買いたかったです;チケットをかいたかったです;chiketto wo kaitakatta desu;I wanted to buy a ticket;Je voulais acheter un billet;True
-3;71;夏はだんだん暑くなります;なつはだんだんあつくなります;natsu ha dandan atsuku narimasu;In summer, it gradually gets hotter;En été, il fait de plus en plus chaud;True
-3;71;強くなりたい;つよくなりたい;tsuyoku naritai;I want to become stronger;Je veux devenir plus fort;True
-3;71;コンビニは便利で安い;コンビニはべんりでやすい;konbini ha benri de yasui;Convenience stores are convenient and cheap;Les konbinis sont pratiques et bon marché;True
-3;71;彼女の家は大きくて高い;かのじょのいえはおおきくてたかい;kanojo no ie ha ookikute takai;Her house is big and expensive;Sa maison est grande et chère;True
-3;71;私は寝るのが好きで、走るのが大好きです;わたしはねるのがすきで、はしるのがだいすきです;watashi ha nero suki de, hashiru no ga daisukidesu;I like sleeping, and I love running;J'aime dormir et j'adore courir;True
+3;71;家にいるつもりです;いえにいるつもりです;ie ni iru tsumori desu;I intend to stay at home;J'ai l'intention de rester à la maison;FALSE
+3;71;この本はいいですが、長いです;このほんはいいですが、ながいです;kono hon ha ii desu ga, nagai desu;This book is good, but it's long;Ce livre est bien, mais il est long;FALSE
+3;71;漢字の勉強は大変ですが、とても楽しいです;かんじのべんきょうはたいへんですが、とてもたのしいです;kanji no benkyou ha taihen desu ga, totemo tanoshii desu;Studying kanji is difficult, but very fun;Étudier les kanji est difficile, mais très amusant;FALSE
+3;71;この旅館は綺麗だが、高い;このりょかんはきれいだが、たかい;kono ryokan ha kireida ga, takai;This ryokan is beautiful, but expensive;Cette auberge est jolie, mais chère;FALSE
+3;71;この旅館に行った事がありますか;このりょかんにいったことがありますか;kono ryokan ni ittakoto ga arimasu ka;Have you ever been to this ryokan?;Êtes-vous déjà allé dans cette auberge ?;FALSE
+3;71;後でやります;あとでやります;ato de yarimasu;I'll do it later;Je le ferai plus tard;FALSE
+3;71;また後で来ましょう;またあとできましょう;mata ato de kimashou;Let's come again later;Revenons plus tard;FALSE
+3;71;映画を見た後で家へ帰ります;えいがをみたあとでいえへかえります;eiga wo mita ato de ie he kaerimasu;After watching the movie, I'll go home;Après avoir vu le film, je rentrerai chez moi;FALSE
+3;71;韓国に行きたかった;かんこくにいきたかった;kankoku ni ikitakatta;I wanted to go to Korea;Je voulais aller en Corée;FALSE
+3;71;週末はテレビを見たり買い物に行ったりします;しゅうまつはテレビをみたりかいものにいったりします;shuumatsu ha telebi wo mitari kaimono ni iittarishimasu;On weekends, I watch TV and go shopping;Le week-end, je regarde la télé et je fais du shopping;FALSE
+3;71;チケットを買いたかったです;チケットをかいたかったです;chiketto wo kaitakatta desu;I wanted to buy a ticket;Je voulais acheter un billet;FALSE
+3;71;夏はだんだん暑くなります;なつはだんだんあつくなります;natsu ha dandan atsuku narimasu;In summer, it gradually gets hotter;En été, il fait de plus en plus chaud;FALSE
+3;71;強くなりたい;つよくなりたい;tsuyoku naritai;I want to become stronger;Je veux devenir plus fort;FALSE
+3;71;コンビニは便利で安い;コンビニはべんりでやすい;konbini ha benri de yasui;Convenience stores are convenient and cheap;Les konbinis sont pratiques et bon marché;FALSE
+3;71;彼女の家は大きくて高い;かのじょのいえはおおきくてたかい;kanojo no ie ha ookikute takai;Her house is big and expensive;Sa maison est grande et chère;FALSE
+3;71;私は寝るのが好きで、走るのが大好きです;わたしはねるのがすきで、はしるのがだいすきです;watashi ha nero suki de, hashiru no ga daisukidesu;I like sleeping, and I love running;J'aime dormir et j'adore courir;FALSE
 3;71;一周;いっしゅう;isshuu;Go around;Tour complet;True
-3;71;夏休みに海外旅行に出かけるつもりです;なつやすみにかいがいりょこうにでかけるつもりです;natsu yasumi ni kaigai ryokou ni dekakeru tsumori desu;I plan to go on an overseas trip during summer vacation;Je prévois de partir en voyage à l'étranger pendant les vacances d'été;True
-3;71;僕は日本を一周したいです;ぼくはにほんをいっしゅうしたいです;boku ha nihon wo isshuu shitai desu;I want to travel around Japan;Je veux faire le tour du Japon;True
-3;71;この辺に映画館はありますか;このへんにえいがかんはありますか;kono hen ni eigakan ha arimasu ka;Is there a movie theater around here?;Y a-t-il un cinéma dans le coin ?;True
+3;71;夏休みに海外旅行に出かけるつもりです;なつやすみにかいがいりょこうにでかけるつもりです;natsu yasumi ni kaigai ryokou ni dekakeru tsumori desu;I plan to go on an overseas trip during summer vacation;Je prévois de partir en voyage à l'étranger pendant les vacances d'été;FALSE
+3;71;僕は日本を一周したいです;ぼくはにほんをいっしゅうしたいです;boku ha nihon wo isshuu shitai desu;I want to travel around Japan;Je veux faire le tour du Japon;FALSE
+3;71;この辺に映画館はありますか;このへんにえいがかんはありますか;kono hen ni eigakan ha arimasu ka;Is there a movie theater around here?;Y a-t-il un cinéma dans le coin ?;FALSE
 3;71;辺;へん;hen;Vicinity;Environs;True
 3;71;辺り;あたり;atari;Vicinity;Environs;True
 3;71;事;こと;koto;Thing (abstract);Chose (abstraite);True
-3;72;彼の家は駅の近くでとても便利な所にある;かれのいえはえきのちかくでとてもべんりなところにある;kare no ie wa eki no chikaku de totemo benri na tokoro ni aru;His house is in a very convenient place near the station;Sa maison est dans un endroit très pratique près de la gare;TRUE
-3;72;私が来た;わたしがきた;watashi ga kita;I came;Je suis venu(e);TRUE
-3;72;どうだった;どうだった;dou datta;How was it?;Comment c'était ?;TRUE
-3;72;二つの間にはちょっとした違いがある;ふたつのあいだにはちょっとしたちがいがある;futatsu no aida ni wa chotto shita chigai ga aru;There is a slight difference between the two;Il y a une petite différence entre les deux;TRUE
-3;72;男の子は葡萄を食べ過ぎた;おとこのこはぶどうをたべすぎた;otoko no ko wa budou wo tabesugita;The boy ate too many grapes;Le garçon a trop mangé de raisins;TRUE
-3;72;牛乳を飲み過ぎて、気持ちが悪いです;ぎゅうにゅうをのみすぎて、きもちがわるいです;gyuunyuu wo nomisugite, kimochi ga warui desu;I drank too much milk and feel sick;J'ai trop bu de lait et je me sens mal;TRUE
-3;72;布団の外は寒すぎる;ふとんのそとはさむすぎる;futon no soto wa samusugiru;It's too cold outside the futon;Il fait trop froid en dehors du futon;TRUE
-3;72;暑くなった;あつくなった;atsuku natta;It got hot;Il a fait chaud;TRUE
-3;72;財布がない;さいふがない;saifu ga nai;I don't have my wallet;Je n'ai pas mon portefeuille;TRUE
-3;72;運動しなかった;うんどうしなかった;undou shinakatta;I didn't exercise;Je n'ai pas fait d'exercice;TRUE
-3;72;なぜそれをしなかったの;なぜそれをしなかったの;naze sore wo shinakatta no;Why didn't you do that?;Pourquoi ne l'as-tu pas fait ?;TRUE
-3;72;雨なので家に帰った;あめなのでいえにかえった;ame na node ie ni kaetta;I went home because it rained;Je suis rentré(e) à la maison parce qu'il pleuvait;TRUE
-3;72;家に帰った方がいいです;いえにかえったほうがいいです;ie ni kaetta hou ga ii desu;You should go home;Tu devrais rentrer à la maison;TRUE
-3;72;田中さんは昨日仕事を休んだと思います;たなかさんはきのうしごとをやすんだとおもいます;Tanaka-san wa kinou shigoto wo yasunda to omoimasu;I think Mr. Tanaka took a day off from work yesterday;Je pense que M. Tanaka a pris un jour de congé hier;TRUE
-3;72;私のブラウスがどこにもないです;わたしのぶらうすがどこにもないです;watashi no burausu ga doko ni mo nai desu;My blouse is nowhere to be found;Ma blouse est introuvable;TRUE
-3;72;その手紙に何と書いてあるの;そのてがみになんとかいてあるの;sono tegami ni nan to kaite aru no;What is written in that letter?;Qu'est-ce qui est écrit dans cette lettre ?;TRUE
-3;72;新聞を読んでいなかった;しんぶんをよんでいなかった;shinbun wo yondeinakatta;I hadn't read the newspaper;Je n'avais pas lu le journal;TRUE
-3;72;まだ起きているの;まだおきているの;mada okiteiru no;Are you still awake?;Es-tu encore réveillé(e) ?;TRUE
-3;72;授業は十時から始まる;じゅぎょうはじゅうじからはじまる;jugyou wa juuji kara hajimaru;Class starts at 10 o’clock;Le cours commence à 10 heures;TRUE
-3;72;どの料理を選びますか;どのりょうりをえらびますか;dono ryouri wo erabimasu ka;Which dish will you choose?;Quel plat choisis-tu ?;TRUE
+3;72;彼の家は駅の近くでとても便利な所にある;かれのいえはえきのちかくでとてもべんりなところにある;kare no ie wa eki no chikaku de totemo benri na tokoro ni aru;His house is in a very convenient place near the station;Sa maison est dans un endroit très pratique près de la gare;FALSE
+3;72;私が来た;わたしがきた;watashi ga kita;I came;Je suis venu(e);FALSE
+3;72;どうだった;どうだった;dou datta;How was it?;Comment c'était ?;FALSE
+3;72;二つの間にはちょっとした違いがある;ふたつのあいだにはちょっとしたちがいがある;futatsu no aida ni wa chotto shita chigai ga aru;There is a slight difference between the two;Il y a une petite différence entre les deux;FALSE
+3;72;男の子は葡萄を食べ過ぎた;おとこのこはぶどうをたべすぎた;otoko no ko wa budou wo tabesugita;The boy ate too many grapes;Le garçon a trop mangé de raisins;FALSE
+3;72;牛乳を飲み過ぎて、気持ちが悪いです;ぎゅうにゅうをのみすぎて、きもちがわるいです;gyuunyuu wo nomisugite, kimochi ga warui desu;I drank too much milk and feel sick;J'ai trop bu de lait et je me sens mal;FALSE
+3;72;布団の外は寒すぎる;ふとんのそとはさむすぎる;futon no soto wa samusugiru;It's too cold outside the futon;Il fait trop froid en dehors du futon;FALSE
+3;72;暑くなった;あつくなった;atsuku natta;It got hot;Il a fait chaud;FALSE
+3;72;財布がない;さいふがない;saifu ga nai;I don't have my wallet;Je n'ai pas mon portefeuille;FALSE
+3;72;運動しなかった;うんどうしなかった;undou shinakatta;I didn't exercise;Je n'ai pas fait d'exercice;FALSE
+3;72;なぜそれをしなかったの;なぜそれをしなかったの;naze sore wo shinakatta no;Why didn't you do that?;Pourquoi ne l'as-tu pas fait ?;FALSE
+3;72;雨なので家に帰った;あめなのでいえにかえった;ame na node ie ni kaetta;I went home because it rained;Je suis rentré(e) à la maison parce qu'il pleuvait;FALSE
+3;72;家に帰った方がいいです;いえにかえったほうがいいです;ie ni kaetta hou ga ii desu;You should go home;Tu devrais rentrer à la maison;FALSE
+3;72;田中さんは昨日仕事を休んだと思います;たなかさんはきのうしごとをやすんだとおもいます;Tanaka-san wa kinou shigoto wo yasunda to omoimasu;I think Mr. Tanaka took a day off from work yesterday;Je pense que M. Tanaka a pris un jour de congé hier;FALSE
+3;72;私のブラウスがどこにもないです;わたしのぶらうすがどこにもないです;watashi no burausu ga doko ni mo nai desu;My blouse is nowhere to be found;Ma blouse est introuvable;FALSE
+3;72;その手紙に何と書いてあるの;そのてがみになんとかいてあるの;sono tegami ni nan to kaite aru no;What is written in that letter?;Qu'est-ce qui est écrit dans cette lettre ?;FALSE
+3;72;新聞を読んでいなかった;しんぶんをよんでいなかった;shinbun wo yondeinakatta;I hadn't read the newspaper;Je n'avais pas lu le journal;FALSE
+3;72;まだ起きているの;まだおきているの;mada okiteiru no;Are you still awake?;Es-tu encore réveillé(e) ?;FALSE
+3;72;授業は十時から始まる;じゅぎょうはじゅうじからはじまる;jugyou wa juuji kara hajimaru;Class starts at 10 o’clock;Le cours commence à 10 heures;FALSE
+3;72;どの料理を選びますか;どのりょうりをえらびますか;dono ryouri wo erabimasu ka;Which dish will you choose?;Quel plat choisis-tu ?;FALSE
 3;72;選ぶ;えらぶ;erabu;To choose;Choisir;TRUE
-3;72;子供たちがサッカーをして遊んでいる;こどもたちがさっかーをしてあそんでいる;kodomo-tachi ga sakkaa wo shite asondeiru;The children are playing soccer and having fun;Les enfants sont entrain de jouer au football et de s'amuser;TRUE
-3;72;何かなくしたんですか;なにかなくしたんですか;nanika nakushitan desu ka;Did you lose something?;As-tu perdu quelque chose ?;TRUE
-3;72;彼女は窓の所に立った;かのじょはまどのところにたった;kanojo wa mado no tokoro ni tatta;She stood by the window;Elle s'est tenue près de la fenêtre;TRUE
-3;72;あなたが全部料理したの;あなたがぜんぶりょうりしたの;anata ga zenbu ryourishita no;Did you cook everything?;As-tu tout cuisiné ?;TRUE
-3;72;誰がこれをしたの;だれがこれをしたの;dare ga kore wo shita no;Who did this?;Qui a fait ça ?;TRUE
-3;72;このコートはポケットが多すぎる;このこーとはぽけっとがおおすぎる;kono kooto wa poketto ga oo sugiru;This coat has too many pockets;Ce manteau a trop de poches;TRUE
-3;72;私の名前はこれに書いてあります;わたしのなまえはこれにかいてあります;watashi no namae wa kore ni kaite arimasu;My name is written on this;Mon nom est écrit dessus;TRUE
-3;72;休んだ方がいいです;やすんだほうがいいです;yasunda hou ga ii desu;You should take a rest;Tu devrais te reposer;TRUE
-3;72;まだ食べていない;まだたべていない;mada tabeteinai;I haven't eaten yet;Je n’ai pas encore mangé;TRUE
-3;72;それは多すぎます;それはおおすぎます;sore wa oo sugimasu;That’s too much;C'est trop;TRUE
+3;72;子供たちがサッカーをして遊んでいる;こどもたちがさっかーをしてあそんでいる;kodomo-tachi ga sakkaa wo shite asondeiru;The children are playing soccer and having fun;Les enfants sont entrain de jouer au football et de s'amuser;FALSE
+3;72;何かなくしたんですか;なにかなくしたんですか;nanika nakushitan desu ka;Did you lose something?;As-tu perdu quelque chose ?;FALSE
+3;72;彼女は窓の所に立った;かのじょはまどのところにたった;kanojo wa mado no tokoro ni tatta;She stood by the window;Elle s'est tenue près de la fenêtre;FALSE
+3;72;あなたが全部料理したの;あなたがぜんぶりょうりしたの;anata ga zenbu ryourishita no;Did you cook everything?;As-tu tout cuisiné ?;FALSE
+3;72;誰がこれをしたの;だれがこれをしたの;dare ga kore wo shita no;Who did this?;Qui a fait ça ?;FALSE
+3;72;このコートはポケットが多すぎる;このこーとはぽけっとがおおすぎる;kono kooto wa poketto ga oo sugiru;This coat has too many pockets;Ce manteau a trop de poches;FALSE
+3;72;私の名前はこれに書いてあります;わたしのなまえはこれにかいてあります;watashi no namae wa kore ni kaite arimasu;My name is written on this;Mon nom est écrit dessus;FALSE
+3;72;休んだ方がいいです;やすんだほうがいいです;yasunda hou ga ii desu;You should take a rest;Tu devrais te reposer;FALSE
+3;72;まだ食べていない;まだたべていない;mada tabeteinai;I haven't eaten yet;Je n’ai pas encore mangé;FALSE
+3;72;それは多すぎます;それはおおすぎます;sore wa oo sugimasu;That’s too much;C'est trop;FALSE
 3;73;貼る;はる;haru;To stick/To paste;Coller;TRUE
 3;73;郵便局;ゆうびんきょく;yuubinkyouku;Post office;Bureau de poste;TRUE
 3;73;郵便;ゆうびん;yuubin;Mail;Courrier;TRUE
 3;73;誕生日;たんじょうび;tanjoubi;Birthday;Anniversaire;TRUE
 3;73;切手;きって;kitte;Stamp;Timbre;TRUE
 3;73;送る;おくる;okuru;To send;Envoyer;TRUE
-3;73;千円かかる;せんえんかかる;senen kakaru;Costs 1000 yen;Coûte 1000 yens;TRUE
-3;73;切手を書いたいんですが;きってをかいたいんですが;kitte wo kaitain desu ga;I would like to buy a stamp;Je voudrais acheter un timbre;TRUE
-3;73;東京駅にいたいんですが;とうきょうえきにいたいんですが;toukyou eki ni itain desu ga;I would like to go to Tokyo Station;Je voudrais aller à la gare de Tokyo;TRUE
-3;73;手紙を送りたいのですが;てがみをおくりたいのですが;tegami wo okuritainodesuga;I would like to send a letter;Je voudrais envoyer une lettre;TRUE
+3;73;千円かかる;せんえんかかる;senen kakaru;Costs 1000 yen;Coûte 1000 yens;FALSE
+3;73;切手を書いたいんですが;きってをかいたいんですが;kitte wo kaitain desu ga;I would like to buy a stamp;Je voudrais acheter un timbre;FALSE
+3;73;東京駅にいたいんですが;とうきょうえきにいたいんですが;toukyou eki ni itain desu ga;I would like to go to Tokyo Station;Je voudrais aller à la gare de Tokyo;FALSE
+3;73;手紙を送りたいのですが;てがみをおくりたいのですが;tegami wo okuritainodesuga;I would like to send a letter;Je voudrais envoyer une lettre;FALSE
 3;73;葉書;はがき;hagaki;Postcard;Carte postale;TRUE
 3;73;封筒;ふうとう;fuutou;Envelope;Enveloppe;TRUE
 3;73;包み;つつみ;tsutsumi;Package;Paquet;TRUE
 3;73;小包;こづつみ;kodutsumi;Parcel;Colis;TRUE
 3;73;中身;なかみ;nakami;Contents;Contenu;TRUE
 3;73;独身;どくしん;dokushin;Single (not married);Célibataire;TRUE
-3;73;鞄の中身は何ですか;かばんのなかみはなんですか;kaban no nakami wa nan desu ka;What is inside the bag?;Que contient le sac ?;TRUE
-3;73;包みの中身を見せてください;つつみのなかみをみせてください;tsutsumi no nakami wo misete kudasai;Please show me the contents of the package.;Montrez-moi le contenu du paquet, s'il vous plaît;TRUE
+3;73;鞄の中身は何ですか;かばんのなかみはなんですか;kaban no nakami wa nan desu ka;What is inside the bag?;Que contient le sac ?;FALSE
+3;73;包みの中身を見せてください;つつみのなかみをみせてください;tsutsumi no nakami wo misete kudasai;Please show me the contents of the package.;Montrez-moi le contenu du paquet, s'il vous plaît;FALSE
 3;73;ポスト;ポスト;posuto;Mailbox;Boîte aux lettres;TRUE
 3;73;住所;じゅうしょ;juusho;Address;Adresse;TRUE
 3;73;通知する;つうちする;tsuuchi suru;To notify;Notifier;TRUE
 3;73;届ける;とどける;todokeru;To deliver;Livrer;TRUE
-3;73;この花を母に届ける;このはなをははにとどける;kono hana wo haha ni todokeru;I will deliver these flowers to my mother.;Je vais livrer ces fleurs à ma mère;TRUE
+3;73;この花を母に届ける;このはなをははにとどける;kono hana wo haha ni todokeru;I will deliver these flowers to my mother.;Je vais livrer ces fleurs à ma mère;FALSE
 3;73;航空便;こうくうびん;koukuubin;Airmail;Courrier aérien;TRUE
 3;73;船便;ふなびん;funabin;Surface mail (by ship);Courrier maritime;TRUE
 3;73;船;ふね;fune;Boat;Bateau;TRUE
 3;73;変更;へんこう;henkou;Change;Changement;TRUE
-3;73;先月住所を変更した;せんげつじゅうしょをへんこうした;sengestu juusho wo henkou shita;I changed my address last month;J'ai changé d'adresse le mois dernier;TRUE
-3;73;二人の子供を大学まで出すのは大変だった;ふたりのこどもをだいがくまでだすのはたいへんだった;futari no kodomo wo daigaku made dasu no wa taihen datta;It was difficult to send both children to university;Envoyer les deux enfants à l'université était difficile;TRUE
+3;73;先月住所を変更した;せんげつじゅうしょをへんこうした;sengestu juusho wo henkou shita;I changed my address last month;J'ai changé d'adresse le mois dernier;FALSE
+3;73;二人の子供を大学まで出すのは大変だった;ふたりのこどもをだいがくまでだすのはたいへんだった;futari no kodomo wo daigaku made dasu no wa taihen datta;It was difficult to send both children to university;Envoyer les deux enfants à l'université était difficile;FALSE
 3;73;出す;だす;dasu;To send/To put out;Envoyer/Sortir;TRUE
-3;73;彼の住所が分かりますか;かれのじゅうしょがわかりますか;kareno juusho ga wakarimasu ka;Do you know his address?;Connaissez-vous son adresse ?;TRUE
+3;73;彼の住所が分かりますか;かれのじゅうしょがわかりますか;kareno juusho ga wakarimasu ka;Do you know his address?;Connaissez-vous son adresse ?;FALSE
 3;73;配達;はいたつ;haitatsu;Delivery;Livraison;TRUE
 3;73;お宅;おたく;otaku;Your house (polite);Votre domicile;TRUE
-3;73;お宅に配達物です;おたくにはいたつものです;otaku ni haitatsu mono desu;This is a delivery for your house;C'est une livraison pour votre domicile;TRUE
-3;73;両親からの手紙が届いた;りょうしんからのてがみがとどいた;ryoushin kara no tegami ga todoita;A letter from my parents has arrived;Une lettre de mes parents est arrivée;TRUE
+3;73;お宅に配達物です;おたくにはいたつものです;otaku ni haitatsu mono desu;This is a delivery for your house;C'est une livraison pour votre domicile;FALSE
+3;73;両親からの手紙が届いた;りょうしんからのてがみがとどいた;ryoushin kara no tegami ga todoita;A letter from my parents has arrived;Une lettre de mes parents est arrivée;FALSE
 3;73;書留;かきとめ;kakitome;Registered mail;Courrier recommandé;TRUE
 3;73;書き留め;かきとめ;kakitome;To write down;Écrire;TRUE
-3;73;彼女は新聞配達をしています;かのじょはしんぶんはいたつをしています;kanojo ha shinbun haitatsu wo shiteimasu;She delivers newspapers;Elle distribue des journaux;TRUE
-3;73;荷物が届くには三日かかる;にもつがとどくにはみっかかかる;nimotsu ga todoku ni wa mikka kakaru;It takes three days for the package to arrive;Le colis met trois jours à arriver;TRUE
-3;73;一番上の棚に手が届きますか;いちばんうえのたなにてがとどきますか;ichiban ue no tana ni te ga todokimasu ka;Can you reach the top shelf?;Pouvez-vous atteindre l'étagère du haut ?;TRUE
-3;73;郵便局はもう閉まっています;ゆうびんきょくはもうしまっています;yuubinkyoku ha mou shimatteimasu;The post office is already closed;Le bureau de poste est déjà fermé;TRUE
-3;73;このドアは鍵がかかっている;このドアはかぎがかかっている;kono doa ha kagi ga kakatteiru;This door is locked;Cette porte est verrouillée;TRUE
-3;73;今日は郵便が来るのが遅い;きょうはゆうびんがくるのがおそい;kyou ha yuubin ga kuru no ga osoi;The mail is late today;Le courrier arrive tard aujourd’hui;TRUE
-3;73;今朝は郵便が少なかった;けさはゆうびんがすくなかった;kesa ha yuubin ga sukunakatta;There was little mail this morning;Il y avait peu de courrier ce matin;TRUE
+3;73;彼女は新聞配達をしています;かのじょはしんぶんはいたつをしています;kanojo ha shinbun haitatsu wo shiteimasu;She delivers newspapers;Elle distribue des journaux;FALSE
+3;73;荷物が届くには三日かかる;にもつがとどくにはみっかかかる;nimotsu ga todoku ni wa mikka kakaru;It takes three days for the package to arrive;Le colis met trois jours à arriver;FALSE
+3;73;一番上の棚に手が届きますか;いちばんうえのたなにてがとどきますか;ichiban ue no tana ni te ga todokimasu ka;Can you reach the top shelf?;Pouvez-vous atteindre l'étagère du haut ?;FALSE
+3;73;郵便局はもう閉まっています;ゆうびんきょくはもうしまっています;yuubinkyoku ha mou shimatteimasu;The post office is already closed;Le bureau de poste est déjà fermé;FALSE
+3;73;このドアは鍵がかかっている;このドアはかぎがかかっている;kono doa ha kagi ga kakatteiru;This door is locked;Cette porte est verrouillée;FALSE
+3;73;今日は郵便が来るのが遅い;きょうはゆうびんがくるのがおそい;kyou ha yuubin ga kuru no ga osoi;The mail is late today;Le courrier arrive tard aujourd’hui;FALSE
+3;73;今朝は郵便が少なかった;けさはゆうびんがすくなかった;kesa ha yuubin ga sukunakatta;There was little mail this morning;Il y avait peu de courrier ce matin;FALSE
 3;74;初心者;ししんしゃ;shishinsha;Beginner;Débutant;TRUE
 3;74;オタク;オタク;otaku;Geek / Nerd;Otaku / Geek;TRUE
 3;74;伝説;でんせつ;densetsu;Legend;Légende;TRUE
@@ -1488,14 +1488,14 @@
 3;74;勝ちます;かちます;katsu;To win;Gagner;TRUE
 3;74;負けます;まけます;makeru;To lose;Perdre;TRUE
 3;74;試合;しあい;shiai;Match;Match;TRUE
-3;74;僕は英語が得意ではない;ぼくはえいごがとくいではない;boku ha eigo ga tokui de wa nai;I'm not good at English;Je ne suis pas bon en anglais;TRUE
-3;74;このボスのレベルは高すぎる;このボスのレベルはたかすぎる;kono bosu no reberu ha takasugiru;This boss's level is too high;Le niveau de ce boss est trop élevé;TRUE
-3;74;彼の日本語のレベルはまだ低いです;かれのにほんごのレベルはまだひくいです;kare no nihongo no reberu ha mada hikui desu;His Japanese level is still low;Son niveau de japonais est encore faible;TRUE
-3;74;日本のチームは試合に勝ちました;にほんのチームはしあいにかちました;nihon no chiimu ha shiai ni kachimashita;The Japanese team won the match;L'équipe japonaise a gagné le match;TRUE
+3;74;僕は英語が得意ではない;ぼくはえいごがとくいではない;boku ha eigo ga tokui de wa nai;I'm not good at English;Je ne suis pas bon en anglais;FALSE
+3;74;このボスのレベルは高すぎる;このボスのレベルはたかすぎる;kono bosu no reberu ha takasugiru;This boss's level is too high;Le niveau de ce boss est trop élevé;FALSE
+3;74;彼の日本語のレベルはまだ低いです;かれのにほんごのレベルはまだひくいです;kare no nihongo no reberu ha mada hikui desu;His Japanese level is still low;Son niveau de japonais est encore faible;FALSE
+3;74;日本のチームは試合に勝ちました;にほんのチームはしあいにかちました;nihon no chiimu ha shiai ni kachimashita;The Japanese team won the match;L'équipe japonaise a gagné le match;FALSE
 3;74;苦手;にがて;nigate;Bad at;Faible en;TRUE
 3;74;最初;さいしょ;saisho;First / At first;Au début;TRUE
-3;74;ゲームを最初から見ていた;げーむをさいしょからみていた;geemu wo saisho kara miteita;I was watching the game from the beginning;Je regardais le jeu depuis le début;TRUE
-3;74;田中先生は最初に来ました;たなかせんせいはさいしょにきました;tanaka sensei ha saisho ni kimashita;Mr. Tanaka came first;Le professeur Tanaka est arrivé en premier;TRUE
+3;74;ゲームを最初から見ていた;げーむをさいしょからみていた;geemu wo saisho kara miteita;I was watching the game from the beginning;Je regardais le jeu depuis le début;FALSE
+3;74;田中先生は最初に来ました;たなかせんせいはさいしょにきました;tanaka sensei ha saisho ni kimashita;Mr. Tanaka came first;Le professeur Tanaka est arrivé en premier;FALSE
 3;75;渋谷;しぶや;shibuya;Shibuya;Shibuya;TRUE
 3;75;差します;さします;sashimasu;To hold up / to point;Pointer / Tenir au-dessus (ex : parapluie);TRUE
 3;75;原宿;はらじゅく;harajuku;Harajuku;Harajuku;TRUE
@@ -1505,70 +1505,70 @@
 3;75;池袋;いけぶくろ;ikebukuro;Ikebukuro;Ikebukuro;TRUE
 3;75;乗ります;のります;norimasu;To ride;Monter (dans un transport);TRUE
 3;75;新宿;しんじゅく;shinjuku;Shinjuku;Shinjuku;TRUE
-3;75;地下鉄には多くの人が乗っています;ちかてつにはおおくのひとがのっています;chikatetsu ni ha ooku no hito ga notteimasu;There are many people on the subway;Il y a beaucoup de gens dans le métro;TRUE
-3;75;交差点を通りました;こうさてんをとおりました;kousaten wo toorimashita;Passed through the intersection;On a traversé le carrefour;TRUE
+3;75;地下鉄には多くの人が乗っています;ちかてつにはおおくのひとがのっています;chikatetsu ni ha ooku no hito ga notteimasu;There are many people on the subway;Il y a beaucoup de gens dans le métro;FALSE
+3;75;交差点を通りました;こうさてんをとおりました;kousaten wo toorimashita;Passed through the intersection;On a traversé le carrefour;FALSE
 3;75;線;せん;sen;Line;Ligne;TRUE
 3;75;山手線;やまのてせん;yamanotesen;Yamanote Line;Ligne Yamanote;TRUE
 3;75;混みます;こみます;komimasu;To be crowded;Être bondé;TRUE
-3;75;通りは人で混んでいます;とおりはひとでこんでいます;toori ha hito de kondeimasu;The street is crowded with people;La rue est bondée de monde;TRUE
+3;75;通りは人で混んでいます;とおりはひとでこんでいます;toori ha hito de kondeimasu;The street is crowded with people;La rue est bondée de monde;FALSE
 3;75;面する;めんする;mensuru;To face (e.g., ocean);Faire face à;TRUE
-3;75;この建物は海に面している;このたてものはうみにめんしている;kono tatemono ha umi ni menshiteiru;This building faces the sea;Ce bâtiment fait face à la mer;TRUE
-3;75;メトロで多くのサラリーマンを見た;メトロでおおくのサラリーマンをみた;meturo de ooku no sarariiman wo mita;Saw many salarymen on the metro;Vu beaucoup de salariés dans le métro;TRUE
-3;75;山手線はサラリーマンでとても混んでいた;やまのてせんはサラリーマンでとてもこんでいた;yamanotesen ha sarariiman de totemo kondeita;Yamanote Line was very crowded with salarymen;La ligne Yamanote était très bondée de salariés;TRUE
+3;75;この建物は海に面している;このたてものはうみにめんしている;kono tatemono ha umi ni menshiteiru;This building faces the sea;Ce bâtiment fait face à la mer;FALSE
+3;75;メトロで多くのサラリーマンを見た;メトロでおおくのサラリーマンをみた;meturo de ooku no sarariiman wo mita;Saw many salarymen on the metro;Vu beaucoup de salariés dans le métro;FALSE
+3;75;山手線はサラリーマンでとても混んでいた;やまのてせんはサラリーマンでとてもこんでいた;yamanotesen ha sarariiman de totemo kondeita;Yamanote Line was very crowded with salarymen;La ligne Yamanote était très bondée de salariés;FALSE
 3;75;都市;とし;toshi;City;Ville;TRUE
 3;75;首都;しゅと;shuto;Capital;Capitale;TRUE
 3;75;点;てん;ten;Point;Point;TRUE
 3;75;場所;ばしょ;basho;Place;Endroit;TRUE
 3;75;市;し;shi;City (administrative);Ville (administratif);TRUE
 3;75;人口;じんこう;jinkou;Population;Population;TRUE
-3;75;増えます;ふえます;fuemasu;To increase (intransitive);Augmenter;TRUE
-3;75;減ります;へります;ferimasu;To decrease (intransitive);Diminuer;TRUE
-3;75;人口が増えている;じんこうがふえている;jinko ga fueteiru;The population is increasing;La population augmente;TRUE
+3;75;増えます;ふえます;fuemasu;To increase (intransitive);Augmenter;FALSE
+3;75;減ります;へります;ferimasu;To decrease (intransitive);Diminuer;FALSE
+3;75;人口が増えている;じんこうがふえている;jinko ga fueteiru;The population is increasing;La population augmente;FALSE
 3;75;広島;ひろしま;hiroshima;Hiroshima;Hiroshima;TRUE
 3;75;銀座;ぎんざ;ginza;Ginza;Ginza;TRUE
-3;75;都市の人口が減りました;としのじんこうがへりました;toshi no jinkou ga ferimashita;The city’s population has decreased;La population de la ville a diminué;TRUE
+3;75;都市の人口が減りました;としのじんこうがへりました;toshi no jinkou ga ferimashita;The city’s population has decreased;La population de la ville a diminué;FALSE
 3;75;数;かず;kazu;Number;Nombre;TRUE
 3;75;集まります;あつまります;atsumarimasu;To gather;Se rassembler;TRUE
 3;75;住民;じゅうみん;juumin;Residents;Habitants;TRUE
 3;75;広場;ひろば;hiroba;Plaza/Square;Place publique;TRUE
-3;75;5時にまたここに集まるう;ごじにまたここにあつまるう;go ji ni mata koko ni atsumaruu;Let’s gather again here at 5 o’clock;Rassemblons-nous ici à 17h;TRUE
-3;75;住民たちは私に手紙を書きました;じゅうみんたちはわたしにてがみをかきました;juumin tachi ha watashi ni tegami wo kakimashita;The residents wrote me a letter;Les habitants m'ont écrit une lettre;TRUE
-3;75;広場に人が集まった;ひろばにひとがあつまった;hiroba ni hito ga atsumata;People gathered at the plaza;Les gens se sont rassemblés sur la place;TRUE
-3;75;広場に人がたくさん集まっている;ひろばにひとがたくさんあつまっている;hiroba ni hito ga takusan atsumatteiru;There are many people gathering in the plaza;Il y a beaucoup de gens qui se rassemblent sur la place;TRUE
-3;75;お腹が減った;おなかがへった;onakagahetta;I'm hungry;J'ai faim;TRUE
-3;75;コンサートの集まりは悪かったです;こんさーとのあつまりはわるかったです;konsaato no atsumari ha warukattadesu;The concert had poor attendance;Le concert était peu fréquenté;TRUE
-3;75;こんな場所に行ったことがない;こんなばしょにいったことがない;konna bashou ni itta koto ga nai;I’ve never been to a place like this;Je ne suis jamais allé à un endroit comme celui-ci;TRUE
+3;75;5時にまたここに集まるう;ごじにまたここにあつまるう;go ji ni mata koko ni atsumaruu;Let’s gather again here at 5 o’clock;Rassemblons-nous ici à 17h;FALSE
+3;75;住民たちは私に手紙を書きました;じゅうみんたちはわたしにてがみをかきました;juumin tachi ha watashi ni tegami wo kakimashita;The residents wrote me a letter;Les habitants m'ont écrit une lettre;FALSE
+3;75;広場に人が集まった;ひろばにひとがあつまった;hiroba ni hito ga atsumata;People gathered at the plaza;Les gens se sont rassemblés sur la place;FALSE
+3;75;広場に人がたくさん集まっている;ひろばにひとがたくさんあつまっている;hiroba ni hito ga takusan atsumatteiru;There are many people gathering in the plaza;Il y a beaucoup de gens qui se rassemblent sur la place;FALSE
+3;75;お腹が減った;おなかがへった;onakagahetta;I'm hungry;J'ai faim;FALSE
+3;75;コンサートの集まりは悪かったです;こんさーとのあつまりはわるかったです;konsaato no atsumari ha warukattadesu;The concert had poor attendance;Le concert était peu fréquenté;FALSE
+3;75;こんな場所に行ったことがない;こんなばしょにいったことがない;konna bashou ni itta koto ga nai;I’ve never been to a place like this;Je ne suis jamais allé à un endroit comme celui-ci;FALSE
 3;76;選手;せんしゅ;senshu;Athlete;Athlète;TRUE
 3;76;水泳;すいえい;suiei;Swimming;Natation;TRUE
 3;76;陸上;りくじょう;rikujou;Track and field;Athlétisme;TRUE
 3;76;オリンピック;オリンピック;orinpikku;Olympics;Jeux olympiques;TRUE
-3;76;オリンピックに出ます;オリンピックにでます;orinpikku ni demasu;To participate in the Olympics;Participer aux Jeux olympiques;TRUE
+3;76;オリンピックに出ます;オリンピックにでます;orinpikku ni demasu;To participate in the Olympics;Participer aux Jeux olympiques;FALSE
 3;76;体操;たいそう;taisou;Gymnastics;Gymnastique;TRUE
-3;76;体操をやっています;たいそうをやっています;taisou wo yatteimasu;Doing gymnastics;Faire de la gymnastique;TRUE
-3;76;体操を見るのが好きです;たいそうをみるのがすきです;taisou wo miru no ga suki desu;I like watching gymnastics;J’aime regarder la gymnastique;TRUE
-3;76;泳ぐ前に体操をしてください;およぐまえにたいそうをしてください;oyogu mae ni taisou wo shite kudasai;Please warm up before swimming;Faites de la gymnastique avant de nager;TRUE
-3;76;オリンピックを楽しみにしています;オリンピックをたのしみにしています;orinpikku wo tanoshimi ni shiteiruno;Looking forward to the Olympics;J’ai hâte aux Jeux olympiques;TRUE
+3;76;体操をやっています;たいそうをやっています;taisou wo yatteimasu;Doing gymnastics;Faire de la gymnastique;FALSE
+3;76;体操を見るのが好きです;たいそうをみるのがすきです;taisou wo miru no ga suki desu;I like watching gymnastics;J’aime regarder la gymnastique;FALSE
+3;76;泳ぐ前に体操をしてください;およぐまえにたいそうをしてください;oyogu mae ni taisou wo shite kudasai;Please warm up before swimming;Faites de la gymnastique avant de nager;FALSE
+3;76;オリンピックを楽しみにしています;オリンピックをたのしみにしています;orinpikku wo tanoshimi ni shiteiruno;Looking forward to the Olympics;J’ai hâte aux Jeux olympiques;FALSE
 3;76;柔道;じゅうどう;juudou;Judo;Judo;TRUE
-3;76;柔道を練習しています;じゅうどうをれんしゅうしています;juudou wo renshuu shiteimasu;Practicing judo;Je m'entraîne au judo;TRUE
+3;76;柔道を練習しています;じゅうどうをれんしゅうしています;juudou wo renshuu shiteimasu;Practicing judo;Je m'entraîne au judo;FALSE
 3;76;種目;しゅもく;shumoku;Event/Discipline;Discipline;TRUE
-3;76;この選手は三種目に出ます;このせんしゅはさんしゅもくにでます;kono senshu ha san shumoku ni demasu;This athlete participates in three events;Cet athlète participe à trois disciplines;TRUE
+3;76;この選手は三種目に出ます;このせんしゅはさんしゅもくにでます;kono senshu ha san shumoku ni demasu;This athlete participates in three events;Cet athlète participe à trois disciplines;FALSE
 3;76;会場;かいじょう;kaijou;Venue;Lieu (événement);TRUE
 3;76;卓球;たっきゅう;takkyuu;Table tennis;Tennis de table;TRUE
-3;76;動かないでください;うごかないでください;ugokanaide kudasai;Please don't move;Ne bougez pas;TRUE
+3;76;動かないでください;うごかないでください;ugokanaide kudasai;Please don't move;Ne bougez pas;FALSE
 3;76;上手い;うまい;umai;Skilled;Doué;TRUE
 3;76;空手;からて;karate;karate;Karaté;TRUE
-3;76;選手は空手の試合で負けた;せんしゅはからてのしあいでまけた;senshu ha karate no shiai de maketa;The athlete lost the karate match;L’athlète a perdu le match de karaté;TRUE
-3;76;彼は背が低いですが、バスケットボールが上手いです;かれはせがひくいですが、ばすけっとぼーるがうまいです;kare ha se ga hikui desu ga, baskettobooru ga umai desu;He's short, but good at basketball;Il est petit, mais bon au basket;TRUE
-3;76;この電車は電気で動きます;このでんしゃはでんきでうごきます;kono densha ha denki de ugokimasu;This train runs on electricity;Ce train fonctionne à l’électricité;TRUE
+3;76;選手は空手の試合で負けた;せんしゅはからてのしあいでまけた;senshu ha karate no shiai de maketa;The athlete lost the karate match;L’athlète a perdu le match de karaté;FALSE
+3;76;彼は背が低いですが、バスケットボールが上手いです;かれはせがひくいですが、ばすけっとぼーるがうまいです;kare ha se ga hikui desu ga, baskettobooru ga umai desu;He's short, but good at basketball;Il est petit, mais bon au basket;FALSE
+3;76;この電車は電気で動きます;このでんしゃはでんきでうごきます;kono densha ha denki de ugokimasu;This train runs on electricity;Ce train fonctionne à l’électricité;FALSE
 3;76;金;きん;kin;Gold;Or;TRUE
 3;76;金属;きんぞく;kinzoku;Metal;Métal;TRUE
-3;76;金は銀より重い;きんはぎんよりおもい;kin ha gin yori omoi;Gold is heavier than silver;L’or est plus lourd que l’argent;TRUE
-3;76;この机は木でできている;このつくえはきでできている;kono tsukue ha ki de dekiteiru;This desk is made of wood;Ce bureau est en bois;TRUE
+3;76;金は銀より重い;きんはぎんよりおもい;kin ha gin yori omoi;Gold is heavier than silver;L’or est plus lourd que l’argent;FALSE
+3;76;この机は木でできている;このつくえはきでできている;kono tsukue ha ki de dekiteiru;This desk is made of wood;Ce bureau est en bois;FALSE
 3;76;銅;どう;dou;Copper;Cuivre;TRUE
-3;76;銅メダルを見せてください;どうめだるをみせてください;dou medaru wo misete kudasai;Please show me the bronze medal;Montrez-moi la médaille de bronze;TRUE
-3;76;彼は銅メダルを取りました;かれはどうめだるをとりました;kare ha dou medaru wo torimashita;He got a bronze medal;Il a obtenu une médaille de bronze;TRUE
-3;76;彼は金でメダルを作りました;かれはきんでめだるをつくりました;kare ha kin de medaru wo tsukurimashita;He made a medal out of gold;Il a fabriqué une médaille en or;TRUE
-3;77;早くに何か動いている物がある;はやくになにかうごいているものがある;hayaku ni nanika ugoiteiru mono ga aru;Something is moving quickly;Quelque chose bouge rapidement;TRUE
+3;76;銅メダルを見せてください;どうめだるをみせてください;dou medaru wo misete kudasai;Please show me the bronze medal;Montrez-moi la médaille de bronze;FALSE
+3;76;彼は銅メダルを取りました;かれはどうめだるをとりました;kare ha dou medaru wo torimashita;He got a bronze medal;Il a obtenu une médaille de bronze;FALSE
+3;76;彼は金でメダルを作りました;かれはきんでめだるをつくりました;kare ha kin de medaru wo tsukurimashita;He made a medal out of gold;Il a fabriqué une médaille en or;FALSE
+3;77;早くに何か動いている物がある;はやくになにかうごいているものがある;hayaku ni nanika ugoiteiru mono ga aru;Something is moving quickly;Quelque chose bouge rapidement;FALSE
 3;77;何か;なにか;nanika;Something;Quelque chose;TRUE
 3;77;何も;なにも;nanimo;Nothing;Rien;TRUE
 3;77;行けます;いけます;ikemasu;Can go;Pouvoir aller;TRUE
@@ -1576,536 +1576,621 @@
 3;77;音が大きい;おとがおおきい;oto ga ookii;The sound is loud;Le son est fort;TRUE
 3;77;動けますか;うごけますか;ugokemasu ka;Can (you) move?;Pouvez-vous bouger ?;TRUE
 3;77;会えます;あえます;aemasu;Can meet;Pouvoir rencontrer;TRUE
-3;77;金曜日に会えますか;きんようびにあえますか;kinyoubi ni aemasu ka;Can (we) meet on Friday?;Peut-on se voir vendredi ?;TRUE
-3;77;ここから何も見えない;ここからなにもみえない;koko kara nanimo mienai;Can't see anything from here;On ne voit rien d'ici;TRUE
-3;77;彼は怖くて動けなかった;かれはこわくてうごけなかった;kare wa kowakute ugokenakatta;He was too scared to move;Il était trop effrayé pour bouger;TRUE
-3;77;鳥の声が聞こえませんでした;とりのこえがきこえませんでした;tori no koe ga kikoemasen deshita;Couldn't hear the birds;Je n'entendais pas les oiseaux;TRUE
-3;77;切符はどこで買えますか;きっぷはどこでかえますか;kippu wa doko de kaemasu ka;Where can I buy a ticket?;Où puis-je acheter un billet ?;TRUE
-3;77;彼は若く見えますね;かれはわかくみえますね;kare wa wakaku miesmasu ne;He looks young, doesn't he?;Il a l'air jeune, non ?;TRUE
-3;77;飛行機の音が聞こえた;ひこうきのおとがきこえた;hikouki no oto ga kikoeta;I heard the airplane;J'ai entendu l'avion;TRUE
-3;77;カードで払います;かーどではらいます;kaado de haraimasu;I will pay by card;Je vais payer par carte;TRUE
-3;77;肉が食べられません;にくがたべられません;niku ga taberaremasen;Can't eat meat;Je ne peux pas manger de viande;TRUE
-3;77;彼女の鳥は飛べない;かのじょのとりはとべない;kanojo no tori wa tobenai;Her bird can't fly;Son oiseau ne peut pas voler;TRUE
-3;77;ダニエルはお箸が使えない;だにえるはおはしがつかえない;danieru wa o hashi ga tsukaenai;Daniel can't use chopsticks;Daniel ne peut pas utiliser les baguettes;TRUE
-3;77;この飛行機はカナダへ飛べる;このひこうきはかなだへとべる;kono hikouki wa kanada e toberu;This airplane can fly to Canada;Cet avion peut aller au Canada;TRUE
+3;77;金曜日に会えますか;きんようびにあえますか;kinyoubi ni aemasu ka;Can (we) meet on Friday?;Peut-on se voir vendredi ?;FALSE
+3;77;ここから何も見えない;ここからなにもみえない;koko kara nanimo mienai;Can't see anything from here;On ne voit rien d'ici;FALSE
+3;77;彼は怖くて動けなかった;かれはこわくてうごけなかった;kare wa kowakute ugokenakatta;He was too scared to move;Il était trop effrayé pour bouger;FALSE
+3;77;鳥の声が聞こえませんでした;とりのこえがきこえませんでした;tori no koe ga kikoemasen deshita;Couldn't hear the birds;Je n'entendais pas les oiseaux;FALSE
+3;77;切符はどこで買えますか;きっぷはどこでかえますか;kippu wa doko de kaemasu ka;Where can I buy a ticket?;Où puis-je acheter un billet ?;FALSE
+3;77;彼は若く見えますね;かれはわかくみえますね;kare wa wakaku miesmasu ne;He looks young, doesn't he?;Il a l'air jeune, non ?;FALSE
+3;77;飛行機の音が聞こえた;ひこうきのおとがきこえた;hikouki no oto ga kikoeta;I heard the airplane;J'ai entendu l'avion;FALSE
+3;77;カードで払います;かーどではらいます;kaado de haraimasu;I will pay by card;Je vais payer par carte;FALSE
+3;77;肉が食べられません;にくがたべられません;niku ga taberaremasen;Can't eat meat;Je ne peux pas manger de viande;FALSE
+3;77;彼女の鳥は飛べない;かのじょのとりはとべない;kanojo no tori wa tobenai;Her bird can't fly;Son oiseau ne peut pas voler;FALSE
+3;77;ダニエルはお箸が使えない;だにえるはおはしがつかえない;danieru wa o hashi ga tsukaenai;Daniel can't use chopsticks;Daniel ne peut pas utiliser les baguettes;FALSE
+3;77;この飛行機はカナダへ飛べる;このひこうきはかなだへとべる;kono hikouki wa kanada e toberu;This airplane can fly to Canada;Cet avion peut aller au Canada;FALSE
 3;77;信じる;しんじる;shinjiru;To believe;Croire;TRUE
-3;77;信じられない;しんじられない;shinjirarenai;Can't believe;Je n'arrive pas à croire;TRUE
-3;77;何を使えますか;なにをつかえますか;nani wo tsukaremasu ka;What can (you) use?;Que pouvez-vous utiliser ?;TRUE
-3;77;彼女が言ったことを覚えていますか;かのじょがいったことをおぼえていますか;kanojo ga itta koto wo oboeteimasu ka;Do you remember what she said?;Vous souvenez-vous de ce qu'elle a dit ?;TRUE
-3;77;話を信じられませんでした;はなしをしんじられませんでした;hanashi wo shinjiraremasendeshita;Couldn't believe the story;Je n'ai pas pu croire l'histoire;TRUE
-3;77;彼女の言うことは分かれません;かのじょのいうことはわかれません;kanojo no iu koto wa wakaremasen;I can't understand what she says;Je ne comprends pas ce qu'elle dit;TRUE
-3;77;彼の言うことは信じられない;かれのいうことはしんじられない;kare no iu koto wa shinjirarenai;Can't believe what he says;Je ne peux pas croire ce qu'il dit;TRUE
+3;77;信じられない;しんじられない;shinjirarenai;Can't believe;Je n'arrive pas à croire;FALSE
+3;77;何を使えますか;なにをつかえますか;nani wo tsukaremasu ka;What can (you) use?;Que pouvez-vous utiliser ?;FALSE
+3;77;彼女が言ったことを覚えていますか;かのじょがいったことをおぼえていますか;kanojo ga itta koto wo oboeteimasu ka;Do you remember what she said?;Vous souvenez-vous de ce qu'elle a dit ?;FALSE
+3;77;話を信じられませんでした;はなしをしんじられませんでした;hanashi wo shinjiraremasendeshita;Couldn't believe the story;Je n'ai pas pu croire l'histoire;FALSE
+3;77;彼女の言うことは分かれません;かのじょのいうことはわかれません;kanojo no iu koto wa wakaremasen;I can't understand what she says;Je ne comprends pas ce qu'elle dit;FALSE
+3;77;彼の言うことは信じられない;かれのいうことはしんじられない;kare no iu koto wa shinjirarenai;Can't believe what he says;Je ne peux pas croire ce qu'il dit;FALSE
 3;77;誰にも;だれにも;darenimo;To no one;À personne;TRUE
-3;77;誰にも言わないで;だれにもいわないで;darenimo iwanaide;Don't tell anyone;Ne le dis à personne;TRUE
+3;77;誰にも言わないで;だれにもいわないで;darenimo iwanaide;Don't tell anyone;Ne le dis à personne;FALSE
 3;77;直す;なおす;naosu;To fix;Réparer;TRUE
 3;77;飴;あめ;ame;Candy;Bonbon;TRUE
 3;77;踊る;おどる;odoru;To dance;Danser;TRUE
-3;77;これを直すことができますか;これをなおすことができますか;kore wo naosu koto ga dekimasu ka;Can (you) fix this?;Peux-tu réparer ça ?;TRUE
-3;77;テレビを直すことができません;てれびをなおすことができません;terebi wo naosu koto ga dekimasen;Can't fix the TV;Je ne peux pas réparer la télévision;TRUE
-3;77;どんな音が聞こえましたか;どんなおとがきこえましたか;donna oto ga kikoemashitaka;What kind of sound did (you) hear?;Quel genre de son as-tu entendu ?;TRUE
+3;77;これを直すことができますか;これをなおすことができますか;kore wo naosu koto ga dekimasu ka;Can (you) fix this?;Peux-tu réparer ça ?;FALSE
+3;77;テレビを直すことができません;てれびをなおすことができません;terebi wo naosu koto ga dekimasen;Can't fix the TV;Je ne peux pas réparer la télévision;FALSE
+3;77;どんな音が聞こえましたか;どんなおとがきこえましたか;donna oto ga kikoemashitaka;What kind of sound did (you) hear?;Quel genre de son as-tu entendu ?;FALSE
 3;78;君;きみ;kimi;You (informal);Toi;TRUE
 3;78;珍しい;めずらしい;mezurashii;Rare;Rare;TRUE
 3;78;プレゼント;プレゼント;purezento;Present;Cadeau;TRUE
-3;78;君は一つじゃない;きみはひとつじゃない;kimi wa hitotsu janai;You are not alone;Tu n'es pas seul;TRUE
-3;78;ここが君たちの新しい家だ;ここがきみたちのあたらしいいえだ;koko ga kimitachi no atarashii ie da;This is your new home;Voici votre nouvelle maison;TRUE
+3;78;君は一つじゃない;きみはひとつじゃない;kimi wa hitotsu janai;You are not alone;Tu n'es pas seul;FALSE
+3;78;ここが君たちの新しい家だ;ここがきみたちのあたらしいいえだ;koko ga kimitachi no atarashii ie da;This is your new home;Voici votre nouvelle maison;FALSE
 3;78;為;ため;tame;For (the sake of);Pour;TRUE
-3;78;これはみんなのための映画です;これはみんなのためのえいがです;kore wa minna no tame no eiga desu;This is a movie for everyone;Ceci est un film pour tout le monde;TRUE
-3;78;君の気持ちを知りたい;きみのきもちをしりたい;kimi no kimochi wo shiritai;I want to know your feelings;Je veux connaître tes sentiments;TRUE
-3;78;兄に珍しい本を買ってあげました;あににめずらしいほんをかってあげました;ani ni mezurashii hon wo katte agemashita;I bought a rare book for my older brother;J'ai acheté un livre rare pour mon grand frère;TRUE
-3;78;妻のために犬の散歩をしてあげました;つまのためにいぬのさんぽをしてあげました;tsuma no tame ni inu no sanpou wo shite agemashita;I walked the dog for my wife;J'ai promené le chien pour ma femme;TRUE
-3;78;外国人のためのいい辞書がありません;がいこくじんのためのいいじしょがありません;gaikokujin no tame no ii jishou ga arimasen;There isn't a good dictionary for foreigners;Il n’y a pas de bon dictionnaire pour les étrangers;TRUE
-3;78;もう少し取ってあげましょう;もうすこしとってあげましょう;mou sukoshi totte agemashou;Let me get a little more for you;Je vais t'en prendre un peu plus;TRUE
+3;78;これはみんなのための映画です;これはみんなのためのえいがです;kore wa minna no tame no eiga desu;This is a movie for everyone;Ceci est un film pour tout le monde;FALSE
+3;78;君の気持ちを知りたい;きみのきもちをしりたい;kimi no kimochi wo shiritai;I want to know your feelings;Je veux connaître tes sentiments;FALSE
+3;78;兄に珍しい本を買ってあげました;あににめずらしいほんをかってあげました;ani ni mezurashii hon wo katte agemashita;I bought a rare book for my older brother;J'ai acheté un livre rare pour mon grand frère;FALSE
+3;78;妻のために犬の散歩をしてあげました;つまのためにいぬのさんぽをしてあげました;tsuma no tame ni inu no sanpou wo shite agemashita;I walked the dog for my wife;J'ai promené le chien pour ma femme;FALSE
+3;78;外国人のためのいい辞書がありません;がいこくじんのためのいいじしょがありません;gaikokujin no tame no ii jishou ga arimasen;There isn't a good dictionary for foreigners;Il n’y a pas de bon dictionnaire pour les étrangers;FALSE
+3;78;もう少し取ってあげましょう;もうすこしとってあげましょう;mou sukoshi totte agemashou;Let me get a little more for you;Je vais t'en prendre un peu plus;FALSE
 3;78;探す;さがす;sagasu;To search;Chercher;TRUE
-3;78;駅を探しているんですが;えきをさがしているんですが;eki wo sagashiteirun desu ga;I'm looking for the station;Je cherche la gare;TRUE
-3;78;これは探していたものです;これはさがしていたものです;kore wa sagashiteita mono desu;This was the thing I was looking for;C’était la chose que je cherchais;TRUE
-3;78;子供に本を読んでやった;こどもにほんをよんでやった;kodomo ni hon wo yondeyatta;I read a book to my child;J’ai lu un livre à mon enfant;TRUE
-3;78;息子に自転車を買ってやった;むすこにじてんしゃをかってやった;musuko ni jitensha wo katte yatta;I bought a bicycle for my son;J’ai acheté un vélo pour mon fils;TRUE
-3;78;牛乳を買ってくれてありがとう;ぎゅうにゅうをかってくれてありがとう;gyuunyuu wo katte kurete arigatou;Thank you for buying me milk;Merci de m’avoir acheté du lait;TRUE
-3;78;手伝ってくれる;てつだってくれる;tetsudatte kureru;Will you help me?;Tu peux m’aider ?;TRUE
-3;78;娘は私の車を洗ってくれた;むすめはわたしのくるまをあらってくれた;musume ha watashi no kuruma wo aratte kureta;My daughter washed my car for me;Ma fille a lavé ma voiture;TRUE
+3;78;駅を探しているんですが;えきをさがしているんですが;eki wo sagashiteirun desu ga;I'm looking for the station;Je cherche la gare;FALSE
+3;78;これは探していたものです;これはさがしていたものです;kore wa sagashiteita mono desu;This was the thing I was looking for;C’était la chose que je cherchais;FALSE
+3;78;子供に本を読んでやった;こどもにほんをよんでやった;kodomo ni hon wo yondeyatta;I read a book to my child;J’ai lu un livre à mon enfant;FALSE
+3;78;息子に自転車を買ってやった;むすこにじてんしゃをかってやった;musuko ni jitensha wo katte yatta;I bought a bicycle for my son;J’ai acheté un vélo pour mon fils;FALSE
+3;78;牛乳を買ってくれてありがとう;ぎゅうにゅうをかってくれてありがとう;gyuunyuu wo katte kurete arigatou;Thank you for buying me milk;Merci de m’avoir acheté du lait;FALSE
+3;78;手伝ってくれる;てつだってくれる;tetsudatte kureru;Will you help me?;Tu peux m’aider ?;FALSE
+3;78;娘は私の車を洗ってくれた;むすめはわたしのくるまをあらってくれた;musume ha watashi no kuruma wo aratte kureta;My daughter washed my car for me;Ma fille a lavé ma voiture;FALSE
 3;78;すごい;すごい;sugoi;Amazing;Incroyable;FALSE
 3;78;必要;ひつよう;hitsuyou;Necessary;Nécessaire;TRUE
-3;78;この本は授業に必要です;このほんはじゅぎょうにひつようです;kono hon ha jugyou ni hitsuyou desu;This book is necessary for class;Ce livre est nécessaire pour le cours;TRUE
+3;78;この本は授業に必要です;このほんはじゅぎょうにひつようです;kono hon ha jugyou ni hitsuyou desu;This book is necessary for class;Ce livre est nécessaire pour le cours;FALSE
 3;78;これはまだ必要なの;これはまだひつようなの;kore wa mada hitsuyou na no;Do you still need this?;Est-ce que t'as encore besoin de ça ?;TRUE
 3;78;けど;けど;kedo;But;Mais;TRUE
-3;78;水が欲しいんだけど;みずがほしいんだけど;mizu ga hoshiin da kedo;I would like some water;Je voudrais de l'eau;TRUE
-3;78;コーヒーが欲しいんだけど;コーヒーがほしいんだけど;ko-hi- ga hoshiin da kedo;I would like some coffee;Je voudrais du café;TRUE
-3;78;この車は古いんだけど結構よく走ります;このくるまはふるいんだけどけっこうよくはしります;kono kuruma ha furui n da kedo kekkou yoku hashirimasu;This car is old but runs well;Cette voiture est vieille, mais elle roule bien;TRUE
+3;78;水が欲しいんだけど;みずがほしいんだけど;mizu ga hoshiin da kedo;I would like some water;Je voudrais de l'eau;FALSE
+3;78;コーヒーが欲しいんだけど;コーヒーがほしいんだけど;ko-hi- ga hoshiin da kedo;I would like some coffee;Je voudrais du café;FALSE
+3;78;この車は古いんだけど結構よく走ります;このくるまはふるいんだけどけっこうよくはしります;kono kuruma ha furui n da kedo kekkou yoku hashirimasu;This car is old but runs well;Cette voiture est vieille, mais elle roule bien;FALSE
 3;78;発音;はつおん;hatsuon;Pronunciation;Prononciation;TRUE
-3;78;この言葉の発音は難しい;このことばのはつおんはむずかしい;kono kotoba no hatsuon ha muzukashii;The pronunciation of this word is difficult;La prononciation de ce mot est difficile;TRUE
+3;78;この言葉の発音は難しい;このことばのはつおんはむずかしい;kono kotoba no hatsuon ha muzukashii;The pronunciation of this word is difficult;La prononciation de ce mot est difficile;FALSE
 3;78;起こす;おこす;okosu;To wake (someone) up;Réveiller;TRUE
 3;78;もらい;もらい;morai;Receiving;Recevoir;TRUE
-3;78;あなたに日本語を教えてもらいたい;あなたににほんごをおしえてもらいたい;anata ni nihongo wo oshiete moraitai;I want you to teach me Japanese;Je veux que tu m’enseignes le japonais;TRUE
-3;78;母に毎朝起こしてもらいます;ははにまいあさおこしてもらいます;haha ni maiasa okoshite moraimasu;My mother wakes me up every morning;Ma mère me réveille chaque matin;TRUE
-3;78;昨日髪を切ってもらった;きのうかみをきってもらった;kinou kami wo kitte moratta;I got my hair cut yesterday;Je me suis fait couper les cheveux hier;TRUE
-3;78;そんなことない;そんなことない;sonna koto nai;That’s not true;Ce n’est pas vrai;TRUE
-3;78;返すのは明日でもいいです;かえすのはあしたでもいいです;kaesu no ha ashita demo ii desu;It's okay to return it tomorrow;Tu peux le rendre demain;TRUE
-3;78;病院に行かなくてもいいです;びょういんにいかなくてもいいです;byouin ni ikanakute mo ii desu;You don't have to go to the hospital;Pas besoin d'aller à l'hôpital;TRUE
-3;78;図書館に行かなくてもいいですか;としょかんにいかなくてもいいですか;toshokan ni ikanakute mo ii desu ka;Is it okay if I don’t go to the library?;Est-ce que je peux ne pas aller à la bibliothèque ?;TRUE
-3;78;あんなコートを買わなくてもいいです;あんなこーとをかわなくてもいいです;anna kooto wo kawanakute mo ii desu;You don't have to buy a coat like that;Pas besoin d’acheter ce genre de manteau;TRUE
-3;78;あんな袋はいりません;あんなふくろはいりません;anna fukuro ha irimasen;I don’t need that kind of bag;Je n’ai pas besoin de ce genre de sac;TRUE
-3;78;なぜそんなに悲しいの;なぜそんなにかなしいの;naze sonna ni kanashii no;Why are you so sad?;Pourquoi es-tu si triste ?;TRUE
-3;78;もう少しは優しくして;もうすこしはやさしくして;mou sukoshi ha yasashikushite;Be a little kinder;Sois un peu plus gentil;TRUE
-3;78;配達してもらえませんか;はいたつしてもらえませんか;haitatsu shite moraemasen ka;Could you deliver it (to me)?;Est-ce que je peux me le faire livrer ?;TRUE
-3;78;それを見せてもらえませんか;それをみせてもらえませんか;sore wo misete moraemasenka;Can you show me that?;Tu peux me montrer ça ?;TRUE
+3;78;あなたに日本語を教えてもらいたい;あなたににほんごをおしえてもらいたい;anata ni nihongo wo oshiete moraitai;I want you to teach me Japanese;Je veux que tu m’enseignes le japonais;FALSE
+3;78;母に毎朝起こしてもらいます;ははにまいあさおこしてもらいます;haha ni maiasa okoshite moraimasu;My mother wakes me up every morning;Ma mère me réveille chaque matin;FALSE
+3;78;昨日髪を切ってもらった;きのうかみをきってもらった;kinou kami wo kitte moratta;I got my hair cut yesterday;Je me suis fait couper les cheveux hier;FALSE
+3;78;そんなことない;そんなことない;sonna koto nai;That’s not true;Ce n’est pas vrai;FALSE
+3;78;返すのは明日でもいいです;かえすのはあしたでもいいです;kaesu no ha ashita demo ii desu;It's okay to return it tomorrow;Tu peux le rendre demain;FALSE
+3;78;病院に行かなくてもいいです;びょういんにいかなくてもいいです;byouin ni ikanakute mo ii desu;You don't have to go to the hospital;Pas besoin d'aller à l'hôpital;FALSE
+3;78;図書館に行かなくてもいいですか;としょかんにいかなくてもいいですか;toshokan ni ikanakute mo ii desu ka;Is it okay if I don’t go to the library?;Est-ce que je peux ne pas aller à la bibliothèque ?;FALSE
+3;78;あんなコートを買わなくてもいいです;あんなこーとをかわなくてもいいです;anna kooto wo kawanakute mo ii desu;You don't have to buy a coat like that;Pas besoin d’acheter ce genre de manteau;FALSE
+3;78;あんな袋はいりません;あんなふくろはいりません;anna fukuro ha irimasen;I don’t need that kind of bag;Je n’ai pas besoin de ce genre de sac;FALSE
+3;78;なぜそんなに悲しいの;なぜそんなにかなしいの;naze sonna ni kanashii no;Why are you so sad?;Pourquoi es-tu si triste ?;FALSE
+3;78;もう少しは優しくして;もうすこしはやさしくして;mou sukoshi ha yasashikushite;Be a little kinder;Sois un peu plus gentil;FALSE
+3;78;配達してもらえませんか;はいたつしてもらえませんか;haitatsu shite moraemasen ka;Could you deliver it (to me)?;Est-ce que je peux me le faire livrer ?;FALSE
+3;78;それを見せてもらえませんか;それをみせてもらえませんか;sore wo misete moraemasenka;Can you show me that?;Tu peux me montrer ça ?;FALSE
 3;78;どこか;どこか;dokoka;Somewhere;Quelque part;FALSE
-3;78;ホテルはどこか知っていますか;ほてるはどこかしっていますか;hotelu wa dokoka shitteimasuka;Do you know where the hotel is?;Tu sais où est l’hôtel ?;TRUE
+3;78;ホテルはどこか知っていますか;ほてるはどこかしっていますか;hotelu wa dokoka shitteimasuka;Do you know where the hotel is?;Tu sais où est l’hôtel ?;FALSE
 3;78;それで;それで;sorede;Then (so);Alors;FALSE
 3;78;そして;そして;soshite;And then;Et ensuite;FALSE
 3;78;だから;だから;dakara;Therefore;Donc;FALSE
 3;78;それとも;それとも;soretomo;Or (in questions);Ou bien;FALSE
-3;78;それで医者は何を言いましたか;それでいしゃはなにをいいましたか;sorede isha wa nani wo iimashita ka;So what did the doctor say?;Alors, qu’a dit le médecin ?;TRUE
-3;78;だからパーティーに行きませんでしたか;だからぱーてぃーにいきませんでしたか;dakara paatii ni ikimasendeshita ka;Is that why you didn’t go to the party?;C’est pour ça que tu n’es pas allé à la fête ?;TRUE
-3;78;それは君のビールですか、それとも弟のビールですか;それはきみのびーるですか、それともおとうとのびーるですか;sore ha kimi no biiru desu ka, soretomo otouto no biiru desu ka;Is that your beer or my younger brother’s?;C’est ta bière ou celle de ton frère ?;TRUE
-3;78;彼女は優しい人だと思いました;かのじょはやさしいひとだとおもいました;kanojo ha yasashii hito da to omoimashita;I thought she was a kind person;Je pensais qu’elle était gentille;TRUE
-3;78;あの人は誰か知っていますか;あのひとはだれかしっていますか;ano hito ha dareka shitteimasu ka;Do you know who that person is?;Tu sais qui est cette personne ?;TRUE
-3;78;お金を少し借りてもいいですか;おかねをすこしかりてもいいですか;okane wo sukoshi karite mo ii desu ka;Can I borrow some money?;Je peux emprunter un peu d’argent ?;TRUE
+3;78;それで医者は何を言いましたか;それでいしゃはなにをいいましたか;sorede isha wa nani wo iimashita ka;So what did the doctor say?;Alors, qu’a dit le médecin ?;FALSE
+3;78;だからパーティーに行きませんでしたか;だからぱーてぃーにいきませんでしたか;dakara paatii ni ikimasendeshita ka;Is that why you didn’t go to the party?;C’est pour ça que tu n’es pas allé à la fête ?;FALSE
+3;78;それは君のビールですか、それとも弟のビールですか;それはきみのびーるですか、それともおとうとのびーるですか;sore ha kimi no biiru desu ka, soretomo otouto no biiru desu ka;Is that your beer or my younger brother’s?;C’est ta bière ou celle de ton frère ?;FALSE
+3;78;彼女は優しい人だと思いました;かのじょはやさしいひとだとおもいました;kanojo ha yasashii hito da to omoimashita;I thought she was a kind person;Je pensais qu’elle était gentille;FALSE
+3;78;あの人は誰か知っていますか;あのひとはだれかしっていますか;ano hito ha dareka shitteimasu ka;Do you know who that person is?;Tu sais qui est cette personne ?;FALSE
+3;78;お金を少し借りてもいいですか;おかねをすこしかりてもいいですか;okane wo sukoshi karite mo ii desu ka;Can I borrow some money?;Je peux emprunter un peu d’argent ?;FALSE
 3;78;すごい嬉しい;すごいうれしい;sugoi ureshii;Very happy;Très content;TRUE
-3;78;新しい靴は黒がいい、それとも茶色;あたらしいくつはくろがいい、それともちやいろ;atarashii kutsu ha kuro ga ii, soretomo chairo;Do you prefer the new shoes in black or brown?;Tu préfères les chaussures neuves en noir ou en marron ?;TRUE
-3;79;池袋に店を開いた;いけぶくろにみせをひらいた;ikebukuronimisewohiraita;I opened a store in Ikebukuro;J'ai ouvert un magasin à Ikebukuro;TRUE
-3;79;暗証番号を押してください;あんしょうばんごうをおしてください;anshoubangouwooshitekudasai;Please press the PIN code;Veuillez entrer le code secret;TRUE
+3;78;新しい靴は黒がいい、それとも茶色;あたらしいくつはくろがいい、それともちやいろ;atarashii kutsu ha kuro ga ii, soretomo chairo;Do you prefer the new shoes in black or brown?;Tu préfères les chaussures neuves en noir ou en marron ?;FALSE
+3;79;池袋に店を開いた;いけぶくろにみせをひらいた;ikebukuronimisewohiraita;I opened a store in Ikebukuro;J'ai ouvert un magasin à Ikebukuro;FALSE
+3;79;暗証番号を押してください;あんしょうばんごうをおしてください;anshoubangouwooshitekudasai;Please press the PIN code;Veuillez entrer le code secret;FALSE
 3;79;口座;こうざ;kouza;Bank account;Compte bancaire;TRUE
-3;79;口座を開きたいんですが;こうざをひらきたいんですが;kozawohirakitaindesuga;I would like to open an account;Je voudrais ouvrir un compte;TRUE
-3;79;教科書を閉じてください;きょうかしょをとじてください;kyoukashowotojitekudasai;Please close the textbook;Veuillez fermer le manuel;TRUE
-3;79;毎月一万円を銀行に預金します;まいつきいちまんえんをぎんこうによきんします;maitsukiichimanenwoginkouniyookinshimasu;I deposit 10,000 yen monthly in the bank;Je dépose 10 000 yens chaque mois à la banque;TRUE
-3;79;彼はお金を引き出しに銀行へ行った;かれはおかねをひきだしにぎんこうへいった;karehaokanewohikidashiniginkouheitta;He went to the bank to withdraw money;Il est allé à la banque retirer de l'argent;TRUE
-3;79;私は読んでいた本を閉じました;わたしはよんでいたほんをとじました;watashihayondeitahonwotojimashita;I closed the book I was reading;J’ai fermé le livre que je lisais;TRUE
-3;79;銀行口座を閉じたいのですが;ぎんこうこうざをとじたいのですが;ginkoukouzawotojitainodesuga;I would like to close my bank account;Je voudrais fermer mon compte bancaire;TRUE
-3;79;彼はドアを押したが開かなかった;かれはどあをおしたがひらかなかった;karehadoawooshitagahirakanakatta;He pushed the door but it didn’t open;Il a poussé la porte mais elle ne s'est pas ouverte;TRUE
+3;79;口座を開きたいんですが;こうざをひらきたいんですが;kozawohirakitaindesuga;I would like to open an account;Je voudrais ouvrir un compte;FALSE
+3;79;教科書を閉じてください;きょうかしょをとじてください;kyoukashowotojitekudasai;Please close the textbook;Veuillez fermer le manuel;FALSE
+3;79;毎月一万円を銀行に預金します;まいつきいちまんえんをぎんこうによきんします;maitsukiichimanenwoginkouniyookinshimasu;I deposit 10,000 yen monthly in the bank;Je dépose 10 000 yens chaque mois à la banque;FALSE
+3;79;彼はお金を引き出しに銀行へ行った;かれはおかねをひきだしにぎんこうへいった;karehaokanewohikidashiniginkouheitta;He went to the bank to withdraw money;Il est allé à la banque retirer de l'argent;FALSE
+3;79;私は読んでいた本を閉じました;わたしはよんでいたほんをとじました;watashihayondeitahonwotojimashita;I closed the book I was reading;J’ai fermé le livre que je lisais;FALSE
+3;79;銀行口座を閉じたいのですが;ぎんこうこうざをとじたいのですが;ginkoukouzawotojitainodesuga;I would like to close my bank account;Je voudrais fermer mon compte bancaire;FALSE
+3;79;彼はドアを押したが開かなかった;かれはどあをおしたがひらかなかった;karehadoawooshitagahirakanakatta;He pushed the door but it didn’t open;Il a poussé la porte mais elle ne s'est pas ouverte;FALSE
 3;79;残高;ざんだか;zandaka;Account balance;Solde;TRUE
-3;79;私は残高を全部引き出した;ざんだかをぜんぶひきだした;zandakawozenbuhikidashita;I withdrew the full balance;J'ai retiré tout le solde;TRUE
+3;79;私は残高を全部引き出した;ざんだかをぜんぶひきだした;zandakawozenbuhikidashita;I withdrew the full balance;J'ai retiré tout le solde;FALSE
 3;79;残高を教えてくれますか;ざんだかをおしえてくれますか;zendakawooshietekuremasuka;Can you tell me the full balance?;Pouvez-vous me donner le solde total ?;TRUE
-3;79;私の預金残高を知りたいのですが;わたしのよきんざんだかをしりたいのですが;watashinoyokinzendakawoshiritainodesuga;I’d like to know my deposit balance;Je voudrais connaître le solde de mon compte;TRUE
+3;79;私の預金残高を知りたいのですが;わたしのよきんざんだかをしりたいのですが;watashinoyokinzendakawoshiritainodesuga;I’d like to know my deposit balance;Je voudrais connaître le solde de mon compte;FALSE
 3;79;金持ち;かねもち;kanemochi;Rich person;Riche;TRUE
 3;79;の上に;のうえに;no ue ni;On top of;Sur / au-dessus de;TRUE
-3;79;彼は金持ち、の上に優しい;かれはかねもち、のうえにやさしい;karehakanemochinoueniyasashii;He is rich, and on top of that, kind;Il est riche, et en plus de cela, gentil;TRUE
+3;79;彼は金持ち、の上に優しい;かれはかねもち、のうえにやさしい;karehakanemochinoueniyasashii;He is rich, and on top of that, kind;Il est riche, et en plus de cela, gentil;FALSE
 3;79;会計士;かいけいし;kaikeishi;Accountant;Comptable;TRUE
 3;79;用紙;ようし;youshi;Form;Formulaire;TRUE
 3;79;記入;きにゅう;kinyuu;Entry/Filling in;Remplir;TRUE
-3;79;用紙に名前と住所を記入した;ようしになまえとじゅうしょをきにゅうした;youshininamaetojuushowokinyuushita;I filled name and address on the form;J'ai rempli le nom et l’adresse sur le formulaire;TRUE
+3;79;用紙に名前と住所を記入した;ようしになまえとじゅうしょをきにゅうした;youshininamaetojuushowokinyuushita;I filled name and address on the form;J'ai rempli le nom et l’adresse sur le formulaire;FALSE
 3;79;支払います;しはらいます;shiharaimasu;To pay;Payer;TRUE
 3;79;署名;しょめい;shomei;Signature;Signature;TRUE
 3;79;暗証;あんしょう;anshou;PIN code;Code secret;TRUE
 3;79;現金;げんきん;genkin;Cash;Argent liquide;TRUE
 3;79;小切手;こぎって;kogitte;Cheque;Chèque;TRUE
-3;79;母は小切手に署名した;はははこぎってにしょめいした;hahahakogittenishomeishita;My mother signed the cheque;Ma mère a signé le chèque;TRUE
-3;79;下に署名してください;したにしょめいしてください;shitanishomeishitekudasai;Please sign below;Veuillez signer en bas;TRUE
-3;79;小切手を現金してください;こぎってをげんきんしてください;kogittewogenkinshitekudasai;Please cash the cheque;Veuillez encaisser le chèque;TRUE
-3;79;小切手で支払ってもいいですか;こぎってでしはらってもいいですか;kogittedeshiharattemoiidesuka;Can I pay by cheque?;Puis-je payer par chèque ?;TRUE
+3;79;母は小切手に署名した;はははこぎってにしょめいした;hahahakogittenishomeishita;My mother signed the cheque;Ma mère a signé le chèque;FALSE
+3;79;下に署名してください;したにしょめいしてください;shitanishomeishitekudasai;Please sign below;Veuillez signer en bas;FALSE
+3;79;小切手を現金してください;こぎってをげんきんしてください;kogittewogenkinshitekudasai;Please cash the cheque;Veuillez encaisser le chèque;FALSE
+3;79;小切手で支払ってもいいですか;こぎってでしはらってもいいですか;kogittedeshiharattemoiidesuka;Can I pay by cheque?;Puis-je payer par chèque ?;FALSE
 3;79;両替;りょうがえ;ryougae;Currency exchange;Change de devises;TRUE
 3;79;ドル;ドル;doru;Dollar;Dollar;TRUE
 3;79;領収書;りょうしゅうしょ;ryoushuusho;Receipt;Reçu;TRUE
-3;79;別々に払いましょう;べつべつにはらいましょう;betsubetsuniharaimashou;Let’s pay separately;Payons séparément;TRUE
+3;79;別々に払いましょう;べつべつにはらいましょう;betsubetsuniharaimashou;Let’s pay separately;Payons séparément;FALSE
 3;79;お釣り;おつり;otsuri;Change;Monnaie;TRUE
-3;79;お釣りが違いますよ;おつりがちがいますよ;otsurigachigaimasuyo;The change is incorrect;La monnaie est incorrecte;TRUE
-3;79;レジの人は彼女にお釣りを渡した;れじのひとはかのじょにおつりをわたした;rejinohitohakanojoniotsuriwowatashita;The cashier gave her the change;La caissière lui a donné la monnaie;TRUE
-3;79;銀行でドルを円に両替した;ぎんこうでどるをえんにりょうがえした;ginkoudedoruwoenniryougaeshita;I exchanged dollars for yen at the bank;J'ai échangé des dollars en yens à la banque;TRUE
-3;79;今日は忙しいので行けません;きょうはいそがしいのでいけません;kyouhaisogashiinodeikemasen;I’m busy today so I can’t go;Je suis occupé aujourd’hui donc je ne peux pas y aller;TRUE
-3;79;一緒に来てくれないの;いっしょにきてくれないの;isshounikutekurenaino;Won’t you come with me?;Tu ne viens pas avec moi ?;TRUE
+3;79;お釣りが違いますよ;おつりがちがいますよ;otsurigachigaimasuyo;The change is incorrect;La monnaie est incorrecte;FALSE
+3;79;レジの人は彼女にお釣りを渡した;れじのひとはかのじょにおつりをわたした;rejinohitohakanojoniotsuriwowatashita;The cashier gave her the change;La caissière lui a donné la monnaie;FALSE
+3;79;銀行でドルを円に両替した;ぎんこうでどるをえんにりょうがえした;ginkoudedoruwoenniryougaeshita;I exchanged dollars for yen at the bank;J'ai échangé des dollars en yens à la banque;FALSE
+3;79;今日は忙しいので行けません;きょうはいそがしいのでいけません;kyouhaisogashiinodeikemasen;I’m busy today so I can’t go;Je suis occupé aujourd’hui donc je ne peux pas y aller;FALSE
+3;79;一緒に来てくれないの;いっしょにきてくれないの;isshounikutekurenaino;Won’t you come with me?;Tu ne viens pas avec moi ?;FALSE
 3;80;光る;ひかる;hikaru;To shine;Briller;TRUE
 3;80;太陽;たいよう;taiyou;Sun;Soleil;TRUE
 3;80;月;つき;tsuki;Moon;Lune;TRUE
-3;80;月が光っている;つきがひかっている;tsuki ga hikatteiru;The moon is shining;La lune brille;TRUE
-3;80;あそこの空気は汚なかったです;あそこのくうきはきたなかったです;asoko no kuuki ha kitanakattadesu;The air over there was dirty;L’air là-bas était sale;TRUE
+3;80;月が光っている;つきがひかっている;tsuki ga hikatteiru;The moon is shining;La lune brille;FALSE
+3;80;あそこの空気は汚なかったです;あそこのくうきはきたなかったです;asoko no kuuki ha kitanakattadesu;The air over there was dirty;L’air là-bas était sale;FALSE
 3;80;浜辺;はまべ;hamabe;Beach;Plage;TRUE
 3;80;湖;みずうみ;mizuumi;Lake;Lac;TRUE
 3;80;島;しま;shima;Island;Île;TRUE
 3;80;島々;しまじま;shimajima;Islands;Îles;TRUE
 3;80;葉;は;ha;Leaf;Feuille;TRUE
-3;80;あの国には多くの浜辺がある;あのくににはおおくのはまべがある;ano kuni ni ha ooku no hamabe ga aru;That country has many beaches;Ce pays a de nombreuses plages;TRUE
+3;80;あの国には多くの浜辺がある;あのくににはおおくのはまべがある;ano kuni ni ha ooku no hamabe ga aru;That country has many beaches;Ce pays a de nombreuses plages;FALSE
 3;80;濡れる;ぬれる;nureru;To get wet;Être mouillé;TRUE
 3;80;森;もり;mori;Forest;Forêt;TRUE
 3;80;草;くさ;kusa;Grass;Herbe;TRUE
-3;80;雨で濡れていた;あめでぬれていた;ame de nureteita;I was wet from the rain;J’ai été mouillé par la pluie;TRUE
-3;80;木は雨で濡れている;きはあめでぬれている;ki ha ame de nureteiru;The tree is wet from the rain;L’arbre est mouillé par la pluie;TRUE
+3;80;雨で濡れていた;あめでぬれていた;ame de nureteita;I was wet from the rain;J’ai été mouillé par la pluie;FALSE
+3;80;木は雨で濡れている;きはあめでぬれている;ki ha ame de nureteiru;The tree is wet from the rain;L’arbre est mouillé par la pluie;FALSE
 3;80;乾く;かわく;kawaku;To dry;Sécher;TRUE
 3;80;深い;ふかい;fukai;Deep;Profond;TRUE
 3;80;浅い;あさい;asai;Shallow;Peu profond;TRUE
-3;80;口は乾いている;くちはかわいている;kuchi ha kawaiteiru;My mouth is dry;Ma bouche est sèche;TRUE
-3;80;言葉は生き物です;ことばはいきものです;kotobahaikimonodesu;Language is a living thing;Le langage est un être vivant;TRUE
+3;80;口は乾いている;くちはかわいている;kuchi ha kawaiteiru;My mouth is dry;Ma bouche est sèche;FALSE
+3;80;言葉は生き物です;ことばはいきものです;kotobahaikimonodesu;Language is a living thing;Le langage est un être vivant;FALSE
 3;80;生き物;いきもの;ikimono;Living thing;Être vivant;TRUE
-3;80;水は浅かったですか;みずはあさかったですか;mizu ha asakattadesuka;Was the water shallow?;L’eau était-elle peu profonde ?;TRUE
-3;80;この池は泳ぐには浅すぎます;このいけはおよぐにはあさすぎます;kono ike ha oyogu ni ha asasugimasu;This pond is too shallow to swim in;Cet étang est trop peu profond pour nager;TRUE
-3;80;この言葉には深い意味がある;このことばにはふかいいみがある;kono kotoba ni ha fukai imi ga aru;This word has deep meaning;Ce mot a une signification profonde;TRUE
+3;80;水は浅かったですか;みずはあさかったですか;mizu ha asakattadesuka;Was the water shallow?;L’eau était-elle peu profonde ?;FALSE
+3;80;この池は泳ぐには浅すぎます;このいけはおよぐにはあさすぎます;kono ike ha oyogu ni ha asasugimasu;This pond is too shallow to swim in;Cet étang est trop peu profond pour nager;FALSE
+3;80;この言葉には深い意味がある;このことばにはふかいいみがある;kono kotoba ni ha fukai imi ga aru;This word has deep meaning;Ce mot a une signification profonde;FALSE
 3;80;氷;こおり;koori;Ice;Glace;TRUE
-3;80;ここは氷が薄い;ここはこおりがうすい;koko ha koori ga usui;The ice is thin here;La glace est mince ici;TRUE
+3;80;ここは氷が薄い;ここはこおりがうすい;koko ha koori ga usui;The ice is thin here;La glace est mince ici;FALSE
 3;80;光;ひかり;hikari;Light;Lumière;TRUE
-3;80;明るい光を見た;あかるいひかりをみた;akarui hikari wo mita;I saw a bright light;J’ai vu une lumière brillante;TRUE
+3;80;明るい光を見た;あかるいひかりをみた;akarui hikari wo mita;I saw a bright light;J’ai vu une lumière brillante;FALSE
 3;80;石;いし;ishi;Stone;Caillou;TRUE
 3;80;火;ひ;hi;Fire;Feu;TRUE
-3;80;まだ食べられます;まだたべられます;mada taberaremasu;I can still eat;Je peux encore  manger;TRUE
-3;80;動物は火が怖い;どうぶつはひがこわい;doubutsu ha hi ga kowai;Animals are afraid of fire;Les animaux ont peur du feu;TRUE
-3;80;大きな波を見ましたか;おおきななみをみましたか;ookina nami wo mimashitaka;Did you see the big wave?;As-tu vu la grande vague ?;TRUE
-3;80;川に石を投げた;かわにいしをなげた;kawa ni ishi wo nageta;Threw a stone into the river;J’ai jeté un caillou dans la rivière;TRUE
+3;80;まだ食べられます;まだたべられます;mada taberaremasu;I can still eat;Je peux encore  manger;FALSE
+3;80;動物は火が怖い;どうぶつはひがこわい;doubutsu ha hi ga kowai;Animals are afraid of fire;Les animaux ont peur du feu;FALSE
+3;80;大きな波を見ましたか;おおきななみをみましたか;ookina nami wo mimashitaka;Did you see the big wave?;As-tu vu la grande vague ?;FALSE
+3;80;川に石を投げた;かわにいしをなげた;kawa ni ishi wo nageta;Threw a stone into the river;J’ai jeté un caillou dans la rivière;FALSE
 3;80;波;なみ;nami;Wave;Vague;TRUE
-3;80;庭に多くの石がある;にわにおおくのいしがある;niwa ni ooku no ishi ga aru;There are many stones in the garden;Il y a beaucoup de cailloux dans le jardin;TRUE
-3;80;家は石でできている;いえはいしでできている;iie ha ishi de dekiteiru;The house is made of stone;La maison est faite de pierre;TRUE
+3;80;庭に多くの石がある;にわにおおくのいしがある;niwa ni ooku no ishi ga aru;There are many stones in the garden;Il y a beaucoup de cailloux dans le jardin;FALSE
+3;80;家は石でできている;いえはいしでできている;iie ha ishi de dekiteiru;The house is made of stone;La maison est faite de pierre;FALSE
 3;80;富士山;ふじさん;fujisan;Mount Fuji;Mont Fuji;TRUE
 3;80;釣る;つる;tsuru;To fish;Pêcher;TRUE
-3;80;両親を見つけました;りょうしんをみつけました;ryoushin wo mitsukemashita;I found my parents;J’ai retrouvé mes parents;TRUE
-3;80;大きな魚を釣りました;おおきなさかなをつりました;ookina sakana wo tsurimashita;I caught a big fish;J’ai pêché un gros poisson;TRUE
-3;80;富士山を見たことがない;ふじさんをみたことがない;fujisan wo mitakoto ga nai;I have never seen Mt. Fuji;Je n’ai jamais vu le mont Fuji;TRUE
-3;80;富士山にいつ登りましたか;ふじさんにいつのぼりましたか;fujisan ni itsu noborimashitaka;When did you climb Mt. Fuji?;Quand as-tu grimpé le mont Fuji ?;TRUE
-3;80;どこで見つけたのですか;どこでみつけたのですか;doko de mitsuketa no desu ka;Where did you find it?;Où l’as-tu trouvé ?;TRUE
+3;80;両親を見つけました;りょうしんをみつけました;ryoushin wo mitsukemashita;I found my parents;J’ai retrouvé mes parents;FALSE
+3;80;大きな魚を釣りました;おおきなさかなをつりました;ookina sakana wo tsurimashita;I caught a big fish;J’ai pêché un gros poisson;FALSE
+3;80;富士山を見たことがない;ふじさんをみたことがない;fujisan wo mitakoto ga nai;I have never seen Mt. Fuji;Je n’ai jamais vu le mont Fuji;FALSE
+3;80;富士山にいつ登りましたか;ふじさんにいつのぼりましたか;fujisan ni itsu noborimashitaka;When did you climb Mt. Fuji?;Quand as-tu grimpé le mont Fuji ?;FALSE
+3;80;どこで見つけたのですか;どこでみつけたのですか;doko de mitsuketa no desu ka;Where did you find it?;Où l’as-tu trouvé ?;FALSE
 3;81;道具;どうぐ;dougu;Tool;Outil;TRUE
 3;81;小説;しょうせつ;shousetsu;Novel;Roman;TRUE
 3;81;にくい;にくい;nikui;Difficult (to...);Difficile (à...);TRUE
-3;81;あの道具は使いにくいです;あのどうぐはつかいにくいです;anodouguhasukainikuidesu;That tool is hard to use;Cet outil est difficile à utiliser;TRUE
+3;81;あの道具は使いにくいです;あのどうぐはつかいにくいです;anodouguhasukainikuidesu;That tool is hard to use;Cet outil est difficile à utiliser;FALSE
 3;81;すみませんがこの肉は食べにくいです;すみませんがこのにくはたべにくいです;sumimasengakononikihatabenikuidesu;Sorry, this meat is hard to eat;Désolé, cette viande est difficile à manger;TRUE
 3;81;うちの台所は使いやすいです;うちのだいどころはつかいやすいです;uchinodaidokorohatsukaiyasuidesu;Our kitchen is easy to use;Notre cuisine est facile à utiliser;TRUE
 3;81;そのサンドイッチは食べにくかったです;そのサンドイッチはたべにくかったです;sonosandoicchihatabenikukattadesu;That sandwich was hard to eat;Ce sandwich était difficile à manger;TRUE
 3;81;あの小説は書きやすかったですか;あのしょうせつはかきやすかったですか;anoshousetsuhakakiyasukattadesuka;Was that novel easy to write?;Ce roman était-il facile à écrire ?;TRUE
-3;81;サラダは作りやすくなかったです;サラダはつくりやすくなかったです;saradahatsukuriyasukunakattadesu;The salad was not easy to make;La salade n'était pas facile à préparer;TRUE
+3;81;サラダは作りやすくなかったです;サラダはつくりやすくなかったです;saradahatsukuriyasukunakattadesu;The salad was not easy to make;La salade n'était pas facile à préparer;FALSE
 3;81;どういう;どういう;douiu;What kind of...;Quel genre de...;TRUE
-3;81;どういうこと;どういうこと;douiukoto;What do you mean?;Qu'est-ce que cela veut dire ?;TRUE
+3;81;どういうこと;どういうこと;douiukoto;What do you mean?;Qu'est-ce que cela veut dire ?;FALSE
 3;81;ピカピカ;ピカピカ;pikapika;Shiny;Brillant;TRUE
-3;81;車はピカピカにしました;くるまはぴかぴかにしました;kurumahapikapikanishimashita;I made the car shiny;J'ai fait briller la voiture;TRUE
-3;81;彼女の車はいつもピカピカに磨いてある;かのじょのくるまはいつもぴかぴかにみがいてある;kanojonokurumahaitsumipikapikanimigaitearu;Her car is always polished;Sa voiture est toujours bien polie;TRUE
+3;81;車はピカピカにしました;くるまはぴかぴかにしました;kurumahapikapikanishimashita;I made the car shiny;J'ai fait briller la voiture;FALSE
+3;81;彼女の車はいつもピカピカに磨いてある;かのじょのくるまはいつもぴかぴかにみがいてある;kanojonokurumahaitsumipikapikanimigaitearu;Her car is always polished;Sa voiture est toujours bien polie;FALSE
 3;81;十分;じゅうぶん;jubun;Enough;Suffisant;TRUE
-3;81;時間が十分ありませんでした;じかんがじゅうぶんありませんでした;jikangajubunarimasendeshita;There wasn’t enough time;Il n'y avait pas assez de temps;TRUE
+3;81;時間が十分ありませんでした;じかんがじゅうぶんありませんでした;jikangajubunarimasendeshita;There wasn’t enough time;Il n'y avait pas assez de temps;FALSE
 3;81;両方;りょうほう;ryouhou;Both;Les deux;TRUE
 3;81;こういう;こういう;kouiu;Like this;De ce genre;TRUE
 3;81;こういうの;こういうの;kouiuno;Things like this;Des choses comme ça;TRUE
-3;81;自転車を直すのに一万円かかった;じてんしゃをなおすのにいちまんえんかかった;jitenshawonaosunoniichimanenkakatta;It cost 10,000 yen to fix the bike;Cela a coûté 10 000 yens pour réparer le vélo;TRUE
-3;81;この車を買うのに十分なお金を持っていますか;このくるまをかうのにじゅうぶんなおかねをもっていますか;konokurumawokaunonijubunnaokanewomotteimasuka;Do you have enough money to buy this car?;As-tu assez d'argent pour acheter cette voiture ?;TRUE
-3;81;電車に乗るのに十分な時間があります;でんしゃにのるのにじゅうぶんなじかんがあります;denshaninorunonijubunnajikangaarimasu;There’s enough time to take the train;Il y a assez de temps pour prendre le train;TRUE
+3;81;自転車を直すのに一万円かかった;じてんしゃをなおすのにいちまんえんかかった;jitenshawonaosunoniichimanenkakatta;It cost 10,000 yen to fix the bike;Cela a coûté 10 000 yens pour réparer le vélo;FALSE
+3;81;この車を買うのに十分なお金を持っていますか;このくるまをかうのにじゅうぶんなおかねをもっていますか;konokurumawokaunonijubunnaokanewomotteimasuka;Do you have enough money to buy this car?;As-tu assez d'argent pour acheter cette voiture ?;FALSE
+3;81;電車に乗るのに十分な時間があります;でんしゃにのるのにじゅうぶんなじかんがあります;denshaninorunonijubunnajikangaarimasu;There’s enough time to take the train;Il y a assez de temps pour prendre le train;FALSE
 3;81;仕方;しかた;shikata;Way/method;Façon/méthode;TRUE
-3;81;仕方がない;しかたがない;shikataganai;It can't be helped;On n'y peut rien;TRUE
-3;81;料理の仕方が分かりません;りょうりのしかたがわかりません;ryourinoshikatagawakarimasen;I don't know how to cook;Je ne sais pas comment cuisiner;TRUE
-3;81;電話の使い方を知りません;でんわのつかいかたをしりません;denwanotsukaikatawoshirimasen;I don’t know how to use the phone;Je ne sais pas comment utiliser le téléphone;TRUE
-3;81;この道具の使い方を知っていますか;このどうぐのつかいかたをしっていますか;konodouganotsukaikatawoshitteimasuka;Do you know how to use this tool?;Tu sais comment utiliser cet outil ?;TRUE
-3;81;学校までの行き方は知っています;がっこうまでのいきかたはしっています;gakkoumadenoikikatahashitteimasu;I know how to get to school;Je connais le chemin de l’école;TRUE
-3;81;駅までの行き方を教えてください;えきまでのいきかたをおしえてください;ekimadenoikikatawooshietekudasai;Please tell me how to get to the station;Indique-moi comment aller à la gare;TRUE
-3;81;この漢字の読み方を知っています;このかんじのよみかたをしっています;konokanjononomikatawoshitteimasu;I know how to read this kanji;Je sais comment lire ce kanji;TRUE
-3;81;彼は仕事の仕方にすぐ覚えました;かれはしごとのしかたにすぐおぼえました;karehashigotonoshikatanisuguoboemashita;He quickly learned how to work;Il a vite appris à travailler;TRUE
-3;81;食べてみましたか;たべてみましたか;tabetemimashitaka;Did you try eating it?;Tu as essayé de le manger ?;TRUE
-3;81;魚を食べてみましたか;さかなをたべてみましたか;sakanawotabetemimashitaka;Did you try eating the fish?;Tu as goûté le poisson ?;TRUE
-3;81;彼に泳ぎ方を教えてみた;かれにおよぎかたをおしえてみた;karenioyogikatawooshietemita;I tried teaching him how to swim;J’ai essayé de lui apprendre à nager;TRUE
-3;81;彼女と話してみる;かのじょとはなしてみる;kanojothanashitemiru;I will try to speak with her;Je vais essaye de lui parler;TRUE
+3;81;仕方がない;しかたがない;shikataganai;It can't be helped;On n'y peut rien;FALSE
+3;81;料理の仕方が分かりません;りょうりのしかたがわかりません;ryourinoshikatagawakarimasen;I don't know how to cook;Je ne sais pas comment cuisiner;FALSE
+3;81;電話の使い方を知りません;でんわのつかいかたをしりません;denwanotsukaikatawoshirimasen;I don’t know how to use the phone;Je ne sais pas comment utiliser le téléphone;FALSE
+3;81;この道具の使い方を知っていますか;このどうぐのつかいかたをしっていますか;konodouganotsukaikatawoshitteimasuka;Do you know how to use this tool?;Tu sais comment utiliser cet outil ?;FALSE
+3;81;学校までの行き方は知っています;がっこうまでのいきかたはしっています;gakkoumadenoikikatahashitteimasu;I know how to get to school;Je connais le chemin de l’école;FALSE
+3;81;駅までの行き方を教えてください;えきまでのいきかたをおしえてください;ekimadenoikikatawooshietekudasai;Please tell me how to get to the station;Indique-moi comment aller à la gare;FALSE
+3;81;この漢字の読み方を知っています;このかんじのよみかたをしっています;konokanjononomikatawoshitteimasu;I know how to read this kanji;Je sais comment lire ce kanji;FALSE
+3;81;彼は仕事の仕方にすぐ覚えました;かれはしごとのしかたにすぐおぼえました;karehashigotonoshikatanisuguoboemashita;He quickly learned how to work;Il a vite appris à travailler;FALSE
+3;81;食べてみましたか;たべてみましたか;tabetemimashitaka;Did you try eating it?;Tu as essayé de le manger ?;FALSE
+3;81;魚を食べてみましたか;さかなをたべてみましたか;sakanawotabetemimashitaka;Did you try eating the fish?;Tu as goûté le poisson ?;FALSE
+3;81;彼に泳ぎ方を教えてみた;かれにおよぎかたをおしえてみた;karenioyogikatawooshietemita;I tried teaching him how to swim;J’ai essayé de lui apprendre à nager;FALSE
+3;81;彼女と話してみる;かのじょとはなしてみる;kanojothanashitemiru;I will try to speak with her;Je vais essaye de lui parler;FALSE
 3;81;入場;にゅうじょう;nyuujou;Entrance (entry);Entrée;TRUE
 3;81;入場料;にゅうじょうりょう;nyuujouryou;Admission fee;Frais d'entrée;TRUE
 3;81;無理;むり;muri;Impossible;Impossible;TRUE
 3;81;無料;むりょう;muryou;Free (of charge);Gratuit;TRUE
-3;81;この雑誌は無理です;このざっしはむりです;konozasshihamuridesu;This magazine is too difficult;Ce magazine est trop difficile;TRUE
+3;81;この雑誌は無理です;このざっしはむりです;konozasshihamuridesu;This magazine is too difficult;Ce magazine est trop difficile;FALSE
 3;81;料金;りょうきん;ryoukin;Fee/charge;Tarif;TRUE
-3;81;タクシー料金は高い;たくしーりょうきんはたかい;taskushiiryoushihatakai;Taxi fare is expensive;Les frais de taxi sont élevés;TRUE
+3;81;タクシー料金は高い;たくしーりょうきんはたかい;taskushiiryoushihatakai;Taxi fare is expensive;Les frais de taxi sont élevés;FALSE
 3;81;おかげ;おかげ;okage;Thanks to...;Grâce à...;TRUE
-3;81;君のおかげで楽しかったです;きみのおかげでたのしかったです;kiminoikagedetanoshikattadesu;It was fun thanks to you;C’était amusant grâce à toi;TRUE
-3;81;君のおかげで仕事は面白かったです;きみのおかげでしごとはおもしろかったです;kiminoikagedeshigotohaomoshirokattadesu;Work was fun thanks to you;Le travail était intéressant grâce à toi;TRUE
+3;81;君のおかげで楽しかったです;きみのおかげでたのしかったです;kiminoikagedetanoshikattadesu;It was fun thanks to you;C’était amusant grâce à toi;FALSE
+3;81;君のおかげで仕事は面白かったです;きみのおかげでしごとはおもしろかったです;kiminoikagedeshigotohaomoshirokattadesu;Work was fun thanks to you;Le travail était intéressant grâce à toi;FALSE
 3;81;いただき;いただき;itadaki;Receive (humble);Recevoir (humble);TRUE
-3;81;8時に食べていただきたいんですが;はちじにたべていただきたいんですが;hachijinitabeteitadakitaindesuga;I’d like you to eat at 8 o'clock;J’aimerais que tu manges à 8h;TRUE
-3;81;窓を開けていただきたいんですが;まどをあけていただきたいんですが;madowoaketeitadakitaindesuga;I’d like you to open the window;J’aimerais que tu ouvres la fenêtre;TRUE
-3;81;犬の散歩していただきたいんですが;いぬのさんぽしていただきたいんですが;inunosanposhiteitadakitaindesuga;I’d like you to walk the dog;J’aimerais que tu promènes le chien;TRUE
+3;81;8時に食べていただきたいんですが;はちじにたべていただきたいんですが;hachijinitabeteitadakitaindesuga;I’d like you to eat at 8 o'clock;J’aimerais que tu manges à 8h;FALSE
+3;81;窓を開けていただきたいんですが;まどをあけていただきたいんですが;madowoaketeitadakitaindesuga;I’d like you to open the window;J’aimerais que tu ouvres la fenêtre;FALSE
+3;81;犬の散歩していただきたいんですが;いぬのさんぽしていただきたいんですが;inunosanposhiteitadakitaindesuga;I’d like you to walk the dog;J’aimerais que tu promènes le chien;FALSE
 3;81;有料;ゆうりょう;yuuryou;Not free (charged);Payant;TRUE
-3;81;このトイレは有料です;このといれはゆうりょうです;konotoirehayuuryoudesu;This toilet requires payment;Ces toilettes sont payantes;TRUE
-3;81;ビールかワインをください;ビールかワインをください;biirukawainwokudasai;Beer or wine, please;Une bière ou du vin, s'il vous plaît;TRUE
-3;81;家に届けていただけますか;いえにとどけていただけますか;iienitodoketeitadakemasuka;Could you deliver it to my house?;Pouvez-vous le livrer chez moi ?;TRUE
-3;81;火を貸していただけませんか;ひをかしていただけませんか;hiwokashiteitadakemasenka;Can you lend me a lighter?;Pourriez-vous me prêter du feu ?;TRUE
-3;81;紅茶かコーヒーはいかがですか;こうちゃかこーひーはいかがですか;kouchakakoohiihaikagadesuka;Would you like tea or coffee?;Souhaitez-vous du thé ou du café ?;TRUE
-3;81;この言葉をしていただけませんか;このことばをしていただけませんか;konokotobashiteitadakemasenka;Could you say this word?;Pouvez-vous dire ce mot ?;TRUE
-3;81;すみませんお水をもう少しいただけますか;すみませんおみずをもうすこしいただけますか;sumimasenomizuwomousukoshiitadakemasuka;Could I have a little more water, please?;Puis-je avoir un peu plus d'eau, s'il vous plaît ?;TRUE
-3;81;切符がないのでご入場いただけません;きっぷがないのでごにゅうじょういただけません;kippu ga nai node go-nyūjō itadakemasen;You cannot enter without a ticket;Vous ne pouvez pas entrer sans billet;TRUE
-3;81;彼女はピカピカなグラスで水飲んでいた;かのじょはぴかぴかなグラスでみずのんでいた;kanojo wa pikapika na gurasu de mizu nonde ita;She was drinking water from a shiny glass;Elle buvait de l’eau dans un verre brillant;TRUE
-3;81;彼はこういうのがうまいのです;かれはこういうのがうまいのです;kare wa kou iu no ga umai no desu;He’s good at this kind of thing;Il est doué pour ce genre de choses;TRUE
-3;81;僕はこういう音楽が好きじゃない;ぼくはこういうおんがくがすきじゃない;boku wa kou iu ongaku ga suki janai;I don't like this kind of music;Je n’aime pas ce genre de musique;TRUE
+3;81;このトイレは有料です;このといれはゆうりょうです;konotoirehayuuryoudesu;This toilet requires payment;Ces toilettes sont payantes;FALSE
+3;81;ビールかワインをください;ビールかワインをください;biirukawainwokudasai;Beer or wine, please;Une bière ou du vin, s'il vous plaît;FALSE
+3;81;家に届けていただけますか;いえにとどけていただけますか;iienitodoketeitadakemasuka;Could you deliver it to my house?;Pouvez-vous le livrer chez moi ?;FALSE
+3;81;火を貸していただけませんか;ひをかしていただけませんか;hiwokashiteitadakemasenka;Can you lend me a lighter?;Pourriez-vous me prêter du feu ?;FALSE
+3;81;紅茶かコーヒーはいかがですか;こうちゃかこーひーはいかがですか;kouchakakoohiihaikagadesuka;Would you like tea or coffee?;Souhaitez-vous du thé ou du café ?;FALSE
+3;81;この言葉をしていただけませんか;このことばをしていただけませんか;konokotobashiteitadakemasenka;Could you say this word?;Pouvez-vous dire ce mot ?;FALSE
+3;81;すみませんお水をもう少しいただけますか;すみませんおみずをもうすこしいただけますか;sumimasenomizuwomousukoshiitadakemasuka;Could I have a little more water, please?;Puis-je avoir un peu plus d'eau, s'il vous plaît ?;FALSE
+3;81;切符がないのでご入場いただけません;きっぷがないのでごにゅうじょういただけません;kippu ga nai node go-nyūjō itadakemasen;You cannot enter without a ticket;Vous ne pouvez pas entrer sans billet;FALSE
+3;81;彼女はピカピカなグラスで水飲んでいた;かのじょはぴかぴかなグラスでみずのんでいた;kanojo wa pikapika na gurasu de mizu nonde ita;She was drinking water from a shiny glass;Elle buvait de l’eau dans un verre brillant;FALSE
+3;81;彼はこういうのがうまいのです;かれはこういうのがうまいのです;kare wa kou iu no ga umai no desu;He’s good at this kind of thing;Il est doué pour ce genre de choses;FALSE
+3;81;僕はこういう音楽が好きじゃない;ぼくはこういうおんがくがすきじゃない;boku wa kou iu ongaku ga suki janai;I don't like this kind of music;Je n’aime pas ce genre de musique;FALSE
 3;82;和食;わしょく;washoku;Japanese food;Cuisine japonaise;TRUE
 3;82;注文;ちゅうもん;chuumon;Order;Commande;TRUE
-3;82;何を注文しましたか;なにをちゅうもんしましたか;naniwochuumonshimashitaka;What did you order?;Qu'avez-vous commandé ?;TRUE
-3;82;注文用紙に記入しましたか;ちゅうもんようしにきにゅうしましたか;chuumonyoushinikinyuushimashitaka;Did you fill out the order form?;Avez-vous rempli le bon de commande ?;TRUE
+3;82;何を注文しましたか;なにをちゅうもんしましたか;naniwochuumonshimashitaka;What did you order?;Qu'avez-vous commandé ?;FALSE
+3;82;注文用紙に記入しましたか;ちゅうもんようしにきにゅうしましたか;chuumonyoushinikinyuushimashitaka;Did you fill out the order form?;Avez-vous rempli le bon de commande ?;FALSE
 3;82;苦い;にがい;nigai;bitter;amer;TRUE
-3;82;ご注文はよろしいですか;ごちゅうもんはよろしいですか;gochuumonhayoroshiidesuka;Is your order ready?;Votre commande est-elle prête ?;TRUE
-3;82;ビールは苦いのであまり飲みません;ビールはにがいのであまりのみません;biiruhanigainodeamarinomimasen;Beer is bitter so I don’t drink much;La bière est amère donc je n’en bois pas beaucoup;TRUE
+3;82;ご注文はよろしいですか;ごちゅうもんはよろしいですか;gochuumonhayoroshiidesuka;Is your order ready?;Votre commande est-elle prête ?;FALSE
+3;82;ビールは苦いのであまり飲みません;ビールはにがいのであまりのみません;biiruhanigainodeamarinomimasen;Beer is bitter so I don’t drink much;La bière est amère donc je n’en bois pas beaucoup;FALSE
 3;82;濃い;こい;koi;Strong/concentrated;Fort / concentré;TRUE
 3;82;味;あじ;aji;Flavor;Goût;TRUE
-3;82;味は少し薄いです;あじはすこしうすいです;ajihasukoshiusuidesu;The flavor is a bit weak;Le goût est un peu fade;TRUE
+3;82;味は少し薄いです;あじはすこしうすいです;ajihasukoshiusuidesu;The flavor is a bit weak;Le goût est un peu fade;FALSE
 3;82;なし;なし;nashi;Without;Sans;TRUE
-3;82;紅茶を砂糖なしでください;こうちゃをさとうなしでください;kochawosattounashidekudasai;Tea without sugar please;Du thé sans sucre s'il vous plaît;TRUE
+3;82;紅茶を砂糖なしでください;こうちゃをさとうなしでください;kochawosattounashidekudasai;Tea without sugar please;Du thé sans sucre s'il vous plaît;FALSE
 3;82;味噌;みそ;miso;Miso;Miso;TRUE
 3;82;汁;しる;shiru;Soup;Soupe;TRUE
 3;82;味噌汁;みそしる;misoshiru;Miso soup;Soupe miso;TRUE
-3;82;今日の味噌汁は味が薄いです;きょうのみそしるはあじがうすいです;kyounomisoshiruhaajigausuidesu;Today's miso soup is weak in taste;La soupe miso d'aujourd'hui est fade;TRUE
-3;82;味噌汁を注文しました;みそしるをちゅうもんしました;misoshiruwochuumonshimashita;I ordered miso soup;J’ai commandé une soupe miso;TRUE
-3;82;このコーヒーは私には濃すぎます;このこーひーはわたしにはこすぎます;konokoohiihawatashinihakoisugimasu;This coffee is too strong for me;Ce café est trop fort pour moi;TRUE
+3;82;今日の味噌汁は味が薄いです;きょうのみそしるはあじがうすいです;kyounomisoshiruhaajigausuidesu;Today's miso soup is weak in taste;La soupe miso d'aujourd'hui est fade;FALSE
+3;82;味噌汁を注文しました;みそしるをちゅうもんしました;misoshiruwochuumonshimashita;I ordered miso soup;J’ai commandé une soupe miso;FALSE
+3;82;このコーヒーは私には濃すぎます;このこーひーはわたしにはこすぎます;konokoohiihawatashinihakoisugimasu;This coffee is too strong for me;Ce café est trop fort pour moi;FALSE
 3;82;残る;のこる;nokoru;To remain;Rester;TRUE
 3;82;残す;のこす;nokosu;To leave (behind);Laisser;TRUE
 3;82;量;りょう;ryou;Quantity;Quantité;TRUE
-3;82;彼女と食事した;かのじょとしょくじした;kanojotoshokujishita;I had a meal with her;J’ai mangé avec elle;TRUE
+3;82;彼女と食事した;かのじょとしょくじした;kanojotoshokujishita;I had a meal with her;J’ai mangé avec elle;FALSE
 3;82;食事;しょくじ;shokuji;Meal;Repas;TRUE
-3;82;今から食事に行くけど、一緒にどうですか;いまからしょくじにいくけど、いっしょにどうですか;imakarashokujiniikukedo,isshounidoudesuka;I'm going to eat now, want to come?;Je vais manger maintenant, tu veux venir ?;TRUE
-3;82;ここで一番安い食事は20ドルです;ここでいちばんやすいしょくじはにじゅうどるです;kokodeichibanyasuishokujihanijuudorudesu;The cheapest meal here is $20;Le repas le moins cher ici est à 20 dollars;TRUE
-3;82;ラーメンは量が少ないです;らーめんはりょうがすくないです;raamenharyougasukunaidesu;The ramen portion is small;La portion de ramen est petite;TRUE
-3;82;食べ物の質が良くなりました;たべもののしつがよくなりました;tabemononoshitsugayokunarimashita;The quality of food has improved;La qualité de la nourriture s’est améliorée;TRUE
+3;82;今から食事に行くけど、一緒にどうですか;いまからしょくじにいくけど、いっしょにどうですか;imakarashokujiniikukedo,isshounidoudesuka;I'm going to eat now, want to come?;Je vais manger maintenant, tu veux venir ?;FALSE
+3;82;ここで一番安い食事は20ドルです;ここでいちばんやすいしょくじはにじゅうどるです;kokodeichibanyasuishokujihanijuudorudesu;The cheapest meal here is $20;Le repas le moins cher ici est à 20 dollars;FALSE
+3;82;ラーメンは量が少ないです;らーめんはりょうがすくないです;raamenharyougasukunaidesu;The ramen portion is small;La portion de ramen est petite;FALSE
+3;82;食べ物の質が良くなりました;たべもののしつがよくなりました;tabemononoshitsugayokunarimashita;The quality of food has improved;La qualité de la nourriture s’est améliorée;FALSE
 3;82;質;しつ;shitsu;Quality;Qualité;TRUE
-3;82;あそこのレストランは料理の質がいい;あそこのれすとらんはりょうりのしつがいい;asokonoresutoranharyourinoshitsugaii;The food quality there is good;La qualité de la nourriture là-bas est bonne;TRUE
-3;82;ラーメンをたくさん残しましたか;らーめんをたくさんのこしましたか;raamenwotakusannokoshimashitaka;Did you leave a lot of ramen?;As-tu laissé beaucoup de ramen ?;TRUE
-3;82;量より質の方が大切です;りょうよりしつのほうがたいせつです;ryou yori shitsu no hou ga taisetsu desu;Quality is more important than quantity;La qualité est plus importante que la quantité;TRUE
-3;82;私たちは彼女に少しケーキを残した;わたしたちはかのじょにすこしけーきをのこした;watshitatchihakanojonisukoshikeekiwonokoshita;We left her some cake;Nous lui avons laissé un peu de gâteau;TRUE
+3;82;あそこのレストランは料理の質がいい;あそこのれすとらんはりょうりのしつがいい;asokonoresutoranharyourinoshitsugaii;The food quality there is good;La qualité de la nourriture là-bas est bonne;FALSE
+3;82;ラーメンをたくさん残しましたか;らーめんをたくさんのこしましたか;raamenwotakusannokoshimashitaka;Did you leave a lot of ramen?;As-tu laissé beaucoup de ramen ?;FALSE
+3;82;量より質の方が大切です;りょうよりしつのほうがたいせつです;ryou yori shitsu no hou ga taisetsu desu;Quality is more important than quantity;La qualité est plus importante que la quantité;FALSE
+3;82;私たちは彼女に少しケーキを残した;わたしたちはかのじょにすこしけーきをのこした;watshitatchihakanojonisukoshikeekiwonokoshita;We left her some cake;Nous lui avons laissé un peu de gâteau;FALSE
 3;82;お湯;おゆ;oyu;Hot water;Eau chaude;TRUE
 3;82;一杯;いっぱい;ippai;Full / A lot;Plein / Beaucoup;TRUE
-3;82;お腹が一杯ですか;おなかがいっぱいですか;onakagaippaidesuka;Are you full?;Tu as bien mangé ?;TRUE
-3;82;レストランは人で一杯だった;れすとらんはひとでいっぱいだった;resutoranhahitodeippaidatta;The restaurant was full of people;Le restaurant était plein;TRUE
-3;82;いらっしゃい;いらっしゃい;irasshai;Welcome;Bienvenue;TRUE
-3;82;中山先生はいらっしゃいますか;なかやませんせいはいらっしゃいますか;nakayamasenseihairasshaimasuka;Is Prof. Nakayama here?;Est-ce que le professeur Nakayama est là ?;TRUE
-3;82;村の広場は人で一杯だった;むらのひろばはひとでいっぱいだった;muranohirobahahitodeippaidatta;The village square was full of people;La place du village était pleine;TRUE
+3;82;お腹が一杯ですか;おなかがいっぱいですか;onakagaippaidesuka;Are you full?;Tu as bien mangé ?;FALSE
+3;82;レストランは人で一杯だった;れすとらんはひとでいっぱいだった;resutoranhahitodeippaidatta;The restaurant was full of people;Le restaurant était plein;FALSE
+3;82;いらっしゃい;いらっしゃい;irasshai;Welcome;Bienvenue;FALSE
+3;82;中山先生はいらっしゃいますか;なかやませんせいはいらっしゃいますか;nakayamasenseihairasshaimasuka;Is Prof. Nakayama here?;Est-ce que le professeur Nakayama est là ?;FALSE
+3;82;村の広場は人で一杯だった;むらのひろばはひとでいっぱいだった;muranohirobahahitodeippaidatta;The village square was full of people;La place du village était pleine;FALSE
 3;82;お客様;おきゃくさま;okyakusama;Guest / Customer;Client;TRUE
 3;82;様;さま;sama;Mr./Ms. (honorific);Monsieur/Madame (honorifique);TRUE
 3;82;客;きゃく;kyaku;Customer / Guest;Client;TRUE
-3;82;田中様、一緒に食事しませんか;たなかさま、いっしょにしょくじしませんか;tanakasamaisshounishokujishimasenka;Mr. Tanaka, shall we eat together?;Monsieur Tanaka, on mange ensemble ?;TRUE
-3;82;このレストランの客が少ない;このれすとらんのきゃくがすくない;konoresutaurannokyakugasukunai;There are few customers in this restaurant;Il y a peu de clients dans ce restaurant;TRUE
-3;82;客はみんな帰りました;きゃくはみんなかえりました;kyakuhaminnakaerimashita;All the guests left;Tous les clients sont partis;TRUE
+3;82;田中様、一緒に食事しませんか;たなかさま、いっしょにしょくじしませんか;tanakasamaisshounishokujishimasenka;Mr. Tanaka, shall we eat together?;Monsieur Tanaka, on mange ensemble ?;FALSE
+3;82;このレストランの客が少ない;このれすとらんのきゃくがすくない;konoresutaurannokyakugasukunai;There are few customers in this restaurant;Il y a peu de clients dans ce restaurant;FALSE
+3;82;客はみんな帰りました;きゃくはみんなかえりました;kyakuhaminnakaerimashita;All the guests left;Tous les clients sont partis;FALSE
 3;82;お勧め;おすすめ;osusume;Recommendation;Recommandation;TRUE
 3;82;予約;よやく;yoyaku;Reservation;Réservation;TRUE
 3;82;焼く;やく;yaku;To grill / To bake;Griller / Cuire;TRUE
-3;82;予約しています;よやくしています;yoyakushiteimasu;I have a reservation;J’ai une réservation;TRUE
-3;82;7時半に予約しています;しちじはんによやくしています;shichijihanniyoyakushiteimasu;I have a reservation at 7:30;J’ai réservé pour 7h30;TRUE
-3;82;早くホテルを予約したほうがいいです;はやくほてるをよやくしたほうがいいです;hayakuhoteruwoyoyakushitahougaiidesu;You should book a hotel early;Il vaut mieux réserver l’hôtel tôt;TRUE
-3;82;お勧めは何ですか;おすすめはなんですか;osusumehanandesuka;What do you recommend?;Que recommandez-vous ?;TRUE
-3;82;お勧めはどれですか;おすすめはどれですか;osusumehadoredesuka;Which one do you recommend?;Lequel recommandez-vous ?;TRUE
+3;82;予約しています;よやくしています;yoyakushiteimasu;I have a reservation;J’ai une réservation;FALSE
+3;82;7時半に予約しています;しちじはんによやくしています;shichijihanniyoyakushiteimasu;I have a reservation at 7:30;J’ai réservé pour 7h30;FALSE
+3;82;早くホテルを予約したほうがいいです;はやくほてるをよやくしたほうがいいです;hayakuhoteruwoyoyakushitahougaiidesu;You should book a hotel early;Il vaut mieux réserver l’hôtel tôt;FALSE
+3;82;お勧めは何ですか;おすすめはなんですか;osusumehanandesuka;What do you recommend?;Que recommandez-vous ?;FALSE
+3;82;お勧めはどれですか;おすすめはどれですか;osusumehadoredesuka;Which one do you recommend?;Lequel recommandez-vous ?;FALSE
 3;82;決まる;きまる;kimaru;To be decided;Être décidé;TRUE
-3;82;もう決まりました;もうきまりました;moukimarimashita;Already decided;C’est déjà décidé;TRUE
+3;82;もう決まりました;もうきまりました;moukimarimashita;Already decided;C’est déjà décidé;FALSE
 3;82;ベジタリアン;ベジタリアン;bejitarian;Vegetarian;Végétarien;TRUE
-3;82;冷蔵庫に入っています;れいぞうこにはいっています;reizokonihaitteimasu;It’s in the fridge;C’est dans le frigo;TRUE
-3;82;中に入ってもいいですか;なかにはいってもいいですか;nakanihaittemoiidesuka;Can I go inside?;Puis-je entrer ?;TRUE
-3;82;これは豚肉が入っていますか;これはぶたにくがはいっていますか;korehabutanikugahaitteimasuka;Does this contain pork?;Est-ce que ça contient du porc ?;TRUE
-3;82;ご注文はお決まりですか;ごちゅうもんはおきまりですか;gochuumonhaokimaridesuka;Have you decided your order?;Avez-vous choisi votre commande ?;TRUE
-3;82;ベジタリアンです。これは肉が入っていますか;べじたりあんです。これはにくがはいっていますか;bejitariandesukorehanikugahaitteimasuka;I'm vegetarian. Does this have meat?;Je suis végétarien. Est-ce qu’il y a de la viande ?;TRUE
-3;82;この料理は卵が入っていますか;このりょうりはたまごがはいっていますか;konoryourihatamagogahaitteimasuka;Does this dish contain eggs?;Ce plat contient-il des œufs ?;TRUE
+3;82;冷蔵庫に入っています;れいぞうこにはいっています;reizokonihaitteimasu;It’s in the fridge;C’est dans le frigo;FALSE
+3;82;中に入ってもいいですか;なかにはいってもいいですか;nakanihaittemoiidesuka;Can I go inside?;Puis-je entrer ?;FALSE
+3;82;これは豚肉が入っていますか;これはぶたにくがはいっていますか;korehabutanikugahaitteimasuka;Does this contain pork?;Est-ce que ça contient du porc ?;FALSE
+3;82;ご注文はお決まりですか;ごちゅうもんはおきまりですか;gochuumonhaokimaridesuka;Have you decided your order?;Avez-vous choisi votre commande ?;FALSE
+3;82;ベジタリアンです。これは肉が入っていますか;べじたりあんです。これはにくがはいっていますか;bejitariandesukorehanikugahaitteimasuka;I'm vegetarian. Does this have meat?;Je suis végétarien. Est-ce qu’il y a de la viande ?;FALSE
+3;82;この料理は卵が入っていますか;このりょうりはたまごがはいっていますか;konoryourihatamagogahaitteimasuka;Does this dish contain eggs?;Ce plat contient-il des œufs ?;FALSE
 3;83;植物;しょくぶつ;shokubutsu;Plant;Plante;TRUE
 3;83;人間;にんげん;ningen;Human;Humain;TRUE
 3;83;地球;ちきゅう;chikyuu;Earth;Terre;TRUE
 3;83;地球は丸い;ちきゅうはまるい;chikyuu ha marui;The Earth is round;La Terre est ronde;TRUE
-3;83;太陽は地球からとても遠いです;たいようはちきゅうからとてもとおいです;taiyou ha chikyuu kara totemo tooi desu;The Sun is very far from the Earth;Le Soleil est très loin de la Terre;TRUE
+3;83;太陽は地球からとても遠いです;たいようはちきゅうからとてもとおいです;taiyou ha chikyuu kara totemo tooi desu;The Sun is very far from the Earth;Le Soleil est très loin de la Terre;FALSE
 3;83;植えます;うえます;ueru;To plant;Planter;TRUE
-3;83;庭に木を植えた;にわにきをうえた;niwa ni ki wo ueta;I planted a tree in the garden;J'ai planté un arbre dans le jardin;TRUE
-3;83;月には植物がない;つきにはしょくぶつがない;tsuki ni wa shokubutsu ga nai;There are no plants on the Moon;Il n'y a pas de plantes sur la Lune;TRUE
+3;83;庭に木を植えた;にわにきをうえた;niwa ni ki wo ueta;I planted a tree in the garden;J'ai planté un arbre dans le jardin;FALSE
+3;83;月には植物がない;つきにはしょくぶつがない;tsuki ni wa shokubutsu ga nai;There are no plants on the Moon;Il n'y a pas de plantes sur la Lune;FALSE
 3;83;生き物;いきもの;seikimono;Living thing;Être vivant;TRUE
-3;83;庭に植物を二つ植えた;にわにしょくぶつをふたつうえた;niwa ni shokubutsu wo futatsu ueta;I planted two plants in the garden;J'ai planté deux plantes dans le jardin;TRUE
-3;83;祖父は九十歳まで生きた;そふはきゅうじゅっさいまでいきた;sofu ha kyuujuusai made ikita;Grandfather lived to 90;Mon grand-père a vécu jusqu’à 90 ans;TRUE
-3;83;君たちはどう生きるか;きみたちはどういきるか;kimitachi ha dou ikiruka;How will you live?;Comment allez-vous vivre ?;TRUE
-3;83;まだ生きています;まだいきています;mada ikiteimasu;Still alive;Toujours en vie;TRUE
-3;83;どういう人間になりたいですか;どういうにんげんになりたいですか;douiu ningen ni naritai desu ka;What kind of person do you want to become?;Quel genre de personne veux-tu devenir ?;TRUE
-3;83;彼が月へ行った最初の人間だ;かれがつきへいったさいしょのにんげんだ;kare ga tsuki he itta saisho no ningen da;He is the first person to go to the Moon;C'est le premier homme à être allé sur la Lune;TRUE
+3;83;庭に植物を二つ植えた;にわにしょくぶつをふたつうえた;niwa ni shokubutsu wo futatsu ueta;I planted two plants in the garden;J'ai planté deux plantes dans le jardin;FALSE
+3;83;祖父は九十歳まで生きた;そふはきゅうじゅっさいまでいきた;sofu ha kyuujuusai made ikita;Grandfather lived to 90;Mon grand-père a vécu jusqu’à 90 ans;FALSE
+3;83;君たちはどう生きるか;きみたちはどういきるか;kimitachi ha dou ikiruka;How will you live?;Comment allez-vous vivre ?;FALSE
+3;83;まだ生きています;まだいきています;mada ikiteimasu;Still alive;Toujours en vie;FALSE
+3;83;どういう人間になりたいですか;どういうにんげんになりたいですか;douiu ningen ni naritai desu ka;What kind of person do you want to become?;Quel genre de personne veux-tu devenir ?;FALSE
+3;83;彼が月へ行った最初の人間だ;かれがつきへいったさいしょのにんげんだ;kare ga tsuki he itta saisho no ningen da;He is the first person to go to the Moon;C'est le premier homme à être allé sur la Lune;FALSE
 3;83;環境;かんきょう;kankyou;Environment;Environnement;TRUE
 3;83;自然;しぜん;shizen;Nature;Nature;TRUE
-3;83;あの村は自然が少ない;あのむらはしぜんがすくない;anomura ha shizen ga sukunai;That village has little nature;Ce village a peu de nature;TRUE
+3;83;あの村は自然が少ない;あのむらはしぜんがすくない;anomura ha shizen ga sukunai;That village has little nature;Ce village a peu de nature;FALSE
 3;83;すべて;すべて;subete;Everything;Tout;TRUE
-3;83;あなたは私のすべてです;あなたはわたしのすべてです;anata ha watashi no subete desu;You are my everything;Tu es tout pour moi;TRUE
-3;83;光るものすべて金ではない;ひかるものすべてきんではない;hikarumono subete kin dewa nai;Not all that glitters is gold;Tout ce qui brille n’est pas or;TRUE
-3;83;すべての葉が赤や黄色になった;すべてのはがあかやきいろになった;subete no ha ga aka ya kiiro ni natta;All leaves turned red or yellow;Toutes les feuilles sont devenues rouges ou jaunes;TRUE
-3;83;この町は環境問題がある;このまちはかんきょうもんだいがある;kono machi ha kankyou mondai ga aru;This town has environmental problems;Cette ville a des problèmes environnementaux;TRUE
-3;83;今日はすべてうまくいった;きょうはすべてうまくいった;kyou ha subete umaku itta;Everything went well today;Aujourd'hui tout s'est bien passé;TRUE
+3;83;あなたは私のすべてです;あなたはわたしのすべてです;anata ha watashi no subete desu;You are my everything;Tu es tout pour moi;FALSE
+3;83;光るものすべて金ではない;ひかるものすべてきんではない;hikarumono subete kin dewa nai;Not all that glitters is gold;Tout ce qui brille n’est pas or;FALSE
+3;83;すべての葉が赤や黄色になった;すべてのはがあかやきいろになった;subete no ha ga aka ya kiiro ni natta;All leaves turned red or yellow;Toutes les feuilles sont devenues rouges ou jaunes;FALSE
+3;83;この町は環境問題がある;このまちはかんきょうもんだいがある;kono machi ha kankyou mondai ga aru;This town has environmental problems;Cette ville a des problèmes environnementaux;FALSE
+3;83;今日はすべてうまくいった;きょうはすべてうまくいった;kyou ha subete umaku itta;Everything went well today;Aujourd'hui tout s'est bien passé;FALSE
 3;83;汚染;おせん;osen;Pollution;Pollution;TRUE
-3;83;その会社は川を汚染しています;そのかいしゃはかわをおせんしています;sono kaisha ha kawa wo osen shiteimasu;That company is polluting the river;Cette entreprise pollue la rivière;TRUE
-3;83;環境を汚染する会社がある;かんきょうをおせんするかいしゃがある;kankyou wo osen suru kaisha ga aru;There is a company polluting the environment;Il existe une entreprise qui pollue l'environnement;TRUE
-3;83;人間は自然を汚染しています;にんげんはしぜんをおせんしています;ningen ha shizen wo osen shiteimasu;Humans are polluting nature;Les humains polluent la nature;TRUE
+3;83;その会社は川を汚染しています;そのかいしゃはかわをおせんしています;sono kaisha ha kawa wo osen shiteimasu;That company is polluting the river;Cette entreprise pollue la rivière;FALSE
+3;83;環境を汚染する会社がある;かんきょうをおせんするかいしゃがある;kankyou wo osen suru kaisha ga aru;There is a company polluting the environment;Il existe une entreprise qui pollue l'environnement;FALSE
+3;83;人間は自然を汚染しています;にんげんはしぜんをおせんしています;ningen ha shizen wo osen shiteimasu;Humans are polluting nature;Les humains polluent la nature;FALSE
 3;83;一頭;いっとう;ittou;One (large animal);Une tête (grand animal);TRUE
 3;83;飼う;かう;kau;To keep (a pet);Garder (un animal);TRUE
 3;83;オオカミ;おおかみ;ookami;Wolf;Loup;TRUE
 3;83;ウサギ;うさぎ;usagi;Rabbit;Lapin;TRUE
 3;83;ゾウ;ぞう;zou;Elephant;Éléphant;TRUE
-3;83;兎を二羽飼っています;うさぎをにわかっています;usagi wo niwa katteimasu;I am keeping two rabbits;Je garde deux lapins;TRUE
-3;83;馬が二頭います;うまがにとういます;uma ga nitou imasu;There are two horses;Il y a deux chevaux;TRUE
+3;83;兎を二羽飼っています;うさぎをにわかっています;usagi wo niwa katteimasu;I am keeping two rabbits;Je garde deux lapins;FALSE
+3;83;馬が二頭います;うまがにとういます;uma ga nitou imasu;There are two horses;Il y a deux chevaux;FALSE
 3;83;巨大;きょだい;kyodai;Giant;Géant;TRUE
 3;83;虫;むし;mushi;Insect;Insecte;TRUE
 3;83;ネズミ;ねずみ;nezumi;Mouse;Souris;TRUE
-3;83;妹は虫がうるさいと思います;いもうとはむしがうるさいとおもいます;imouto ha mushi ga urusai to omoimasu;My sister thinks insects are noisy;Ma sœur trouve que les insectes sont bruyants;TRUE
+3;83;妹は虫がうるさいと思います;いもうとはむしがうるさいとおもいます;imouto ha mushi ga urusai to omoimasu;My sister thinks insects are noisy;Ma sœur trouve que les insectes sont bruyants;FALSE
 3;83;ハチ;はち;hachi;Bee;Abeille;TRUE
-3;83;蜂が八匹いる;はちがはっぴきいる;hachi ga happiki iru;There are eight bees;Il y a huit abeilles;TRUE
-3;83;象は巨大な動物です;ぞうはきょだいなどうぶつです;zou ha kyodaina doubutsu desu;The elephant is a giant animal;L'éléphant est un animal géant;TRUE
+3;83;蜂が八匹いる;はちがはっぴきいる;hachi ga happiki iru;There are eight bees;Il y a huit abeilles;FALSE
+3;83;象は巨大な動物です;ぞうはきょだいなどうぶつです;zou ha kyodaina doubutsu desu;The elephant is a giant animal;L'éléphant est un animal géant;FALSE
 3;83;殺す;ころす;korosu;To kill;Tuer;TRUE
 3;83;鶏;にはとり;niwatori;Chicken;Poulet;TRUE
 3;83;野生動物;やせいどうぶつ;yaseidoubutsu;Wild animal;Animal sauvage;TRUE
 3;83;死ぬ;しぬ;shinu;To die;Mourir;TRUE
-3;83;彼は二百年前に九十歳で死んだ;かれはにひゃくねんまえにきゅうじゅっさいでしんだ;kare ha nihyakunen mae ni kyuujuusai de shinda;He died 200 years ago at 90;Il est mort il y a 200 ans à 90 ans;TRUE
-3;83;人間は死ぬものだ;にんげんはしぬものだ;ningen ha shinu mono da;Humans are mortal;Les humains sont mortels;TRUE
-3;83;動物を殺すのが嫌です;どうぶつをころすのがいやです;doubutsu wo korosu no ga iya desu;I hate killing animals;Je déteste tuer des animaux;TRUE
-3;83;これは生きるか死ぬかの問題です;これはいきるかしぬかのもんだいです;kore ha ikiru ka shinu ka no mondai desu;It’s a matter of life or death;C'est une question de vie ou de mort;TRUE
+3;83;彼は二百年前に九十歳で死んだ;かれはにひゃくねんまえにきゅうじゅっさいでしんだ;kare ha nihyakunen mae ni kyuujuusai de shinda;He died 200 years ago at 90;Il est mort il y a 200 ans à 90 ans;FALSE
+3;83;人間は死ぬものだ;にんげんはしぬものだ;ningen ha shinu mono da;Humans are mortal;Les humains sont mortels;FALSE
+3;83;動物を殺すのが嫌です;どうぶつをころすのがいやです;doubutsu wo korosu no ga iya desu;I hate killing animals;Je déteste tuer des animaux;FALSE
+3;83;これは生きるか死ぬかの問題です;これはいきるかしぬかのもんだいです;kore ha ikiru ka shinu ka no mondai desu;It’s a matter of life or death;C'est une question de vie ou de mort;FALSE
 3;84;様子;ようす;yousu;Appearance (Apparence générale, état, comportement observable);Apparence (Apparence générale, état, comportement observable);TRUE
-3;84;様子を見ましょう;ようすをみましょう;yousu wo mimashou;Let's see how it goes;Voyons comment ça se passe;TRUE
-3;84;彼は疲れた様子だった;かれはつかれたようすだった;kare ha tsukareta yousu datta;He looked tired;Il avait l'air fatigué;TRUE
+3;84;様子を見ましょう;ようすをみましょう;yousu wo mimashou;Let's see how it goes;Voyons comment ça se passe;FALSE
+3;84;彼は疲れた様子だった;かれはつかれたようすだった;kare ha tsukareta yousu datta;He looked tired;Il avait l'air fatigué;FALSE
 3;84;よう;よう;you;Manner / way;Manière / façon;TRUE
-3;84;どのように行くの;どのようにいくの;dono you ni iku no;How will you go?;Comment vas-tu y aller ?;TRUE
-3;84;足が氷のよう冷たい;あしがこおりのようつめたい;ashi ga koori no you tsumetai;My leg is as cold as ice;Ma jambe est froide comme la glace;TRUE
-3;84;りんごの形は丸い;りんごのかたちはまるい;ringo no katachi ha marui;The shape of the apple is round;La pomme est ronde;TRUE
+3;84;どのように行くの;どのようにいくの;dono you ni iku no;How will you go?;Comment vas-tu y aller ?;FALSE
+3;84;足が氷のよう冷たい;あしがこおりのようつめたい;ashi ga koori no you tsumetai;My leg is as cold as ice;Ma jambe est froide comme la glace;FALSE
+3;84;りんごの形は丸い;りんごのかたちはまるい;ringo no katachi ha marui;The shape of the apple is round;La pomme est ronde;FALSE
 3;84;形;かたち;katachi;Shape;Forme;TRUE
-3;84;先生は忙しいようだ;せんせいはいそがしいようだ;sensei ha isogashii you da;The teacher seems busy;Le professeur semble occupé;TRUE
-3;84;彼女はもう帰ったようです;かのじょはもうかえったようです;kanojo ha mou kaetta you desu;It seems she has already gone home;Il semble qu'elle soit déjà rentrée;TRUE
-3;84;ここには誰もいないようです;ここにはだれもいないようです;koko ni ha daremo inai you desu;It seems nobody is here;Il semble que personne ne soit ici;TRUE
+3;84;先生は忙しいようだ;せんせいはいそがしいようだ;sensei ha isogashii you da;The teacher seems busy;Le professeur semble occupé;FALSE
+3;84;彼女はもう帰ったようです;かのじょはもうかえったようです;kanojo ha mou kaetta you desu;It seems she has already gone home;Il semble qu'elle soit déjà rentrée;FALSE
+3;84;ここには誰もいないようです;ここにはだれもいないようです;koko ni ha daremo inai you desu;It seems nobody is here;Il semble que personne ne soit ici;FALSE
 3;84;お菓子;おかし;okashi;Sweets;Confiseries;TRUE
-3;84;おかしなことを言ってもいい;おかしなことをいってもいい;okashina koto wo ittemo ii;Is it okay to say something strange?;Peut-on dire quelque chose de bizarre ?;TRUE
-3;84;彼の話にはおかしなところがある;かれのはなしにはおかしなところがある;kare no hanashi ni ha okashina tokoro ga aru;There’s something strange in his story;Il y a quelque chose d'étrange dans son histoire;TRUE
-3;84;このような寿司を注文したいです;このようなすしをちゅうもんしたいです;kono youna sushi wo chuumon shitai desu;I want to order sushi like this;Je veux commander des sushis comme ça;TRUE
-3;84;彼女の様子がおかしい;かのじょのようすがおかしい;kanojo no yousu ga okashii;Her condition is strange;Son état est étrange;TRUE
-3;84;エリカさんは大阪のような町へ行きたいと言いました;えりかさんはおおさかのようなまちへいきたいといいました;erika san ha oosaka no youna machi e ikitai to iimashita;Erika said she wants to go to a city like Osaka;Erika a dit qu'elle veut aller dans une ville comme Osaka;TRUE
-3;84;あなたのような友達が欲しいです;あなたのようなともだちがほしいです;anata no youna tomodachi ga hoshii desu;I want a friend like you;Je veux un ami comme toi;TRUE
+3;84;おかしなことを言ってもいい;おかしなことをいってもいい;okashina koto wo ittemo ii;Is it okay to say something strange?;Peut-on dire quelque chose de bizarre ?;FALSE
+3;84;彼の話にはおかしなところがある;かれのはなしにはおかしなところがある;kare no hanashi ni ha okashina tokoro ga aru;There’s something strange in his story;Il y a quelque chose d'étrange dans son histoire;FALSE
+3;84;このような寿司を注文したいです;このようなすしをちゅうもんしたいです;kono youna sushi wo chuumon shitai desu;I want to order sushi like this;Je veux commander des sushis comme ça;FALSE
+3;84;彼女の様子がおかしい;かのじょのようすがおかしい;kanojo no yousu ga okashii;Her condition is strange;Son état est étrange;FALSE
+3;84;エリカさんは大阪のような町へ行きたいと言いました;えりかさんはおおさかのようなまちへいきたいといいました;erika san ha oosaka no youna machi e ikitai to iimashita;Erika said she wants to go to a city like Osaka;Erika a dit qu'elle veut aller dans une ville comme Osaka;FALSE
+3;84;あなたのような友達が欲しいです;あなたのようなともだちがほしいです;anata no youna tomodachi ga hoshii desu;I want a friend like you;Je veux un ami comme toi;FALSE
 3;84;壊れる;こわれる;kowareru;To break;Se casser;TRUE
-3;84;死ぬほど好きです;しぬほどすきです;shinu hodo suki desu;I love you so much (to death);Je t'aime à la folie;TRUE
+3;84;死ぬほど好きです;しぬほどすきです;shinu hodo suki desu;I love you so much (to death);Je t'aime à la folie;FALSE
 3;84;ほど;ほど;hodo;Degree / extent;Degré / mesure;TRUE
-3;84;家は図書館ほど静かではない;いえはとしょかんほどしずかではない;ie ha toshokan hodo shizuka de ha nai;The house is not as quiet as a library;La maison n'est pas aussi calme qu'une bibliothèque;TRUE
-3;84;時計が壊れました;とけいがこわれました;tokei ga kowaremashita;The clock broke;L’horloge s'est cassée;TRUE
-3;84;疲れているみたいだね;つかれているみたいだね;tsukareteiru mitai da ne;You look tired;Tu as l'air fatigué;TRUE
-3;84;彼はあなたくらいの背格好でした;かれはあなたくらいのせかっこうでした;kare ha anata kurai no se kakkou deshita;He was about your height;Il avait à peu près ta taille;TRUE
-3;84;誕生日パーティーは素晴らしかったです;たんじょうびぱーてぃーはすばらしかったです;tanjoubi paatii ha subarashikatta desu;The birthday party was wonderful;La fête d'anniversaire était magnifique;TRUE
+3;84;家は図書館ほど静かではない;いえはとしょかんほどしずかではない;ie ha toshokan hodo shizuka de ha nai;The house is not as quiet as a library;La maison n'est pas aussi calme qu'une bibliothèque;FALSE
+3;84;時計が壊れました;とけいがこわれました;tokei ga kowaremashita;The clock broke;L’horloge s'est cassée;FALSE
+3;84;疲れているみたいだね;つかれているみたいだね;tsukareteiru mitai da ne;You look tired;Tu as l'air fatigué;FALSE
+3;84;彼はあなたくらいの背格好でした;かれはあなたくらいのせかっこうでした;kare ha anata kurai no se kakkou deshita;He was about your height;Il avait à peu près ta taille;FALSE
+3;84;誕生日パーティーは素晴らしかったです;たんじょうびぱーてぃーはすばらしかったです;tanjoubi paatii ha subarashikatta desu;The birthday party was wonderful;La fête d'anniversaire était magnifique;FALSE
 3;84;素晴らしい;すばらしい;subarashii;Wonderful;Magnifique;TRUE
-3;84;彼女は五十ぐらいの年格好だった;かのじょはごじゅうぐらいのとしかっこうだった;kanojo ha go juu gurai no toshi kakkou datta;She looked about fifty;Elle avait l'air d'avoir environ cinquante ans;TRUE
-3;84;この絵は素晴らしくきれいですね;このえはすばらしくきれいですね;kono e ha subarashiku kirei desu ne;This picture is wonderfully beautiful;Ce tableau est magnifiquement beau;TRUE
-3;84;これは疲れているの;これはつかれているの;kore ha tsukareteiruno;Are you tired?;Tu es fatigué ?;TRUE
-3;84;それは壊れているみたいです;それはこわれているみたいです;sore ha kowareteiru mitai desu;It looks broken;Ça a l'air cassé;TRUE
-3;84;楽しそうですね;たのしそうですね;tanoshi sou desu ne;It looks fun;Ça a l'air amusant;TRUE
+3;84;彼女は五十ぐらいの年格好だった;かのじょはごじゅうぐらいのとしかっこうだった;kanojo ha go juu gurai no toshi kakkou datta;She looked about fifty;Elle avait l'air d'avoir environ cinquante ans;FALSE
+3;84;この絵は素晴らしくきれいですね;このえはすばらしくきれいですね;kono e ha subarashiku kirei desu ne;This picture is wonderfully beautiful;Ce tableau est magnifiquement beau;FALSE
+3;84;これは疲れているの;これはつかれているの;kore ha tsukareteiruno;Are you tired?;Tu es fatigué ?;FALSE
+3;84;それは壊れているみたいです;それはこわれているみたいです;sore ha kowareteiru mitai desu;It looks broken;Ça a l'air cassé;FALSE
+3;84;楽しそうですね;たのしそうですね;tanoshi sou desu ne;It looks fun;Ça a l'air amusant;FALSE
 3;84;普通;ふつう;futsuu;Normal;Normal;TRUE
-3;84;彼は普通の人だ;かれはふつうのひとだ;kare ha futsuu no hito da;He is an ordinary person;C’est une personne ordinaire;TRUE
-3;84;先生はとても忙しそうです;せんせいはとてもいそがしそうです;sensei ha totemo isogashi sou desu;The teacher looks very busy;Le professeur semble très occupé;TRUE
-3;84;あのテストは難しそう;あのてすとはむずかしそう;ano tesuto ha muzukashi sou;That test looks hard;Ce test a l'air difficile;TRUE
+3;84;彼は普通の人だ;かれはふつうのひとだ;kare ha futsuu no hito da;He is an ordinary person;C’est une personne ordinaire;FALSE
+3;84;先生はとても忙しそうです;せんせいはとてもいそがしそうです;sensei ha totemo isogashi sou desu;The teacher looks very busy;Le professeur semble très occupé;FALSE
+3;84;あのテストは難しそう;あのてすとはむずかしそう;ano tesuto ha muzukashi sou;That test looks hard;Ce test a l'air difficile;FALSE
 3;84;格好;かっこう;kakkou;Appearance (aspect extérieur, surtout vêtements et style);Apparence (aspect extérieur, surtout vêtements et style);TRUE
-3;84;難しそうな本を読めた;むずかしそうなほんをよめた;muzukashi souna hon wo yometa;I was able to read a book that looked difficult;J'ai pu lire un livre qui avait l'air difficile;TRUE
+3;84;難しそうな本を読めた;むずかしそうなほんをよめた;muzukashi souna hon wo yometa;I was able to read a book that looked difficult;J'ai pu lire un livre qui avait l'air difficile;FALSE
 3;84;厳しい;きびしい;kibishii;Strict;Sévère;TRUE
 3;84;美しい;うつくしい;utsukushii;Beautiful;Beau / Belle;TRUE
 3;84;なかなか;なかなか;nakanaka;Quite / fairly;Assez / plutôt;TRUE
-3;84;なかなか大変だ;なかなかたいへんだ;nakanaka taihen da;It's quite hard;C’est assez difficile;TRUE
-3;84;彼女はなかなかきれいだ;かのじょはなかなかきれいだ;kanojo ha nakanaka kirei da;She is quite beautiful;Elle est plutôt belle;TRUE
-3;84;私たちの先生は厳しい;わたしたちのせんせいはきびしい;watashitachi no sensei ha kibishii;Our teacher is strict;Notre professeur est sévère;TRUE
+3;84;なかなか大変だ;なかなかたいへんだ;nakanaka taihen da;It's quite hard;C’est assez difficile;FALSE
+3;84;彼女はなかなかきれいだ;かのじょはなかなかきれいだ;kanojo ha nakanaka kirei da;She is quite beautiful;Elle est plutôt belle;FALSE
+3;84;私たちの先生は厳しい;わたしたちのせんせいはきびしい;watashitachi no sensei ha kibishii;Our teacher is strict;Notre professeur est sévère;FALSE
 3;84;らしく;らしく;rashiku;Like / in the manner of;Comme / à la manière de;TRUE
-3;84;それは本当らしく聞こえる;それはほんとうらしくきこえる;sore ha hontou rashiku kikoeru;That sounds like the truth;Ça sonne comme la vérité;TRUE
+3;84;それは本当らしく聞こえる;それはほんとうらしくきこえる;sore ha hontou rashiku kikoeru;That sounds like the truth;Ça sonne comme la vérité;FALSE
 3;84;このジュースは水っぽくて、あまり美味しくない;このじゅーすはみずっぽくて、あまりおいしくない;kono juusu ha mizuppokute, amari oishikunai;This juice is watery and not very tasty;Ce jus est aqueux et pas très bon;TRUE
 3;84;彼女は学生っぽい;かのじょはがくせいっぽい;kanojo ha gakuseippoi;She seems like a student;Elle a l'air d'une étudiante;TRUE
-3;84;その話は本当らしいです;そのはなしはほんとうらしいです;sono hanashi ha hontou rashii desu;That story seems true;Cette histoire semble vraie;TRUE
+3;84;その話は本当らしいです;そのはなしはほんとうらしいです;sono hanashi ha hontou rashii desu;That story seems true;Cette histoire semble vraie;FALSE
 3;84;感じる;かんじる;kanjiru;To feel;Ressentir;TRUE
 3;84;ひどい;ひどい;hidoi;Terrible;Terrible;TRUE
-3;84;ひどい風です;ひどいかぜです;hidoi kaze desu;It’s a terrible cold/wind;C’est un mauvais rhume / vent fort;TRUE
-3;84;果物の甘みが好きですか;くだもののあまみがすきですか;kudamono no amami ga sukidesu ka;Do you like the sweetness of fruit?;Aimes-tu la douceur des fruits ?;TRUE
-3;84;痛みはひどかったです;いたみはひどかったです;itami ha hidokatta desu;The pain was terrible;La douleur était terrible;TRUE
-3;84;大きな悲しみを感じた;おおきなかなしみをかんじた;ookina kanashimi wo kanjita;Felt great sorrow;J’ai ressenti une grande tristesse;TRUE
-3;84;彼は大きな悲しみを感じた;かれはおおきなかなしみをかんじた;kare ha ookina kanashimi wo kanjita;He felt great sorrow;Il a ressenti une grande tristesse;TRUE
-3;84;私の悲しみはひどかったです;わたしのかなしみはひどかったです;watashi no kanashimi ha hidokatta desu;My sorrow was terrible;Ma tristesse était terrible;TRUE
+3;84;ひどい風です;ひどいかぜです;hidoi kaze desu;It’s a terrible cold/wind;C’est un mauvais rhume / vent fort;FALSE
+3;84;果物の甘みが好きですか;くだもののあまみがすきですか;kudamono no amami ga sukidesu ka;Do you like the sweetness of fruit?;Aimes-tu la douceur des fruits ?;FALSE
+3;84;痛みはひどかったです;いたみはひどかったです;itami ha hidokatta desu;The pain was terrible;La douleur était terrible;FALSE
+3;84;大きな悲しみを感じた;おおきなかなしみをかんじた;ookina kanashimi wo kanjita;Felt great sorrow;J’ai ressenti une grande tristesse;FALSE
+3;84;彼は大きな悲しみを感じた;かれはおおきなかなしみをかんじた;kare ha ookina kanashimi wo kanjita;He felt great sorrow;Il a ressenti une grande tristesse;FALSE
+3;84;私の悲しみはひどかったです;わたしのかなしみはひどかったです;watashi no kanashimi ha hidokatta desu;My sorrow was terrible;Ma tristesse était terrible;FALSE
 3;84;最高;さいこう;saikou;The best;Le meilleur;TRUE
 3;84;最悪;さいあく;saiaku;The worst;Le pire;TRUE
-3;84;最高でした;さいこうでした;saikou deshita;It was the best;C’était le meilleur;TRUE
-3;84;私は彼女が最高のテニス選手だと思います;わたしはかのじょがさいこうのてにすせんしゅだとおもいます;watashi ha kanojo ga saikou no tenisu senshu da to omoimasu;I think she is the best tennis player;Je pense qu'elle est la meilleure joueuse de tennis;TRUE
+3;84;最高でした;さいこうでした;saikou deshita;It was the best;C’était le meilleur;FALSE
+3;84;私は彼女が最高のテニス選手だと思います;わたしはかのじょがさいこうのてにすせんしゅだとおもいます;watashi ha kanojo ga saikou no tenisu senshu da to omoimasu;I think she is the best tennis player;Je pense qu'elle est la meilleure joueuse de tennis;FALSE
 3;84;最悪でした;さいあくでした;saiaku deshita;It was the worst;C’était le pire;TRUE
 3;84;最近;さいきん;saikin;Recently;Récemment;TRUE
-3;84;最近、どうですか;さいきん、どうですか;saikin, dou desu ka;How have you been recently?;Comment ça va récemment ?;TRUE
-3;84;最悪な天気ですね;さいあくなてんきですね;saiakuna tenki desu ne;This is the worst weather, isn’t it?;C’est le pire temps, n’est-ce pas ?;TRUE
-3;84;僕は最後に来ました;ぼくはさいごにきました;boku ha saigo ni kimashita;I came last;Je suis venu en dernier;TRUE
-3;84;私が料理をするのはこれが最初で最後だ;わたしがりょうりをするのはこれがさいしょでさいごだ;watashi ga ryouri wo suru no ha kore ga saisho de saigo da;This is the first and last time I cook;C’est la première et dernière fois que je cuisine;TRUE
-3;84;あなたの最も好きな色は何色ですか;あなたのもっともすきないろはなにいろですか;anata no mottomo sukina iro ha nan iro desu ka;What is your favorite color?;Quelle est ta couleur préférée ?;TRUE
-3;84;僕はこの映画が最も好きだ;ぼくはこのえいががもっともすきだ;boku ha kono eiga ga mottomo sukida;I like this movie the most;J’aime ce film le plus;TRUE
+3;84;最近、どうですか;さいきん、どうですか;saikin, dou desu ka;How have you been recently?;Comment ça va récemment ?;FALSE
+3;84;最悪な天気ですね;さいあくなてんきですね;saiakuna tenki desu ne;This is the worst weather, isn’t it?;C’est le pire temps, n’est-ce pas ?;FALSE
+3;84;僕は最後に来ました;ぼくはさいごにきました;boku ha saigo ni kimashita;I came last;Je suis venu en dernier;FALSE
+3;84;私が料理をするのはこれが最初で最後だ;わたしがりょうりをするのはこれがさいしょでさいごだ;watashi ga ryouri wo suru no ha kore ga saisho de saigo da;This is the first and last time I cook;C’est la première et dernière fois que je cuisine;FALSE
+3;84;あなたの最も好きな色は何色ですか;あなたのもっともすきないろはなにいろですか;anata no mottomo sukina iro ha nan iro desu ka;What is your favorite color?;Quelle est ta couleur préférée ?;FALSE
+3;84;僕はこの映画が最も好きだ;ぼくはこのえいががもっともすきだ;boku ha kono eiga ga mottomo sukida;I like this movie the most;J’aime ce film le plus;FALSE
 3;84;最も;もっとも;mottomo;Most;Le plus;TRUE
-3;84;その試合を最初から最後まで見ていた;そのしあいをさいしょからさいごまでみていた;sono shiai wo saisho kara saigo made miteita;I watched the match from start to finish;J’ai regardé le match du début à la fin;TRUE
-3;84;最新のパソコン;さいしんのぱそこん;saishin no pasokon;The latest computer;L’ordinateur le plus récent;TRUE
+3;84;その試合を最初から最後まで見ていた;そのしあいをさいしょからさいごまでみていた;sono shiai wo saisho kara saigo made miteita;I watched the match from start to finish;J’ai regardé le match du début à la fin;FALSE
+3;84;最新のパソコン;さいしんのぱそこん;saishin no pasokon;The latest computer;L’ordinateur le plus récent;FALSE
 3;84;最新;さいしん;saishin;Latest;Le plus récent;TRUE
 5;1;値引き;ねびき;nebiki;Discount;Réduction;TRUE
-5;1;会うのを楽しみにしています;あうのをたのしみにしています;auno wo tanoshimi ni shiteimasu;I am looking forward to meeting;J’ai hâte de rencontrer;TRUE
-5;1;食べないと、お腹が空きました;たべないと、おなかがすきました;tabenaito, onakagasukimashita;If I don't eat, I’ll be hungry;Si je ne mange pas, j’aurai faim;TRUE
-5;1;先生だと値引きがあります;せんせいだとねびきがあります;senseida to nebiki ga arimasu;There is a discount for teachers;Il y a une réduction pour les professeurs;TRUE
+5;1;会うのを楽しみにしています;あうのをたのしみにしています;auno wo tanoshimi ni shiteimasu;I am looking forward to meeting;J’ai hâte de rencontrer;FALSE
+5;1;食べないと、お腹が空きました;たべないと、おなかがすきました;tabenaito, onakagasukimashita;If I don't eat, I’ll be hungry;Si je ne mange pas, j’aurai faim;FALSE
+5;1;先生だと値引きがあります;せんせいだとねびきがあります;senseida to nebiki ga arimasu;There is a discount for teachers;Il y a une réduction pour les professeurs;FALSE
 5;1;機会;きかい;kikai;Opportunity;Occasion;TRUE
-5;1;彼女と会う機会がありました;かのじょとあうきかいがありました;kanojo to au kikai ga arimashita;I had the opportunity to meet her;J’ai eu l’occasion de la rencontrer;TRUE
-5;1;またの機会にしましょう;またのきかいにしましょう;mata no kikai ni shimashou;Let’s do it another time;Faisons-le une autre fois;TRUE
+5;1;彼女と会う機会がありました;かのじょとあうきかいがありました;kanojo to au kikai ga arimashita;I had the opportunity to meet her;J’ai eu l’occasion de la rencontrer;FALSE
+5;1;またの機会にしましょう;またのきかいにしましょう;mata no kikai ni shimashou;Let’s do it another time;Faisons-le une autre fois;FALSE
 5;1;横浜;よこはま;yokohama;Yokohama;Yokohama;TRUE
-5;1;横浜の人口はどのぐらいですか;よこはまのじんこうはどのぐらいですか;yokohama no jinkou wa dono gurai desu ka;What is the population of Yokohama?;Quelle est la population de Yokohama ?;TRUE
-5;1;電気をつけると、部屋が明るくなります;でんきをつけると、へやがあかるくなります;denki wo tsukeru to, heya ga akaruku narimasu;When you turn on the light, the room becomes bright;Quand on allume la lumière, la pièce devient lumineuse;TRUE
-5;1;オバマ;オバマ;obama;Obama;Obama;TRUE
-5;1;オバマさんに会った;オバマさんにあった;obamasan ni atta;I met Obama;J’ai rencontré Obama;TRUE
-5;1;オバマさんのおばあさんは横浜に行ったことがありますか;オバマさんのおばあさんはよこはまにいったことがありますか;obama san no obaasan wa yokohama ni ittakoto ga arimasu ka;Has Obama’s grandmother been to Yokohama?;La grand-mère d’Obama est-elle déjà allée à Yokohama ?;TRUE
-5;1;変、どういうこと？;へん、どういうこと？;hen, douiukoto?;Strange, what do you mean?;Bizarre, qu’est-ce que tu veux dire ?;TRUE
-5;1;よろしいでしょうか;よろしいでしょうか;yoroshii deshouka;Is it okay?;Est-ce que c’est correct ?;TRUE
-5;1;学生は質問に答えでしょうか？;がくせいはしつもんにこたえでしょうか？;gakusei wa shitsumon ni kotae deshouka;Did the student answer the question?;L’élève a t'il répondu à la question ?;TRUE
-5;1;もう一度お名前をよろしいでしょうか;もういちどおなまえをよろしいでしょうか;mou ichido onamae wo yoroshii deshouka;May I have your name once again?;Puis-je avoir votre nom encore une fois ?;TRUE
-5;1;本当にびっくりした;ほんとうにびっくりした;hontou ni bikkurishita;I was really surprised;J’ai vraiment été surpris;TRUE
-5;1;今日は学校に行かない;きょうはがっこうにいかない;kyou wa gakkou ni ikanai;I won’t go to school today;Je n’irai pas à l’école aujourd’hui;TRUE
-5;1;来週はとても忙しいだろう;らいしゅうはとてもいそがしいだろう;raishuu wa totemo isogashii darou;Next week will probably be very busy;La semaine prochaine sera probablement très occupée;TRUE
+5;1;横浜の人口はどのぐらいですか;よこはまのじんこうはどのぐらいですか;yokohama no jinkou wa dono gurai desu ka;What is the population of Yokohama?;Quelle est la population de Yokohama ?;FALSE
+5;1;電気をつけると、部屋が明るくなります;でんきをつけると、へやがあかるくなります;denki wo tsukeru to, heya ga akaruku narimasu;When you turn on the light, the room becomes bright;Quand on allume la lumière, la pièce devient lumineuse;FALSE
+5;1;オバマ;オバマ;obama;Obama;Obama;FALSE
+5;1;オバマさんに会った;オバマさんにあった;obamasan ni atta;I met Obama;J’ai rencontré Obama;FALSE
+5;1;オバマさんのおばあさんは横浜に行ったことがありますか;オバマさんのおばあさんはよこはまにいったことがありますか;obama san no obaasan wa yokohama ni ittakoto ga arimasu ka;Has Obama’s grandmother been to Yokohama?;La grand-mère d’Obama est-elle déjà allée à Yokohama ?;FALSE
+5;1;変、どういうこと？;へん、どういうこと？;hen, douiukoto?;Strange, what do you mean?;Bizarre, qu’est-ce que tu veux dire ?;FALSE
+5;1;よろしいでしょうか;よろしいでしょうか;yoroshii deshouka;Is it okay?;Est-ce que c’est correct ?;FALSE
+5;1;学生は質問に答えでしょうか？;がくせいはしつもんにこたえでしょうか？;gakusei wa shitsumon ni kotae deshouka;Did the student answer the question?;L’élève a t'il répondu à la question ?;FALSE
+5;1;もう一度お名前をよろしいでしょうか;もういちどおなまえをよろしいでしょうか;mou ichido onamae wo yoroshii deshouka;May I have your name once again?;Puis-je avoir votre nom encore une fois ?;FALSE
+5;1;本当にびっくりした;ほんとうにびっくりした;hontou ni bikkurishita;I was really surprised;J’ai vraiment été surpris;FALSE
+5;1;今日は学校に行かない;きょうはがっこうにいかない;kyou wa gakkou ni ikanai;I won’t go to school today;Je n’irai pas à l’école aujourd’hui;FALSE
+5;1;来週はとても忙しいだろう;らいしゅうはとてもいそがしいだろう;raishuu wa totemo isogashii darou;Next week will probably be very busy;La semaine prochaine sera probablement très occupée;FALSE
 5;1;だろう;だろう;darou;Probably;Probablement;TRUE
-5;1;来年は彼女に会えるだろうか;らいねんはかのじょにあえるだろうか;rainen wa kanojo ni aeru darouka;Will I be able to meet her next year?;Pourrai-je la rencontrer l’année prochaine ?;TRUE
+5;1;来年は彼女に会えるだろうか;らいねんはかのじょにあえるだろうか;rainen wa kanojo ni aeru darouka;Will I be able to meet her next year?;Pourrai-je la rencontrer l’année prochaine ?;FALSE
 5;1;名古屋;なごや;nagoya;Nagoya;Nagoya;TRUE
-5;1;名古屋は味噌料理で有名だ;なごやはみそりょうりでゆうめいだ;nagoya wa miso ryouri de yuumei da;Nagoya is famous for miso dishes;Nagoya est célèbre pour ses plats au miso;TRUE
-5;1;彼女は名古屋に住んでいるだろう;かのじょはなごやにすんでいるだろう;kanojo wa nagoya ni sunde iru darou;She is probably living in Nagoya;Elle habite probablement à Nagoya;TRUE
-5;1;もう行ってもいいですか;もういってもいいですか;mou ittemo ii desu ka;May I leave now?;Puis-je partir maintenant ?;TRUE
-5;1;姉は来年で二十歳になる;あねはらいねんではたちになる;ane wa rainen de hatachi ni naru;My sister will turn 20 next year;Ma sœur aura 20 ans l’année prochaine;TRUE
-5;1;この薬はいつ飲めばいいですか;このくすりはいつのめばいいですか;kono kusuri wa itsu nomeba ii desu ka;When should I take this medicine?;Quand dois-je prendre ce médicament ?;TRUE
-5;1;お金があれば、あの家を買います;おかねがあれば、あのいえをかいます;okane ga areba, ano ie wo kaimasu;If I had money, I would buy that house;Si j’avais de l’argent, j’achèterais cette maison;TRUE
-5;1;どうすれば;どうすれば;dousureba;What should I do?;Que devrais-je faire ?;TRUE
-5;1;どうすれば発音がよくなりますか;どうすればはつおんがよくなりますか;dousureba, hatsuon ga yoku narimasu ka;How can I improve my pronunciation?;Comment puis-je améliorer ma prononciation ?;TRUE
-5;1;毎日運動すればあなたは強くなるでしょう;まいにちうんどうすればあなたはつよくなるでしょう;mainichi undou sureba anata wa tsuyoku naru deshou;If you exercise every day, you will become strong;Si tu fais de l’exercice chaque jour, tu deviendras fort;TRUE
-5;1;自転車があれば、あそこに行きます;じてんしゃがあれば、あそこにいきます;jitensha ga areba, asoko ni ikimasu;If I had a bike, I would go there;Si j’avais un vélo, j’irais là-bas;TRUE
-5;1;私が知っていれば、あなたに教えたでしょう;わたしがしっていれば、あなたにおしたでしょう;watashi ga shitteireba, anata ni oshieta deshou;If I knew, I would have told you;Si j'avais su, je te l'aurais dis;TRUE
-5;1;薬を飲めばよかったです;くすりをのめばよかったです;kusuri wo nomeba yokatta desu;I should have taken the medicine;J’aurais dû prendre le médicament;TRUE
-5;1;ここに住んでいれば、毎日果物を食べるでしょう;ここにすんでいれば、まいにちくだものをたべるでしょう;koko ni sundeireba, mainichi kudamono wo taberu deshou;If I lived here, I would eat fruit every day;Si j’habitais ici, je mangerais des fruits chaque jour;TRUE
-5;1;もっと勉強すれば、日本語が上手になるよ;もっとべんきょうすれば、にほんごがじょうずになるよ;motto benkyou sureba, nihongo ga jouzu ni naru yo;If you study more, your Japanese will improve;Si tu étudies plus, ton japonais s’améliorera;TRUE
-5;1;どうなってもいい;どうなってもいい;dounatte mo ii;I don’t care what happens;Peu importe ce qui se passe;TRUE
-5;1;すみません、渋谷駅にはどう行けばいいですか;すみません、しぶやえきにはどういけばいいですか;sumimasen, shibuya eki ni wa douikeba ii desu ka;Excuse me, how do I get to Shibuya station?;Excusez-moi, comment aller à la gare de Shibuya ?;TRUE
-5;1;彼は必ず来ます;かれはかならずきます;kare wa kanarazu kimasu;He will surely come;Il viendra sûrement;TRUE
-5;1;必ず;かならず;kanarazu;Always;Toujours;TRUE
-5;1;人間はみんな必ず死ぬ;にんげんはみんなかならずしぬ;ningen wa minna kanarazu shinu;All humans eventually die;Tous les humains finissent par mourir;TRUE
-5;1;湯の中に入る前に、必ず体をきれいに洗って;ゆのなかにはいるまえに、かならずからだをきれいにあらって;yuno naka ni hairu mae ni, kanarazu karada wo kirei ni aratte;Before entering the bath, be sure to wash your body;Avant d’entrer dans le bain, assure-toi de bien laver ton corps;TRUE
+5;1;名古屋は味噌料理で有名だ;なごやはみそりょうりでゆうめいだ;nagoya wa miso ryouri de yuumei da;Nagoya is famous for miso dishes;Nagoya est célèbre pour ses plats au miso;FALSE
+5;1;彼女は名古屋に住んでいるだろう;かのじょはなごやにすんでいるだろう;kanojo wa nagoya ni sunde iru darou;She is probably living in Nagoya;Elle habite probablement à Nagoya;FALSE
+5;1;もう行ってもいいですか;もういってもいいですか;mou ittemo ii desu ka;May I leave now?;Puis-je partir maintenant ?;FALSE
+5;1;姉は来年で二十歳になる;あねはらいねんではたちになる;ane wa rainen de hatachi ni naru;My sister will turn 20 next year;Ma sœur aura 20 ans l’année prochaine;FALSE
+5;1;この薬はいつ飲めばいいですか;このくすりはいつのめばいいですか;kono kusuri wa itsu nomeba ii desu ka;When should I take this medicine?;Quand dois-je prendre ce médicament ?;FALSE
+5;1;お金があれば、あの家を買います;おかねがあれば、あのいえをかいます;okane ga areba, ano ie wo kaimasu;If I had money, I would buy that house;Si j’avais de l’argent, j’achèterais cette maison;FALSE
+5;1;どうすれば;どうすれば;dousureba;What should I do?;Que devrais-je faire ?;FALSE
+5;1;どうすれば発音がよくなりますか;どうすればはつおんがよくなりますか;dousureba, hatsuon ga yoku narimasu ka;How can I improve my pronunciation?;Comment puis-je améliorer ma prononciation ?;FALSE
+5;1;毎日運動すればあなたは強くなるでしょう;まいにちうんどうすればあなたはつよくなるでしょう;mainichi undou sureba anata wa tsuyoku naru deshou;If you exercise every day, you will become strong;Si tu fais de l’exercice chaque jour, tu deviendras fort;FALSE
+5;1;自転車があれば、あそこに行きます;じてんしゃがあれば、あそこにいきます;jitensha ga areba, asoko ni ikimasu;If I had a bike, I would go there;Si j’avais un vélo, j’irais là-bas;FALSE
+5;1;私が知っていれば、あなたに教えたでしょう;わたしがしっていれば、あなたにおしたでしょう;watashi ga shitteireba, anata ni oshieta deshou;If I knew, I would have told you;Si j'avais su, je te l'aurais dis;FALSE
+5;1;薬を飲めばよかったです;くすりをのめばよかったです;kusuri wo nomeba yokatta desu;I should have taken the medicine;J’aurais dû prendre le médicament;FALSE
+5;1;ここに住んでいれば、毎日果物を食べるでしょう;ここにすんでいれば、まいにちくだものをたべるでしょう;koko ni sundeireba, mainichi kudamono wo taberu deshou;If I lived here, I would eat fruit every day;Si j’habitais ici, je mangerais des fruits chaque jour;FALSE
+5;1;もっと勉強すれば、日本語が上手になるよ;もっとべんきょうすれば、にほんごがじょうずになるよ;motto benkyou sureba, nihongo ga jouzu ni naru yo;If you study more, your Japanese will improve;Si tu étudies plus, ton japonais s’améliorera;FALSE
+5;1;どうなってもいい;どうなってもいい;dounatte mo ii;I don’t care what happens;Peu importe ce qui se passe;FALSE
+5;1;すみません、渋谷駅にはどう行けばいいですか;すみません、しぶやえきにはどういけばいいですか;sumimasen, shibuya eki ni wa douikeba ii desu ka;Excuse me, how do I get to Shibuya station?;Excusez-moi, comment aller à la gare de Shibuya ?;FALSE
+5;1;彼は必ず来ます;かれはかならずきます;kare wa kanarazu kimasu;He will surely come;Il viendra sûrement;FALSE
+5;1;必ず;かならず;kanarazu;Surely;Sûrement;TRUE
+5;1;人間はみんな必ず死ぬ;にんげんはみんなかならずしぬ;ningen wa minna kanarazu shinu;All humans eventually die;Tous les humains finissent par mourir;FALSE
+5;1;湯の中に入る前に、必ず体をきれいに洗って;ゆのなかにはいるまえに、かならずからだをきれいにあらって;yuno naka ni hairu mae ni, kanarazu karada wo kirei ni aratte;Before entering the bath, be sure to wash your body;Avant d’entrer dans le bain, assure-toi de bien laver ton corps;FALSE
 5;1;行けたら;いけたら;iketara;If I can go;Si je peux y aller;TRUE
-5;1;白ワインを飲んだの;しろワインをのんだの;shirowain wo nondano;Did you drink white wine;As tu bu du vin blanc ?;TRUE
-5;1;薬を飲んだらどうですか;くすりをのんだらどうですか;kusuri wo nondara dou desu ka;How about taking the medicine?;Et si tu prenais le médicament ?;TRUE
-5;1;暇なときに何をしますか;ひまなときになにをしますか;himanatoki ni nani wo shimasu ka;What do you do in your free time?;Que fais-tu pendant ton temps libre ?;TRUE
-5;1;私は三十歳の時に結婚した;わたしはさんじゅっさいのときにけっこんした;watashi wa sanjussai no toki ni kekkonshita;I got married when I was 30;Je me suis marié à 30 ans;TRUE
+5;1;白ワインを飲んだの;しろワインをのんだの;shirowain wo nondano;Did you drink white wine;As tu bu du vin blanc ?;FALSE
+5;1;薬を飲んだらどうですか;くすりをのんだらどうですか;kusuri wo nondara dou desu ka;How about taking the medicine?;Et si tu prenais le médicament ?;FALSE
+5;1;暇なときに何をしますか;ひまなときになにをしますか;himanatoki ni nani wo shimasu ka;What do you do in your free time?;Que fais-tu pendant ton temps libre ?;FALSE
+5;1;私は三十歳の時に結婚した;わたしはさんじゅっさいのときにけっこんした;watashi wa sanjussai no toki ni kekkonshita;I got married when I was 30;Je me suis marié à 30 ans;FALSE
 5;1;たまたま;たまたま;tamatama;By chance;Par hasard;TRUE
-5;1;たまたまうまくできました;たまたまうまくできました;tamatama umaku dekimashita;It happened to work out by chance;Ça a marché par hasard;TRUE
-5;1;お酒を飲んだら、自転車に乗ってはいけません;おさけをのんだら、じてんしゃにのってはいけません;osake wo nondara, jitensha ni notte wa ikemasen;If you drink alcohol, don’t ride a bicycle;Si tu bois de l’alcool, ne monte pas à vélo;TRUE
-5;1;明日は雪が降れば、家から出ません;あしたはゆきがふれば、いえからでません;ashita wa yuki ga fureba, ie kara demasen;If it snows tomorrow, I won’t go out;S’il neige demain, je ne sortirai pas;TRUE
-5;1;彼女はたまたまそこにいた;かのじょはたまたまそこにいた;kanojo wa tamatama soko ni ita;She happened to be there;Elle était là par hasard;TRUE
-5;1;肉を買わないでください;にくをかわないでください;niku wo kawanaide kudasai;Please don’t buy meat;N’achetez pas de viande s’il vous plaît;TRUE
+5;1;たまたまうまくできました;たまたまうまくできました;tamatama umaku dekimashita;It happened to work out by chance;Ça a marché par hasard;FALSE
+5;1;お酒を飲んだら、自転車に乗ってはいけません;おさけをのんだら、じてんしゃにのってはいけません;osake wo nondara, jitensha ni notte wa ikemasen;If you drink alcohol, don’t ride a bicycle;Si tu bois de l’alcool, ne monte pas à vélo;FALSE
+5;1;明日は雪が降れば、家から出ません;あしたはゆきがふれば、いえからでません;ashita wa yuki ga fureba, ie kara demasen;If it snows tomorrow, I won’t go out;S’il neige demain, je ne sortirai pas;FALSE
+5;1;彼女はたまたまそこにいた;かのじょはたまたまそこにいた;kanojo wa tamatama soko ni ita;She happened to be there;Elle était là par hasard;FALSE
+5;1;肉を買わないでください;にくをかわないでください;niku wo kawanaide kudasai;Please don’t buy meat;N’achetez pas de viande s’il vous plaît;FALSE
 5;1;まさか;まさか;masaka;No way !;C'est pas vrai !;TRUE
-5;1;まさか彼が負けることは思いませんでした;まさかかれがまけることはおもいませんでした;masaka kare ga makeru koto wa omoimasendeshita;I never thought he would lose;Je n’aurais jamais cru qu’il perdrait;TRUE
-5;1;寒くても、出かけます;さむくても、でかけます;samuikute mo, dekakemasu;Even if it’s cold, I will go out;Même s’il fait froid, je sortirai;TRUE
-5;1;高くても買いますよ;たかくてもかいますよ;takakute mo kaimasu yo;Even if it’s expensive, I will buy it;Même si c’est cher, je l’achèterai;TRUE
-5;1;私がエリカでも、同じことをしたでしょう;わたしがえりかでも、おなじことをしたでしょう;watashi ga Erika demo, onaji koto wo shita deshou;Even if I were Erika, I would have done the same;Même si j’étais Erika, j’aurais fait pareil;TRUE
-5;1;時々、高い物でも悪い物がある;ときどき、たかいものでもわるいものがある;tokidoki, takai mono demo warui mono ga aru;Sometimes, even expensive things can be bad;Parfois, même les choses chères peuvent être mauvaises;TRUE
-5;1;彼はレストランに行っても、何も食べません;かれはれすとらんにいっても、なにもたべません;kare wa resutoran ni ittemo, nanimo tabemasen;Even if he goes to the restaurant, he won’t eat anything;Même s’il va au restaurant, il ne mange rien;TRUE
-5;1;映画館に行っても、見たい映画がありません;えいがかんにいっても、みたいえいががありません;eigakan ni ittemo, mitai eiga ga arimasen;Even if I go to the cinema, there’s no movie I want to see;Même si je vais au cinéma, il n’y a pas de film que je veux voir;TRUE
-5;1;月は地球の周りを回る;つきはちきゅうのまわりをまわる;tsuki wa chikyuu no mawari wo mawaru;The moon revolves around the Earth;La lune tourne autour de la Terre;TRUE
-5;1;池の周りを歩きました;いけのまわりをあるきました;ike no mawari wo arukimashita;I walked around the pond;J’ai marché autour de l’étang;TRUE
-5;1;地球は太陽の周りを回る;ちきゅうはたいようのまわりをまわる;chikyuu wa taiyou no mawari wo mawaru;The Earth revolves around the Sun;La Terre tourne autour du Soleil;TRUE
+5;1;まさか彼が負けることは思いませんでした;まさかかれがまけることはおもいませんでした;masaka kare ga makeru koto wa omoimasendeshita;I never thought he would lose;Je n’aurais jamais cru qu’il perdrait;FALSE
+5;1;寒くても、出かけます;さむくても、でかけます;samuikute mo, dekakemasu;Even if it’s cold, I will go out;Même s’il fait froid, je sortirai;FALSE
+5;1;高くても買いますよ;たかくてもかいますよ;takakute mo kaimasu yo;Even if it’s expensive, I will buy it;Même si c’est cher, je l’achèterai;FALSE
+5;1;私がエリカでも、同じことをしたでしょう;わたしがえりかでも、おなじことをしたでしょう;watashi ga Erika demo, onaji koto wo shita deshou;Even if I were Erika, I would have done the same;Même si j’étais Erika, j’aurais fait pareil;FALSE
+5;1;時々、高い物でも悪い物がある;ときどき、たかいものでもわるいものがある;tokidoki, takai mono demo warui mono ga aru;Sometimes, even expensive things can be bad;Parfois, même les choses chères peuvent être mauvaises;FALSE
+5;1;彼はレストランに行っても、何も食べません;かれはれすとらんにいっても、なにもたべません;kare wa resutoran ni ittemo, nanimo tabemasen;Even if he goes to the restaurant, he won’t eat anything;Même s’il va au restaurant, il ne mange rien;FALSE
+5;1;映画館に行っても、見たい映画がありません;えいがかんにいっても、みたいえいががありません;eigakan ni ittemo, mitai eiga ga arimasen;Even if I go to the cinema, there’s no movie I want to see;Même si je vais au cinéma, il n’y a pas de film que je veux voir;FALSE
+5;1;月は地球の周りを回る;つきはちきゅうのまわりをまわる;tsuki wa chikyuu no mawari wo mawaru;The moon revolves around the Earth;La lune tourne autour de la Terre;FALSE
+5;1;池の周りを歩きました;いけのまわりをあるきました;ike no mawari wo arukimashita;I walked around the pond;J’ai marché autour de l’étang;FALSE
+5;1;地球は太陽の周りを回る;ちきゅうはたいようのまわりをまわる;chikyuu wa taiyou no mawari wo mawaru;The Earth revolves around the Sun;La Terre tourne autour du Soleil;FALSE
 5;2;豆;まめ;mame;Bean;Haricot;TRUE
 5;2;じゃがいも;じゃがいも;jagaimo;Potato;Pomme de terre;TRUE
-5;2;豆を兄に投げた;まめをあにになげた;mame wo ani ni nageta;Threw beans at my brother;J’ai jeté des haricots à mon frère;TRUE
+5;2;豆を兄に投げた;まめをあにになげた;mame wo ani ni nageta;Threw beans at my brother;J’ai jeté des haricots à mon frère;FALSE
 5;2;人参;にんじん;ninjin;Carrot;Carotte;TRUE
-5;2;机の上を片付けた;つくえのうえをかたづけた;tsukue no wo katadzuketa;Tidied up the desk;J’ai rangé le bureau;TRUE
-5;2;店で新鮮な卵を買いました;みせでしんせんなたまごをかいました;misede shinsenna tamago wo kaimashita;Bought fresh eggs at the store;J’ai acheté des œufs frais au magasin;TRUE
-5;2;窓を開けて新鮮な空気を入れた;まどをあけてしんせんなくうきをいれた;mado wo akete shinsen na kuuki wo ireta;Opened the window and let in fresh air;J’ai ouvert la fenêtre pour faire entrer de l’air frais;TRUE
-5;2;彼は八百屋の外で私に会った;かれはやおやのそとでわたしにあった;kare wa yaoya no soto de watashi ni atta;He met me outside the greengrocer’s;Il m’a rencontré devant le primeur;TRUE
+5;2;机の上を片付けた;つくえのうえをかたづけた;tsukue no wo katadzuketa;Tidied up the desk;J’ai rangé le bureau;FALSE
+5;2;店で新鮮な卵を買いました;みせでしんせんなたまごをかいました;misede shinsenna tamago wo kaimashita;Bought fresh eggs at the store;J’ai acheté des œufs frais au magasin;FALSE
+5;2;窓を開けて新鮮な空気を入れた;まどをあけてしんせんなくうきをいれた;mado wo akete shinsen na kuuki wo ireta;Opened the window and let in fresh air;J’ai ouvert la fenêtre pour faire entrer de l’air frais;FALSE
+5;2;彼は八百屋の外で私に会った;かれはやおやのそとでわたしにあった;kare wa yaoya no soto de watashi ni atta;He met me outside the greengrocer’s;Il m’a rencontré devant le primeur;FALSE
 5;2;豆腐;とうふ;toufu;Tofu;Tofu;TRUE
 5;2;入場;にゅうじょう;nyuujou;Admission;Entrée;TRUE
-5;2;刻む;きざみます;kizamu;To chop;Hacher;TRUE
+5;2;刻む;きざむ;kizamu;To chop;Hacher;TRUE
 5;2;料理人;りょうりにん;ryourinin;Chef;Cuisinier;TRUE
 5;2;是非;ぜひ;zehi;By all means;Certainement;TRUE
 5;2;実は;じつは;jitsuwa;Actually;En fait;TRUE
-5;2;飲み物を作ってあげる;のみものをつくってあげる;nomimono wo tsukutte ageru;Make a drink for (someone);Préparer une boisson pour (quelqu’un);TRUE
-5;2;料理人は豆腐を切りました;りょうりにんはとうふをきりました;ryourinin wa toufu wo kirimashita;The chef cut the tofu;Le cuisinier a coupé le tofu;TRUE
-5;2;人参を細かく刻みました;にんじんをこまかくきざみました;ninjin wo komakaku kizanimashita;Chopped the carrots finely;A haché finement les carottes;TRUE
+5;2;飲み物を作ってあげる;のみものをつくってあげる;nomimono wo tsukutte ageru;Make a drink for (someone);Préparer une boisson pour (quelqu’un);FALSE
+5;2;料理人は豆腐を切りました;りょうりにんはとうふをきりました;ryourinin wa toufu wo kirimashita;The chef cut the tofu;Le cuisinier a coupé le tofu;FALSE
+5;2;人参を細かく刻みました;にんじんをこまかくきざみました;ninjin wo komakaku kizanimashita;Chopped the carrots finely;A haché finement les carottes;FALSE
 5;2;細かい;こまかい;komakai;Fine/Detailed;Fin/Détaillé;TRUE
 5;2;大豆;だいず;daizu;Soybean;Soja;TRUE
-5;2;大豆から豆乳を作った;だいずからとうにゅうをつくった;daizu kara tounyuu wo tsuketta;Made soy milk from soybeans;A fait du lait de soja à partir de graines de soja;TRUE
+5;2;大豆から豆乳を作った;だいずからとうにゅうをつくった;daizu kara tounyuu wo tsuketta;Made soy milk from soybeans;A fait du lait de soja à partir de graines de soja;FALSE
 5;2;豆乳;とうにゅう;tounyuu;Soy milk;Lait de soja;TRUE
-5;2;豆乳から豆腐を作った;とうにゅうからとうふをつくった;tounyuu kara toufu wo tsuketta;Made tofu from soy milk;A fait du tofu à partir du lait de soja;TRUE
-5;2;彼らは大豆から味噌を作る;かれらはだいずからみそをつくる;karera wa daizu kara miso wo tsukeru;They make miso from soybeans;Ils font du miso à partir du soja;TRUE
+5;2;豆乳から豆腐を作った;とうにゅうからとうふをつくった;tounyuu kara toufu wo tsuketta;Made tofu from soy milk;A fait du tofu à partir du lait de soja;FALSE
+5;2;彼らは大豆から味噌を作る;かれらはだいずからみそをつくる;karera wa daizu kara miso wo tsukeru;They make miso from soybeans;Ils font du miso à partir du soja;FALSE
 5;2;蓋;ふた;futa;Lid;Couvercle;TRUE
 5;2;混ぜます;まぜます;mazemasu;To mix;Mélanger;TRUE
 5;2;材料;ざいりょう;zairyou;Ingredients;Ingrédients;TRUE
 5;2;瓶;びん;bin;Bottle;Bouteille;TRUE
-5;2;瓶に虫を入れた;びんにむしをいれた;binnimushi wo ireta;Put an insect in the bottle;A mis un insecte dans la bouteille;TRUE
-5;2;水と醤油を混ぜた;みずとしょうゆをまぜた;mizu to shouyu wo mazeta;Mixed water and soy sauce;A mélangé de l’eau et de la sauce soja;TRUE
+5;2;瓶に虫を入れた;びんにむしをいれた;binnimushi wo ireta;Put an insect in the bottle;A mis un insecte dans la bouteille;FALSE
+5;2;水と醤油を混ぜた;みずとしょうゆをまぜた;mizu to shouyu wo mazeta;Mixed water and soy sauce;A mélangé de l’eau et de la sauce soja;FALSE
 5;2;鍋;なべ;nabe;Pot;Casserole;TRUE
-5;2;鍋に蓋をした;なべにふたをした;nabe ni futa wo shita;Put a lid on the pot;A mis un couvercle sur la casserole;TRUE
-5;2;冷蔵庫に入れた;れいぞうこにいれた;reizouko ni ireta;Put it in the refrigerator;A mis au réfrigérateur;TRUE
-5;2;それを棚に入れて;それをたなにいれて;sore wo tana ni irete;Put that on the shelf;Mets-le sur l’étagère;TRUE
-5;2;この鍋の蓋はどこにありますか;このなべのふたはどこにありますか;kono nabe no futa wa doko ni arimasu ka;Where is the lid of this pot?;Où est le couvercle de cette casserole ?;TRUE
-5;2;料理人は材料を細かく刻んだ;りょうりにんはざいりょうをこまかくきざんだ;ryourinin wa zairyou wo komakaku kizanda;The chef finely chopped the ingredients;Le cuisinier a finement haché les ingrédients;TRUE
+5;2;鍋に蓋をした;なべにふたをした;nabe ni futa wo shita;Put a lid on the pot;A mis un couvercle sur la casserole;FALSE
+5;2;冷蔵庫に入れた;れいぞうこにいれた;reizouko ni ireta;Put it in the refrigerator;A mis au réfrigérateur;FALSE
+5;2;それを棚に入れて;それをたなにいれて;sore wo tana ni irete;Put that on the shelf;Mets-le sur l’étagère;FALSE
+5;2;この鍋の蓋はどこにありますか;このなべのふたはどこにありますか;kono nabe no futa wa doko ni arimasu ka;Where is the lid of this pot?;Où est le couvercle de cette casserole ?;FALSE
+5;2;料理人は材料を細かく刻んだ;りょうりにんはざいりょうをこまかくきざんだ;ryourinin wa zairyou wo komakaku kizanda;The chef finely chopped the ingredients;Le cuisinier a finement haché les ingrédients;FALSE
 5;2;沸かす;わかします;wakasu;To boil;Faire bouillir;TRUE
 5;2;玉ねぎ;たまねぎ;tamanegi;Onion;Oignon;TRUE
 5;2;にんにく;にんにく;ninniku;Garlic;Ail;TRUE
-5;2;ソースが腐っている;ソースがくさっている;so-suga kusatteiru;The sauce has gone bad;La sauce est pourrie;TRUE
+5;2;ソースが腐っている;ソースがくさっている;so-suga kusatteiru;The sauce has gone bad;La sauce est pourrie;FALSE
 5;2;腐る;くさります;kusaru;To rot;Pourrir;TRUE
 5;2;やかん;やかん;yakan;Kettle;Bouilloire;TRUE
-5;2;お湯を少し沸かしてください;おゆをすこしわかしてください;oyuwosukoshi wakashitekudasai;Please boil some water;Faites bouillir un peu d’eau s’il vous plaît;TRUE
-5;2;やかんでお湯を沸かしてください;やかんでおゆをわかしてください;yakande oyuwowakashitekudasai;Boil water in the kettle;Faites bouillir de l’eau dans la bouilloire;TRUE
-5;2;豆腐は腐りやすい;とうふはくさりやすい;toufuwakusariyasai;Tofu spoils easily;Le tofu se gâte facilement;TRUE
-5;2;タクシー料金が高い;たくしーりょうきんがたかい;takushī ryōkin ga takai;Taxi fare is expensive;Le tarif du taxi est cher;TRUE
-5;2;あの道具は使いにくいです;あのどうぐはつかいにくいです;ano dougu wa tsukainikui desu;That tool is hard to use;Cet outil est difficile à utiliser;TRUE
-5;2;動物を殺すのが嫌いだ;どうぶつをころすのがきらいだ;doubutsu wo korosu no ga kiraida;I hate killing animals;Je déteste tuer les animaux;TRUE
-5;2;豆を食べるのは体にいい;まめをたべるのはからだにいい;mame wo taberu no wa karada ni ii;Eating beans is good for your body;Manger des haricots est bon pour le corps;TRUE
-5;2;細かい雪が降っている;こまかいゆきがふっている;komakai yuki ga futteiru;Fine snow is falling;Une fine neige tombe;TRUE
+5;2;お湯を少し沸かしてください;おゆをすこしわかしてください;oyuwosukoshi wakashitekudasai;Please boil some water;Faites bouillir un peu d’eau s’il vous plaît;FALSE
+5;2;やかんでお湯を沸かしてください;やかんでおゆをわかしてください;yakande oyuwowakashitekudasai;Boil water in the kettle;Faites bouillir de l’eau dans la bouilloire;FALSE
+5;2;豆腐は腐りやすい;とうふはくさりやすい;toufuwakusariyasai;Tofu spoils easily;Le tofu se gâte facilement;FALSE
+5;2;タクシー料金が高い;たくしーりょうきんがたかい;takushī ryōkin ga takai;Taxi fare is expensive;Le tarif du taxi est cher;FALSE
+5;2;あの道具は使いにくいです;あのどうぐはつかいにくいです;ano dougu wa tsukainikui desu;That tool is hard to use;Cet outil est difficile à utiliser;FALSE
+5;2;動物を殺すのが嫌いだ;どうぶつをころすのがきらいだ;doubutsu wo korosu no ga kiraida;I hate killing animals;Je déteste tuer les animaux;FALSE
+5;2;豆を食べるのは体にいい;まめをたべるのはからだにいい;mame wo taberu no wa karada ni ii;Eating beans is good for your body;Manger des haricots est bon pour le corps;FALSE
+5;2;細かい雪が降っている;こまかいゆきがふっている;komakai yuki ga futteiru;Fine snow is falling;Une fine neige tombe;FALSE
 5;2;ほとんど;ほとんど;hotondo;Almost;Presque;TRUE
 5;2;枝豆;えだまめ;edamame;Green soybeans;Fèves de soja vertes;TRUE
+5;3;測る;はかる;hakaru;to measure (abstract);mesurer (abstrait);TRUE
+5;3;量る;はかる;hakaru;to measure (weight / volume);mesurer (poids / volume / balance);TRUE
+5;3;比べる;くらべる;kuraberu;to compare;comparer;TRUE
+5;3;変える;かえる;kaeru;to change (something);changer;TRUE
+5;3;変わる;かわる;kawaru;to change (intransitive);changer / devenir différent;TRUE
+5;3;研究する;けんきゅうする;kenkyuu suru;to research;faire des recherches;TRUE
+5;3;調べる;しらべる;shiraberu;to check;vérifier;TRUE
+5;3;感じる;かんじる;kanjiru;to feel;ressentir;TRUE
+5;3;置く;おく;oku;to put/place;poser / mettre;TRUE
+5;3;壊れる;こわれる;kowareru;to break (intransitive);se casser;TRUE
+5;3;生じる;しょうじる;shoujiru;to occur / to happen;se produire;TRUE
+5;3;柔道;じゅうどう;juudou;Judo;Judo;TRUE
+5;3;柔らかい;やわらかい;yawarakai;Soft;Doux;TRUE
+5;3;厳しい;きびしい;kibishii;Strict;Strict;TRUE
+5;3;漫画;まんが;manga;Manga;Manga;TRUE
+5;3;音楽;おんがく;ongaku;Music;Musique;TRUE
+5;3;反応;はんのう;hannou;Reaction / Response;Réaction;TRUE
+5;3;変化;へんか;henka;Change;Changement;TRUE
+5;3;環境;かんきょう;kankyō;Environment;Environnement;TRUE
+5;3;長さ;ながさ;nagasa;Length;Longueur;TRUE
+5;3;形;かたち;katachi;Shape;Forme;TRUE
+5;3;物理学者;ぶつりがくしゃ;butsurigakusha;Physicist;Physicien;TRUE
+5;3;物理学;ぶつりがく;butsurigaku;Physics;Physique;TRUE
+5;3;生物学;せいぶつがく;seibutsugaku;Biology;Biologie;TRUE
+5;3;実験;じっけん;jikken;Experiment;Expérience;TRUE
+5;3;富士山;ふじさん;fujisan;Mount Fuji;Mont Fuji;TRUE
+5;3;紫;むらさき;murasaki;Purple;Violet;TRUE
+5;3;科学的;かがくてき;kagakuteki;Scientific;Scientifique;TRUE
+5;3;用意;ようい;youi;Preparation / Ready;Préparation;TRUE
+5;3;地質学者;ちしつがくしゃ;chishitsugakusha;Geologist;Géologue;TRUE
+5;3;地質学;ちしつがく;chishitsugaku;Geology;Géologie;TRUE
+5;3;化学;かがく;kagaku;Chemistry;Chimie;TRUE
+5;3;専攻;せんこう;senkou;Major / Specialization;Spécialisation;TRUE
+5;3;研究;けんきゅう;kenkyuu;Research;Recherche;TRUE
+5;3;重さ;おもさ;omosa;Weight;Poids;TRUE
+5;3;科学的な方法;かがくてきなほうほう;kagakuteki na houhou;Scientific method;Méthode scientifique;FALSE
+5;3;秤;はかり;hakari;Scale / Weighing scale;Balance;FALSE
+5;3;寒さ;さむさ;samusa;Coldness / The cold;Froid;FALSE
+5;3;量;りょう;ryou;Amount;Quantité;FALSE
+5;3;本棚;ほんだな;hondana;Bookcase;Bibliothèque;FALSE
+5;3;幅;はば;haba;Width;Largeur;FALSE
+5;3;味噌;みそ;miso;Miso;Miso;FALSE
+5;3;悲しみ;かなしみ;kanashimi;Sadness;Tristesse;FALSE
+5;3;高さ;たかさ;takasa;Height;Hauteur;FALSE
+5;3;深さ;ふかさ;fukasa;Depth;Profondeur;FALSE
+5;3;科学者;かがくしゃ;kagakusha;Scientist;Scientifique;FALSE
+5;3;かもしれない;かもしれない;kamoshirenai;Might / Maybe / Possibly;Peut-être / Il se peut que;FALSE
+5;3;固い;かたい;katai;Hard / Stubborn;Dur / Têtu;FALSE
+5;3;彼女はそのニュースにどう反応しましたか;かのじょはそのニュースにどうはんのうしましたか;kanojo wa sono nyuusu ni dou hannou shimashita ka;How did she react to the news?;Comment a-t-elle réagi aux nouvelles ?;FALSE
+5;3;山は天気が変化しやすい;やまはてんきがへんかしやすい;yama wa tenki ga henka shiyasui;The weather in the mountains changes easily;Le temps change facilement en montagne;FALSE
+5;3;彼の反応は速かった;かれのはんのうははやかった;kare no hannou wa hayakatta;His response was quick;Sa réaction a été rapide;FALSE
+5;3;どのくらいの変化が生じましたか？;どのくらいのへんかがしょうじましたか？;dono kurai no henka ga shoujimashita ka?;How much change has taken place?;Quel changement a eu lieu ?;FALSE
+5;3;あまり変化がなかった;あまりへんかがなかった;amari henka ga nakatta;There have not been many changes;Il n’y a pas eu beaucoup de changements;FALSE
+5;3;学生は生物学の実験をした;がくせいはせいぶつがくのじっけんをした;gakusei wa seibutsugaku no jikken wo shita;The student conducted a biology experiment;L'étudiant a fait une expérience de biologie;FALSE
+5;3;化学の実験をした;かがくのじっけんをした;kagaku no jikken wo shita;Did a chemistry experiment;A fait une expérience de chimie;FALSE
+5;3;みんな用意はいいか;みんなよういはいいか;minna youi wa ii ka;Is everyone ready?;Est-ce que tout le monde est prêt ?;FALSE
+5;3;まだ用意ができていません;まだよういができていません;mada youi ga dekiteimasen;I am not ready yet;Je ne suis pas encore prêt;FALSE
+5;3;母は地質学者です;はははちしつがくしゃです;haha wa chishitsugakusha desu;My mother is a geologist;Ma mère est géologue;FALSE
+5;3;秤で重さを量った;はかりでおもさをはかった;hakari de omosa wo hakatta;I measured the weight with a scale;J'ai mesuré le poids avec une tasse;FALSE
+5;3;私たちはピアノの重さを量った;わたしたちはぴあののおもさをはかった;watashitachi wa piano no omosa wo hakatta;We measured the weight of the piano;Nous avons mesuré le poids du piano;FALSE
+5;3;本棚の重さを量りましたか？;ほんだなのおもさをはかりましたか？;hondana no omosa wo hakarimashita ka?;Did you measure the weight of the bookcase?;As-tu mesuré le poids de la bibliothèque ?;FALSE
+5;3;今年は寒さがひどい;ことしはさむさがひどい;kotoshi wa samusa ga hidoi;The cold is terrible this year;Il fait extrêmement froid cette année;FALSE
+5;3;この冬、多くの動物が寒さで死んだ;このふゆ、おおくのどうぶつがさむさでしんだ;kono fuyu, ooku no doubutsu ga samusa de shinda;Many animals died from the cold this winter;Beaucoup d’animaux sont morts à cause du froid cet hiver;FALSE
+5;3;秤の上に置いてください;はかりのうえにおいてください;hakari no ue ni oite kudasai;Please put it on the scale;Veuillez le poser sur la balance;FALSE
+5;3;秤が壊れている;はかりがこわれている;hakari ga kowarete iru;The scale is broken;La balance est cassée;FALSE
+5;3;寒さを感じませんか？;さむさをかんじませんか？;samusa wo kanjimasen ka?;Don’t you feel the cold?;Tu ne sens pas le froid ?;FALSE
+5;3;彼女は彼と同じ背の高さです;かのじょはかれとおなじせのたかさです;kanojo wa kare to onaji se no takasa desu;She and he are the same height;Elle et lui ont la même taille;FALSE
+5;3;その高さはいくらですか？;そのたかさはいくらですか？;sono takasa wa ikura desu ka?;How tall is it?;Quelle est sa hauteur ?;FALSE
+5;3;この本棚の長さは一メートルです;このほんだなのながさはいちめーとるです;kono hondana no nagasa wa ichi meetoru desu;The length of this bookcase is one meter;La longueur de cette bibliothèque est d’un mètre;FALSE
+5;3;ベッドの長さを測った;べっどのながさをはかった;beddo no nagasa wo hakatta;I measured the length of the bed;J'ai mesuré la longueur du lit;FALSE
+5;3;机の幅を測ってください;つくえのはばをはかってください;tsukue no haba wo hakatte kudasai;Please measure the width of the desk;Veuillez mesurer la largeur du bureau;FALSE
+5;3;川の深さを測りました;かわのふかさをはかりました;kawa no fukasa wo hakarimashita;I measured the depth of the river;J'ai mesuré la profondeur de la rivière;FALSE
+5;3;川の深さを測り;かわのふかさをはかり;kawa no fukasa wo hakari;Measured the depth of the river;A mesuré la profondeur de la rivière;FALSE
+5;3;予約を火曜日から木曜日に変えてもらった;よやくをかようびからもくようびにかえてもらった;yoyaku wo kayoubi kara mokuyoubi ni kaete moratta;I had the appointment changed from Tuesday to Thursday;J’ai fait changer le rendez-vous du mardi au jeudi;FALSE
+5;3;日本はアメリカに比べて小さいです;にほんはあめりかにくらべてちいさいです;nihon wa amerika ni kurabete chiisai desu;Japan is small compared to the US;Le Japon est petit comparé aux États-Unis;FALSE
+5;3;太陽は月に比べて大きいです;たいようはつきにくらべておおきいです;taiyou wa tsuki ni kurabete ookii desu;The sun is big compared to the moon;Le soleil est grand comparé à la lune;FALSE
+5;3;この箱はあの箱の半分の大きさだ;このはこはあのはこのはんぶんのおおきさだ;kono hako wa ano hako no hanbun no ookisa da;This box is half the size of that box;Cette boîte fait la moitié de la taille de celle-là;FALSE
+5;3;この靴は同じ大きさです;このくつはおなじおおきさです;kono kutsu wa onaji ookisa desu;These shoes are the same size;Ces chaussures ont la même taille;FALSE
+5;3;娘は楽しみのために科学を研究している;むすめはたのしみのためにかがくをけんきゅうしている;musume wa tanoshimi no tame ni kagaku wo kenkyuu shite iru;My daughter is studying science for fun;Ma fille étudie la science pour le plaisir;FALSE
+5;3;動物を研究したいです;どうぶつをけんきゅうしたいです;doubutsu wo kenkyuu shitai desu;I want to research animals;Je veux faire des recherches sur les animaux;FALSE
+5;3;彼は科学が好きじゃない;かれはかがくがすきじゃない;kare wa kagaku ga suki janai;He does not like science;Il n’aime pas la science;FALSE
+5;3;このベッドは柔らかすぎます;このべっどはやわらかすぎます;kono beddo wa yawarakasugimasu;This bed is too soft;Ce lit est trop mou;FALSE
+5;3;頭が固すぎますよ;あたまがかたすぎますよ;atama ga katasugimasu yo;You're too stubborn;Tu es trop têtu;FALSE
+5;3;彼は変わってる;かれはかわってる;kare wa kawatteru;He's weird;Il est bizarre;FALSE
+5;3;お調べします;おしらべします;o shirabemasu;I will check (this);Je vais vérifier (cela);FALSE
