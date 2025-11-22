@@ -74,6 +74,10 @@ def render_main_page():
         if st.button("Cheat sheet", use_container_width=True):
             st.session_state['page'] = 'cheat_sheet'
             st.rerun()
+    with col14:
+        if st.button("Miscellaneous", use_container_width=True):
+            st.session_state['page'] = 'miscellaneous'
+            st.rerun()
 
     st.write('\n')
     st.header('Resources:')

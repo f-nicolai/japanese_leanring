@@ -2194,3 +2194,76 @@
 5;3;頭が固すぎますよ;あたまがかたすぎますよ;atama ga katasugimasu yo;You're too stubborn;Tu es trop têtu;FALSE
 5;3;彼は変わってる;かれはかわってる;kare wa kawatteru;He's weird;Il est bizarre;FALSE
 5;3;お調べします;おしらべします;o shirabemasu;I will check (this);Je vais vérifier (cela);FALSE
+5;4;土地;とち;tochi;land;terrain;TRUE
+5;4;首都;しゅと;shuto;capital city;capitale;TRUE
+5;4;土産;みやげ;miyage;souvenir;souvenir;TRUE
+5;4;所有;しょゆう;shoyuu;ownership;possession;TRUE
+5;4;資源;しげん;shigen;resources;ressources;TRUE
+5;4;限られます;かぎられます;kagiraremasu;is limited;est limité;TRUE
+5;4;石油;せきゆ;sekiyu;oil;pétrole;TRUE
+5;4;練習;れんしゅう;renshuu;to practice;pratiquer;TRUE
+5;4;豊か;ゆたか;yutaka;abundant;riche;TRUE
+5;4;隅;すみ;sumi;corner;coin;TRUE
+5;4;地下鉄;ちかてつ;chikatetsu;subway;métro;TRUE
+5;4;可能;かのう;kanou;possible;possible;TRUE
+5;4;燃料;ねんりょう;nenryou;fuel;carburant;TRUE
+5;4;開発;かいはつ;kaihatsu;development;développement;TRUE
+5;4;決して;けっして;kesshite;never;jamais;TRUE
+5;4;再生;さいせい;saisei;recycled;recyclé;TRUE
+5;4;消す;けします;keshimasu;to turn off;éteindre;TRUE
+5;4;弱くする;よわくします;yowakushimasu;to weaken;affaiblir;TRUE
+5;4;勤める;つとめます;tsutomemasu;to work for;travailler pour;TRUE
+5;4;天然;てんねん;tennen;natural;naturel;TRUE
+5;4;自然;しぜん;shizen;Nature;Nature;TRUE
+5;4;有料;ゆうりょう;yuuryou;Not free (charged);Payant;TRUE
+5;4;エネルギー;エネルギー;enerugii;energy;énergie;TRUE
+5;4;乾く;かわく;kawaku;To dry (intransitive);Sécher (intransitif);TRUE
+5;4;取っ手;とって;totte;Handle / Knob;Poignée / Bouton;TRUE
+5;4;当たる;あたる;ataru;To hit / To be right / To win;Frapper / Avoir raison / Gagner;TRUE
+5;4;一生懸命;いっしょうけんめい;isshoukenmei;with all one’s might;de toutes ses forces;TRUE
+5;4;そうだといいですね;そうだといいですね;sou da to ii desu ne;I hope so;J’espère que oui;FALSE
+5;4;どんなことでも一生懸命すれば、できます;どんなことでもいっしょうけんめいすれば、できます;donna koto demo isshoukenmei sureba, dekimasu.;You can do absolutely anything if you give it your all;Tu peux tout faire si tu donnes tout;FALSE
+5;4;そうか;そうか;sou kana.;Maybe so.;Peut-être bien.;FALSE
+5;4;一生懸命泳ぎました;いっしょうけんめいおよぎました;isshoukenmei oyogimashita.;I swam as fast as I could.;J’ai nagé de toutes mes forces.;FALSE
+5;4;明日晴れるかな;あしたはれるかな;ashita hareru kana;I wonder if it will be sunny tomorrow;Je me demande s’il fera beau demain;FALSE
+5;4;本当かな;ほんとうかな;hontou kana.;I wonder if it's true.;Je me demande si c’est vrai.;FALSE
+5;4;彼女の言ったことは当たっている;かのじょのいったことはあたっている;kanojo no itta koto wa atatte iru.;What she said is true.;Ce qu’elle a dit est vrai.;FALSE
+5;4;もし時間がないなら、映画を見ません;もしじかんがないなら、えいがをみません;moshi jikan ga nai nara, eiga wo mimasen.;If I do not have time, I will not see a movie.;Si je n’ai pas le temps, je ne regarderai pas de film.;FALSE
+5;4;今日は空気が乾いている;きょうはくうきがかわいている;kyou wa kuuki ga kawaite iru;The air today is dry;L’air est sec aujourd’hui;FALSE
+5;4;先生が来ないといいですね;せんせいがこないといいですね;sensei ga konai to ii desu ne.;I hope that the teacher does not come.;J’espère que le professeur ne viendra pas.;FALSE
+5;4;彼が来ないといいです;かれがこないといいです;kare ga konai to ii desu.;I hope that he does not come.;J’espère qu’il ne viendra pas.;FALSE
+5;4;もし時間がないなら、明日でもいい;もしじかんがないなら、あしたでもいい;moshi jikan ga nai nara, ashita demo ii.;If you do not have time, tomorrow is also okay.;Si tu n’as pas le temps, demain ça ira aussi.;FALSE
+5;4;森さんが来たら、私は帰ります;もりさんがきたら、わたしはかえります;Mori-san ga kitara, watashi wa kaerimasu.;If Mrs. Mori comes, I will go home.;Si Mme Mori vient, je rentrerai à la maison.;FALSE
+5;4;おいしいといいですね;おいしいといいですね;oishii to ii desu ne.;I hope that it is delicious.;J’espère que c’est délicieux.;FALSE
+5;4;今晩は雪が降るかもしれない;こんばん は ゆき が ふる かも しれない;konban wa yuki ga furu kamo shirenai.;It might snow this evening.;Il pourrait neiger ce soir.;FALSE
+5;4;彼女はドアの取っ手を右手で回しました;かのじょ は ドア の とって を みぎて で まわしました;kanojo wa doa no totte wo migite de mawashimashita.;She turned the doorknob with her right hand.;Elle a tourné la poignée de la porte avec sa main droite.;FALSE
+5;4;取っ手を左に回すと、ドアが開きます;とって を ひだり に まわすと、ドア が あきます;totte wo hidari ni mawasu to, doa ga akimasu.;If you turn the handle to the left, the door will open.;Si vous tournez la poignée vers la gauche, la porte s’ouvrira.;FALSE
+5;4;明日は雨が降るかもしれません;あした は あめ が ふる かも しれません;ashita wa ame ga furu kamo shiremasen.;It might rain tomorrow.;Il pourrait pleuvoir demain.;FALSE
+5;4;この取っ手は持ちやすい;この とって は もちやすい;kono totte wa mochiyasui.;This handle is easy to hold.;Cette poignée est facile à tenir.;FALSE
+5;4;窓ガラスを磨きました;まどガラスをみがきました;mado garasu wo migakimashita;I polished the window glass;J'ai poli la vitre;FALSE
+5;4;明日は雨が降るでしょう;あしたはあめがふるでしょう;ashita wa ame ga furu deshou;It may rain tomorrow;Il pleuvra peut être    demain;FALSE
+5;4;雨が窓ガラスに当たっている;あめがまどガラスにあたっている;ame ga mado garasu ni atatteiru;The rain is hitting the window glass;La pluie frappe la vitre;FALSE
+5;4;鍵を右に回すと、ドアが開きます;かぎをみぎにまわすと、ドアがあきます;kagi wo migi ni mawasu to, doa ga akimasu;If you turn the key to the right, the door will open;Si tu tournes la clé vers la droite, la porte s’ouvrira;FALSE
+5;4;彼の誕生日は、今年は金曜日に当たる;かれのたんじょうびは、ことしはきんようびにあたる;kare no tanjoubi wa, kotoshi wa kinyoubi ni ataru;His birthday falls on a Friday this year;Son anniversaire tombe un vendredi cette année;FALSE
+5;4;冷たい風に当たると、風邪を引きますよ;つめたいかぜにあたると、かぜをひきますよ;tsumetai kaze ni ataru to, kaze wo hikimasu yo;If the cold wind hits you, you will catch a cold;Si le vent froid te frappe, tu attraperas un rhume;FALSE
+5;4;ドアの取っ手を回した;ドアのとってをまわした;doa no totte wo mawashita;I turned the doorknob;J’ai tourné la poignée de porte;FALSE
+5;4;可能なことはすべて知りたい;かのうなことはすべてしりたい;kanou na koto wa subete shiritai;I want to know all the possibilities;Je veux connaître toutes les possibilités;FALSE
+5;4;太陽エネルギーは再生可能な資源です;たいようエネルギーはさいせいかのうなしげんです;taiyou enerugii wa saisei kanou na shigen desu;Solar energy is a renewable resource;L’énergie solaire est une ressource renouvelable;FALSE
+5;4;あの国は新しいエネルギー資源を開発している;あのくにはあたらしいエネルギーしげんをかいはつしている;ano kuni wa atarashii enerugii shigen wo kaihatsu shiteiru;That country is developing new energy resources;Ce pays développe de nouvelles ressources énergétiques;FALSE
+5;4;私たちは再生可能なエネルギー資源を開発する必要がある;わたしたちはさいせいかのうなエネルギーしげんをかいはつするひつようがある;watashitachi wa saisei kanou na enerugii shigen wo kaihatsu suru hitsuyou ga aru;We need to develop renewable energy resources;Nous devons développer des ressources énergétiques renouvelables;FALSE
+5;4;そうかもね;そうかもね;sou kamo ne;Maybe so;Peut-être bien;FALSE
+5;4;今日、ちょっと遅くなるかも;きょう、ちょっとおそくなるかも;kyou, chotto osoku naru kamo;I might be a bit late today;Je risque d’être un peu en retard aujourd’hui;FALSE
+5;4;熱すぎるかも;あつすぎるかも;atsusugiru kamo;It might be too hot;Il fait peut-être trop chaud;FALSE
+5;4;ガラス窓が曇っている;ガラスまどがくもっている;garasu mado ga kumotteiru;The glass window is fogging;La fenêtre en verre s’embue;FALSE
+5;4;天然ガス資源が豊かです;てんねんがすしげんがゆたかです;tennen gasu shigen ga yutaka desu;Natural gas resources are abundant;Les ressources en gaz naturel sont abondantes;FALSE
+5;4;石油は天然の燃料です;せきゆはてんねんのねんりょうです;sekiyu wa tennen no nenryou desu;Oil is a natural fuel;Le pétrole est un combustible naturel;FALSE
+5;4;会社は土地を開発した;かいしゃはとちをかいはつした;kaisha wa tochi wo kaihatsu shita;The company developed the land;L'entreprise a développé le terrain;FALSE
+5;4;弟は決して野菜を食べない;おとうとはけっしてやさいをたべない;otouto wa kesshite yasai wo tabenai;My brother never eats vegetables;Mon frère ne mange jamais de légumes;FALSE
+5;4;彼女は決して悪い人ではない;かのじょはけっしてわるいひとではない;kanojo wa kesshite warui hito de wa nai;She is not a bad person in any way;Elle n’est en aucun cas une mauvaise personne;FALSE
+5;4;この本は再生紙でできています;このほんはさいせいしでできています;kono hon wa saiseishi de dekiteimasu;This book is made of recycled paper;Ce livre est fait de papier recyclé;FALSE
+5;4;...かも;...かも;...kamo;maybe, it may that ...;peut-être, il se pourrait que...;TRUE
+5;4;...といいですね;...といいですね;...toiidesune;It'd be good if..., I hope that ...;ce serait bien si... / j'espère que...;TRUE
+5;4;もし ... なら ...;もし ... なら ...;moshi ... nara...;If ... then ...; Si... alors ...;TRUE
+5;4;...かな;...かな;...kana;I wonder if ...; Je me demande si ...;TRUE
+5;4;Vる + と;Vる + と;Vru + to;Automatic condition (mechanical);Condition automatique / mécanique;TRUE
+5;4;Vたら;Vたら;V tara;Flexible condition;Condition flexible/ pratique;TRUE

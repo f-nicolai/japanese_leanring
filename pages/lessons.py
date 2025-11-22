@@ -29,7 +29,8 @@ def render_page(resource:str):
         st.markdown(read_markdown_file(Path(__file__).parent.parent/'lessons/action_from_to_someone.md'),unsafe_allow_html=True)
     elif resource == 'cheat_sheet':
         st.markdown(read_markdown_file(Path(__file__).parent.parent/'lessons/cheat_sheet.md'),unsafe_allow_html=True)
-
+    elif resource == 'miscellaneous':
+        st.markdown(read_markdown_file(Path(__file__).parent.parent / 'lessons/miscellaneous.md'), unsafe_allow_html=True)
 
     st.write('\n')
     if st.button("Back to Main Menu",key='lessons_back_2'):
