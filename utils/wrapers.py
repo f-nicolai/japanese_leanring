@@ -22,6 +22,13 @@ def create_back_and_next_buttons(add_focus_word_button: bool = False):
     if add_focus_word_button:
         col3, col4 = st.columns(2)
         with col3:
+            if st.button("Remove from focus group", use_container_width=True):
+                st.session_state.focus_words = st.session_state.focus_words.loc[
+                    lambda x: x['kanji'] != st.session_state.sample['kanji'].iloc[0]
+                ]
+                st.session_state.just_modified_to_focus_group = True
+                
+        with col4:
             if st.button("Add to focus group", use_container_width=True):
                 st.session_state.focus_words = concat([
                     st.session_state.focus_words.loc[
@@ -31,12 +38,7 @@ def create_back_and_next_buttons(add_focus_word_button: bool = False):
                 ])
                 st.session_state.just_modified_to_focus_group = True
 
-        with col4:
-            if st.button("Remove from focus group", use_container_width=True):
-                st.session_state.focus_words = st.session_state.focus_words.loc[
-                    lambda x: x['kanji'] != st.session_state.sample['kanji'].iloc[0]
-                ]
-                st.session_state.just_modified_to_focus_group = True
+
 
 
 def read_markdown_file(markdown_file):
