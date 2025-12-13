@@ -2267,3 +2267,80 @@
 5;4;...かな;...かな;...kana;I wonder if ...; Je me demande si ...;TRUE
 5;4;Vる + と;Vる + と;Vru + to;Automatic condition (mechanical);Condition automatique / mécanique;TRUE
 5;4;Vたら;Vたら;V tara;Flexible condition;Condition flexible/ pratique;TRUE
+5;4;どんなことでも;どんなことでも;donna koto demo;Anything;N'importe quoi;TRUE
+5;5;将来;しょうらい;shourai;Future (near/personal);Futur (proche/personnel);TRUE
+5;5;未来;みらい;mirai;Future (general/distant);Futur (général/lointain);TRUE
+5;5;反対;はんたい;hantai;Opposition / Opposite;Opposition / Contraire;TRUE
+5;5;貿易;ぼうえき;boueki;Trade / Commerce;Commerce / Échange;TRUE
+5;5;工場;こうじょう;koujou;Factory;Usine;TRUE
+5;5;昔;むかし;mukashi;Old times / Long ago;Autrefois / Jadis;TRUE
+5;5;原因;げんいん;gen'in;Cause;Cause;TRUE
+5;5;場合;ばあい;baai;Case / Situation;Cas / Situation;TRUE
+5;5;事故;じこ;jiko;Accident;Accident;TRUE
+5;5;事件;じけん;jiken;Incident;Incident;TRUE
+5;5;幅;はば;haba;Width;Largeur;TRUE
+5;5;材料;ざいりょう;zairyou;Ingredient;Ingrédient;TRUE
+5;5;深さ;ふかさ;fukasa;Depth;Profondeur;TRUE
+5;5;独身;どくしん;dokushin;Single (unmarried);Célibataire;TRUE
+5;5;汁;しる;shiru;Soup/Broth;Soupe/Bouillon;TRUE
+5;5;予約;よやく;yoyaku;Reservation;Réservation;TRUE
+5;5;卓球;たっきゅう;takyuu;Table tennis;Tennis de table;TRUE
+5;5;技術;ぎじゅつ;gijutsu;Technology / Technique;Technologie / Technique;TRUE
+5;5;付く;つく;tsuku;To adhere / stick to;Adhérer / Coller;TRUE
+5;5;政治;せいじ;seiji;Politics;Politique;TRUE
+5;5;産業;さんぎょう;sangyou;Industry;Industrie;TRUE
+5;5;関係;かんけい;kankei;Relation / Connection;Relation / Lien;TRUE
+5;5;生活;せいかつ;seikatsu;Life / Livelihood;Vie / Quotidien;TRUE
+5;5;明らかに;あきらかに;akiraka ni;Clearly;Clairement;TRUE
+5;5;突然;とつぜん;totsuzen;Suddenly;Soudainement;TRUE
+5;5;非常;ひじょう;hijou;Emergency (extraordinary);Urgence;TRUE
+5;5;地震;じしん;jishin;Earthquake;Tremblement de terre;TRUE
+5;5;ケガ;けが;kega;Injury;Blessure;TRUE
+5;5;床;ゆか;yuka;Floor;Sol;TRUE
+5;5;倒れる;たおれる;taoreru;To collapse;S'effondrer;TRUE
+5;5;落ちる;おちる;ochiru;To fall (intransitive);Tomber (intransitif);TRUE
+5;5;落とす;おとす;otosu;To drop (transitive);Faire tomber (transitif);TRUE
+5;5;地面;じめん;jimen;Ground;Sol;TRUE
+5;5;打ちます;うちます;uchimasu;To hit;Frapper;TRUE
+5;5;状態;じょうたい;joutai;Condition / State;État / Condition;TRUE
+5;5;助けます;たすけます;tasukemasu;To help;Aider;TRUE
+5;5;不明;ふめい;fumei;Unknown / Unclear;Inconnu / Peu clair;TRUE
+5;5;危険;きけん;kiken;Danger;Danger;TRUE
+5;5;警察;けいさつ;keisatsu;Police;Police;TRUE
+5;5;逮捕;たいほ;taiho;Arrest;Arrestation;TRUE
+5;5;救急車;きゅうきゅうしゃ;kyuukyuusha;Ambulance;Ambulance;TRUE
+5;5;交通;こうつう;koutsuu;Traffic / Transportation;Circulation / Transport;TRUE
+5;5;濡れている;ぬれている;nurete iru;Is wet;Est mouillé;TRUE
+5;5;化学反応が起こった;かがくはんのうがおこった;kagaku hannou ga okotta;A chemical reaction took place;Une réaction chimique a eu lieu;FALSE
+5;5;病気の原因は何ですか？;びょうきのげんいんはなんですか？;byouki no gen'in wa nan desu ka?;What is the cause of the disease?;Quelle est la cause de la maladie ?;FALSE
+5;5;彼の病気は食べすぎが原因でした。;かれのびょうきはたべすぎがげんいんでした。;kare no byouki wa tabesugi ga gen'in deshita.;The cause of his illness was overeating.;La cause de sa maladie était la suralimentation.;FALSE
+5;5;大きな事故を起こした。;おおきなじこをおこした。;ookina jiko wo okoshita.;I caused a big accident.;J’ai provoqué un grave accident.;FALSE
+5;5;事故を起こしたのは誰ですか;じこをおこしたのはだれですか;jiko wo okoshita no wa dare desu ka;Who is the person who caused the accident?;Qui est la personne qui a causé l'accident ?;FALSE
+5;5;その事故はいつ起こりましたか？;そのじこはいつおこりましたか？;sono jiko wa itsu okorimashita ka?;When did that accident occur?;Quand cet accident s'est-il produit ?;FALSE
+5;5;弟は事件を起こしました。;おとうとはじけんをおこしました。;otouto wa jiken wo okoshimashita.;My brother caused an incident.;Mon frère a causé un incident.;FALSE
+5;5;事故は起こるものです。;じこはおこるものです。;jiko wa okoru mono desu.;Accidents happen.;Les accidents arrivent.;FALSE
+5;5;あの男を逮捕して！;あのおとこをたいほして！;ano otoko o taiho shite!;Arrest that man!;Arrête cet homme !;FALSE
+5;5;明らかに犬は病気です。;あきらかにいぬはびょうきです。;akiraka ni inu wa byouki desu.;The dog is clearly sick.;Le chien est clairement malade.;FALSE
+5;5;火事の原因は明らかになりました。;かじのげんいんはあきらかになりました。;kaji no gen'in wa akiraka ni narimashita.;The cause of the fire became clear.;La cause de l'incendie est devenue claire.;FALSE
+5;5;彼女は突然話をやめた。;かのじょはとつぜんはなしをやめた。;kanojo wa totsuzen hanashi o yameta.;She suddenly stopped talking.;Elle a soudainement arrêté de parler.;FALSE
+5;5;明らかに彼女は答えを知っています。;あきらかにかのじょはこたえをしっています。;akiraka ni kanojo wa kotae o shitteimasu.;She clearly knows the answer.;Elle connaît clairement la réponse.;FALSE
+5;5;突然遠くに彼女が見えた。;とつぜんとおくにかのじょがみえた。;totsuzen tooku ni kanojo ga mieta.;I suddenly saw her in the distance.;Je l’ai soudainement vue au loin.;FALSE
+5;5;地震だ。;じしんだ。;jishin da.;It's an earthquake.;C'est un tremblement de terre.;FALSE
+5;5;地震は突然起こった。;じしんはとつぜんおこった。;jishin wa totsuzen okotta.;The earthquake happened suddenly.;Le tremblement de terre s'est produit soudainement.;FALSE
+5;5;この場合は君が悪い。;このばあいはきみがわるい。;kono baai wa kimi ga warui.;In this case, you are at fault.;Dans ce cas, c’est ta faute.;FALSE
+5;5;妹は交通事故を起こした。;いもうとはこうつうじこをおこした。;imouto wa koutsuu jiko o okoshita.;My little sister caused the traffic accident.;Ma petite sœur a causé un accident de la route.;FALSE
+5;5;交通事故は毎日起こるものです。;こうつうじこはまいにちおこるものです。;koutsuu jiko wa mainichi okoru mono desu.;Traffic accidents happen every day.;Les accidents de la route arrivent tous les jours.;FALSE
+5;5;ダイヤモンドは非常に高いです。;ダイヤモンドはひじょうにたかいです。;daiyamondo wa hijou ni takai desu.;Diamonds are extremely expensive.;Les diamants sont extrêmement chers.;FALSE
+5;5;この絵は非常によく描けている。;このえはひじょうによくかけている。;kono e wa hijou ni yoku kakete iru.;This picture is extremely well-painted.;Ce tableau est extrêmement bien peint.;FALSE
+5;5;非常の場合は警察を呼んでください。;ひじょうのばあいはけいさつをよんでください。;hijou no baai wa keisatsu o yonde kudasai.;In case of emergency, please call the police.;En cas d’urgence, appelez la police.;FALSE
+5;5;火事の場合は非常階段を使ってください。;かじのばあいはひじょうかいだんをつかってください。;kaji no baai wa hijou kaidan o tsukatte kudasai.;In case of fire, please use the emergency stairs.;En cas d’incendie, utilisez l’escalier de secours.;FALSE
+5;5;ケガをしました。;けがをしました。;kega o shimashita.;I got hurt.;Je me suis blessé.;FALSE
+5;5;床に倒れました。;ゆかにたおれました。;yuka ni taoremashita.;I collapsed onto the floor.;Je me suis effondré sur le sol.;FALSE
+5;5;家は地震で倒れた。;いえはじしんでたおれた。;ie wa jishin de taoreta.;The house collapsed in an earthquake.;La maison s’est effondrée à cause d’un tremblement de terre.;FALSE
+5;5;サルも木から落ちる。;さるもきからおちる。;saru mo ki kara ochiru.;Even monkeys fall from trees.;Même les singes tombent des arbres.;FALSE
+5;5;地面はまだ濡れている。;じめんはまだぬれている。;jimen wa mada nurete iru.;The ground is still wet.;Le sol est encore mouillé.;FALSE
+5;5;地下鉄は地面の下を走ります。;ちかてつはじめんのしたをはしります。;chikatetsu wa jimen no shita o hashirimasu.;The subway runs under the ground.;Le métro circule sous le sol.;FALSE
+5;5;本が床に落ちました。;ほんがゆかにおちました。;hon ga yuka ni ochimashita.;A book fell onto the floor.;Un livre est tombé par terre.;FALSE
+5;5;床に倒れて足にケガをした。;ゆかにたおれてあしにけがをした。;yuka ni taorete ashi ni kega o shita.;I collapsed onto the floor and hurt my foot.;Je me suis effondré au sol et me suis blessé au pied.;FALSE
+5;5;雨が窓を打った。;あめがまどをうった。;ame ga mado o utta.;The rain struck the window.;La pluie a frappé la fenêtre.;FALSE
+5;5;倒れた時、頭を強く打った。;たおれたとき、あたまをつよくうった。;taoreta toki, atama o tsuyoku utta.;When I collapsed, I hit my head hard.;Quand je suis tombé, je me suis cogné la tête violemment.;FALSE
