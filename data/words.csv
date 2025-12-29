@@ -383,7 +383,7 @@
 3;17;クーポン;クーポン;kuupon;Coupon;Coupon;FALSE
 3;17;レビュー;レビュー;rebyuu;Review;Critique;FALSE
 3;17;必ず;かならず;kanarazu;Surely;Sûrement;TRUE
-3;17;スタッフ;スタッフ;sutaffu;Staff;Personnel;FALSE
+3;17;スタッフ;スタッフ;sutaffu;Staff;personnel;FALSE
 3;18;今週末;こんしゅうまつ;konshuumatsu;This weekend;Ce week-end;FALSE
 3;18;北;きた;kita;North;Nord;TRUE
 3;18;シャツ;シャツ;shatsu;Shirt;Chemise;FALSE
@@ -1024,7 +1024,7 @@
 3;56;立派;りっぱ;rippa;Splendid;Splendide;TRUE
 3;56;女;おんな;onna;Woman;Femme;TRUE
 3;56;どなた;どなた;donata;Who (polite);Qui (poli);TRUE
-3;56;方;かた;kata;Person (polite);Personne (poli);TRUE
+3;56;方;かた;kata;person (polite);personne (poli);TRUE
 3;56;皆;みな;mina;Everyone;Tout le monde;TRUE
 3;56;男;おとこ;otoko;Man;Homme;TRUE
 3;56;男性;だんせい;dansei;Male;Masculin;TRUE
@@ -2344,3 +2344,106 @@
 5;5;床に倒れて足にケガをした。;ゆかにたおれてあしにけがをした。;yuka ni taorete ashi ni kega o shita.;I collapsed onto the floor and hurt my foot.;Je me suis effondré au sol et me suis blessé au pied.;FALSE
 5;5;雨が窓を打った。;あめがまどをうった。;ame ga mado o utta.;The rain struck the window.;La pluie a frappé la fenêtre.;FALSE
 5;5;倒れた時、頭を強く打った。;たおれたとき、あたまをつよくうった。;taoreta toki, atama o tsuyoku utta.;When I collapsed, I hit my head hard.;Quand je suis tombé, je me suis cogné la tête violemment.;FALSE
+5;6;お年寄り;おとしより;otoshiyori;Elderly person;Personne âgée;TRUE
+5;6;換える;かえる;kaeru;To change;Changer;TRUE
+5;6;側;がわ;gawa;Side;Côté;TRUE
+5;6;席;せき;seki;Seat;Siège;TRUE
+5;6;駐車;ちゅうしゃ;chuusha;Parking;Stationnement;TRUE
+5;6;到着;とうちゃく;touchaku;Arrival;Arrivée;TRUE
+5;6;乗り換えます;のりかえます;norikaemasu;To transfer (transport);Faire une correspondance;TRUE
+5;6;拾う;ひろう;hirou;To pick up;Ramasser;TRUE
+5;6;難しい;むずかしい;muzukashii;Difficult;Difficile;TRUE
+5;6;間もなく;まもなく;mamonaku;Soon / Shortly;Bientôt;TRUE
+5;6;幹;かん;kan;Trunk (main);Tronc (principal);TRUE
+5;6;出発;しゅっぱつ;shuppatsu;Departure;Départ;TRUE
+5;6;女性;じょせい;josei;Woman;Femme;TRUE
+5;6;専用;せんよう;senyou;Exclusive use / Reserved;À usage exclusif / Réservé;TRUE
+5;6;車両;しゃりょう;sharyou;Train car / Carriage;Wagon / Voiture de train;TRUE
+5;6;手伝う;てつだう;tetsudau;To help;Aider;TRUE
+5;6;途中;とちゅう;tochuu;On the way / In the middle;En chemin / Au milieu;TRUE
+5;6;男性;だんせい;dansei;Man;Homme;TRUE
+5;6;新幹線;しんかんせん;shinkansen;shinkansen;shinkansen;TRUE
+5;6;売り場;うりば;uriba;Sales floor / Counter;Rayon / Guichet;TRUE
+5;6;切符;きっぷ;kippu;Ticket;Billet;TRUE
+5;6;空く;あく;aku;To become vacant / To be available;Se libérer / Être disponible;TRUE
+5;6;急行;きゅうこう;kyuukou;Express (train);Train express;TRUE
+5;6;切符売り場;きっぷうりば;kippu uriba;Ticket counter;Guichet de billets;TRUE
+5;6;隣;となり;tonari;Next to / Neighboring;À côté / Voisin;TRUE
+5;6;終点;しゅうてん;shuuten;Last stop / Terminus;Terminus;TRUE
+5;6;降り出す;ふりだす;furidasu;To start to rain/snow;Se mettre à pleuvoir/neiger;TRUE
+5;6;出口は左側です;でぐちはひだりがわです;deguchi wa hidarigawa desu;The exit is on the left side;La sortie est du côté gauche;FALSE
+5;6;新幹線に乗りますか？;しんかんせんにのりますか？;shinkansen ni norimasu ka?;Will you take the bullet train?;Vas-tu prendre le train à grande vitesse ?;FALSE
+5;6;切符売り場はあそこです;きっぷうりばはあそこです;kippu uriba wa asoko desu;The ticket counter is over there;Le guichet est là-bas;FALSE
+5;6;私はできるだけ多くの時間が必要です;わたしはできるだけおおくのじかんがひつようです;watashi wa dekiru dake ooku no jikan ga hitsuyou desu;I need as much time as possible;J'ai besoin de tout le temps possible;FALSE
+5;6;彼はできるだけ速く走りました;かれはできるだけはやくはしりました;kare wa dekiru dake hayaku hashirimashita;He ran as fast as he could;Il a couru aussi vite que possible;FALSE
+5;6;切符売り場ではカードが使えません;きっぷうりばではカードがつかえません;kippu uriba de wa ka-do ga tsukaemasen;You cannot use a card at the ticket counter;Vous ne pouvez pas utiliser de carte au guichet;FALSE
+5;6;電車はもう出発した;でんしゃはもうしゅっぱつした;densha wa mou shuppatsu shita;The train has already departed;Le train est déjà parti;FALSE
+5;6;飛行機はすぐに到着します;ひこうきはすぐにとうちゃくします;hikouki wa sugu ni touchaku shimasu;The airplane will arrive soon;L’avion arrivera bientôt;FALSE
+5;6;終点です;しゅうてんです;shuuten desu;This is the last stop;C’est le dernier arrêt;FALSE
+5;6;池袋駅は終点です;いけぶくろえきはしゅうてんです;ikebukuro eki wa shuuten desu;Ikebukuro Station is the final stop;La station Ikebukuro est le terminus;FALSE
+5;6;間もなく次のバスが来ますよ;まもなくつぎのバスがきますよ;mamonaku tsugi no basu ga kimasu yo;The next bus will come shortly;Le prochain bus arrive bientôt;FALSE
+5;6;電車は間もなくここへ来ますか？;でんしゃはまもなくここへきますか？;densha wa mamonaku koko e kimasu ka?;Will the train come here shortly?;Le train va-t-il arriver ici bientôt ?;FALSE
+5;6;電車は間もなく終点に到着します;でんしゃはまもなくしゅうてんにとうちゃくします;densha wa mamonaku shuuten ni touchaku shimasu;The train will soon arrive at the final stop;Le train arrivera bientôt au terminus;FALSE
+5;6;大阪ゆきの飛行機に乗りました;おおさかゆきのひこうきにのりました;osaka yuki no hikouki ni norimashita;I took an airplane bound for Osaka;J’ai pris un avion en direction d’Osaka;FALSE
+5;6;京都ゆきの電車は一番線です;きょうとゆきのでんしゃはいちばんせんです;kyouto yuki no densha wa ichibansen desu;The train bound for Kyoto is at track number one;Le train à destination de Kyoto est sur la voie 1;FALSE
+5;6;この駅には急行は止まりません;このえきにはきゅうこうはとまりません;kono eki ni wa kyuukou wa tomarimasen;Express trains do not stop at this station;Les trains express ne s’arrêtent pas à cette station;FALSE
+5;6;東京ゆきの急行は六時に出発します;とうきょうゆきのきゅうこうはろくじにしゅっぱつします;toukyou yuki no kyuukou wa rokuji ni shuppatsu shimasu;The express train bound for Tokyo departs at six o'clock;Le train express pour Tokyo part à six heures;FALSE
+5;6;彼女は名古屋ゆきの急行に乗りました;かのじょはなごやゆきのきゅうこうにのりました;kanojo wa nagoya yuki no kyuukou ni norimashita;She took the express train bound for Nagoya;Elle a pris le train express à destination de Nagoya;FALSE
+5;6;急行の一番線に乗ります;きゅうこうのいちばんせんにのります;kyuukou no ichibansen ni norimasu;I will take the express train on track number one;Je prendrai le train express sur la voie numéro un;FALSE
+5;6;次の急行は二番ホームから出発します;つぎのきゅうこうはにばんほーむからしゅっぱつします;tsugi no kyuukou wa niban hoomu kara shuppatsu shimasu;The next express will depart from platform number two;Le prochain train express partira du quai numéro deux;FALSE
+5;6;雪が降り出した;ゆきがふりだした;yuki ga furidashita;It started to snow;Il a commencé à neiger;FALSE
+5;6;間もなく雨が降り出した;まもなくあめがふりだした;mamonaku ame ga furidashita;It started to rain before long;Il a commencé à pleuvoir sous peu;FALSE
+5;6;それは私の席です;それはわたしのせきです;sore wa watashi no seki desu;That is my seat;C’est ma place;FALSE
+5;6;学校へ行く途中にコンビニがある;がっこうへいくとちゅうにこんびにがある;gakkou e iku tochuu ni konbini ga aru;There is a convenience store on the way to school;Il y a un konbini sur le chemin de l’école;FALSE
+5;6;試合の途中で雨が降り出した;しあいのとちゅうであめがふりだした;shiai no tochuu de ame ga furidashita;In the middle of the game, it started to rain;Il a commencé à pleuvoir au milieu du match;FALSE
+5;6;タクシーを拾うならあそこの交差点まで行ったほうがいい。;タクシーをひろうならあそこのこうさてんまでいったほうがいい。;takushii wo hirou nara asoko no kousaten made itta hou ga ii;If you are going to catch a taxi, you should go to the crossing over there;Si tu veux prendre un taxi, tu devrais aller jusqu’au carrefour là-bas;FALSE
+5;6;駅へ行く途中で雨が降り出した;えきへいくとちゅうであめがふりだした;eki e iku tochuu de ame ga furidashita;It started to rain on the way to the station;Il a commencé à pleuvoir en allant à la gare;FALSE
+5;6;車で空港に行く途中で拾ってあげるよ;くるまでくうこうにいくとちゅうでひろってあげるよ;kuruma de kuukou ni iku tochuu de hirotte ageru yo;I will pick you up by car on the way to the airport;Je te récupèrerai en voiture en allant à l'aéroport;FALSE
+5;6;あの女性は背が高い。;あのじょせいはせがたかい。;ano josei wa se ga takai.;That woman is tall.;Cette femme est grande.;FALSE
+5;6;あの男性は誰ですか？;あのだんせいはだれですか？;ano dansei wa dare desu ka?;Who is that man?;Qui est cet homme ?;FALSE
+5;6;このトイレは女性専用です。;このトイレはじょせいせんようです。;kono toire wa josei senyou desu.;This toilet is for women only.;Ces toilettes sont réservées aux femmes.;FALSE
+5;6;一番前の車両に乗りましょう。;いちばんまえのしゃりょうにのりましょう。;ichiban mae no sharyou ni norimashou.;Let's get on the frontmost car.;Montons dans la voiture la plus à l'avant.;FALSE
+5;6;隣の車両は女性専用車両です。;となりのしゃりょうはじょせいせんようしゃりょうです。;tonari no sharyou wa josei senyou sharyou desu.;The next car is for women only.;La voiture suivante est réservée aux femmes.;FALSE
+5;6;私の両親はまだ年寄りではない。;わたしのりょうしんはまだとしよりではない。;watashi no ryoushin wa mada toshiyori dewa nai.;My parents are not old yet.;Mes parents ne sont pas encore âgés.;FALSE
+5;6;お年寄りはとても早く起きます;おとしよりはとてもはやくおきます;otoshiyori wa totemo hayaku okimasu;Old people get up very early;Les personnes âgées se lèvent très tôt.;FALSE
+5;6;こちらの席はお年寄り専用の席です;こちらのせきはおとしよりせんようのせきです;kochira no seki wa otoshiyori senyou no seki desu;These seats are reserved for the elderly.;Ces sièges sont réservés aux personnes âgées.;FALSE
+5;6;駐車は難しかった。;ちゅうしゃはむずかしかった。;chuusha wa muzukashikatta.;Parking was difficult.;Se garer était difficile.;FALSE
+5;6;どこに駐車できますか？;どこにちゅうしゃできますか？;doko ni chuusha dekimasu ka?;Where can I park?;Où puis-je me garer ?;FALSE
+5;6;門のそばに駐車した。;もんのそばにちゅうしゃした。;mon no soba ni chuusha shita.;I parked by the gate.;Je me suis garé près de la porte.;FALSE
+5;6;明日の午後は空いてる？;あしたのごごはあいてる？;ashita no gogo wa aiteru?;Are you free tomorrow afternoon?;Tu es libre demain après-midi ?;FALSE
+5;6;来週空いてる日ある？;らいしゅうあいてるひある？;raishuu aiteru hi aru?;Do you have a free day next week?;As-tu un jour libre la semaine prochaine ?;FALSE
+5;6;男性は地下鉄からバスに乗り換えた。;だんせいはちかてつからバスにのりかえた。;dansei wa chikatetsu kara basu ni norikaeta.;The man transferred from the subway to the bus.;L’homme a pris une correspondance du métro au bus.;FALSE
+5;6;別の駅で乗り換えた。;べつのえきでのりかえた。;betsu no eki de norikaeta.;I transferred at another station.;J’ai changé de station.;FALSE
+5;6;東京で別の飛行機に乗り換えた。;とうきょうでべつのひこうきにのりかえた。;toukyou de betsu no hikouki ni norikaeta.;I transferred to another plane in Tokyo.;J’ai changé d’avion à Tokyo.;FALSE
+5;6;手が空いたら、ちょっと手伝ってくれない？;てがあいたら、ちょっとてつだってくれない？;te ga aitara, chotto tetsudatte kurenai?;Would you mind helping me a bit when your hands are free?;Tu peux m’aider un peu quand tu as les mains libres ?;FALSE
+5;6;僕ならそんなことはしない;ぼくならそんなことはしない;boku nara sonna koto wa shinai;I would not do something like that.;Je ne ferais pas une chose pareille.;FALSE
+5;6;柔らかくておいしい;やわらかくておいしい;yawarakakute oishii;It is tender and delicious.;C’est tendre et délicieux.;FALSE
+99;1;いびき;いびき;ibiki;Snoring;Ronflement;TRUE
+99;1;くしゃみ;くしゃみ;kushami;Sneeze;Éternuement;TRUE
+99;1;すする;すする;sosuruto;To slurp / sip;Aspirer / boire à petites gorgées;TRUE
+99;1;説明;せつめい;setsumei;Explanation;Explication;TRUE
+99;1;噂をする;うわさをする;uwasa o suru;To gossip;Faire des commérages;TRUE
+99;1;お年寄り;おとしより;otoshii;Elderly person;personne âgée;TRUE
+99;1;脱線;だっせん;dassen;Derailment / Digression;Déraillement / Digression;TRUE
+99;1;他人の芝生は青い;たにんのしばふはあおい;l'herbe est plus verte ailleurs;The grass is greener on the other side;L’herbe est plus verte ailleurs;TRUE
+99;1;しばく;しばく;shibaku;To smack / To hit;Frapper / Gifler;TRUE
+99;1;窮屈;きゅうくつ;kyukutsu;Tight / Uncomfortable;Serré / Inconfortable;TRUE
+99;1;Duolingoは初心者のためだけです;ドゥオリンゴはしょしんしゃのためだけです;Duolingo wa shoshinsha no tame dake desu;Duolingo is only for beginners;Duolingo est uniquement pour les débutants;FALSE
+99;1;〜によると;〜によると;~ni yoru to;According to~;D’après~;TRUE
+99;1;ニュースによると、あした雨が降ります。;にゅーすによると、あしたあめがふります。;nyuusu ni yoru to, ashita ame ga furimasu;According to the news, it will rain tomorrow.;Selon les nouvelles, il pleuvra demain.;FALSE
+99;1;政府によると、物価が上がっています。;せいふによると、ぶっかがあがっています。;seifu ni yoru to, bukka ga agatteimasu;According to the government, prices are rising.;Selon le gouvernement, les prix augmentent.;FALSE
+99;1;Vてほしい;Vてほしい;V-te hoshii;Want (someone) to do ~;Souhaiter que (quelqu’un) fasse ~;TRUE
+99;1;早く来てほしいです。;はやくきてほしいです。;hayaku kite hoshii desu;I want you to come quickly.;Je veux que tu viennes vite.;FALSE
+99;1;静かにしてほしいと言いました。;しずかにしてほしいといいました。;shizuka ni shite hoshii to iimashita;I said I want you to be quiet.;J’ai dit que je voulais qu’on soit silencieux.;FALSE
+99;1;〜ため（に） / 〜ためのようです;〜ため（に） / 〜ためのようです;~tame (ni) / ~tame no you desu;Because of / Due to;À cause de / En raison de;TRUE
+99;1;事故のため、電車が遅れました。;じこのため、でんしゃがおくれました。;jiko no tame, densha ga okuremashita;The train was delayed due to an accident.;Le train a été retardé à cause d’un accident.;FALSE
+99;1;雨が降ったため、試合は中止になりました。;あめがふったため、しあいはちゅうしになりました。;ame ga futta tame, shiai wa chuushi ni narimashita;Due to the rain, the match was canceled.;Le match a été annulé à cause de la pluie.;FALSE
+99;1;どうなるか;どうなるか;dou naru ka;What will happen;Ce qui va se passer;TRUE
+99;1;これからどうなるか分かりません。;これからどうなるかわかりません。;kore kara dou naru ka wakarimasen;I don’t know what will happen from now.;Je ne sais pas ce qui va se passer maintenant.;FALSE
+99;1;値段がどうなるか注目しています。;ねだんがどうなるかちゅうもくしています。;nedan ga dou naru ka chuumoku shiteimasu;I'm watching closely to see what happens to prices.;Je surveille ce qui se passera avec les prix.;FALSE
+99;1;Vていく / Vていきたい;Vていく / Vていきたい;V-te iku / V-te ikitai;To go on doing ~ / Want to continue doing ~;Continuer à faire ~ / Vouloir continuer ~;TRUE
+99;1;日本語の勉強を続けていきます。;にほんごのべんきょうをつづけていきます。;nihongo no benkyou wo tsuzukete ikimasu;I will continue studying Japanese.;Je vais continuer à étudier le japonais.;FALSE
+99;1;様子を見ていきたいと思います。;ようすをみていきたいとおもいます。;yousu wo mite ikitai to omoimasu;I want to keep observing the situation.;Je souhaite continuer à observer la situation.;FALSE
+99;1;Vる + かどうか;Vる + かどうか;V-ru + ka dou ka;Whether or not ~;Si oui ou non ~;TRUE
+99;1;行くかどうかまだ決めていません。;いくかどうかまだきめていません。;iku ka dou ka mada kimeteimasen;I haven’t decided whether I’ll go.;Je n’ai pas encore décidé si j’y vais.;FALSE
+99;1;彼が来るかどうか知りたいです。;かれがくるかどうかしりたいです。;kare ga kuru ka dou ka shiritai desu;I want to know if he’s coming.;Je veux savoir s’il vient.;FALSE
