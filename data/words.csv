@@ -2418,6 +2418,81 @@
 5;6;手が空いたら、ちょっと手伝ってくれない？;てがあいたら、ちょっとてつだってくれない？;te ga aitara, chotto tetsudatte kurenai?;Would you mind helping me a bit when your hands are free?;Tu peux m’aider un peu quand tu as les mains libres ?;FALSE
 5;6;僕ならそんなことはしない;ぼくならそんなことはしない;boku nara sonna koto wa shinai;I would not do something like that.;Je ne ferais pas une chose pareille.;FALSE
 5;6;柔らかくておいしい;やわらかくておいしい;yawarakakute oishii;It is tender and delicious.;C’est tendre et délicieux.;FALSE
+5;7;直行便;ちょっこうびん;chokkoubin;Direct flight;Vol direct;TRUE
+5;7;経由便;けいゆびん;keiyubin;Connecting flight;Vol avec escale;TRUE
+5;7;都合;つごう;tsugou;Circumstances / Convenience;Disponibilité / Convenance;TRUE
+5;7;人生;じんせい;jinsei;Life;Vie;TRUE
+5;7;不安定;ふあんてい;fuantei;Unstable;Instable;TRUE
+5;7;全く;まったく;mattaku;Completely / Not at all;Complètement / Pas du tout;TRUE
+5;7;実験;じっけん;jikken;Experiment;Expérience;TRUE
+5;7;立派;りっぱ;rippa;Splendid / Fine / Excellent;Remarquable / Excellent;TRUE
+5;7;入学;にゅうがく;nyuugaku;School admission / Enrollment;Entrée à l’école / Inscription;TRUE
+5;7;説明;せつめい;setsumei;Explanation;Explication;TRUE
+5;7;試験;しけん;shiken;Exam / Test;Examen;TRUE
+5;7;締め切り;しめきり;shimekiri;Deadline;Date limite;TRUE
+5;7;段々;だんだん;dandan;Gradually;Petit à petit / Graduellement;TRUE
+5;7;悪い;わるい;warui;Bad;Mauvais;TRUE
+5;7;百点;ひゃくてん;hyakuten;100 points / Perfect score;Cent points / Note parfaite;TRUE
+5;7;出席;しゅっせき;shusseki;Attendance / Presence;Présence / Assiduité;TRUE
+5;7;十分;じゅうぶん;juubun;Enough / Sufficient;Suffisant;TRUE
+5;7;必要;ひつよう;hitsuyou;Necessary / Needed;Nécessaire;TRUE
+5;7;合格;ごうかく;goukaku;Success / Passing (an exam);Réussite (à un examen);TRUE
+5;7;独学;どくがく;dokugaku;Self-study;Autodidacte / Apprentissage autodidacte;TRUE
+5;7;受ける;うける;ukeru;To receive / To take (a test);Recevoir / Passer (un examen);TRUE
+5;7;生徒;せいと;seito;Student / Pupil;Élève;TRUE
+5;7;卒業;そつぎょう;sotsugyou;Graduation;Diplôme;TRUE
+5;7;歴史;れきし;rekishi;History;Histoire;TRUE
+5;7;成績;せいせき;seiseki;Grades / Academic performance;Résultats scolaires;TRUE
+5;7;提出;ていしゅつ;teishutsu;Submission / To submit;Soumission / Remettre;TRUE
+5;7;講義;こうぎ;kougi;Lecture / Class;Cours magistral;TRUE
+5;7;地理;ちり;chiri;Geography;Géographie;TRUE
+5;7;準備;じゅんび;junbi;Preparation;Préparation;TRUE
+5;7;医学;いがく;igaku;Medical science;Médecine;TRUE
+5;7;出席者;しゅっせきしゃ;shusseki-sha;Attendee;Participant;TRUE
+5;7;出席できません;しゅっせきできません;shusseki dekimasen;I cannot attend;Je ne peux pas assister;TRUE
+5;7;文学;ぶんがく;bungaku;Literature;Littérature;TRUE
+5;7;頑張ります;がんばります;ganbarimasu;I will do my best;Je vais faire de mon mieux;TRUE
+5;7;警察;けいさつ;keisatsu;Police;Police;TRUE
+5;7;教育;きょういく;kyouiku;Education;Éducation;TRUE
+5;7;資源;しげん;shigen;Resource;Ressource;TRUE
+5;7;危険;きけん;kiken;Danger;Danger;TRUE
+5;7;救急車;きゅうきゅうしゃ;kyuukyuusha;Ambulance;Ambulance;TRUE
+5;7;使い方を勉強しなければいけません;つかいかたをべんきょうしなければいけません;tsukaikata wo benkyou shinakereba ikemasen;I have to study how to use it;Je dois apprendre comment l’utiliser;FALSE
+5;7;上手に使わなければいけません;じょうずにつかわなければいけません;jouzu ni tsukawanakereba ikemasen;I have to use it skillfully;Je dois bien l’utiliser;FALSE
+5;7;人生を良くするからです;じんせいをよくするからです;jinsei wo yoku suru kara desu;Because it improves your life;Parce que cela améliore la vie;FALSE
+5;7;少しずつしたほうがいいです;すこしずつしたほうがいいです;sukoshizutsu shita hou ga ii desu;It's better to do it little by little;Il vaut mieux le faire petit à petit;FALSE
+5;7;生徒たちはみんな女の子たちです;せいとたちはみんなおんなのこたちです;seito-tachi wa minna onnanoko-tachi desu;The students are all girls;Les élèves sont toutes des filles;FALSE
+5;7;生徒たちは生物学の実験をした;せいとたちはせいぶつがくのじっけんをした;seito-tachi wa seibutsugaku no jikken wo shita;The students conducted a biology experiment;Les élèves ont réalisé une expérience de biologie;FALSE
+5;7;いい教育を受けた;いいきょういくをうけた;ii kyouiku wo uketa;I received a good education;J’ai reçu une bonne éducation;FALSE
+5;7;息子は日本で教育を受けた;むすこはにほんできょういくをうけた;musuko wa nihon de kyouiku wo uketa;My son received an education in Japan;Mon fils a reçu une éducation au Japon;FALSE
+5;7;私は立派な教育を受けました;わたしはりっぱなきょういくをうけました;watashi wa rippana kyouiku wo ukemashita;I received a fine education;J’ai reçu une éducation remarquable;FALSE
+5;7;卒業は終わりじゃない;そつぎょうはおわりじゃない;sotsugyou wa owari janai;Graduation is not the end;La fin des études n’est pas la fin;FALSE
+5;7;高校卒業したらどうするの？;こうこうそつぎょうしたらどうするの？;koukou sotsugyou shitara dou suru no?;What will you do after graduating high school ?;Que feras-tu après le lycée ?;FALSE
+5;7;彼女の妹はもう中学校に入学しましたか？;かのじょのいもうとはもうちゅうがっこうににゅうがくしましたか？;kanojo no imouto wa mou chuugakkou ni nyuugaku shimashita ka?;Has her little sister already entered middle school?;Sa petite sœur est-elle déjà entrée au collège ?;FALSE
+5;7;これは明日説明します;これはあしたせつめいします;kore wa ashita setsumei shimasu;I will explain this tomorrow;Je vais expliquer cela demain;FALSE
+5;7;歴史の試験は簡単でしたか？;れきしのしけんはかんたんでしたか？;rekishi no shiken wa kantan deshita ka?;Was the history exam easy?;L’examen d’histoire était-il facile ?;FALSE
+5;7;締め切りはいつですか？;しめきりはいつですか？;shimekiri wa itsu desu ka?;When is the deadline?;Quelle est la date limite ?;FALSE
+5;7;僕の成績が段々悪くなります;ぼくのせいせきがだんだんわるくなります;boku no seiseki ga dandan waruku narimasu;My grades are gradually getting worse;Mes notes deviennent de plus en plus mauvaises;FALSE
+5;7;昨日は宿題を提出した;きのうはしゅくだいをていしゅつした;kinou wa shukudai wo teishutsu shita;I submitted my homework yesterday;J'ai rendu mes devoirs hier;FALSE
+5;7;試験で百点を取りたい;しけんでひゃくてんをとりたい;shiken de hyakuten wo toritai;I want to get 100 points on the exam;Je veux obtenir 100 points à l’examen;FALSE
+5;7;私は地理の講義をしました;わたしはちりのこうぎをしました;watashi wa chiri no kougi wo shimashita;I gave a geography lecture;J’ai donné un cours de géographie;FALSE
+5;7;授業の終わりに宿題を提出してください;じゅぎょうのおわりにしゅくだいをていしゅつしてください;jugyou no owari ni shukudai wo teishutsu shite kudasai;Please turn in your homework at the end of class;Veuillez rendre vos devoirs à la fin du cours;FALSE
+5;7;地理の試験の点は悪かったです;ちりのしけんのてんはわるかったです;chiri no shiken no ten wa warukatta desu;My geography test score was bad;Ma note au test de géographie était mauvaise;FALSE
+5;7;準備ができています;じゅんびができています;junbi ga dekiteimasu;I am ready;Je suis prêt(e);FALSE
+5;7;一緒に授業を出席しました;いっしょにじゅぎょうをしゅっせきしました;issho ni jugyou wo shusseki shimashita;We attended the class together;Nous avons assisté au cours ensemble;FALSE
+5;7;部屋の空気を読んだ;へやのくうきをよんだ;heya no kuuki wo yonda;I read the atmosphere of the room;J'ai ressenti l'ambiance de la pièce;FALSE
+5;7;十分な準備が必要だ;じゅうぶんなじゅんびがひつようだ;juubunna junbi ga hitsuyou da;We need sufficient preparation;Nous avons besoin d'une préparation suffisante;FALSE
+5;7;合格おめでとう！;ごうかくおめでとう！;goukaku omedetou!;Congratulations on passing!;Félicitations pour votre réussite !;FALSE
+5;7;勉強しなかったら、試験に合格できない;べんきょうしなかったら、しけんにごうかくできない;benkyou shinakattara, shiken ni goukaku dekinai;If I do not study, I will not be able to pass the exam;Si je n'étudie pas, je ne pourrai pas réussir l'examen;FALSE
+5;7;日本語は独学です;にほんごはどくがくです;nihongo wa dokugaku desu;My Japanese is self-taught;Mon japonais est autodidacte;FALSE
+5;7;独学で日本語を勉強しています;どくがくでにほんごをべんきょうしています;dokugaku de nihongo wo benkyou shiteimasu;I have been learning Japanese through self-study;J'apprends le japonais en autodidacte;FALSE
+5;7;ゆっくり始めて。;ゆっくりはじめて。;yukkuri hajimete.;Start slowly.;Commence lentement.;FALSE
+5;7;試験に落ちた;しけんにおちた;shiken ni ochita;I failed the exam;J’ai échoué à l’examen;FALSE
+5;7;先生の説明は全然分かりませんでした;せんせいのせつめいはぜんぜんわかりませんでした;sensei no setsumei wa zenzen wakarimasen deshita;I did not understand the teacher’s explanation at all;Je n’ai pas du tout compris l’explication du professeur;FALSE
+5;7;彼女の説明は分かりやすかったです;かのじょのせつめいはわかりやすかったです;kanojo no setsumei wa wakariyasukatta desu;Her explanation was easy to understand;Son explication était facile à comprendre;FALSE
+5;7;地理の授業は八時に始まります;ちりのじゅぎょうははちじにはじまります;chiri no jugyou wa hachiji ni hajimarimasu;Geography class begins at eight o'clock;Le cours de géographie commence à huit heures;FALSE
+5;7;あの先生の講義は分かりにくいですね;あのせんせいのこうぎはわかりにくいですね;ano sensei no kougi wa wakarinikui desu ne;That teacher's lectures are difficult to understand, aren't they?;Les cours de ce professeur sont difficiles à comprendre, n'est-ce pas ?;FALSE
+5;7;宿題を月曜日に提出してください;しゅくだいをげつようびにていしゅつしてください;shukudai wo getsuyoubi ni teishutsu shite kudasai;Please submit the homework on Monday;Veuillez rendre les devoirs lundi;FALSE
 99;1;いびき;いびき;ibiki;Snoring;Ronflement;TRUE
 99;1;くしゃみ;くしゃみ;kushami;Sneeze;Éternuement;TRUE
 99;1;すする;すする;sosuruto;To slurp / sip;Aspirer / boire à petites gorgées;TRUE
