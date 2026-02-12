@@ -2421,7 +2421,7 @@
 5;7;直行便;ちょっこうびん;chokkoubin;Direct flight;Vol direct;TRUE
 5;7;経由便;けいゆびん;keiyubin;Connecting flight;Vol avec escale;TRUE
 5;7;都合;つごう;tsugou;Circumstances / Convenience;Disponibilité / Convenance;TRUE
-5;7;人生;じんせい;jinsei;Life;Vie;TRUE
+5;7;人生;じんせい;jinsei;Life journey;Parcours de vie;TRUE
 5;7;不安定;ふあんてい;fuantei;Unstable;Instable;TRUE
 5;7;全く;まったく;mattaku;Completely / Not at all;Complètement / Pas du tout;TRUE
 5;7;実験;じっけん;jikken;Experiment;Expérience;TRUE
@@ -2449,7 +2449,7 @@
 5;7;準備;じゅんび;junbi;Preparation;Préparation;TRUE
 5;7;医学;いがく;igaku;Medical science;Médecine;TRUE
 5;7;出席者;しゅっせきしゃ;shusseki-sha;Attendee;Participant;TRUE
-5;7;出席できません;しゅっせきできません;shusseki dekimasen;I cannot attend;Je ne peux pas assister;TRUE
+5;7;出席できません;しゅっせきできません;shusseki dekimasen;I cannot attend;Je ne peux pas assister;FALSE
 5;7;文学;ぶんがく;bungaku;Literature;Littérature;TRUE
 5;7;頑張ります;がんばります;ganbarimasu;I will do my best;Je vais faire de mon mieux;TRUE
 5;7;警察;けいさつ;keisatsu;Police;Police;TRUE
@@ -2493,6 +2493,69 @@
 5;7;地理の授業は八時に始まります;ちりのじゅぎょうははちじにはじまります;chiri no jugyou wa hachiji ni hajimarimasu;Geography class begins at eight o'clock;Le cours de géographie commence à huit heures;FALSE
 5;7;あの先生の講義は分かりにくいですね;あのせんせいのこうぎはわかりにくいですね;ano sensei no kougi wa wakarinikui desu ne;That teacher's lectures are difficult to understand, aren't they?;Les cours de ce professeur sont difficiles à comprendre, n'est-ce pas ?;FALSE
 5;7;宿題を月曜日に提出してください;しゅくだいをげつようびにていしゅつしてください;shukudai wo getsuyoubi ni teishutsu shite kudasai;Please submit the homework on Monday;Veuillez rendre les devoirs lundi;FALSE
+5;8;給料;きゅうりょう;kyuuryou;Salary;Salaire;TRUE
+5;8;会議;かいぎ;kaigi;Meeting;Réunion;TRUE
+5;8;植えます;うえます;uemasu;To plant;Planter;TRUE
+5;8;焼く;やく;yaku;To grill / bake;Griller / cuire;TRUE
+5;8;濃い;こい;koi;Strong / thick (flavor);Fort / épais;TRUE
+5;8;約;やく;yaku;Approximately / Promise;Environ / Promesse;TRUE
+5;8;お湯;おゆ;oyu;Hot water;Eau chaude;TRUE
+5;8;原因;げんいん;gen'in;Cause;Cause;TRUE
+5;8;突然;とつぜん;totsuzen;Suddenly;Soudainement;TRUE
+5;8;落ちる;おちる;ochiru;To fall;Tomber;TRUE
+5;8;非常;ひじょう;hijou;Emergency / unusual;Urgence / inhabituel;TRUE
+5;8;床;ゆか;yuka;Floor;Sol;TRUE
+5;8;上司;じょうし;joushi;Boss / Superior;Supérieur hiérarchique;TRUE
+5;8;通訳;つうやく;tsuuyaku;Interpretation / Translator;Interprétation / Traducteur;TRUE
+5;8;続けます;つづけます;tsuzukemasu;To continue;Continuer;TRUE
+5;8;事務所;じむしょ;jimusho;Office;Bureau;TRUE
+5;8;複雑;ふくざつ;fukuzatsu;Complicated;Compliqué;TRUE
+5;8;失礼;しつれい;shitsurei;Rudeness / Excuse me / Pardon;Impolitesse / Excusez-moi;TRUE
+5;8;残業;ざんぎょう;zangyou;Overtime (work);Heures supplémentaires;TRUE
+5;8;全然;ぜんぜん;zenzen;Not at all / Completely (with neg.);Pas du tout / Complètement (avec négation);TRUE
+5;8;成功;せいこう;seikou;Success;Succès;TRUE
+5;8;準備;じゅんび;junbi;To prepare;Préparer;TRUE
+5;8;値段;ねだん;nedan;Price;Prix;TRUE
+5;8;名刺;めいし;meishi;Business card;Carte de visite;TRUE
+5;8;そろそろ;そろそろ;sorosoro;Soon / It's about time;Bientôt / Il est temps;TRUE
+5;8;社長;しゃちょう;shachou;Company president / CEO;Président d'entreprise / PDG;TRUE
+5;8;彼は働かない。;かれははたらかない。;kare wa hatarakanai.;He does not work;Il ne travaille pas;FALSE
+5;8;給料が低すぎます。;きゅうりょうがひくすぎます。;kyuuryou ga hikusugimasu.;My salary is too low;Mon salaire est trop bas;FALSE
+5;8;給料が上がりました。;きゅうりょうがあがりました。;kyuuryou ga agarimashita.;My salary went up.;Mon salaire a augmenté.;FALSE
+5;8;これが私の名刺です。;これがわたしのめいしです。;kore ga watashi no meishi desu.;This is my business card;Voici ma carte de visite;FALSE
+5;8;今日は会議があります。;きょうはかいぎがあります。;kyou wa kaigi ga arimasu.;I have a meeting today;J’ai une réunion aujourd’hui;FALSE
+5;8;会議には何を用意すればいいですか;かいぎにはなにをよういすればいいですか;kaigi ni wa nani wo youi sureba ii desu ka;What should we prepare for the meeting?;Que devons-nous préparer pour la réunion ?;FALSE
+5;8;仕事に成功した。;しごとにせいこうした。;shigoto ni seikou shita.;I succeeded at work;J’ai réussi dans mon travail;FALSE
+5;8;全然成功しなかった。;ぜんぜんせいこうしなかった。;zenzen seikou shinakatta.;I did not succeed at all;Je n’ai pas réussi du tout;FALSE
+5;8;あの女性は社長です。;あのじょせいはしゃちょうです。;ano josei wa shachou desu.;That woman is the CEO;Cette femme est la PDG;FALSE
+5;8;まだ決めていません。;まだきめていません。;mada kimeteimasen.;I have not decided yet;Je n’ai pas encore décidé;FALSE
+5;8;会議の時間を決めましょう。;かいぎのじかんをきめましょう。;kaigi no jikan wo kimemashou.;Let's decide the time of the meeting;Décidons de l’heure de la réunion;FALSE
+5;8;質問は少し複雑です。;しつもんはすこしふくざつです。;shitsumon wa sukoshi fukuzatsu desu.;The question is a little complicated;La question est un peu compliquée;FALSE
+5;8;彼は宿題が複雑だと思います。;かれはしゅくだいがふくざつだとおもいます。;kare wa shukudai ga fukuzatsu da to omoimasu.;He thinks that the homework is complicated;Il pense que les devoirs sont compliqués;FALSE
+5;8;この本は複雑でよく分かりません。;このほんはふくざつでよくわかりません。;kono hon wa fukuzatsu de yoku wakarimasen.;This book is complicated, and I do not understand it well;Ce livre est compliqué et je ne le comprends pas bien;FALSE
+5;8;彼は頭を上げた。;かれはあたまをあげた。;kare wa atama wo ageta.;He raised his head;Il a levé la tête;FALSE
+5;8;上司は頭を下げた。;じょうしはあたまをさげた。;joushi wa atama wo sageta.;The boss bowed his head;Le patron a baissé la tête;FALSE
+5;8;顔を上げられなかった。;かおをあげられなかった。;kao wo agerarenakatta.;I could not lift my face.;Je ne pouvais pas lever le visage.;FALSE
+5;8;卵は売っていますか？;たまごはうっていますか？;tamago wa utteimasu ka?;Do you sell eggs?;Vendez-vous des œufs ?;FALSE
+5;8;ここには封筒は売っていますか？;ここにはふうとうはうっていますか？;koko ni wa fuutou wa utteimasu ka?;Do you sell envelopes here?;Vendez-vous des enveloppes ici ?;FALSE
+5;8;手を下げてください;てをさげてください;te wo sagete kudasai;Please lower your hands.;Veuillez baisser les mains.;FALSE
+5;8;友達に通訳をしてもらった。;ともだちにつうやくをしてもらった。;tomodachi ni tsuuyaku wo shite moratta.;I had my friend interpret for me.;J'ai demandé à mon ami de traduire pour moi.;FALSE
+5;8;また残業なの？;またざんぎょうなの？;mata zangyou nano?;Are you working overtime again?;Tu fais encore des heures supplémentaires ?;FALSE
+5;8;値段が上がりました。;ねだんがあがりました。;nedan ga agarimashita.;The price went up.;Le prix a augmenté.;FALSE
+5;8;値段が下がりました。;ねだんがさがりました。;nedan ga sagarimashita.;The price went down.;Le prix a baissé.;FALSE
+5;8;野菜の値段が下がった。;やさいのねだんがさがった。;yasai no nedan ga sagatta.;The price of vegetables has fallen.;Le prix des légumes a baissé.;FALSE
+5;8;私たちは実験を続けた。;わたしたちはじっけんをつづけた。;watashitachi wa jikken wo tsuzuketa.;We continued the experiment.;Nous avons continué l’expérience.;FALSE
+5;8;床に倒れて足にケガをした;ゆかにたおれてあしにけがをした;yuka ni taorete ashi ni kega wo shita;I collapsed onto the floor and hurt my foot;Je suis tombé au sol et me suis blessé au pied;FALSE
+5;8;この説明、わかりやすくていい;このせつめい、わかりやすくていい;kono setsumei, wakari yasukute ii;This explanation is nice and easy to understand;Cette explication est claire et agréable;FALSE
+5;8;彼は土地をすべて所有している;かれはとちをすべてしょゆうしている;kare wa tochi wo subete shoyuu shiteiru;He owns all the land;Il possède toutes les terres;FALSE
+5;8;僕は君を探し始めた;ぼくはきみをさがしはじめた;boku wa kimi wo sagashi hajimeta;I started looking for you;J’ai commencé à te chercher;FALSE
+5;8;もう一度説明していただけませんか？;もういちどせつめいしていただけませんか？;mou ichido setsumei shite itadakemasen ka?;Can you explain that again?;Pouvez-vous expliquer cela à nouveau ?;FALSE
+5;8;そろそろ帰ります。;そろそろかえります。;sorosoro kaerimasu.;I am going home soon.;Je vais bientôt rentrer à la maison.;FALSE
+5;8;失礼していいですか？;しつれいしていいですか？;shitsurei shite ii desu ka?;May I be excused?;Puis-je me retirer ?;FALSE
+5;8;そろそろ失礼します。;そろそろしつれいします。;sorosoro shitsurei shimasu.;I will be leaving soon.;Je vais bientôt me retirer.;FALSE
+5;8;お先に失礼します;おさきにしつれいします;osaki ni shitsurei shimasu;Pardon me for leaving before you.;Excusez-moi de partir avant vous.;FALSE
+5;8;お口に合いますか？;おくちにあいますか？;okuchi ni aimasu ka?;Does it suit your taste?;Cela vous plaît-il ? / Est-ce à votre goût ?;FALSE
+5;8;先に行きたい？;さきにいきたい？;saki ni ikitai?;Do you want to go first?;Tu veux y aller en premier ?;FALSE
 99;1;いびき;いびき;ibiki;Snoring;Ronflement;TRUE
 99;1;くしゃみ;くしゃみ;kushami;Sneeze;Éternuement;TRUE
 99;1;すする;すする;sosuruto;To slurp / sip;Aspirer / boire à petites gorgées;TRUE
