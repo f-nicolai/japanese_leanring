@@ -2556,6 +2556,85 @@
 5;8;お先に失礼します;おさきにしつれいします;osaki ni shitsurei shimasu;Pardon me for leaving before you.;Excusez-moi de partir avant vous.;FALSE
 5;8;お口に合いますか？;おくちにあいますか？;okuchi ni aimasu ka?;Does it suit your taste?;Cela vous plaît-il ? / Est-ce à votre goût ?;FALSE
 5;8;先に行きたい？;さきにいきたい？;saki ni ikitai?;Do you want to go first?;Tu veux y aller en premier ?;FALSE
+5;9;等しく;ひとしく;hitoshiku;Equally;Également;TRUE
+5;9;少数派;しょうすうは;shousuuha;Minority;Minorité;TRUE
+5;9;相当（に）;そうとう（に）;soutou (ni);Considerably;Considérablement;TRUE
+5;9;痩せる;やせる;yaseru;To be / become thin;Maigrir;TRUE
+5;9;多数;たすう;tasuu;Majority;Majorité;TRUE
+5;9;増す;ます;masu;To increase;Augmenter;TRUE
+5;9;住民;じゅうみん;juumin;Resident;Habitant;TRUE
+5;9;しか;しか;shika;Only (nothing but);Seulement / Ne... que;TRUE
+5;9;だけ;だけ;dake;Only / just;Seulement / Juste;TRUE
+5;9;馬;うま;uma;Horse;Cheval;TRUE
+5;9;引く;ひく;hiku;To subtract;Soustraire;TRUE
+5;9;箱;はこ;hako;Box;Boîte;TRUE
+5;9;足す;たす;tasu;To add;Additionner;TRUE
+5;9;数秒後;すうびょうご;suubyou go;A few seconds later;Quelques secondes plus tard;TRUE
+5;9;数秒;すうびょう;suubyou;A few seconds;Quelques secondes;TRUE
+5;9;掛ける;かける;kakeru;To multiply;Multiplier;TRUE
+5;9;割る;わる;waru;To divide;Diviser;TRUE
+5;9;少なくとも;すくなくとも;sukunakutomo;At least;Au moins;TRUE
+5;9;計算;けいさん;keisan;Calculation;Calcul;TRUE
+5;9;電卓;でんたく;dentaku;Calculator;Calculatrice;TRUE
+5;9;合計;ごうけい;goukei;Sum / total;Somme / Total;TRUE
+5;9;割合;わりあい;wariai;Relatively / proportion;Relativement / Proportion;TRUE
+5;9;秒;びょう;byou;Second (time);Seconde;TRUE
+5;9;割ります;わります;warimasu;To divide;Diviser;TRUE
+5;9;掛けます;かけます;kakemasu;To multiply;Multiplier;TRUE
+5;9;順番;じゅんばん;junban;Order;Ordre;TRUE
+5;9;等しい;ひとしい;hitoshii;Equal;Égal;TRUE
+5;9;占めます;しめます;shimemasu;To occupy / to account for;Occuper / Représenter;TRUE
+5;9;平均;へいきん;heikin;Average;Moyenne;TRUE
+5;9;貸す;かす;kasu;To lend;Prêter;TRUE
+5;9;交番;こうばん;koubān;Police box;Kōban (poste de police);TRUE
+5;9;四回;よんかい;yonkai;Four times;Quatre fois;TRUE
+5;9;鍋;なべ;nabe;Pot;Casserole;TRUE
+5;9;数学;すうがく;suugaku;Mathematics;Mathématiques;TRUE
+5;9;女性は多数を占めた。;じょせいはたすうをしめた。;josei wa tasuu wo shimeta.;Women constituted a majority.;Les femmes constituaient la majorité.;FALSE
+5;9;今日は相当に暑い。;きょうはそうとうにあつい。;kyou wa soutou ni atsui.;It is rather hot today.;Il fait plutôt chaud aujourd’hui.;FALSE
+5;9;彼は少数派です。;かれはしょうすうはです。;kare wa shousuuha desu.;He is in the minority.;Il est dans la minorité.;FALSE
+5;9;私たちはお金を等しく分けました。;わたしたちはおかねをひとしくわけました。;watashitachi wa okane wo hitoshiku wakemashita.;We divided the money equally.;Nous avons divisé l’argent également.;FALSE
+5;9;母の病気は割合軽いようだ。;ははのびょうきはわりあいかるいようだ。;haha no byouki wa wariai karui you da.;My mother’s illness seems relatively mild.;La maladie de ma mère semble relativement légère.;FALSE
+5;9;六と四の合計は十だ。;ろくとよんのごうけいはじゅうだ。;roku to yon no goukei wa juu da.;The sum of six and four is ten.;La somme de six et quatre est dix.;FALSE
+5;9;計算が合う。;けいさんがあう。;keisan ga au.;The calculations match.;Les calculs correspondent.;FALSE
+5;9;高い電卓を買った。;たかいでんたくをかった。;takai dentaku wo katta.;I bought an expensive calculator.;J’ai acheté une calculatrice chère.;FALSE
+5;9;順番を待ってください。;じゅんばんをまってください。;junban wo matte kudasai.;Please wait your turn.;Veuillez attendre votre tour.;FALSE
+5;9;四割る二は二です。;よんわるにはにです。;yon waru ni wa ni desu.;Four divided by two is two.;Quatre divisé par deux fait deux.;FALSE
+5;9;三足す三は六です。;さんたすさんはろくです。;san tasu san wa roku desu.;Three plus three is six.;Trois plus trois font six.;FALSE
+5;9;百円だけあげます。;ひゃくえんだけあげます。;hyaku en dake agemasu.;I will only give a hundred yen.;Je ne donnerai que cent yens.;FALSE
+5;9;私は野菜しか食べません。;わたしはやさいしかたべません。;watashi wa yasai shika tabemasen.;I only eat vegetables.;Je ne mange que des légumes.;FALSE
+5;9;今日は何の映画を見るか決めたの？;きょうはなんのえいがをみるかきめたの？;kyou wa nan no eiga wo miru ka kimeta no?;Have you decided what movie to see today?;As-tu décidé quel film voir aujourd’hui ?;FALSE
+5;9;この仕事は君に合っている。;このしごとはきみにあっている。;kono shigoto wa kimi ni atte iru.;This job suits you.;Ce travail te convient.;FALSE
+5;9;車で空港に行く途中で拾ってあげるよ。;くるまでくうこうにいくとちゅうでひろってあげるよ。;kuruma de kuukou ni iku tochuu de hirotte ageru yo.;I will pick you up by car on the way to the airport.;Je te prendrai en voiture en allant à l’aéroport.;FALSE
+5;9;飛べるらしい。;とべるらしい。;toberu rashii.;It can fly, apparently.;Apparemment, il peut voler.;FALSE
+5;9;家の中はいつもより暖かそうだった。;いえのなかはいつもよりあたたかそうだった。;ie no naka wa itsumo yori atatakasō datta.;It seemed warmer than usual inside the house.;Il semblait faire plus chaud que d’habitude dans la maison.;FALSE
+5;9;エリカさんは大阪のようなまちへ行きたいと言いました。;えりかさんはおおさかのようなまちへいきたいといいました。;Erika-san wa Oosaka no you na machi e ikitai to iimashita.;Erika said that she wants to go to a town like Osaka.;Erika a dit qu’elle veut aller dans une ville comme Osaka.;FALSE
+5;9;皆で決めたことだ。;みんなできめたことだ。;minna de kimeta koto da.;It is something everyone decided.;C’est quelque chose que tout le monde a décidé.;FALSE
+5;9;彼らは私たちより先に食べました。;かれらはわたしたちよりさきにたべました。;karera wa watashitachi yori saki ni tabemashita.;They ate before us.;Ils ont mangé avant nous.;FALSE
+5;9;まだコーヒーを飲んでないから頭が働いてないよ。;まだこーひーをのんでないからあたまがはたらいてないよ。;mada koohii wo nonde nai kara atama ga hataraite nai yo.;I haven’t had any coffee yet, so my head isn’t working.;Je n’ai pas encore bu de café, donc ma tête ne fonctionne pas.;FALSE
+5;9;数が増した。;かずがました。;kazu ga mashita.;The number has increased.;Le nombre a augmenté.;FALSE
+5;9;この都市では住民の数が増している。;このとしではじゅうみんのかずがましている。;kono toshi de wa juumin no kazu ga mashite iru.;The number of residents in this city is increasing.;Le nombre d’habitants dans cette ville est en augmentation.;FALSE
+5;9;新聞を一日に一回読みます。;しんぶんをいちにちにいっかいよみます。;shinbun wo ichinichi ni ikkai yomimasu.;I read the newspaper once per day.;Je lis le journal une fois par jour.;FALSE
+5;9;この島へ来るのに飛行機を二回乗り換えた。;このしまへくるのにひこうきをにかいのりかえた。;kono shima e kuru no ni hikouki wo nikai norikaeta.;I transferred planes twice to come to this island.;J’ai changé d’avion deux fois pour venir sur cette île.;FALSE
+5;9;彼女は新しい家を買えるだけのお金が十分ある。;かのじょはあたらしいいえをかえるだけのおかねがじゅうぶんある。;kanojo wa atarashii ie wo kaeru dake no okane ga juubun aru.;She has enough money to buy a new house.;Elle a suffisamment d’argent pour acheter une nouvelle maison.;FALSE
+5;9;私の町では住民の数が増している。;わたしのまちではじゅうみんのかずがましている。;watashi no machi de wa juumin no kazu ga mashite iru.;The number of residents in my town is increasing.;Le nombre d’habitants dans ma ville est en augmentation.;FALSE
+5;9;馬の数を数えた。;うまのかずをかぞえた。;uma no kazu wo kazoeta.;I counted the number of horses.;J’ai compté le nombre de chevaux.;FALSE
+5;9;八から五を引いた。;はちからごをひいた。;hachi kara go wo hiita.;I subtracted five from eight.;J’ai soustrait cinq de huit.;FALSE
+5;9;箱の中のりんごの数を数えてください。;はこのなかのりんごのかずをかぞえてください。;hako no naka no ringo no kazu wo kazoete kudasai.;Please count the number of apples in the box.;Veuillez compter le nombre de pommes dans la boîte.;FALSE
+5;9;数秒後に雨が降り出した。;すうびょうごにあめがふりだした。;suubyou go ni ame ga furidashita.;A few seconds later, it began to rain.;Quelques secondes plus tard, il a commencé à pleuvoir.;FALSE
+5;9;八引く一は七です。;はちひくいちはななです。;hachi hiku ichi wa nana desu.;Eight minus one is seven.;Huit moins un font sept.;FALSE
+5;9;彼女は数百年前に亡くなりました。;かのじょはすうひゃくねんまえになくなりました。;kanojo wa suuhyaku nen mae ni nakunarimashita.;She passed away several hundred years ago.;Elle est décédée il y a plusieurs centaines d’années.;FALSE
+5;9;それはほんの数秒しかかかりません。;それはほんのすうびょうしかかかりません。;sore wa honno suubyou shika kakarimasen.;It will only take a few seconds.;Cela ne prendra que quelques secondes.;FALSE
+5;9;彼はまだほんの子供だよ。;かれはまだほんのこどもだよ。;kare wa mada honno kodomo da yo.;He is still just a child.;Il n’est encore qu’un enfant.;FALSE
+5;9;彼は百メートルを十秒で走りました。;かれはひゃくめーとるをじゅうびょうではしりました。;kare wa hyaku meetoru wo juu byou de hashirimashita.;He ran a hundred meters in ten seconds.;Il a couru cent mètres en dix secondes.;FALSE
+5;9;二十四割る四は六です。;にじゅうよんわるよんはろくです。;nijuu yon waru yon wa roku desu.;Twenty-four divided by four is six.;Vingt-quatre divisé par quatre font six.;FALSE
+5;9;彼らは土地を三つに分けた。;かれらはとちをみっつにわけた。;karera wa tochi wo mittsu ni waketa.;They divided the land into three.;Ils ont divisé le terrain en trois.;FALSE
+5;9;割合うまく行った。;わりあいうまくいった。;wariai umaku itta.;It went relatively well.;Cela s’est relativement bien passé.;FALSE
+5;9;彼は去年より相当痩せている。;かれはきょねんよりそうとうやせている。;kare wa kyonen yori soutou yasete iru.;He is considerably thinner than last year.;Il est considérablement plus mince que l’année dernière.;FALSE
+5;9;このクラスの平均点は何点ですか。;このくらすのへいきんてんはなんてんですか。;kono kurasu no heikinten wa nan ten desu ka.;What is the average grade in this class?;Quelle est la note moyenne dans cette classe ?;FALSE
+5;9;十二の五十パーセントは六です。;じゅうにのごじゅっぱーせんとはろくです。;juuni no gojuppaasento wa roku desu.;Fifty percent of twelve is six.;Cinquante pour cent de douze font six.;FALSE
+5;9;英語のテストの平均点は八十二点だった。;えいごのてすとのへいきんてんははちじゅうにてんだった。;eigo no tesuto no heikinten wa hachijuuni ten datta.;The average score on the English test was eighty-two points.;La note moyenne au test d’anglais était de quatre-vingt-deux points.;FALSE
+5;9;四と六の平均は五です。;よんとろくのへいきんはごです。;yon to roku no heikin wa go desu.;The average of four and six is five.;La moyenne de quatre et six est cinq.;FALSE
 99;1;いびき;いびき;ibiki;Snoring;Ronflement;TRUE
 99;1;くしゃみ;くしゃみ;kushami;Sneeze;Éternuement;TRUE
 99;1;すする;すする;sosuruto;To slurp / sip;Aspirer / boire à petites gorgées;TRUE
